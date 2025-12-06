@@ -109,5 +109,12 @@
 
   "differenceNew.title": "What Sets Aivontrixen Apart?",
   "differenceNew.text": "Joining our trading ecosystem delivers a wealth of advantages. Gain fresh perspectives, practical guidance, and an environment committed to fueling your progress. Connect with veteran traders, expand your capabilities, and elevate your trading journey.",
-  "differenceNew.cta": "Come Aboard"
+  "differenceNew.cta": "Come Aboard",
+
+  "contact.heading": "Contact Us",
+    "contact.input.name": "Your Name",
+    "contact.input.email": "Your Email",
+    "contact.input.message": "Your Message",
+    "contact.button": "Send Message",
+    "contact.success": "Your message has been sent successfully!"
 }

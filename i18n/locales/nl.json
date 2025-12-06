@@ -108,5 +108,12 @@
 
   "differenceNew.title": "Wat Maakt Aivontrixen Anders?",
   "differenceNew.text": "Deelname aan ons handels ecosysteem biedt een schat aan voordelen. Krijg nieuwe perspectieven, praktische begeleiding en een omgeving die gericht is op uw vooruitgang. Verbind met ervaren handelaren, breid uw vaardigheden uit en til uw handelsreis naar een hoger niveau.",
-  "differenceNew.cta": "Doe Mee"
+  "differenceNew.cta": "Doe Mee",
+
+   "contact.heading": "Neem contact met ons op",
+    "contact.input.name": "Uw naam",
+    "contact.input.email": "Uw email",
+    "contact.input.message": "Uw bericht",
+    "contact.button": "Bericht verzenden",
+    "contact.success": "Uw bericht is succesvol verzonden!"
 }

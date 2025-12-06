@@ -1,16 +1,26 @@
 <template>
     <div id="content" class="site-main">
         <div class="contact-container">
-            <h2>Contact Us</h2>
+            <h2>{{ t('contact.heading') }}</h2>
+
             <form @submit.prevent="submitForm" id="contact-form">
-                <input v-model="formData.name" type="text" name="name" placeholder="Your Name" required>
-                <input v-model="formData.email" type="email" name="email" placeholder="Your Email" required>
-                <textarea v-model="formData.message" name="message" placeholder="Your Message" required></textarea>
-                <button type="submit">Send Message</button>
+
+                <input v-model="formData.name" type="text" name="name" :placeholder="t('contact.input.name')" required>
+
+                <input v-model="formData.email" type="email" name="email" :placeholder="t('contact.input.email')"
+                    required>
+
+                <textarea v-model="formData.message" name="message" :placeholder="t('contact.input.message')"
+                    required></textarea>
+
+                <button type="submit">
+                    {{ t('contact.button') }}
+                </button>
+
             </form>
 
             <div class="success-banner" v-if="showSuccess">
-                ✅ Your message has been sent successfully!
+                ✅ {{ t('contact.success') }}
             </div>
         </div>
     </div>
@@ -18,7 +28,7 @@
 
 <script setup>
 import { reactive, ref } from 'vue';
-
+const { t } = useI18n()
 const formData = reactive({
     name: '',
     email: '',

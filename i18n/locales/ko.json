@@ -108,5 +108,12 @@
 
   "differenceNew.title": "Aivontrixen의 차별점은 무엇인가요?",
   "differenceNew.text": "우리의 트레이딩 생태계에 합류하면 수많은 이점을 누릴 수 있습니다. 새로운 관점과 실용적인 가이드, 그리고 당신의 성장을 돕는 환경을 제공합니다. 베테랑 트레이더와 연결하고 역량을 확장하며 트레이딩 여정을 업그레이드하세요.",
-  "differenceNew.cta": "지금 참여하기"
+  "differenceNew.cta": "지금 참여하기",
+
+   "contact.heading": "문의하기",
+    "contact.input.name": "이름",
+    "contact.input.email": "이메일",
+    "contact.input.message": "메시지",
+    "contact.button": "메시지 보내기",
+    "contact.success": "메시지가 성공적으로 전송되었습니다!"
 }

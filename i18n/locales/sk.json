@@ -108,5 +108,11 @@
 
   "differenceNew.title": "Čo odlišuje Aivontrixen?",
   "differenceNew.text": "Pripojenie sa k nášmu obchodnému ekosystému prináša množstvo výhod. Získajte nové pohľady, praktické rady a prostredie, ktoré podporuje váš rast. Spojte sa s veteránmi obchodníkmi, rozšírte svoje schopnosti a pozdvihnite svoju obchodnú cestu.",
-  "differenceNew.cta": "Pridajte sa teraz"
+  "differenceNew.cta": "Pridajte sa teraz",
+   "contact.heading": "Kontaktujte nás",
+    "contact.input.name": "Vaše meno",
+    "contact.input.email": "Váš email",
+    "contact.input.message": "Vaša správa",
+    "contact.button": "Odoslať správu",
+    "contact.success": "Vaša správa bola úspešne odoslaná!"
 }

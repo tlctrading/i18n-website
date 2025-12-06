@@ -108,5 +108,14 @@
 
   "differenceNew.title": "Ano ang Nagpapatingkad sa Aivontrixen?",
   "differenceNew.text": "Ang pagsali sa aming trading ecosystem ay nagdadala ng maraming benepisyo. Magkaroon ng bagong pananaw, praktikal na gabay, at isang kapaligirang nakatuon sa iyong pag-unlad. Kumonekta sa mga bihasang trader, palawakin ang iyong kakayahan, at paangatin ang iyong trading journey.",
-  "differenceNew.cta": "Sumali Na"
+  "differenceNew.cta": "Sumali Na",
+
+   "contact.heading": "Makipag-ugnayan sa Amin",
+  "contact.input.name": "Iyong Pangalan",
+  "contact.input.email": "Iyong Email",
+  "contact.input.message": "Iyong Mensahe",
+  "contact.button": "Ipadala ang Mensahe",
+  "contact.success": "Matagumpay na naipadala ang iyong mensahe!"
+
+  
 }

@@ -108,5 +108,12 @@
 
   "differenceNew.title": "Aivontrixen が選ばれる理由",
   "differenceNew.text": "私たちのトレーディングエコシステムに参加することで、多くの利点が得られます。新しい視点、実践的なアドバイス、そしてあなたの成長を後押しする環境が整っています。経験豊富なトレーダーとつながり、スキルを高め、トレーディングの旅をレベルアップしましょう。",
-  "differenceNew.cta": "今すぐ参加"
+  "differenceNew.cta": "今すぐ参加",
+
+   "contact.heading": "お問い合わせ",
+    "contact.input.name": "お名前",
+    "contact.input.email": "メールアドレス",
+    "contact.input.message": "メッセージ",
+    "contact.button": "メッセージを送信",
+    "contact.success": "メッセージが正常に送信されました！"
 }

@@ -108,5 +108,12 @@
 
   "differenceNew.title": "Çfarë e Diferencon Aivontrixen?",
   "differenceNew.text": "Bashkimi me ekosistemin tonë tregtar sjell një sërë përparësish. Merrni perspektiva të reja, udhëzime praktike dhe një mjedis i përkushtuar për të nxitur progresin tuaj. Lidheni me tregtarë veteranë, zgjeroni aftësitë tuaja dhe ngritni udhëtimin tuaj tregtar.",
-  "differenceNew.cta": "Bashkohuni"
+  "differenceNew.cta": "Bashkohuni",
+
+  "contact.heading": "Na kontaktoni",
+    "contact.input.name": "Emri juaj",
+    "contact.input.email": "Emaili juaj",
+    "contact.input.message": "Mesazhi juaj",
+    "contact.button": "Dërgo Mesazh",
+    "contact.success": "Mesazhi juaj u dërgua me sukses!"
 }

@@ -108,5 +108,12 @@
 
   "differenceNew.title": "Apa Yang Membezakan Aivontrixen?",
   "differenceNew.text": "Menyertai ekosistem perdagangan kami memberikan pelbagai kelebihan. Dapatkan perspektif baru, panduan praktikal, dan persekitaran yang komited untuk memacu kemajuan anda. Berhubung dengan pedagang veteran, kembangkan keupayaan anda, dan tingkatkan perjalanan perdagangan anda.",
-  "differenceNew.cta": "Sertai Sekarang"
+  "differenceNew.cta": "Sertai Sekarang",
+
+   "contact.heading": "Hubungi Kami",
+    "contact.input.name": "Nama Anda",
+    "contact.input.email": "Emel Anda",
+    "contact.input.message": "Mesej Anda",
+    "contact.button": "Hantar Mesej",
+    "contact.success": "Mesej anda berjaya dihantar!"
 }

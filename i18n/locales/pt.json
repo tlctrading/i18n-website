@@ -108,5 +108,12 @@
 
   "differenceNew.title": "O Que Diferencia a Aivontrixen?",
   "differenceNew.text": "Participar do nosso ecossistema de trading oferece uma abundância de vantagens. Obtenha novas perspectivas, orientação prática e um ambiente comprometido com seu progresso. Conecte-se com traders veteranos, expanda suas habilidades e eleve sua jornada de trading.",
-  "differenceNew.cta": "Junte-se Agora"
+  "differenceNew.cta": "Junte-se Agora",
+
+  "contact.heading": "Fale Conosco",
+    "contact.input.name": "Seu nome",
+    "contact.input.email": "Seu email",
+    "contact.input.message": "Sua mensagem",
+    "contact.button": "Enviar mensagem",
+    "contact.success": "Sua mensagem foi enviada com sucesso!"
 }

@@ -108,5 +108,12 @@
 
   "differenceNew.title": "Ce Face Aivontrixen Diferită?",
   "differenceNew.text": "Alăturarea ecosistemului nostru de tranzacționare aduce o mulțime de avantaje. Obține perspective noi, îndrumare practică și un mediu dedicat progresului tău. Conectează-te cu traderi veterani, extinde-ți abilitățile și du-ți călătoria de tranzacționare la nivelul următor.",
-  "differenceNew.cta": "Alătură-te Acum"
+  "differenceNew.cta": "Alătură-te Acum",
+
+   "contact.heading": "Contactați-ne",
+    "contact.input.name": "Numele dvs.",
+    "contact.input.email": "Emailul dvs.",
+    "contact.input.message": "Mesajul dvs.",
+    "contact.button": "Trimite mesaj",
+    "contact.success": "Mesajul dvs. a fost trimis cu succes!"
 }

@@ -108,6 +108,13 @@
 
   "differenceNew.title": "Hvad adskiller Aivontrixen?",
   "differenceNew.text": "At blive en del af vores handelsøkosystem giver en række fordele. Få nye perspektiver, praktisk vejledning og et miljø, der er engageret i at fremme din udvikling. Forbind med erfarne handlende, udvid dine færdigheder og løft din handelsrejse.",
-  "differenceNew.cta": "Kom ombord"
+  "differenceNew.cta": "Kom ombord",
+
+   "contact.heading": "Kontakt os",
+    "contact.input.name": "Dit navn",
+    "contact.input.email": "Din email",
+    "contact.input.message": "Din besked",
+    "contact.button": "Send besked",
+    "contact.success": "Din besked er sendt!"
 
 }

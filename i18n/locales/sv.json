@@ -108,5 +108,12 @@
 
   "differenceNew.title": "Vad skiljer Aivontrixen åt?",
   "differenceNew.text": "Att gå med i vårt handelsekosystem ger många fördelar. Få nya perspektiv, praktisk vägledning och en miljö som är engagerad i att främja din utveckling. Anslut dig till erfarna handlare, utöka dina förmågor och lyft din handelsresa.",
-  "differenceNew.cta": "Gå ombord"
+  "differenceNew.cta": "Gå ombord",
+
+    "contact.heading": "Kontakta oss",
+    "contact.input.name": "Ditt namn",
+    "contact.input.email": "Din e-post",
+    "contact.input.message": "Ditt meddelande",
+    "contact.button": "Skicka meddelande",
+    "contact.success": "Ditt meddelande har skickats!"
 }

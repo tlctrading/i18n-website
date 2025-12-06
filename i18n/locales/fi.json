@@ -108,5 +108,12 @@
 
   "differenceNew.title": "Mikä erottaa Aivontrixenin muista?",
   "differenceNew.text": "Liittyminen kaupankäyntiekosysteemiimme tarjoaa runsaasti etuja. Saat uusia näkökulmia, käytännön ohjausta ja ympäristön, joka on sitoutunut edistämään menestystäsi. Yhdistä kokeneisiin kauppiaisiin, laajenna kykyjäsi ja nosta kaupankäyntimatkasi uudelle tasolle.",
-  "differenceNew.cta": "Liity mukaan"
+  "differenceNew.cta": "Liity mukaan",
+
+   "contact.heading": "Ota meihin yhteyttä",
+    "contact.input.name": "Nimesi",
+    "contact.input.email": "Sähköpostisi",
+    "contact.input.message": "Viestisi",
+    "contact.button": "Lähetä viesti",
+    "contact.success": "Viestisi on lähetetty onnistuneesti!"
 }

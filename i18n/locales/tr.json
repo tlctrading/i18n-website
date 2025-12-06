@@ -108,5 +108,12 @@
 
   "differenceNew.title": "Aivontrixen'i Farklı Kılan Nedir?",
   "differenceNew.text": "Ticaret ekosistemimize katılmak birçok avantaj sunar. Yeni bakış açıları kazanın, pratik rehberlik alın ve ilerlemenizi destekleyen bir ortamda olun. Deneyimli trader'larla bağlantı kurun, yeteneklerinizi genişletin ve ticaret yolculuğunuzu yükseltin.",
-  "differenceNew.cta": "Katılın"
+  "differenceNew.cta": "Katılın",
+
+     "contact.heading": "Bizimle iletişime geçin",
+    "contact.input.name": "Adınız",
+    "contact.input.email": "E-postanız",
+    "contact.input.message": "Mesajınız",
+    "contact.button": "Mesaj Gönder",
+    "contact.success": "Mesajınız başarıyla gönderildi!"
 }

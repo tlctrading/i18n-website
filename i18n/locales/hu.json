@@ -107,5 +107,12 @@
     "assetsNew.closing": "Kereskedési platformunk összefüggő, intuitív élményt nyújt minden eszközosztályban. Felhasználó-központú tervezésével, erőteljes funkcióival és széles eszköztárával a portfólió testreszabása és kezelése egyszerűvé válik. Fedezze fel a különböző piacokat, és maximalizálja kereskedési előnyét még ma.",
     "differenceNew.title": "Mi teszi különlegessé az Aivontrixent?",
     "differenceNew.text": "Csatlakozás a kereskedési ökoszisztémánkhoz számos előnyt kínál. Szerezzen új perspektívákat, gyakorlati útmutatást, és élvezze az előrehaladást támogató környezetet. Kapcsolódjon tapasztalt kereskedőkhöz, bővítse képességeit és emelje magasabb szintre kereskedési útját.",
-    "differenceNew.cta": "Csatlakozzon"
+    "differenceNew.cta": "Csatlakozzon",
+
+      "contact.heading": "Lépjen kapcsolatba velünk",
+    "contact.input.name": "Az Ön neve",
+    "contact.input.email": "Az Ön emailje",
+    "contact.input.message": "Az Ön üzenete",
+    "contact.button": "Üzenet küldése",
+    "contact.success": "Üzenete sikeresen elküldve!"
 }

@@ -108,5 +108,12 @@
 
   "differenceNew.title": "¿Qué Hace que Aivontrixen Sea Diferente?",
   "differenceNew.text": "Unirse a nuestro ecosistema de trading ofrece numerosas ventajas. Obtenga nuevas perspectivas, orientación práctica y un entorno comprometido en impulsar su progreso. Conéctese con traders veteranos, expanda sus capacidades y eleve su viaje de trading.",
-  "differenceNew.cta": "Únase Ahora"
+  "differenceNew.cta": "Únase Ahora",
+
+   "contact.heading": "Contáctanos",
+    "contact.input.name": "Tu nombre",
+    "contact.input.email": "Tu correo electrónico",
+    "contact.input.message": "Tu mensaje",
+    "contact.button": "Enviar mensaje",
+    "contact.success": "¡Tu mensaje ha sido enviado con éxito!"
 }

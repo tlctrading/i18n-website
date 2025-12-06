@@ -108,5 +108,12 @@
 
   "differenceNew.title": "Điều gì tạo nên sự khác biệt của Aivontrixen?",
   "differenceNew.text": "Tham gia vào hệ sinh thái giao dịch của chúng tôi mang lại nhiều lợi ích. Nhận các góc nhìn mới, hướng dẫn thực tế và một môi trường cam kết thúc đẩy sự tiến bộ của bạn. Kết nối với các nhà giao dịch kỳ cựu, mở rộng năng lực của bạn và nâng cao hành trình giao dịch.",
-  "differenceNew.cta": "Tham gia ngay"
+  "differenceNew.cta": "Tham gia ngay",
+
+    "contact.heading": "Liên hệ với chúng tôi",
+    "contact.input.name": "Tên của bạn",
+    "contact.input.email": "Email của bạn",
+    "contact.input.message": "Tin nhắn của bạn",
+    "contact.button": "Gửi tin nhắn",
+    "contact.success": "Tin nhắn của bạn đã được gửi thành công!"
 }

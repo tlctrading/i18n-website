@@ -108,5 +108,12 @@
 
   "differenceNew.title": "Cosa Rende Unico Aivontrixen?",
   "differenceNew.text": "Entrare nel nostro ecosistema di trading offre numerosi vantaggi. Ottieni nuove prospettive, guida pratica e un ambiente impegnato a sostenere i tuoi progressi. Connettiti con trader esperti, espandi le tue capacità e migliora il tuo percorso nel trading.",
-  "differenceNew.cta": "Unisciti a Noi"
+  "differenceNew.cta": "Unisciti a Noi",
+
+   "contact.heading": "Contattaci",
+    "contact.input.name": "Il tuo nome",
+    "contact.input.email": "La tua email",
+    "contact.input.message": "Il tuo messaggio",
+    "contact.button": "Invia messaggio",
+    "contact.success": "Il tuo messaggio è stato inviato con successo!"
 }

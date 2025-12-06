@@ -108,5 +108,12 @@
 
   "differenceNew.title": "X’jagħmel lil Aivontrixen Speċjali?",
   "differenceNew.text": "Li tingħaqad mal-ecosistema tagħna ta’ kummerċ jipprovdi firxa wiesgħa ta’ vantaġġi. Ikseb perspettivi friski, gwida prattika, u ambjent impenjat li jħeġġeġ il-progress tiegħek. Ikkonnettja ma’ kummerċjanti veterani, espandi l-ħiliet tiegħek, u elevaw il-vjaġġ tal-kummerċ tiegħek.",
-  "differenceNew.cta": "Ġib Ruħek Inkluża"
+  "differenceNew.cta": "Ġib Ruħek Inkluża",
+
+  "contact.heading": "Ikkuntattjana",
+    "contact.input.name": "Isem tiegħek",
+    "contact.input.email": "Email tiegħek",
+    "contact.input.message": "Messaġġ tiegħek",
+    "contact.button": "Ibgħat Messaġġ",
+    "contact.success": "Il-messaġġ tiegħek intbagħat b'suċċess!"
 }

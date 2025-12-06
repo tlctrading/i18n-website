@@ -108,5 +108,12 @@
 
   "differenceNew.title": "Cad a Dhéanann Aivontrixen Difriúil?",
   "differenceNew.text": "Soláthraíonn páirt a ghlacadh inár n-ecosystem trádála líon mór buntáistí. Faigh tuairimí nua, treoir phraiticiúil agus timpeallacht tiomanta do do dhul chun cinn. Ceangail le trádálaithe aibí, leathnaigh do chuid scileanna agus éirigh do thuras trádála.",
-  "differenceNew.cta": "Bí Linn"
+  "differenceNew.cta": "Bí Linn",
+
+   "contact.heading": "Déan teagmháil linn",
+    "contact.input.name": "Do ainm",
+    "contact.input.email": "Do ríomhphost",
+    "contact.input.message": "Do theachtaireacht",
+    "contact.button": "Seol Teachtaireacht",
+    "contact.success": "Seoladh do theachtaireacht go rathúil!"
 }

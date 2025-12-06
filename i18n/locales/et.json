@@ -108,5 +108,12 @@
 
   "differenceNew.title": "Mis eristab Aivontrixeni?",
   "differenceNew.text": "Meie kauplemiskeskkonnaga liitumine pakub rohkelt eeliseid. Saate uusi vaatenurki, praktilist juhendamist ja keskkonna, mis on pühendunud teie edule. Ühenduge kogenud kauplejatega, laiendage oma võimeid ja tõstke oma kauplemisteekond uuele tasemele.",
-  "differenceNew.cta": "Liituge nüüd"
+  "differenceNew.cta": "Liituge nüüd",
+
+   "contact.heading": "Võta meiega ühendust",
+    "contact.input.name": "Sinu nimi",
+    "contact.input.email": "Sinu e-post",
+    "contact.input.message": "Sinu sõnum",
+    "contact.button": "Saada sõnum",
+    "contact.success": "Sinu sõnum on edukalt saadetud!"
 }

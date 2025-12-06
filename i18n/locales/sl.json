@@ -109,5 +109,12 @@
 
   "differenceNew.title": "Kaj ločuje Aivontrixen?",
   "differenceNew.text": "Pridružitev našemu trgovalnemu ekosistemu prinaša številne prednosti. Pridobite sveže perspektive, praktična navodila in okolje, ki spodbuja vaš napredek. Povežite se z izkušenimi trgovci, razširite svoje sposobnosti in dvignite svojo trgovalno pot.",
-  "differenceNew.cta": "Pridružite se"
+  "differenceNew.cta": "Pridružite se",
+
+   "contact.heading": "Kontaktirajte nas",
+    "contact.input.name": "Vaše ime",
+    "contact.input.email": "Vaš e-poštni naslov",
+    "contact.input.message": "Vaše sporočilo",
+    "contact.button": "Pošlji sporočilo",
+    "contact.success": "Vaše sporočilo je bilo uspešno poslano!"
 }

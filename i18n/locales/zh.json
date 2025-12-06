@@ -108,5 +108,12 @@
 
   "differenceNew.title": "是什么让 Aivontrixen 与众不同？",
   "differenceNew.text": "加入我们的交易生态系统可获得丰富的优势。获取全新视角、实用指导，并融入致力于推动您进步的环境。与经验丰富的交易者建立联系，拓展您的能力，提升您的交易之旅。",
-  "differenceNew.cta": "立即加入"
+  "differenceNew.cta": "立即加入",
+
+    "contact.heading": "联系我们",
+    "contact.input.name": "您的姓名",
+    "contact.input.email": "您的邮箱",
+    "contact.input.message": "您的留言",
+    "contact.button": "发送消息",
+    "contact.success": "您的消息已成功发送！"
 }

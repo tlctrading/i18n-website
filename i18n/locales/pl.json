@@ -108,5 +108,12 @@
 
   "differenceNew.title": "Co Wyróżnia Aivontrixen?",
   "differenceNew.text": "Dołączenie do naszego ekosystemu handlowego przynosi wiele korzyści. Zyskaj nowe perspektywy, praktyczne wskazówki i środowisko skoncentrowane na Twoim rozwoju. Połącz się z doświadczonymi traderami, rozwiń swoje umiejętności i podnieś swoją podróż handlową na wyższy poziom.",
-  "differenceNew.cta": "Dołącz Teraz"
+  "differenceNew.cta": "Dołącz Teraz",
+
+  "contact.heading": "Skontaktuj się z nami",
+    "contact.input.name": "Twoje imię",
+    "contact.input.email": "Twój email",
+    "contact.input.message": "Twoja wiadomość",
+    "contact.button": "Wyślij wiadomość",
+    "contact.success": "Twoja wiadomość została pomyślnie wysłana!"
 }

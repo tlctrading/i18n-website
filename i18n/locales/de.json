@@ -108,5 +108,12 @@
 
   "differenceNew.title": "Was macht Aivontrixen besonders?",
   "differenceNew.text": "Die Teilnahme an unserem Handelssystem bietet zahlreiche Vorteile. Gewinnen Sie neue Perspektiven, praktische Anleitung und ein Umfeld, das darauf ausgerichtet ist, Ihren Fortschritt zu fördern. Vernetzen Sie sich mit erfahrenen Händlern, erweitern Sie Ihre Fähigkeiten und steigern Sie Ihre Handelsreise.",
-  "differenceNew.cta": "Mitmachen"
+  "differenceNew.cta": "Mitmachen",
+
+  "contact.heading": "Kontaktieren Sie uns",
+    "contact.input.name": "Ihr Name",
+    "contact.input.email": "Ihre E-Mail",
+    "contact.input.message": "Ihre Nachricht",
+    "contact.button": "Nachricht senden",
+    "contact.success": "Ihre Nachricht wurde erfolgreich gesendet!"
 }

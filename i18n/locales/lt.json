@@ -108,5 +108,12 @@
 
   "differenceNew.title": "Kodėl verta rinktis Aivontrixen?",
   "differenceNew.text": "Prisijungę prie mūsų prekybos ekosistemos gausite daugybę privalumų – naują požiūrį, praktinius patarimus ir aplinką, kuri skatina jūsų augimą. Bendraukite su patyrusiais prekiautojais, tobulinkite įgūdžius ir pakelkite savo prekybos kelionę į aukštesnį lygį.",
-  "differenceNew.cta": "Prisijungti dabar"
+  "differenceNew.cta": "Prisijungti dabar",
+
+   "contact.heading": "Susisiekite su mumis",
+    "contact.input.name": "Jūsų vardas",
+    "contact.input.email": "Jūsų el. paštas",
+    "contact.input.message": "Jūsų žinutė",
+    "contact.button": "Siųsti žinutę",
+    "contact.success": "Jūsų žinutė sėkmingai išsiųsta!"
 }

@@ -108,5 +108,12 @@
 
   "differenceNew.title": "Apa yang Membuat Aivontrixen Berbeda?",
   "differenceNew.text": "Bergabung dengan ekosistem trading kami memberi Anda banyak keuntungan. Dapatkan perspektif baru, panduan praktis, dan lingkungan yang berkomitmen pada kemajuan Anda. Terhubung dengan trader berpengalaman, kembangkan kemampuan Anda, dan tingkatkan perjalanan trading Anda.",
-  "differenceNew.cta": "Bergabung Sekarang"
+  "differenceNew.cta": "Bergabung Sekarang",
+
+  "contact.heading": "Hubungi Kami",
+    "contact.input.name": "Nama Anda",
+    "contact.input.email": "Email Anda",
+    "contact.input.message": "Pesan Anda",
+    "contact.button": "Kirim Pesan",
+    "contact.success": "Pesan Anda berhasil dikirim!"
 }

@@ -108,5 +108,12 @@
 
   "differenceNew.title": "Hvað Aðgreinir Aivontrixen?",
   "differenceNew.text": "Að ganga til liðs við viðskiptasamfélag okkar veitir þér fjölmarga kosti. Fáðu nýja sýn, hagnýtar leiðbeiningar og umhverfi sem styður framfarir þínar. Tengstu reyndum kaupmönnum, þróaðu færni þína og lyftu viðskiptaleið þinni.",
-  "differenceNew.cta": "Gakktu til Liðs Við Okkur"
+  "differenceNew.cta": "Gakktu til Liðs Við Okkur",
+
+   "contact.heading": "Hafðu samband",
+    "contact.input.name": "Nafnið þitt",
+    "contact.input.email": "Netfangið þitt",
+    "contact.input.message": "Skilaboðin þín",
+    "contact.button": "Senda skilaboð",
+    "contact.success": "Skilaboðin þín hafa verið send!"
 }

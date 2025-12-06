@@ -108,5 +108,12 @@
 
   "differenceNew.title": "Kāpēc izvēlēties Aivontrixen?",
   "differenceNew.text": "Pievienojoties mūsu tirdzniecības ekosistēmai, jūs iegūsiet daudz priekšrocību – jaunu skatījumu, praktiskus padomus un vidi, kas veicina jūsu izaugsmi. Sazinieties ar pieredzējušiem tirgotājiem, pilnveidojiet prasmes un paceliet savu tirdzniecības ceļu jaunā līmenī.",
-  "differenceNew.cta": "Pievienoties tagad"
+  "differenceNew.cta": "Pievienoties tagad",
+
+     "contact.heading": "Sazinieties ar mums",
+    "contact.input.name": "Jūsu vārds",
+    "contact.input.email": "Jūsu e-pasts",
+    "contact.input.message": "Jūsu ziņa",
+    "contact.button": "Sūtīt ziņu",
+    "contact.success": "Jūsu ziņa veiksmīgi nosūtīta!"
 }
