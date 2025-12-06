@@ -16,7 +16,6 @@ const { t } = useI18n()
                             <article class="box-chec">
                                 <h3>
                                     <span class="gb-icon">
-                                        <!-- svg остаётся без изменений -->
                                     </span>{{ t('security.enterprise.title') }}
                                 </h3>
                                 <p>{{ t('security.enterprise.description') }}</p>
@@ -26,7 +25,6 @@ const { t } = useI18n()
                             <article class="box-chec">
                                 <h3>
                                     <span class="gb-icon">
-                                        <!-- svg остаётся без изменений -->
                                     </span>{{ t('automation.title') }}
                                 </h3>
                                 <p>{{ t('automation.description') }}</p>
@@ -36,7 +34,6 @@ const { t } = useI18n()
                             <article class="box-chec">
                                 <h3>
                                     <span class="gb-icon">
-                                        <!-- svg остаётся без изменений -->
                                     </span>{{ t('infrastructure.title') }}
                                 </h3>
                                 <p>{{ t('infrastructure.description') }}</p>
@@ -46,7 +43,6 @@ const { t } = useI18n()
                             <article class="box-chec">
                                 <h3>
                                     <span class="gb-icon">
-                                        <!-- svg остаётся без изменений -->
                                     </span>{{ t('execution.title') }}
                                 </h3>
                                 <p>{{ t('execution.description') }}</p>

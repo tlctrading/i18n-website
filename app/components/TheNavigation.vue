@@ -69,7 +69,6 @@ const changeLang = async (code) => {
         </ul>
       </div>
 
-      <!-- Desktop Menu -->
       <div class="uk-navbar-right uk-visible@s">
         <ul class="uk-navbar-nav uk-light">
           <li><NuxtLink class="uk-text-large" :to="localePath('index')">{{ t('home') }}</NuxtLink></li>
@@ -84,7 +83,6 @@ const changeLang = async (code) => {
         </div>
       </div>
 
-      <!-- Mobile Menu -->
       <div class="uk-navbar-right uk-hidden@s">
         <div class="uk-inline">
           <button class="mob-button uk-navbar-toggle-icon" popovertarget="mobile-menu">
