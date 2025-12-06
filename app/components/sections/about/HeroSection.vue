@@ -1,59 +1,88 @@
+<script setup>
+
+const { t } = useI18n()
+</script>
+
 <template>
   <section class="uk-section uk-section-large hero-section">
     <div class="uk-container hero-container">
       <div class="hero-inner hero-about">
         <div class="uk-flex-middle uk-grid" uk-grid="">
 
-         
           <div class="uk-width-expand@s uk-first-column">
             <div class="hero-meta">
-              <h1>Get to know Aivontrixen and experience the newest Aivontrixen release.</h1>
-              <p class="desc">
-                Step into a vibrant hub where traders at every level advance together. We devote ourselves to delivering actionable knowledge, innovative strategies, and unwavering encouragement for each participant.
-              </p>
-              <p class="desc">
-                Step into a vibrant hub where traders at every level advance together. We devote ourselves to delivering actionable knowledge, innovative strategies, and unwavering encouragement for each participant.
-              </p>
+              <h1>{{ t('heroNew.title') }}</h1>
+              <p class="desc">{{ t('heroNew.description') }}</p>
             </div>
           </div>
 
-      
           <div class="uk-width-auto@s order-1">
             <div class="hero-form">
               <div class="cf-container">
-                <h2 class="cf-title">Discover the Platform – Free Registration</h2>
+                <h2 class="cf-title">{{ t('heroNew.form.title') }}</h2>
+
                 <form class="cf-form">
                   <div class="cf-group">
-                    <input name="fname" type="text" placeholder="First Name" required class="cf-input" aria-label="First Name">
+                    <input
+                      name="fname"
+                      type="text"
+                      :placeholder="t('heroNew.form.firstName')"
+                      required
+                      class="cf-input"
+                      :aria-label="t('heroNew.form.firstName')"
+                    >
                     <div class="cf-error" data-error-for="fname"></div>
                   </div>
 
                   <div class="cf-group">
-                    <input name="lname" type="text" placeholder="Last Name" required class="cf-input" aria-label="Last Name">
+                    <input
+                      name="lname"
+                      type="text"
+                      :placeholder="t('heroNew.form.lastName')"
+                      required
+                      class="cf-input"
+                      :aria-label="t('heroNew.form.lastName')"
+                    >
                     <div class="cf-error" data-error-for="lname"></div>
                   </div>
 
                   <div class="cf-group">
-                    <input name="email" type="email" placeholder="Email" required class="cf-input" aria-label="Email">
+                    <input
+                      name="email"
+                      type="email"
+                      :placeholder="t('heroNew.form.email')"
+                      required
+                      class="cf-input"
+                      :aria-label="t('heroNew.form.email')"
+                    >
                     <div class="cf-error" data-error-for="email"></div>
                   </div>
 
                   <div class="cf-group">
-                    <input type="tel" name="phone" required class="cf-input cf-phone iti__tel-input"
-                      aria-label="Phone" dir="ltr" autocomplete="off" placeholder="(0-612) 34567" style="padding-left: 48px;">
+                    <input
+                      type="tel"
+                      name="phone"
+                      required
+                      class="cf-input cf-phone iti__tel-input"
+                      :aria-label="t('heroNew.form.phone')"
+                      dir="ltr"
+                      autocomplete="off"
+                      placeholder="(0-612) 34567"
+                      style="padding-left: 48px;"
+                    >
                     <div class="cf-error" data-error-for="phone"></div>
                   </div>
 
                   <div class="cf-error cf-general-error"></div>
 
                   <button type="submit" class="cf-button">
-                    <span class="cf-btn-text">REGISTER NOW</span>
+                    <span class="cf-btn-text">{{ t('heroNew.form.submit') }}</span>
                     <span class="cf-spinner"></span>
                   </button>
 
                   <p class="cf-disclaimer">
-                    By registering and creating an account, you confirm that you have read and agreed to our Terms and Conditions, Privacy Policy and Cookie Policy. Additionally, you acknowledge that this website operates exclusively as a marketing platform.
-                    <span class="cf-readmore">Read More</span>
+                    {{ t('heroNew.form.disclaimer') }}
+                    <span class="cf-readmore">{{ t('heroNew.form.readMore') }}</span>
                   </p>
                 </form>
               </div>

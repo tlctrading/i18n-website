@@ -19,9 +19,9 @@ const { t } = useI18n()
                         <span aria-label="{{ t('reviews.score') }}"
                             style="color:#ffc107;font-size:20px;line-height:1;">{{ t('reviews.stars') }}</span>
                         <span style="color:#666;font-size:14px;">
-                            <span><strong>{{ t('reviews.count') }}</strong> reviews</span> ·
-                            <span>Based on <strong>247</strong> ratings</span> ·
-                            <span>Score out of <span>5</span></span>
+                            <span><strong>{{ t('reviews.count') }}</strong></span> ·
+                            <span>{{ t('reviews.based') }}</span> ·
+                            <span>{{ t('reviews.score') }}</span>
                         </span>
                     </div>
                 </div>

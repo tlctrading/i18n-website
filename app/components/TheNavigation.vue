@@ -1,7 +1,11 @@
 <script setup>
 import { useI18n } from 'vue-i18n'
+import { useLocalePath } from '#i18n'
+import { useRouter } from 'vue-router'
 
-const { locale } = useI18n({useScope: 'global'})
+const router = useRouter()
+const { locale, setLocale, t } = useI18n({ useScope: 'global' })
+const localePath = useLocalePath()
 
 const languages = [
   { code: 'ar', label: '🇸🇦 عربي' },
@@ -46,59 +50,63 @@ const languages = [
   { code: 'vi', label: '🇻🇳 Việt Nam' },
   { code: 'zh', label: '🇭🇰 中国人' }
 ]
+
+const changeLang = async (code) => {
+  await setLocale(code)
+  router.replace({ path: router.currentRoute.value.fullPath })
+}
 </script>
 
 <template>
-<header class="site-header" role="banner">
-  <nav class="uk-container uk-navbar flex items-center" role="navigation" aria-label="Aivontrixen primary navigation" dir="ltr">
-    <div class="uk-navbar-left" dir="ltr">
-      <ul class="uk-navbar-nav">
-        <li class="uk-active">
-          <a class="logo" href="Aivontrixen _ Official Website Platform.html">Aivontrixen</a>
-        </li>
-      </ul>
-    </div>
+  <header class="site-header" role="banner">
+    <nav class="uk-container uk-navbar flex items-center" role="navigation">
 
-    <div class="uk-navbar-right uk-visible@s" dir="ltr">
-      <ul class="uk-navbar-nav uk-visible@s uk-light">
-        <li><router-link class="uk-text-large current-menu" to="/">Home</router-link></li>
-        <li><router-link to="/about" class="uk-text-large">About Us</router-link></li>
-        <li><router-link to="/contacts" class="uk-text-large">Contact Us</router-link></li>
-      </ul>
-
-      <div class="lang-switcher lang-switcher--desktop" dir="ltr">
-        <select v-model="locale" class="lang-select" aria-label="Change language">
-          <option v-for="lang in languages" :key="lang.code" :value="lang.code">{{ lang.label }}</option>
-        </select>
+      <div class="uk-navbar-left">
+        <ul class="uk-navbar-nav">
+          <li>
+            <NuxtLink class="logo" :to="localePath('index')">Aivontrixen</NuxtLink>
+          </li>
+        </ul>
       </div>
-    </div>
 
-    <div class="uk-navbar-right uk-hidden@s">
-      <div class="uk-inline">
-        <button class="mob-button uk-icon uk-navbar-toggle-icon" popovertarget="mobile-menu" aria-label="Open menu">
-          <svg width="20" height="20" viewBox="0 0 20 20">
-            <rect width="20" height="2" y="3" class="line-1"></rect>
-            <rect width="20" height="2" y="9" class="line-2"></rect>
-            <rect width="20" height="2" y="9" class="line-3"></rect>
-            <rect width="20" height="2" y="15" class="line-4"></rect>
-          </svg>
-        </button>
+      <!-- Desktop Menu -->
+      <div class="uk-navbar-right uk-visible@s">
+        <ul class="uk-navbar-nav uk-light">
+          <li><NuxtLink class="uk-text-large" :to="localePath('index')">{{ t('home') }}</NuxtLink></li>
+          <li><NuxtLink class="uk-text-large" :to="localePath('about')">{{ t('about') }}</NuxtLink></li>
+          <li><NuxtLink class="uk-text-large" :to="localePath('contacts')">{{ t('contacts') }}</NuxtLink></li>
+        </ul>
 
-        <div id="mobile-menu" class="uk-width-large" popover="">
-          <ul class="mob-menu">
-            <li><router-link to="/">Home</router-link></li>
-            <li><router-link to="/about">About Us</router-link></li>
-            <li><router-link to="/contacts">Contact Us</router-link></li>
-          </ul>
+        <div class="lang-switcher lang-switcher--desktop">
+          <select class="lang-select" :value="locale" @change="changeLang($event.target.value)">
+            <option v-for="lang in languages" :key="lang.code" :value="lang.code">{{ lang.label }}</option>
+          </select>
+        </div>
+      </div>
 
-          <div class="lang-switcher lang-switcher--mobile" dir="ltr">
-            <select v-model="locale" class="lang-select" aria-label="Change language">
-              <option v-for="lang in languages" :key="lang.code" :value="lang.code">{{ lang.label }}</option>
-            </select>
+      <!-- Mobile Menu -->
+      <div class="uk-navbar-right uk-hidden@s">
+        <div class="uk-inline">
+          <button class="mob-button uk-navbar-toggle-icon" popovertarget="mobile-menu">
+            <span uk-icon="menu"></span>
+          </button>
+
+          <div id="mobile-menu" popover class="uk-width-large">
+            <ul class="mob-menu">
+              <li><NuxtLink :to="localePath('index')">{{ t('home') }}</NuxtLink></li>
+              <li><NuxtLink :to="localePath('about')">{{ t('about') }}</NuxtLink></li>
+              <li><NuxtLink :to="localePath('contacts')">{{ t('contacts') }}</NuxtLink></li>
+            </ul>
+
+            <div class="lang-switcher lang-switcher--mobile">
+              <select class="lang-select" :value="locale" @change="changeLang($event.target.value)">
+                <option v-for="lang in languages" :key="lang.code" :value="lang.code">{{ lang.label }}</option>
+              </select>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </nav>
-</header>
+
+    </nav>
+  </header>
 </template>

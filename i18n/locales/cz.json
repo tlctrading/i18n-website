@@ -68,5 +68,45 @@
   "reviews.count": "189 recenzí",
   "reviews.based": "Na základě 247 hodnocení",
   "reviews.score": "Skóre z 5",
-  "reviews.comment": "Výkonná, snadno použitelná obchodní platforma s kvalitní automatizací a vzdělávacími zdroji."
+  "reviews.comment": "Výkonná, snadno použitelná obchodní platforma s kvalitní automatizací a vzdělávacími zdroji.",
+
+   "heroNew.title": "Seznamte se s Aivontrixen a zažijte nejnovější vydání Aivontrixen.",
+  "heroNew.description": "Vstupte do živého centra, kde obchodníci na všech úrovních postupují společně. Zavazujeme se poskytovat praktické znalosti, inovativní strategie a nepolevující podporu pro každého účastníka.",
+  "heroNew.form.title": "Objevte platformu – bezplatná registrace",
+  "heroNew.form.firstName": "Jméno",
+  "heroNew.form.lastName": "Příjmení",
+  "heroNew.form.email": "E-mail",
+  "heroNew.form.phone": "Telefon",
+  
+  "heroNew.form.submit": "REGISTROVAT NYNÍ",
+  "heroNew.form.disclaimer": "Registrací a vytvořením účtu potvrzujete, že jste si přečetli a souhlasíte s našimi Podmínkami, Zásadami ochrany osobních údajů a Zásadami používání cookies. Rovněž potvrzujete, že tento web funguje výhradně jako marketingová platforma.",
+  "heroNew.form.readMore": "Číst více",
+
+  "communityNew.title": "Pozvedněte svou obchodní cestu",
+  "communityNew.intro": "Naše energická komunita odemyká exkluzivní příležitosti ke spolupráci s zkušenými obchodníky a vlivnými lídry trhu. Otevřeně sdílejí hluboké znalosti získané roky navigace v složitém finančním prostředí.",
+  "communityNew.cards.expert.title": "Odborné poradenství na vyžádání",
+  "communityNew.cards.expert.text": "Přístup k zkušeným obchodníkům a odborníkům z oboru kdykoli potřebujete radu.",
+  "communityNew.cards.environment.title": "Prostředí vytvořené pro úspěch",
+  "communityNew.cards.environment.text": "Strukturováno tak, aby posilovalo tempo každého obchodníka směrem k úspěchu.",
+  "communityNew.cards.toolkit.title": "Bohatý soubor nástrojů",
+  "communityNew.cards.toolkit.text": "Komplexní sbírka vzdělávacích zdrojů a praktických nástrojů.",
+  "communityNew.cards.network.title": "Podpůrná partnerská síť",
+  "communityNew.cards.network.text": "Spolupracující komunita navržená k podpoře růstu a sdíleného pokroku.",
+  "communityNew.closing": "Naše filozofie se zaměřuje na poskytování plně integrovaného podpůrného ekosystému. Posouváme se daleko za základní poznatky a taktiky a připravujeme přizpůsobené zdroje pro obchodníky na všech úrovních – od rozsáhlých vzdělávacích knihoven s různými strategiemi až po špičková analytická řešení.",
+  "communityNew.cta": "Začněte objevovat",
+
+  "assetsNew.title": "Aivontrixen otevírá nekonečné investiční cesty: Prozkoumejte široké spektrum aktiv",
+  "assetsNew.intro1": "Ponořte se do dynamického obchodního vesmíru Aivontrixen, kde na vás čeká široký výběr aktiv. Naše platforma podporuje každý profil investora – od těch, kteří preferují tradiční držení, jako jsou akcie a komodity, po průkopníky, kteří využívají nové nástroje jako kryptoměny a CFD. Ať už jsou vaše cíle tvorba bohatství, rozšiřování portfolia nebo pokročilé obchodní plány, Aivontrixen poskytuje přesné nástroje a informace, které potřebujete k dosažení cílů. S nejmodernějšími obchodními algoritmy, analýzou v reálném čase a odolným podpůrným rámcem zajišťujeme, že máte vše potřebné k úspěchu na dnešním proměnlivém trhu. Staňte se partnerem Aivontrixen a odemkněte svůj plný obchodní potenciál nyní.",
+  "assetsNew.intro2": "Aivontrixen hrdě poskytuje plynulý, intuitivní obchodní zážitek pro nové i zkušené účastníky. Naše trvalá oddanost vašemu úspěchu se projevuje nepřetržitou podporou a rozsáhlými vzdělávacími zdroji, které posilují vaše schopnosti a sebevědomí.",
+  "assetsNew.cards.equity.title": "Akciové trhy",
+  "assetsNew.cards.equity.text": "Rozšiřte své držení vlastnictvím akcií významných společností, jako jsou Apple a Amazon. Účast na akciích poskytuje podíl na jejich tempu růstu, což vám umožní profitovat, jak tyto firmy rostou a vytvářejí hodnotu.",
+  "assetsNew.cards.etf.title": "Burzovně obchodované fondy",
+  "assetsNew.cards.etf.text": "ETF se obchodují jako jednotlivé akcie a zároveň nabízejí diverzifikovanou expozici napříč více aktivy. Trade 500 Intal vás propojuje s rozsáhlým katalogem globálních fondů v Evropě, Asii a USA.",
+  "assetsNew.cards.futures.title": "Futures kontrakty",
+  "assetsNew.cards.futures.text": "Futures umožňují obchodníkům předpovídat budoucí ceny a implementovat sofistikované strategie zajištění nebo spekulace, čímž se přidává hloubka do složitých portfolií.",
+  "assetsNew.closing": "Naše obchodní platforma poskytuje soudržný, intuitivní zážitek napříč všemi třídami aktiv. Díky designu orientovanému na uživatele, výkonným funkcím a širokému rozsahu nástrojů je přizpůsobení a správa portfolia, které odráží vaše cíle, snadná. Prozkoumejte různorodé trhy a začněte maximalizovat svou obchodní výhodu ještě dnes.",
+
+  "differenceNew.title": "Čím se Aivontrixen odlišuje?",
+  "differenceNew.text": "Připojení se k našemu obchodnímu ekosystému přináší mnoho výhod. Získejte nové perspektivy, praktické rady a prostředí zaměřené na podporu vašeho pokroku. Spojte se se zkušenými obchodníky, rozšiřte své schopnosti a pozvedněte svou obchodní cestu.",
+  "differenceNew.cta": "Přidejte se"
 }

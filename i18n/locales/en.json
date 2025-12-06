@@ -68,5 +68,46 @@
   "reviews.count": "189 reviews",
   "reviews.based": "Based on 247 ratings",
   "reviews.score": "Score out of 5",
-  "reviews.comment": "A powerful, easy-to-use trading platform with solid automation and education resources."
+  "reviews.comment": "A powerful, easy-to-use trading platform with solid automation and education resources.",
+
+
+  "heroNew.title": "Get to know Aivontrixen and experience the newest Aivontrixen release.",
+  "heroNew.description": "Step into a vibrant hub where traders at every level advance together. We devote ourselves to delivering actionable knowledge, innovative strategies, and unwavering encouragement for each participant.",
+  "heroNew.form.title": "Discover the Platform – Free Registration",
+  "heroNew.form.firstName": "First Name",
+  "heroNew.form.lastName": "Last Name",
+  "heroNew.form.email": "Email",
+  "heroNew.form.phone": "Phone",
+  
+  "heroNew.form.submit": "REGISTER NOW",
+  "heroNew.form.disclaimer": "By registering and creating an account, you confirm that you have read and agreed to our Terms and Conditions, Privacy Policy and Cookie Policy. Additionally, you acknowledge that this website operates exclusively as a marketing platform.",
+  "heroNew.form.readMore": "Read More",
+
+  "communityNew.title": "Elevate Your Trading Journey",
+  "communityNew.intro": "Our energetic community unlocks exclusive chances to collaborate with seasoned traders and influential market leaders. They openly share deep expertise refined through years of navigating complex financial environments.",
+  "communityNew.cards.expert.title": "Expert Guidance on Demand",
+  "communityNew.cards.expert.text": "Access accomplished traders and industry specialists whenever you need direction.",
+  "communityNew.cards.environment.title": "Environment Built for Achievement",
+  "communityNew.cards.environment.text": "Structured to strengthen every trader's momentum toward success.",
+  "communityNew.cards.toolkit.title": "Resource-Rich Toolkit",
+  "communityNew.cards.toolkit.text": "A comprehensive collection of educational assets and practical instruments.",
+  "communityNew.cards.network.title": "Supportive Partner Network",
+  "communityNew.cards.network.text": "A collaborative community designed to inspire growth and shared progress.",
+  "communityNew.closing": "Our philosophy focuses on delivering a fully integrated support ecosystem. We move well beyond basic insights and tactics, curating tailored resources for traders at every level—from expansive educational libraries on diverse strategies to cutting-edge analytic solutions.",
+  "communityNew.cta": "Start Exploring",
+
+  "assetsNew.title": "Aivontrixen Opens Limitless Investment Pathways: Explore a Broad Spectrum of Assets",
+  "assetsNew.intro1": "Immerse yourself in a dynamic trading universe at Aivontrixen, where a broad selection of assets awaits your strategy. Our platform supports every investor profile, from those favoring traditional holdings such as stocks and commodities to pioneers embracing emerging vehicles like cryptocurrencies and CFDs. Whether your objectives involve wealth creation, portfolio expansion, or advanced trading plans, Aivontrixen supplies the precise tools and insights you need to meet your goals. With cutting-edge trading algorithms, real-time analytics, and a resilient support framework, we ensure you possess everything required to excel in today's evolving markets. Partner with Aivontrixen and unlock your complete trading potential now.",
+  "assetsNew.intro2": "Aivontrixen proudly delivers a streamlined, intuitive trading experience for both new and seasoned participants. Our sustained dedication to your success shines through continuous assistance and expansive educational resources that strengthen your skills and confidence.",
+  "assetsNew.cards.equity.title": "Equity Markets",
+  "assetsNew.cards.equity.text": "Broaden your holdings by owning shares in powerhouse companies like Apple and Amazon. Equity participation grants a stake in their momentum, positioning you to benefit as these leaders grow and generate value.",
+  "assetsNew.cards.etf.title": "Exchange-Traded Funds",
+  "assetsNew.cards.etf.text": "ETFs trade like individual stocks while offering diversified exposure across multiple assets. Trade 500 Intal connects you with an expansive catalogue of global funds spanning Europe, Asia, and the United States.",
+  "assetsNew.cards.futures.title": "Futures Contracts",
+  "assetsNew.cards.futures.text": "Futures enable traders to anticipate future pricing and implement sophisticated hedging or speculative strategies, adding depth to complex portfolios.",
+  "assetsNew.closing": "Our trading platform delivers a cohesive, intuitive experience across every asset class. With user-first design, powerful capabilities, and a wide instrument range, tailoring and managing a portfolio that reflects your goals becomes effortless. Explore diverse markets and start maximizing your trading edge today.",
+
+  "differenceNew.title": "What Sets Aivontrixen Apart?",
+  "differenceNew.text": "Joining our trading ecosystem delivers a wealth of advantages. Gain fresh perspectives, practical guidance, and an environment committed to fueling your progress. Connect with veteran traders, expand your capabilities, and elevate your trading journey.",
+  "differenceNew.cta": "Come Aboard"
 }
