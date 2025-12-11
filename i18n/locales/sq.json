@@ -115,5 +115,388 @@
     "contact.input.email": "Emaili juaj",
     "contact.input.message": "Mesazhi juaj",
     "contact.button": "Dërgo Mesazh",
-    "contact.success": "Mesazhi juaj u dërgua me sukses!"
+    "contact.success": "Mesazhi juaj u dërgua me sukses!",
+
+    "privacy.title": "Politika e Privatësisë", 
+
+  "privacy.intro.provider": "Ofruesi (\"ne\", \"ne\", ose \"ynë\") menaxhon platformën Aivontrixen (\"Shërbimi\").", 
+
+  "privacy.intro.description": "Ky dokument përshkruan praktikat tona në lidhje me mbledhjen, përdorimin dhe ndarjen e informacionit personal kur ndërveproni me Shërbimin tonë dhe opsionet e disponueshme për ju në lidhje me atë informacion.", 
+
+  "privacy.intro.usage": "Ne, Aivontrixen, përdorim informacionin tuaj për të ofruar dhe përmirësuar Shërbimin. Duke ndërvepruar me Shërbimin, ju jeni dakord me mbledhjen dhe përdorimin e të dhënave siç përshkruhet në këtë politikë. Përveç nëse përcaktohet ndryshe në këtë Politikë Privatësie, terminologjia e përdorur këtu ka të njëjtën kuptim si në Termat dhe Kushtet tona, të disponueshme nga Aivontrixen.", 
+
+   
+
+  "privacy.toc.definitions": "Përkufizime", 
+
+  "privacy.toc.definitions.service": "Shërbimi", 
+
+  "privacy.toc.definitions.personal_data": "Të dhëna personale", 
+
+  "privacy.toc.definitions.usage_data": "Të dhëna përdorimi", 
+
+  "privacy.toc.definitions.cookies": "Cookies", 
+
+  "privacy.toc.definitions.data_controller": "Kontrolluesi i të dhënave", 
+
+  "privacy.toc.definitions.data_processors": "Përpunuesit e të dhënave (ose Ofruesit e shërbimit)", 
+
+  "privacy.toc.definitions.data_subject": "Subjekti i të dhënave (ose Përdoruesi)", 
+
+   
+
+  "privacy.toc.info_collection": "Mbledhja dhe Përdorimi i Informacionit", 
+
+  "privacy.toc.info_collection.types_of_data": "Llojet e të dhënave të mbledhura", 
+
+  "privacy.toc.info_collection.personal_data": "Të dhëna personale", 
+
+  "privacy.toc.info_collection.usage_data": "Të dhëna përdorimi", 
+
+  "privacy.toc.info_collection.tracking_cookies": "Të dhëna Cookies Gjurmimi", 
+
+  "privacy.toc.info_collection.use_of_data": "Përdorimi i të dhënave", 
+
+  "privacy.toc.info_collection.legal_basis": "Bazë ligjore për përpunimin e të dhënave personale sipas Rregullorit të Përgjithshëm për Mbrojtjen e të Dhënave (GDPR)", 
+
+  "privacy.toc.info_collection.retention": "Ruajtja e të dhënave", 
+
+   
+
+  "privacy.toc.transfer": "Transferim i të dhënave", 
+
+  "privacy.toc.transfer.disclosure": "Zbulimi i të dhënave", 
+
+  "privacy.toc.transfer.disclosure.business_transaction": "Transaksion biznesi", 
+
+  "privacy.toc.transfer.legal_requirements": "Kërkesat ligjore", 
+
+  "privacy.toc.transfer.security": "Siguria e të dhënave", 
+
+  "privacy.toc.transfer.rights_gdpr": "Të drejtat tuaja të mbrojtjes së të dhënave sipas Rregullorit të Përgjithshëm për Mbrojtjen e të Dhënave (GDPR)", 
+
+   
+
+  "privacy.toc.service_providers": "Ofruesit e Shërbimit", 
+
+  "privacy.toc.service_providers.analytics": "Analitika", 
+
+  "privacy.toc.service_providers.advertising": "Reklamimi", 
+
+  "privacy.toc.service_providers.behavioral_remarketing": "Rimarketing sjellor", 
+
+  "privacy.toc.service_providers.links": "Lidhje për në faqe të tjera", 
+
+  "privacy.toc.service_providers.changes": "Ndryshimet në këtë Politikë Privatësie", 
+
+  "privacy.toc.service_providers.contact": "Na kontaktoni", 
+
+"privacy.definitions.service": "Shërbimi është faqja e internetit Aivontrixen e operuar nga Ofruesi", 
+
+  "privacy.definitions.personal_data": "Të dhënat personale do të thonë të dhëna rreth një individi të gjallë që mund të identifikohet nga ato të dhëna (ose nga ato dhe informacione të tjera që ndodhen në posedimin tonë ose që pritet të hyjnë në posedimin tonë).", 
+
+  "privacy.definitions.usage_data": "Të dhënat e përdorimit janë të dhëna të mbledhura automatikisht, qoftë të gjeneruara nga përdorimi i Shërbimit apo nga infrastruktura e vetë Shërbimit (p.sh., kohëzgjatja e vizitës së një faqe).", 
+
+  "privacy.definitions.cookies": "Cookies janë pjesëza të vogla të dhënash të ruajtura në pajisjen tuaj (kompjuter ose pajisje celulare).", 
+
+  "privacy.definitions.data_controller": "Kontrolluesi i të dhënave do të thotë personi natyror ose juridik i cili (vetëm ose në bashkëpunim me persona të tjerë) përcakton qëllimet për të cilat dhe mënyrën se si çdo informacion personal është, ose do të jetë, i përpunuar. Për qëllimet e kësaj politike privatësie, ne jemi Kontrolluesi i të dhënave të të dhënave tuaja personale.", 
+
+  "privacy.definitions.data_processors": "Përpunuesi i të dhënave (ose Ofruesi i Shërbimit) do të thotë çdo person natyror ose juridik që përpunon të dhënat në emër të Kontrolluesit të të dhënave. Ne mund të përdorim shërbimet e ndryshëm Ofruesve të Shërbimit për të përpunuar të dhënat tuaja më efektivisht.", 
+
+  "privacy.definitions.data_subject": "Subjekti i të dhënave është çdo individ i gjallë që po përdor Shërbimin tonë dhe është subjekti i të dhënave personale.", 
+
+ 
+
+  "privacy.provider.take": "Ofruesi do të ndërmarrë të gjitha hapat e arsyeshëm të nevojshëm për të siguruar që të dhënat tuaja trajtohen në mënyrë të sigurtë dhe në përputhje me këtë Politikë Privatësie dhe asnjë transferim i të dhënave tuaja personale nuk do të ndodhë në një organizatë ose në një vend, përveç nëse ekzistojnë kontrolle të mjaftueshme, përfshirë sigurinë e të dhënave tuaja dhe informacioneve të tjera personale.", 
+
+ 
+
+  "privacy.info_collection.description": "Ne mbledhim disa lloje të ndryshme informacioni për qëllime të ndryshme për t'ju ofruar dhe përmirësuar Shërbimin tonë.", 
+
+  "privacy.info_collection.personal_data.description": "Gjatë përdorimit të Shërbimit tonë, ne mund t'ju kërkojmë të na jepni disa informacione që identifikohen personalisht dhe që mund të përdoren për t'ju kontaktuar ose identifikuar (“Të dhëna personale”). Informacionet që identifikohen personalisht mund të përfshijnë, por jo vetëm:", 
+
+  "privacy.info.user1": "Adresa e email-it", 
+
+  "privacy.info.user2": "Emri dhe mbiemri", 
+
+  "privacy.info.user3": "Numri i telefonit", 
+
+  "privacy.info.user4": "Adresa, Shteti, Provinca, Kodi ZIP/Postar, Qyteti", 
+
+  "privacy.info.user5": "Cookies dhe të dhëna përdorimi", 
+
+"privacy.info_collection.personal_data.usage": "Ne mund të përdorim të dhënat tuaja personale për t'ju kontaktuar me buletine, materiale marketingu ose promocionale dhe informacione të tjera që mund t'ju interesojnë. Ju mund të përjashtoheni nga marrja e ndonjë, ose të gjitha, këtyre komunikimeve nga ne duke ndjekur lidhjen e ç'regjistrimit ose udhëzimet e dhëna në çdo email që dërgojmë ose duke na kontaktuar.", 
+
+  "privacy.info_collection.usage_data.description": "Ne gjithashtu mund të mbledhim informacione se si hyni në Shërbim dhe si e përdorni (“Të dhëna përdorimi”). Këto të dhëna përdorimi mund të përfshijnë informacione si adresa juaj IP (p.sh., adresa IP), lloji i shfletuesit, versioni i shfletuesit, faqet e Shërbimit tonë që vizitoni, koha dhe data e vizitës, koha e kaluar në ato faqe, identifikues unik pajisjeje dhe të dhëna të tjera diagnostikuese.", 
+
+  "privacy.info_collection.cookies.description": "Ne përdorim cookies dhe teknologji të ngjashme të gjurmimit për të ndjekur aktivitetin në Shërbimin tonë dhe për të mbajtur informacione të caktuara.", 
+
+  "privacy.info.collection.cookies.description1": "Cookies janë skedarë me sasi të vogla të dhënash që mund të përfshijnë një identifikues anonim unik. Cookies dërgohen te shfletuesi juaj nga një faqe interneti dhe ruhen në pajisjen tuaj. Teknologjitë e gjurmimit që përdoren gjithashtu janë beacon-e, etiketë, dhe skripte për të mbledhur dhe ndjekur informacione dhe për të përmirësuar dhe analizuar Shërbimin tonë.", 
+
+  "privacy.info.collection.cookies.instruct": "Ju mund të udhëzoni shfletuesin tuaj të refuzojë të gjitha cookies ose të tregojë kur një cookie po dërgohet. Megjithatë, nëse nuk pranoni cookies, mund të mos jeni në gjendje të përdorni disa pjesë të Shërbimit tonë.", 
+
+  "privacy.info_collection.cookies.examples": "Shembuj të Cookies që përdorim:", 
+
+  "privacy.example1": "Cookies sesioni.", 
+
+  "privacy.example1.description": "Ne përdorim Cookies sesioni për të funksionuar Shërbimin tonë.", 
+
+  "privacy.example2": "Cookies preferencash.", 
+
+  "privacy.example2.description": "Ne përdorim Cookies preferencash për të mbajtur mend preferencat dhe konfigurimet tuaja të ndryshme.", 
+
+  "privacy.example3": "Cookies sigurie.", 
+
+  "privacy.example3.description": "Ne përdorim Cookies sigurie për qëllime sigurie.", 
+
+  "privacy.example4": "Cookies reklamimi.", 
+
+  "privacy.example4.description": "Cookies reklamimi përdoren për t'ju shfaqur reklama që mund të jenë të rëndësishme për ju dhe interesat tuaja.", 
+
+ 
+
+  "privacy.info_collection.use_of_data": "Ofruesi përdor të dhënat e mbledhura për qëllime të ndryshme, përfshirë:", 
+
+  "provider1": "Për të ofruar dhe mbajtur Shërbimin tonë", 
+
+  "provider2": "Për t'ju njoftuar për ndryshimet në Shërbimin tonë", 
+
+  "provider3": "Për t'ju lejuar të merrni pjesë në veçoritë interaktive të Shërbimit tonë kur vendosni të bëni këtë", 
+
+  "provider4": "Për të ofruar mbështetje për klientët", 
+
+  "provider5": "Për të mbledhur analiza ose informacione të vlefshme që të përmirësojmë Shërbimin tonë", 
+
+  "provider6": "Për të monitoruar përdorimin e Shërbimit tonë", 
+
+  "provider7": "Për të zbuluar, parandaluar dhe trajtuar problemet teknike", 
+
+  "provider8": "Për t'ju ofruar lajme, oferta speciale dhe informacione të përgjithshme rreth produkteve, shërbimeve dhe ngjarjeve të tjera që ne ofrojmë dhe që janë të ngjashme me ato që keni blerë ose kërkuar, përveç nëse keni zgjedhur të mos merrni këto informacione", 
+
+"providerText": "Ofruesi gjithashtu do të mbajë të dhënat e përdorimit për qëllime analize të brendshme. Të dhënat e përdorimit zakonisht ruhen për një periudhë më të shkurtër, përveç kur këto të dhëna përdoren për të forcuar sigurinë ose për të përmirësuar funksionalitetin e Shërbimit tonë, ose kur jemi të detyruar ligjërisht të ruajmë këto të dhëna për periudha më të gjata", 
+
+  "privacy.info_collection.legal_basis": "Nëse jeni nga Zona Ekonomike Evropiane (EEA), baza ligjore e Ofruesit për mbledhjen dhe përdorimin e informacionit personal të përshkruar në këtë Politikë Privatësie varet nga të dhënat personale që mbledhim dhe konteksti specifik në të cilin i mbledhim.", 
+
+  "privacy.accept.info": "Ofruesi mund të përpunojë të dhënat tuaja personale sepse:", 
+
+  "privacy.accept.info.why1": "Na nevojitet të kryejmë një kontratë me ju", 
+
+  "privacy.accept.info.why2": "Ju keni dhënë leje", 
+
+  "privacy.accept.info.why3": "Përpunimi është në interesat tona legjitime dhe nuk është anashkaluar nga të drejtat tuaja", 
+
+  "privacy.accept.info.why4": " Për t'u përmbajtur ligjit.", 
+
+ 
+
+  "privacy.consent": "pajshtesës sonë në këtë Politikë Privatësie, e ndjekur nga dërgimi i të tilla informacione, përfaqëson pranimin e atij transferimi.", 
+
+ 
+
+  "privacy.transfer.description": "Informacionet tuaja, përfshirë të dhënat personale, mund të transferohen dhe të ruhen në kompjutera të vendosur jashtë shtetit, provincës, vendit ose juridiksionit tjetër qeveritar ku ligjet e mbrojtjes së të dhënave mund të ndryshojnë nga ato të juridiksionit tuaj.", 
+
+ 
+
+  "privacy.transfer.disclosure.business_transaction": "Nëse Ofruesi është i përfshirë në një bashkim, blerje apo shitje të aseteve, të dhënat tuaja personale mund të transferohen. Ne do të japim njoftim para se të dhënat tuaja personale të transferohen dhe të bien nën një Politikë Privatësie tjetër.", 
+
+  "privacy.transfer.legal_requirements": "Ofruesi mund të zbulojë të dhënat tuaja personale në besimin e mirëfilltë se veprimi i tillë është i nevojshëm", 
+
+  "requirments1": "për t'u përmbajtur një detyrimi ligjor", 
+
+  "requirments2": "për të mbrojtur të drejtat ose pronën e ofruesit", 
+
+  "requirments3": "Për të parandaluar ose hetuar ndonjë keqbërje të mundshme në lidhje me Shërbimin", 
+
+  "requirments4": "Për të mbrojtur sigurinë personale të përdoruesve të Shërbimit ose publikut", 
+
+  "requirments5": "Për të mbrojtur nga përgjegjësia ligjore", 
+
+ 
+
+  "right.complain": "Ju keni të drejtë të ankoheni në Autoritetin për Mbrojtjen e të Dhënave për mbledhjen dhe përdorimin e të dhënave tuaja personale. Për më shumë informacion, ju lutemi kontaktoni autoritetin tuaj lokal të mbrojtjes së të dhënave në Zonën Ekonomike Evropiane (EEA).", 
+
+  "privacy.transfer.security": "Siguria e të dhënave tuaja është e rëndësishme për ne, por asnjë metodë transmetimi ose ruajtjeje nuk është 100% e sigurtë. Ne përpiqemi të përdorim mjete të pranueshme në treg, por nuk mund të garantojmë siguri absolute.", 
+
+  "privacy.transfer.rights_gdpr": "Nëse jeni rezident i Zonës Ekonomike Evropiane (EEA), keni të drejta të mbrojtjes së të dhënave. Ofruesi synon të ndërmarrë hapa të arsyeshëm për t'ju lejuar të korrigjoni, ndryshoni, fshini, ose të kufizoni përdorimin e të dhënave tuaja personale.", 
+
+  "privacy.certain.circums": "Në disa rrethana, keni të drejtat e mëposhtme të mbrojtjes së të dhënave", 
+
+  "google.analytics": "Google Analytics", 
+
+  "google.analytics.desc": "Google Analytics është një shërbim analitike në internet i ofruar nga Google që gjurmon dhe raporton trafikun e faqes së internetit. Google përdor të dhënat e mbledhura për të ndjekur dhe monitoruar përdorimin e Shërbimit tonë. Këto të dhëna ndahen me shërbime të tjera të Google. Google mund të përdorë të dhënat e mbledhura për të kontekstualizuar dhe personalizuar reklamat e rrjetit të vet reklamues. Ju mund të përjashtoheni nga bërja e aktivitetit tuaj në Shërbim të dukshëm për Google Analytics duke instaluar shtesën e shfletuesit për përjashtimin nga Google Analytics. Shtesa parandalon JavaScript-in e Google Analytics (ga.js, analytics.js, dhe dc.js) nga ndarja e informacionit me Google Analytics rreth aktivitetit të vizitave. Për më shumë informacion mbi praktikat e privatësisë së Google, ju lutemi vizitoni faqen e Termave të Privatësisë së Google", 
+
+  "privacy.your.access": "Të drejta për të hyrë, përditësuar ose për të fshirë informacionin që kemi për ju. Sa herë që është e mundur, mund të hyni, përditësoni ose kërkoni fshirjen e të dhënave tuaja personale drejtpërdrejt në seksionin e cilësimeve të llogarisë tuaj. Nëse nuk jeni në gjendje t'i kryeni këto veprime vetë, ju lutemi na kontaktoni për të ndihmuar. Të drejta e korrigjimit. Keni të drejtë që informacioni juaj të korrigjohet nëse ai është i pasaktë ose i paplotë. Të drejta e kundërshtimit. Keni të drejtë të kundërshtoni përpunimin e të dhënave tuaja personale nga ne. Të drejta e kufizimit. Keni të drejtë të kërkoni që ne të kufizojmë përpunimin e informacionit tuaj personal. Të drejta e portabilitetit të të dhënave. Keni të drejtë të merrni një kopje të informacionit që kemi për ju në një format të strukturuar, të lexueshëm nga makinat dhe të përdorur gjerësisht. Të drejta për të tërhequr pëlqimin. Gjithashtu keni të drejtë të tërhiqni pëlqimin tuaj në çdo kohë kur Ofruesi ka mbështetur në pëlqimin tuaj për të përpunuar informacionin tuaj personal.", 
+
+  "google.adSense": "Google AdSense DoubleClick Cookie", 
+
+  "google.adSense.desc": "Google, si furnizues i palës së tretë, përdor cookies për të shfaqur reklama në Shërbimin tonë. Përdorimi i cookie-së DoubleClick nga Google i lejon atë dhe partnerët e tij të shfaqin reklama për përdoruesit tanë bazuar në vizitat e tyre në Shërbimin tonë ose në faqe të tjera në internet. Ju mund të përjashtoheni nga përdorimi i cookie-së DoubleClick për reklama të bazuara në interes duke vizituar faqen e Cilësimeve të Reklamave të Google:", 
+
+  "google.adSense.provider": "Ofruesi përdor shërbime remarketing për t'ju reklamuar në faqet e palëve të treta pasi keni vizituar Shërbimin tonë. Ne dhe furnizuesit tanë të palëve të treta përdorim cookies për të informuar, optimizuar dhe shfaqur reklama bazuar në vizitat tuaja të kaluara në Shërbimin tonë.", 
+
+  "google.adWords": "Google AdWords", 
+
+  "google.adWords.rec": "rekomandon instalimin e shtesës së shfletuesit për përjashtim nga Google Analytics –", 
+
+  "google.also": "Google gjithashtu", 
+
+  "google.analytics.your.browser": "– për shfletuesin tuaj të internetit. Shtesa për përjashtim nga Google Analytics i shfletuesit u jep vizitorëve mundësinë të parandalojnë mbledhjen dhe përdorimin e të dhënave të tyre nga Google Analytics. Për më shumë informacion mbi praktikat e privatësisë së Google, ju lutemi vizitoni faqen e Termave të Privatësisë së Google:", 
+
+  "facebook": "Facebook", 
+
+  "facebook.remarketing": "Shërbimi i remarketingut të Facebook-it ofrohet nga Facebook Inc. Mund të mësoni më shumë rreth reklamave të bazuara në interes nga Facebook duke vizituar këtë faqe:", 
+
+  "facebook.ad": "Për të përjashtuar reklamat e bazuara në interes të Facebook-ut ndiqni këto udhëzime nga Facebook:", 
+
+  "facebook.adheres1": "Facebook ndjek Parimet Vetëregullatore për Reklamimin Online të Sjelljes së Vendosur nga Digital Advertising Alliance. Ju gjithashtu mund të përjashtoheni nga Facebook dhe kompani të tjera pjesëmarrëse përmes Digital Advertising Alliance në SHBA ", 
+
+  "facebook.adheres2": "Digital Advertising Alliance e Kanadasë në Kanada", 
+
+  "facebook.adheres3": "ose European Interactive Digital Advertising Alliance në Evropë", 
+
+  "facebook.adheres4": "ose përjashtoni duke përdorur cilësimet e pajisjes suaj mobile. Për më shumë informacion mbi praktikat e privatësisë së Facebook-ut, ju lutemi vizitoni Politikën e të Dhënave të Facebook-ut:", 
+
+"privacy.shouldNote": "Ju lutemi vini re se mund t'ju kërkojmë të verifikoni identitetin tuaj përpara se të përgjigjemi ndaj kërkesave të tilla.", 
+
+  "privacy.wishInformed": "Nëse dëshironi të informoheni për të dhënat personale që ne ruajmë rreth jush dhe nëse dëshironi që ato të hiqen nga sistemet tona, ju lutemi na kontaktoni.", 
+
+  "privacy.service_providers.description": "Ne mund të punësojmë kompani dhe individë të palëve të treta për të lehtësuar Shërbimin tonë. Këto palë të treta kanë akses në të dhënat tuaja personale vetëm për të kryer detyra dhe janë të detyruara të mos i zbulojnë ose përdorin për ndonjë qëllim tjetër.", 
+
+  "privacy.bolgaria": "Nëse ndodheni jashtë Bullgarisë dhe zgjidhni të na jepni informacion, ju lutemi vini re se ne transferojmë të dhënat, përfshirë të dhënat personale, në Bullgari dhe i përpunojmë atje.", 
+
+  "privacy.service_providers.analytics": "Ne mund të përdorim Ofrues të Shërbimit të palëve të treta si Google Analytics për të monitoruar dhe analizuar përdorimin e Shërbimit tonë.", 
+
+  "privacy.service_providers.advertising": "Ne mund të përdorim Ofrues të Shërbimit të palëve të treta për t'ju shfaqur reklama për të ndihmuar mbështetjen dhe mirëmbajtjen e Shërbimit tonë", 
+
+  "privacy.service_providers.behavioral_remarketing": "Shërbimi i remarketingut të Google AdWords ofrohet nga Google Inc. Ju mund të përjashtoheni nga Google Analytics për Reklamim në ekran dhe të personalizoni reklamat e Google Display Network duke vizituar faqen e Cilësimeve të Reklamave të Google:", 
+
+  "privacy.service_providers.links": "Shërbimi ynë mund të përmbajë lidhje për në faqe të tjera që nuk janë të operuara nga ne. Shqyrtoni politikat e privatësisë të atyre faqeve.", 
+
+  "privacy.noControl": "Ne nuk kemi kontroll dhe nuk marrim asnjë përgjegjësi për përmbajtjen, politikat e privatësisë ose praktikat e ndonjë faqeje ose shërbimi të palës së tretë.", 
+
+  "privacy.child": "Privatësia e Fëmijëve", 
+
+  "privacy.service_providers.children": "Shërbimi ynë nuk i drejtohet askujt nën moshën 18 vjeç (“Fëmijë”). Ne nuk mbledhim në mënyrë të qëllimshme informacione që identifikohen personalisht nga askush nën moshën 18 vjeç. Nëse jeni prind ose kujdestar dhe jeni në dijeni se fëmija juaj ka na dhënë të dhëna personale, ju lutemi na kontaktoni. Nëse marrim në dijeni se kemi mbledhur të dhëna personale nga fëmijë pa verifikimin e pëlqimit të prindërve, ne marrim masa për të hequr ato informacione nga serverat tanë.", 
+
+  "privacy.changes": "Ndryshimet në këtë Politikë Privatësie", 
+
+  "privacy.service_providers.changes": "Ne mund të përditësojmë Politikën tonë të Privatësisë herë pas here. Ndryshimet do të publikohen në këtë faqe dhe/ose do të njoftohen me email.", 
+
+  "privacy.letKnow": "Ne do t'ju njoftojmë me email dhe/ose një njoftim të dukshëm në Shërbimin tonë, para se ndryshimi të hyjë në fuqi dhe do të përditësojmë “datën e efektshme” në krye të kësaj politike privatësie", 
+
+  "privacy.advises": "Ju këshillojmë të rishikoni këtë Politikë Privatësie periodikisht për ndonjë ndryshim. Ndryshimet në këtë Politikë Privatësie hyjnë në fuqi kur publikohen në këtë faqe.", 
+
+  "privacy.service_providers.contact": "Nëse keni ndonjë pyetje rreth kësaj politike privatësie, ju lutemi na kontaktoni me email.",
+
+  "terms_title": "Kushtet e Përdorimit",
+  "terms_intro_welcome": "Mirë se vini në Aivontrixen. Këto Kushte të Përdorimit (\"Kushtet\") rregullojnë angazhimin tuaj me platformën tonë të vendosur në Aivontrixen (\"Shërbimi\") i operuar nga Aivontrixen.",
+  "terms_intro_generator": "Kushtet tona të Përdorimit u zhvilluan duke përdorur Gjeneratorin e Kushteve të Përdorimit.",
+  "terms_intro_acceptance_1": "Duke vizituar ose përdorur Shërbimin tonë, ju pranoni të jeni të lidhur nga këto Kushte. Nëse keni ndonjë kundërshtim ndaj ndonjë pjese të këtyre kushteve, nuk mund të përdorni Shërbimin.",
+  "terms_intro_changes": "Ju lutemi, kuptoni se ne mund t'i ndryshojmë këto Kushte herë pas here dhe ndryshimet do të hyjnë në fuqi menjëherë pas postimit. Përdorimi juaj i vazhdueshëm i platformës përbën pranimin tuaj të çdo kushti të rishikuar ose të përditësuar.",
+  "terms_intro_rejection": "Nëse refuzoni ndonjë nga këto Kushte, ju lutemi përmbahuni nga klikimi në \"PRANOJ\" dhe ndaloni përdorimin e Faqes së Internetit.",
+  "terms_intro_website_def": "Faqja e Internetit i referohet Aivontrixen, e aksesueshme nga Aivontrixen",
+  "section_1_title": "1. Përdorimi i Faqes së Internetit dhe Shërbimeve",
+  "section_1_access": "Në përputhje me termat dhe kushtet e përcaktuara këtu, ju mund të aksesoni dhe përdorni Faqen e Internetit me qëllim të përdorimit të Shërbimeve në baza jo-ekskluzive.",
+  "section_1_modifications": "Ju pranoni që Kompania mundet, sipas gjykimit të saj të vetëm dhe në çdo kohë, të modifikojë, përditësojë ose ndryshojë ndryshe Faqen e Internetit ose Shërbimet, duke përfshirë ndërprerjen e ofrimit të disa ose të gjitha Faqeve të Internetit dhe/ose Shërbimeve ose modifikimin ose heqjen e çdo përmbajtjeje të disponueshme përmes Faqes së Internetit ose Shërbimeve, pa njoftim paraprak.",
+  "section_1_void": "Përdorimi i Faqes së Internetit dhe Shërbimeve është i pavlefshëm atje ku është i ndaluar.",
+  "section_1_warranties_intro": "Duke përdorur Faqen e Internetit dhe Shërbimet, ju përfaqësoni dhe garantoni se:",
+  "section_1_warranties_a": "çdo informacion që dorëzoni (nëse është e zbatueshme) është i vërtetë dhe i saktë;",
+  "section_1_warranties_b": "do të ruani saktësinë e informacionit të tillë; dhe",
+  "section_1_warranties_c": "jeni të paktën në moshën madhore në juridiksionin tuaj; dhe",
+  "section_1_warranties_d": "përdorimi juaj i Faqes së Internetit ose Shërbimeve nuk shkel dhe nuk promovon shkeljen e ndonjë ligji ose rregulloreje të zbatueshme, ose të ndonjë detyrimi ligjor ose kontraktual që mund të keni ndaj një pale të tretë, dhe se ju keni qenë dhe do të jeni gjatë gjithë kohës në përputhje me të gjitha ligjet, rregullat dhe rregulloret e zbatueshme në lidhje me përdorimin tuaj të Shërbimeve dhe Faqes së Internetit, çdo shërbim i rregulluar përmes Shërbimeve dhe Faqes së Internetit, duke përfshirë, pa kufizim, shërbime të tilla që lidhen në çfarëdo mënyre me Produktet ose Palët e Treta, siç janë përcaktuar këta terma këtu.",
+  "section_1_undertakings_def": "Nën-seksionet (a)-(d) do të quhen kolektivisht si \"Përfaqësimet dhe Garancitë e Përdoruesit\".",
+  "section_1_verification": "Duke përdorur Shërbimet ose Faqen e Internetit, ju kuptoni dhe pranoni që Kompania mundet, sipas gjykimit të saj të vetëm, por nuk është e detyruar, të verifikojë nëse të gjitha ose disa nga Përfaqësimet dhe Garancitë e Përdoruesit po respektohen nga ndonjë Përdorues, dhe ju pranoni më tej që Kompania nuk është përgjegjëse për sigurimin e pajtueshmërisë me Përfaqësimet dhe Garancitë e Përdoruesit ose për ndonjë dështim për të pezulluar, ndërprerë ose parandaluar përdorimin e Shërbimeve ose Faqes së Internetit nga Përdoruesit që nuk i respektojnë Përfaqësimet dhe Garancitë e Përdoruesit.",
+  "section_1_responsibility": "Ju kuptoni se jeni **vetëm përgjegjës** për kryerjen e vlerësimeve, vendimeve dhe gjykimeve tuaja në lidhje me atë nëse do të përfshiheni në marrëdhënie me ndonjë Palë të Tretë ose nëse do të ndërveproni ndryshe me ndonjë Palë të Tretë në çfarëdo mënyre.",
+  "section_1_reporting": "Nëse bëheni të vetëdijshëm për ndonjë shkelje të Përfaqësimeve dhe Garancive të Përdoruesit, ju inkurajoheni ta **raportoni** këtë tek Kompania.",
+  "section_1_right_to_refuse": "Kompania rezervon të drejtën për të **mos ju ofruar** asnjë Shërbim, me ose pa njoftim, sipas gjykimit të saj të vetëm, qoftë për shkak se ajo bëhet e vetëdijshme për ndonjë shkelje të Përfaqësimeve dhe Garancive të Përdoruesit (qoftë përmes raporteve të dhëna nga Përdoruesit e tjerë ose ndryshe) nga ana juaj ose nga ana e ndonjë Përdoruesi tjetër, ose për çdo arsye tjetër.",
+  "section_1_disclaimer_main": "Pa paragjykuar sa më sipër, Kompania **refuzon shprehimisht** çdo dhe të gjithë përgjegjësinë, dhe ju **lirini shprehimisht** Kompaninë nga të gjitha mosmarrëveshjet, pretendimet, veprimet, lëndimet, humbjet, dëmet dhe/ose dëmtimet që rrjedhin nga dhe/ose lidhen në çfarëdo mënyre me:",
+  "section_1_disclaimer_i": "çdo pasaktësi, papërshtatshmëri kohore ose paplotësi të Përfaqësimeve të Përdoruesit ose Palës së Tretë; dhe",
+  "section_1_disclaimer_ii": "deklaratat e rreme dhe/ose keqpërfaqësimet e bëra qoftë në lidhje me, ose nga ndonjë nga Palët e Treta ose Përdoruesit e tjerë, Produktet ose ndryshe.",
+  "section_1_platform_only": "Duke përdorur Faqen e Internetit dhe Shërbimet, ju kuptoni dhe pranoni që Shërbimet ofrojnë vetëm një **platformë**, e destinuar për të ndihmuar Përdoruesit në arritjen, blerjen dhe/ose përdorimin e produkteve dhe shërbimeve të ndryshme të ofruara nga shitës dhe/ose ofrues shërbimesh të palëve të treta, përmes reklamave ose promovimeve që ne drejtojmë (respektivisht, \"**Produktet**\" dhe \"**Palët e Treta**\").",
+  "section_1_company_a": "**nuk punëson, nuk rekomandon ose nuk miraton** asnjë Palë të Tretë ose Produkte, nëse është e zbatueshme, ose ndonjë palë të lidhur me to, dhe **nuk ka kontroll** mbi veprimet ose mosveprimet e ndonjë Pale të Tretë, biznesin e tyre, produktet ose shërbimet e tyre;",
+  "section_1_company_b": "**nuk bën asnjë përfaqësim ose garanci** në lidhje me Palët e Treta dhe Produktet, duke përfshirë cilësinë, çmimin, pajtueshmërinë, disponueshmërinë ose ndonjë karakteristikë tjetër të tyre, ose në lidhje me ndërveprimet tuaja ose marrëdhëniet tregtare me ndonjë Palë të Tretë;",
+  "section_1_company_c": "**nuk bën asnjë përfaqësim ose garanci** në lidhje me titullin ose të drejtat e tjera ose karakteristikat ose aspektet rregullatore që lidhen me Produktet, duke përfshirë çdo leje, licencë ose autorizim të kërkuar për të ngarkuar, shpërndarë ose vënë në dispozicion ndryshe dhe për të përdorur, shitur dhe blerë Produkte të tilla; dhe",
+  "section_1_company_d": "**nuk është përgjegjëse** për performancën ose sjelljen e ndonjë Përdoruesi ose palëve të tjera të treta që përdorin ose kanë përdorur Shërbimet në çfarëdo mënyre, dhe/ose në Faqen e Internetit ose jashtë saj.",
+  "section_1_no_screening": "Kompania **nuk është e detyruar të shqyrtojë** ose ndryshe të verifikojë ndonjë informacion në lidhje me Palët e Treta dhe/ose Përdoruesit, Produktet ose ndonjë funksion tjetër të lidhur me Faqen e Internetit ose Shërbimet, dhe për rrjedhojë ju duhet të **merrni masa paraprake dhe të kryeni hetimet dhe verifikimet tuaja** përpara se të përfshiheni në marrëdhënie me ndokënd përmes Shërbimeve ose Faqes së Internetit ose të ndërveproni ndryshe me ndokënd.",
+  "section_1_full_disclaimer": "Kompania **refuzon shprehimisht** çdo dhe të gjithë përgjegjësinë, dhe ju **lirini shprehimisht** Kompaninë nga të gjitha mosmarrëveshjet, pretendimet, veprimet, lëndimet, humbjet, dëmet dhe/ose dëmtimet që rrjedhin nga dhe/ose lidhen në çfarëdo mënyre me Palët e Treta, Produktet, Shërbimet dhe Faqen e Internetit ose ndërveprimet tuaja ose marrëdhëniet tregtare me ndonjë Palë të Tretë, duke përfshirë, pa kufizim, çdo akt dhe/ose mosveprim të Palëve të Treta që përdorin ose janë të lidhura në çfarëdo mënyre me Shërbimet ose Faqen e Internetit.",
+  "section_1_risk": "Duke përdorur Shërbimet ose Faqen e Internetit, ju pranoni që jeni **vetëm përgjegjës** për një përdorim të tillë, dhe për lidhjet, ndërveprimet, blerjet ose çdo veprim tjetër që ndërmerrni, dhe se çdo përdorim i Shërbimeve ose Faqes së Internetit është në **rrezikun tuaj të vetëm**.",
+  "section_1_no_sale": "Për të shmangur dyshimet, Kompania **nuk shet, nuk licencon ose ndryshe nuk vë në dispozicion** ndonjë Produkt ose shërbim (përveç Shërbimeve) për ju dhe **nuk do të ketë asnjë përgjegjësi** për ndonjë Produkt ose shërbim që blini nga ndonjë Palë e Tretë, duke përfshirë, pa kufizim, në lidhje me çdo mbështetje dhe mirëmbajtje, dështime, gabime, mosfunksionime, dëme ose kosto të çfarëdo lloji.",
+  "section_2_title": "2. Kufizimet",
+  "section_2_intro": "Pa paragjykuar dispozitat e Seksionit 1 të këtij dokumenti, ju **nuk duhet** dhe nuk do të lejoni asnjë palë të tretë të:",
+  "section_2_a": "**inxhinieri të kundërt** ose të përpiqeni të gjeni kodin burimor të Faqes së Internetit ose Shërbimeve;",
+  "section_2_b": "përdorni Faqen e Internetit ose Shërbimet **në kundërshtim me ndonjë ligj ose rregullore të zbatueshme**, duke përfshirë, pa kufizim, postimin, publikimin, ndarjen ose transmetimin ndryshe të ndonjë materiali të paligjshëm ose ofendues;",
+  "section_2_c": "**kopjoni, modifikoni ose krijoni vepra derivative** të Faqes së Internetit, Shërbimeve ose përmbajtjes së ndonjë prej Faqeve të Internetit ose Shërbimeve;",
+  "section_2_d": "përpiqeni të **çaktivizoni ose anashkaloni** ndonjë mekanizëm të sigurisë ose kontrollit të aksesit të Faqes së Internetit ose Shërbimeve;",
+  "section_2_e": "**zhvilloni ose ndihmoni në zhvillimin** e çdo mashtrimi, shfrytëzimi, softueri automatizimi, bot-i, hakerimi, modi ose çdo softueri tjetër të paautorizuar të palës së tretë për të modifikuar ose ndërhyrë në Faqen e Internetit ose Shërbimet;",
+  "section_2_f": "përdorni Faqen e Internetit ose Shërbimet ose ndërveproni me Përdoruesit e tjerë për **ndonjë qëllim që shkel ndonjë ligj ose rregullore të zbatueshme**;",
+  "section_2_g": "përpiqeni të fitoni **akses të paautorizuar** në Faqen e Internetit ose Shërbimet, Llogaritë e Përdoruesve të tjerë siç përcaktohet më poshtë, ose pajisje, sisteme kompjuterike, sisteme telefonike ose rrjete të tjera të lidhura me Faqen e Internetit ose Shërbimet; dhe",
+  "section_2_h": "**mbledhni** ose ndryshe **grumbulloni informacione** rreth Përdoruesve pa pëlqimin e tyre.",
+  "section_2_content_warranties": "Nëse postoni, ngarkoni, shpërndani ose transmetoni ndryshe ndonjë përmbajtje përmes Faqes së Internetit dhe/ose duke përdorur Shërbimet, ju përfaqësoni dhe garantoni që përmbajtja e tillë siguron një **përfaqësim të saktë dhe të plotë** të çdo produkti ose shërbimi të përshkruar në të, **është në përputhje me këto Kushte** dhe **nuk**:",
+  "section_2_content_a": "**shkel** të drejtat e pronësisë intelektuale, të drejtat morale ose të drejtat e publicitetit të ndonjë pale të tretë;",
+  "section_2_content_b": "përmban ndonjë **përmbajtje shpifëse, denigruese, të ndyrë, seksualisht të hapur ose ndryshe të papërshtatshme** (duke përfshirë materialin që promovon ose lavdëron urrejtjen, dhunën ose fanatizmin);",
+  "section_2_content_c": "përmban **ndonjë krimb, virus ose softuer tjetër të dëmshëm**;",
+  "section_2_content_d": "**shkel** ndonjë ligj ose rregullore të zbatueshme, duke përfshirë ndonjë ligj ose rregullore të reklamave ose marketingut; dhe",
+  "section_2_content_e": "ndërmerr **ndonjë veprim që vendos një ngarkesë të paarsyeshme ose joproporcionale të madhe** në infrastrukturën tonë.",
+  "section_2_license_grant": "Duke postuar, ngarkuar, publikuar, shpërndarë ose transmetuar ndryshe ndonjë përmbajtje duke përdorur Faqen e Internetit ose Shërbimet, ju me këtë **i jepni në mënyrë të parevokueshme** Kompanisë dhe çdo prej bashkëpunëtorëve të saj dhe/ose nënlicencuesve një **licencë mbarëbotërore, jo-ekskluzive, të përhershme, pa të drejtë pagese** për të publikuar, shpërndarë, shfaqur dhe transmetuar ndryshe përmbajtjen e tillë në çdo formë të arsyeshme, siç do të vendoset sipas **gjykimit të vetëm të Kompanisë**.",
+  "section_2_removal_right": "Kompania rezervon të drejtën për të **hequr, pezulluar aksesin ose fshirë përgjithmonë** çdo përmbajtje sipas **gjykimit të saj të vetëm pa njoftim paraprak**, duke përfshirë, pa kufizim, çdo përmbajtje që shkel garancitë e mësipërme ose interesat e biznesit të Kompanisë, dhe ju **nuk do të keni asnjë të drejtë ose pretendim** në lidhje me ndonjë vendim dhe veprim të tillë.",
+  "section_2_no_liability_content": "Kompania **nuk është** dhe nuk do të jetë **përgjegjëse** për ndonjë përmbajtje të siguruar, postuar, ngarkuar, shpërndarë ose vënë ndryshe në dispozicion nga Përdoruesit, çdo produkt ose shërbim të lidhur me përmbajtjen e tillë të siguruar, postuar, ngarkuar, shpërndarë ose vënë ndryshe në dispozicion nga Përdoruesit. Çdo Përdorues që përdor Faqen e Internetit ose Shërbimet me këtë përfaqëson se merr **përgjegjësi të plotë** në këtë drejtim, dhe Kompania **nuk do të ketë asnjë përgjegjësi** në lidhje me sa më sipër.",
+  "section_3_title": "3. Materialet Promocionale dhe Buletinet",
+  "section_3_consent": "Përveç dispozitave të Seksionit 3 më sipër, Përdoruesi jep **pëlqimin e tij të shprehur** Kompanisë për t'i ofruar Përdoruesit materiale promovuese dhe buletine (\"**Materialet Promocionale dhe Buletinet**\") **me çdo mjet të disponueshëm**, duke përfshirë emailin, mesazhet me tekst dhe SMS, faks, postë, shërbime të automatizuara të thirrjeve ose ndryshe, të gjitha sipas **gjykimit të vetëm të Kompanisë**, herë pas here, dhe për të **pranuar** Materiale Promocionale dhe Buletine të tilla.",
+  "section_3_third_party_ads": "Përdoruesi pranon më tej që Materialet Promocionale dhe Buletinet mund të përfshijnë **reklama të palëve të treta**, dhe ai **pranon shprehimisht** marrjen e reklamave të tilla si pjesë e Materialeve Promocionale dhe Buletineve.",
+  "section_3_unsubscribe": "Përdoruesi mund të **kontaktojë** Kompaninë në çdo kohë duke dërguar një kërkesë me email, duke njoftuar Kompaninë për refuzimin e tij për të vazhduar marrjen e Materialeve Promocionale dhe Buletineve.",
+  "section_4_title": "4. Pronësia Intelektuale",
+  "section_4_ownership": "Kompania zotëron të gjitha të drejtat, titujt dhe interesat mbarëbotërore në: (a) Faqen e Internetit dhe Shërbimet, përmirësimet, veprat derivative, rregullimet e gabimeve ose rritjet në Faqen e Internetit dhe Shërbimet; dhe (b) emrat tregtarë, markat tregtare dhe logot e Kompanisë dhe do të mbeten gjatë gjithë kohës **pronë ekskluzive e Kompanisë**.",
+  "section_4_license_meaning": "Të gjitha referencat në këto Kushte ose ndonjë komunikim tjetër për shitjen, rishitjen ose blerjen e sa më sipër nënkuptojnë vetëm **të drejtën për të përdorur Faqen e Internetit dhe Shërbimet** në përputhje me këto Kushte.",
+  "section_4_user_liability": "Përdoruesit janë **vetëm përgjegjës** për çdo dhe të gjithë përmbajtjen, duke përfshirë çdo të drejtë të pronësisë intelektuale në të, të siguruar, shpërndarë ose vënë ndryshe në dispozicion nga Përdoruesit duke përdorur Faqen e Internetit dhe/ose Shërbimet, dhe Kompania **nuk bën asnjë përfaqësim** në lidhje me ndonjë përmbajtje të tillë. Kompania **nuk do të jetë përgjegjëse** për ndonjë humbje ose dëm të pësuar për shkak të përmbajtjes së tillë, dhe Përdoruesit pranojnë të **indemnizojnë** dhe **mbajnë të padëmtuar** Kompaninë nga çdo dëm ose humbje që rrjedh nga sa më sipër.",
+  "section_5_title": "5. Privatësia",
+  "section_5_no_save": "Ju merrni përsipër të **mos ruani, mbledhni ose ndryshe të mbani** në zotërimin tuaj dhe të mos përdorni **ndonjë përmbajtje** të siguruar nga Shërbimet dhe Faqja e Internetit **pa pëlqimin paraprak me shkrim** të Kompanisë.",
+  "section_5_company_rights": "Ju pranoni më tej që Kompania rezervon të drejtën, sipas gjykimit të saj të vetëm, të **ruajë, mbledhë ose ndryshe të mbajë** në zotërimin e saj dhe të përdorë **ndonjë përmbajtje dhe informacion publik**, duke përfshirë informacionin që mund të **ju identifikojë personalisht** ose çdo Përdorues ose Palë të Tretë tjetër ose të përshkruajë interesat tuaja personale.",
+  "section_5_privacy_policy": "Kompania rezervon të drejtën për të kryer **ndonjë përdorim të lejuar** nën çdo ligj të zbatueshëm të përmbajtjeve dhe informacionit publik të tillë, siç specifikohet në **Politikën e Privatësisë së Kompanisë**.",
+  "section_5_no_verification": "Pa paragjykuar dispozitat e Seksionit 1 më sipër, Kompania **nuk shqyrton, nuk teston, nuk vërteton, nuk miraton ose ndryshe nuk verifikon** ndonjë përmbajtje ose informacion publik të tillë.",
+  "section_5_user_responsibility": "Çdo Përdorues që poston, ngarkon, shpërndan ose ndryshe vë në dispozicion përmbajtjen ose informacionin publik të tillë do të jetë **vetëm përgjegjës** për përmbajtjen ose informacionin publik, duke përfshirë çdo informacion të palës së tretë dhe **pëlqimet e nevojshme**.",
+  "section_5_indemnification": "Kompania **nuk do të jetë përgjegjëse** për ndonjë humbje ose dëm të pësuar për shkak të mosrespektimit të sa më sipër, dhe ju pranoni të **indemnizoni** dhe **mbani të padëmtuar** Kompaninë nga çdo dëm ose humbje që rrjedh nga sa më sipër.",
+  "section_5_not_storage": "PA PARAGJYKIM TË SA MË SIPËR, JU KUPTONI DHE PRANONI QË KOMPANIA **NUK ËSHTË NJË SHËRBIM RUAJTJEJE PËR PËRMBAJTJEN**. KOMPANIA **NUK DO TË KETË ASNJË PËRGJEGJËSI** PËR NDONJË **PËRMBAJTJE TË HUMBUR OSE TË FSHIRË** APO INFORMACION PUBLIK.",
+  "section_5_public_warning": "DUHET TË JENI TË VETËDIJSHËM SE **ÇDO PËRMBAJTJE** e postuar, ngarkuar, shpërndarë ose vënë ndryshe në dispozicion **MUND TË LEXOHET, MBLEDHET DHE PËRDORET NGA PËRDORUESIT E TJERË** DHE MUND TË PËRDORET PËR TË DËRGUAR **PËRMBAJTJE TË PA KËRKUAR**.",
+  "section_6_title": "6. Lidhjet",
+  "section_6_description": "Faqja e Internetit ose Shërbimet mund të përmbajnë lidhje ose përmbajtje tjetër të lidhur me faqet e internetit, reklamuesit, botuesit ose Produktet e ofruara nga palët e treta. Kompania **nuk ka kontroll** dhe **nuk bën asnjë përfaqësim** në lidhje me to ose ndonjë informacion të dhënë ose transmetuar përmes tyre, ose të dhënë ndryshe nga ndonjë palë e tretë e tillë.",
+  "section_6_risk": "JU KUPTONI DHE PRANONI QË PËRDORIMI I LIDHJEVE TË TILLA OSE PËRMBAJTJES TJETËR ËSHTË NË **RREZIKUN TUAJ TË VETËM**, QË LIDHJET E TILLA OSE PËRMBAJTJA TJETËR RREGULLOHEN NGA **KUSHTET E PËRDORIMIT DHE POLITIKAT E PRIVATËSISË TË ATO PALËVE TË TRETA**, DHE QË KOMPANIA **NUK ËSHTË PËRGJEGJËSE** PËR PRIVATËSINË, PRAKTIKAT E BIZNESIT OSE POLITIKAT E TJERA TË ATO PALËVE TË TRETA.",
+  "section_6_review_advice": "Ju duhet të **rishikoni me kujdes** kushtet dhe politikat e zbatueshme që zbatohen për ndonjë Palë të Tretë të tillë.",
+  "section_6_full_disclaimer": "KOMPANIA **NUK ËSHTË PËRGJEGJËSE** NË ASNJË MËNYRË PËR NDONJË **PALË TË TRETË** TË TILLË OSE PËR NDONJË **HUMBJE OSE DËM** TË ÇFARËDO LLOJI TË PËSUAR SI REZULTAT, DHE KOMPANIA **REFUZON SHPREHIMISHT** ÇDO DHE TË GJITHË PËRGJEGJËSINË, DHE JU **LIRINI SHPREHIMISHT** KOMPANINË NGA TË GJITHA MOSMARRËVESHJET, PRETENDIMET, VEPRIMET, LËNDIMET, HUMBJET, DËMET DHE/OSE DËMTIMET QË RREJDHIN NGA DHE/OSE LIDHEN NË ÇFARËDO MËNYRE ME **PALË TË TRETA TË TILLA**, DUKE PËRFSHIRË, PA KUFIZIM, NË LIDHJE ME DISPONUESHMËRINË, KUSHTET E PËRDORIMIT, PRIVATËSINË, INFORMACIONIN, PËRMBAJTJEN, MATERIALET, REKLAMIMIN, TARIFAT, PRODUKTET DHE/OSE SHËRBIMET.",
+  "section_7_title": "7. Përdorimet e Ndaluara",
+  "section_7_commercial": "Faqja e Internetit dhe Shërbimet **nuk mund të përdoren** në lidhje me **ndonjë sipërmarrje komerciale** (përveç nëse autorizohet shprehimisht nga Kompania në lidhje me lidhjen e Përdoruesve me ndonjë Palë të Tretë) **pa pëlqimin paraprak me shkrim** të Kompanisë.",
+  "section_7_recruitment": "Faqja e Internetit dhe Shërbimet **nuk mund të përdoren** nga ndonjë person ose entitet për **rekrutimin** për ndonjë faqe tjetër interneti, **kërkimin, reklamimin ose kontaktimin** në çfarëdo forme të Përdoruesve për **punësim, kontraktim ose ndonjë qëllim tjetër** për një biznes **të palidhur** me Kompaninë **pa pëlqimin paraprak me shkrim** të Kompanisë.",
+  "section_7_user_contact": "Ju pranoni të **mos përdorni** Shërbimet dhe Faqen e Internetit për të **kontaktuar, reklamuar, kërkuar ose shitur** ndonjë Përdorues tjetër **pa pëlqimin e tij të shprehur**, përveç nëse lejohet ndryshe nga këto Kushte.",
+  "section_8_title": "8. Mbështetja",
+  "section_8_text": "Përdoruesit mund të **kontaktojnë** Kompaninë për mbështetje në lidhje me Faqen e Internetit dhe Shërbimet, duke **dërguar një email** në",
+  "section_9_title": "9. Mohimi i Garancive",
+  "section_9_security": "Kompania bën **përpjekje të arsyeshme** për të siguruar që teknologjia e saj ta mbajë Faqen e Internetit dhe Shërbimet të sigurt. Megjithatë, **asnjë teknologji nuk është 100% e sigurt**. Prandaj, ndërsa përpiqemi të përdorim mjete komerciale të pranueshme për të mbrojtur informacionin tuaj personal, ne **nuk mund të garantojmë sigurinë e tij absolute**.",
+  "section_9_as_is": "Përveç siç është përcaktuar shprehimisht këtu, përdorimi juaj i Faqes së Internetit dhe Shërbimeve është në **rrezikun dhe gjykimin tuaj të vetëm**. Faqja e Internetit dhe Shërbimet ofrohen në bazën \"**AS IS**\" dhe \"**AS AVAILABLE**\" **pa garanci** të çfarëdo lloji.",
+  "section_9_no_warranties": "Kompania **refuzon shprehimisht të gjitha garancitë e nënkuptuara ose statutore** të çdo lloji në lidhje me Faqen e Internetit dhe Shërbimet, duke përfshirë, pa kufizim, garancitë e titullit, tregtueshmërisë, përshtatshmërisë për një qëllim të veçantë, mosshkeljes, kursit të tregtimit ose kursit të performancës.",
+  "section_9_no_advice": "Kompania **nuk jep asnjë këshillë** në lidhje me rrezikun ose përshtatshmërinë e ndonjë transaksioni, operacioni ose angazhimi. Kompania **nuk merr asnjë përgjegjësi** për ndonjë transaksion ose angazhim të ndërmarrë nga ju, dhe ju pranoni se jeni **vetëm përgjegjës** për vlerësimin e transaksioneve dhe angazhimeve tuaja.",
+  "section_9_no_liability_advice": "Ju **nuk do ta mbani përgjegjëse** Kompaninë, oficerët, punonjësit ose bashkëpunëtorët e saj për ndonjë zgjedhje transaksionesh ose angazhimesh të bëra nga ju.",
+  "section_9_no_created_warranty": "Asnjë këshillë ose informacion, qoftë verbal apo shkrimor, i marrë nga ju nga Kompania ose oficerët, punonjësit ose bashkëpunëtorët e saj **nuk do të krijojë ndonjë garanci** që nuk është përcaktuar shprehimisht në këto Kushte. Nëse zgjidhni të mbështeteni në informacione të tilla, ju e bëni këtë **vetëm në rrezikun tuaj**.",
+  "section_9_jurisdiction_note": "Disa shtete ose juridiksione **nuk lejojnë** përjashtimin e garancive të caktuara. Rrjedhimisht, disa nga përjashtimet e mësipërme **mund të mos zbatohen** për ju.",
+  "section_10_title": "10. Kufizimi i Përgjegjësisë",
+  "section_10_no_guarantee": "Kompania **nuk garanton** vlerën, cilësinë, pajtueshmërinë ose ndonjë karakteristikë tjetër të Palëve të Treta, Produkteve ose ndonjë informacioni tjetër të siguruar, konsumuar ose vënë ndryshe në dispozicion (në këtë Seksion më poshtë: \"**Karakteristikat**\"). Çdo Karakteristikë është në **përgjegjësinë e vetme** të Palës së Tretë përkatëse ose Përdoruesit që e përdor, nëse është e zbatueshme, ose përdor Shërbimet ose Faqen e Internetit.",
+  "section_10_monitoring": "Kompania **nuk merr përsipër** të monitorojë pajtueshmërinë e tillë dhe mund të ndërmarrë veprime kur zbulohet mospajtueshmëria, siç do të vendoset në përputhje me **gjykimi e saj të vetëm**, siç përshkruhet në këto Kushte.",
+  "section_10_exposure": "Ju kuptoni dhe pranoni se mund të ekspozoheni ndaj përmbajtjes ose informacionit tjetër që është **i pasaktë, i padëshiruar, i papërshtatshëm** për fëmijë ose ndryshe **i papërshtatshëm** për ju.",
+  "section_10_technical": "Kompania **nuk është përgjegjëse** për ndonjë problem ose **keqfunksionim teknik** të ndonjë rrjeti ose linjash telefonike, sistemeve kompjuterike online, serverëve ose ofruesve, pajisjeve kompjuterike, softuerit, dështimit të ndonjë emaili për shkak të problemeve teknike ose bllokimit të trafikut në internet ose në ndonjë nga Faqet e Internetit ose Shërbimet ose çdo kombinim i tyre, duke përfshirë ndonjë dëmtim ose **dëm ndaj Përdoruesve** ose kompjuterit, telefonit celular ose ndonjë pajisje tjetër të çdo personi, lidhur me ose që rezulton nga pjesëmarrja ose shkarkimi i materialeve në lidhje me Faqen e Internetit ose Shërbimet.",
+  "section_10_conduct": "Në **asnjë rrethanë** Kompania **nuk do të jetë përgjegjëse** për **sjelljen e palëve të treta**, duke përfshirë ndonjë Përdorues, online ose offline, dhe operatorët e faqeve të jashtme.",
+  "section_10_no_indirect": "Në **asnjë rast** Kompania ose ndonjë nga oficerët, drejtorët, punonjësit ose agjentët e saj **nuk do të jenë përgjegjës ndaj jush** për ndonjë **dëm indirekt, incidental, special, ndëshkues ose konsekuent**, që rrjedh nga ose në lidhje me përdorimin tuaj të Faqes së Internetit ose Shërbimeve, **pa marrë parasysh nëse dëmet janë të parashikueshme** dhe **pa marrë parasysh nëse Kompania është këshilluar** për mundësinë e dëmeve të tilla.",
+  "section_10_full_extent": "Kufizimi i përgjegjësisë i mësipërm do të zbatohet në **masën maksimale të lejuar me ligj** në juridiksionin e zbatueshëm.",
+  "section_11_title": "11. Dëmshpërblimi",
+  "section_11_text": "Ju do të **mbroni, indemnizoni dhe mbani të padëmtuar** Kompaninë nga dhe kundër çdo dhe të gjitha **veprimeve, procedurave, pohimeve, dëmeve, kostove, detyrimeve ose shpenzimeve** (duke përfshirë kostot gjyqësore dhe tarifat e arsyeshme të avokatit) që Kompania mund të **pësojë ose të përfshihet** në to në lidhje me ndonjë kërkesë, kërkesë, veprim ose procedurë tjetër **faktike ose të pretenduar të palës së tretë** që rrjedh nga ose lidhet me **ndonjë shkelje të këtyre Kushteve** nga ana juaj ose **ndonjë përdorim** i Faqes së Internetit ose Shërbimeve nga ana juaj **që nuk është në përputhje me ligjin e zbatueshëm**.",
+  "section_12_title": "12. Të ndryshme",
+  "section_12_governing_law": "Këto Kushte rregullohen nga **ligjet e Anglisë**, duke përjashtuar rregullat e saj të konfliktit të ligjeve dhe pa marrë parasysh Konventën e Kombeve të Bashkuara për Kontratat për Shitjen Ndërkombëtare të Mallrave. Sjellja juaj mund të jetë subjekt i ligjeve të tjera lokale, shtetërore dhe kombëtare.",
+  "section_12_jurisdiction": "Çdo **mosmarrëveshje** që rrjedh nga këto Kushte ose lidhet me Faqen e Internetit ose Shërbimin do të zgjidhet përfundimisht nga **gjykata kompetente në Angli**.",
+  "section_12_no_class_action": "Ju **nuk mund të ngriheni padi kolektive** kundër Kompanisë dhe, duke përdorur Faqen e Internetit ose Shërbimet, ju pranoni të **hiqni dorë nga të drejtat tuaja** për të ngritur ndonjë padi kolektive të tillë.",
+  "section_12_limitation_period": "Çdo **shkak veprimi** kundër Kompanisë duhet të ngrihet **brenda një (1) viti** nga data kur një shkak i tillë veprimi lind.",
+  "section_12_severability": "Në rast se ndonjë dispozitë e këtyre Kushteve konsiderohet **e pazbatueshme**, një dispozitë e tillë do të **zëvendësohet me një dispozitë të zbatueshme** që arrin më së miri qëllimin e dispozitës origjinale dhe termat e mbetur të këtyre Kushteve do të mbeten në **fuqi dhe efekt të plotë**.",
+  "section_12_no_agency": "Asgjë e përmbajtur në këto Kushte **nuk krijon ndonjë marrëdhënie agjencie, punësimi, sipërmarrjeje të përbashkët ose partneriteti** midis jush dhe Kompanisë ose ju autorizon të veproni në emër të Kompanisë.",
+  "section_12_entire_agreement": "Përveç siç mund të përcaktohet shprehimisht në këto Kushte, këto Kushte përbëjnë **marrëveshjen e plotë** midis Kompanisë dhe jush në lidhje me çështjen e saj.",
+  "section_12_notices": "Çdo **njoftim** që mund të kërkohet t'ju japim, qoftë me ligj apo sipas këtyre Kushteve, mund të jepet nga Kompania në **çdo informacion kontakti** që keni dhënë në informacionin e Llogarisë suaj ose ndryshe, drejtpërdrejt ose tërthorazi, duke përfshirë **emailin**. Ju pranoni shprehimisht marrjen e komunikimeve dhe njoftimeve të tilla në atë mënyrë.",
+  "section_12_no_assignment": "Ju **nuk mund të caktoni** asnjë të drejtë sipas këtij dokumenti **pa pëlqimin tonë paraprak me shkrim**.",
+  "section_12_no_limitation": "Asgjë e përmbajtur në këto Kushte **nuk do të interpretohet si kufizim i veprimeve ose mjeteve juridike** të disponueshme për Kompaninë në lidhje me ndonjë aktivitet ose sjellje të ndaluar.",
+  "section_12_no_waiver": "**Moszbatimi** i ndonjë termi të këtyre Kushteve **nuk do të përbëjë pëlqim ose heqje dorë**, dhe Kompania rezervon të drejtën për të zbatuar një term të tillë sipas **gjykimit të saj të vetëm**. Një heqje dorë nga një e drejtë në lidhje me ndonjë shkelje ose dështim këtu nuk do të konsiderohet si një heqje dorë nga ndonjë shkelje ose dështim paraardhës ose pasues.",
+  "section_12_viewer_responsibility": "Është **përgjegjësia e vetme e shikuesit** të vlerësojë saktësinë, plotësinë ose dobinë e çdo informacioni, opinioni, këshille ose përmbajtjeje tjetër në Faqe."
+
 }

@@ -115,5 +115,390 @@
     "contact.input.email": "E-postanız",
     "contact.input.message": "Mesajınız",
     "contact.button": "Mesaj Gönder",
-    "contact.success": "Mesajınız başarıyla gönderildi!"
+    "contact.success": "Mesajınız başarıyla gönderildi!",
+
+   "privacy.title": "Gizlilik Politikası", 
+
+  "privacy.intro.provider": "Provider (\"us\", \"we\", or \"our\") Aivontrixen platformunu (\"Service\") yönetir.", 
+
+  "privacy.intro.description": "Bu belge, Hizmetimizle etkileşimde bulunduğunuzda kişisel bilgilerinizin toplanması, kullanılması ve paylaşılmasıyla ilgili uygulamalarımızı ve bu bilgilerle ilgili size sunulan seçenekleri özetler.", 
+
+  "privacy.intro.usage": "Biz, Aivontrixen, hizmeti sunmak ve geliştirmek için bilgilerinizi kullanırız. Hizmete katılarak, bu politikada belirtilen şekilde veri toplanması ve kullanılmasına onay vermiş olursunuz. Bu Gizlilik Politikasında açıkça tanımlanmayan terimler, Aivontrixen’den temin edilebilen Şartlar ve Koşullar’daki anlamlarıyla aynı anlama sahiptir.", 
+
+   
+
+  "privacy.toc.definitions": "Tanımlar", 
+
+  "privacy.toc.definitions.service": "Hizmet", 
+
+  "privacy.toc.definitions.personal_data": "Kişisel Veri", 
+
+  "privacy.toc.definitions.usage_data": "Kullanım Verileri", 
+
+  "privacy.toc.definitions.cookies": "Çerezler", 
+
+  "privacy.toc.definitions.data_controller": "Veri Sorumlusu", 
+
+  "privacy.toc.definitions.data_processors": "Veri İşleyenler (veya Hizmet Sağlayıcıları)", 
+
+  "privacy.toc.definitions.data_subject": "Veri Sahibi (veya Kullanıcı)", 
+
+   
+
+  "privacy.toc.info_collection": "Bilgi Toplama ve Kullanımı", 
+
+  "privacy.toc.info_collection.types_of_data": "Toplanan Veri Türleri", 
+
+  "privacy.toc.info_collection.personal_data": "Kişisel Veri", 
+
+  "privacy.toc.info_collection.usage_data": "Kullanım Verileri", 
+
+  "privacy.toc.info_collection.tracking_cookies": "İzleme Çerezleri Verileri", 
+
+  "privacy.toc.info_collection.use_of_data": "Verilerin Kullanımı", 
+
+  "privacy.toc.info_collection.legal_basis": "Genel Veri Koruma Yönetmeliği (GDPR) kapsamında Kişisel Verilerin İşlenmesinin Hukuki Dayanağı", 
+
+  "privacy.toc.info_collection.retention": "Veri Saklama", 
+
+   
+
+  "privacy.toc.transfer": "Veri Transferi", 
+
+  "privacy.toc.transfer.disclosure": "Veri Açıklama", 
+
+  "privacy.toc.transfer.disclosure.business_transaction": "İşlem", 
+
+  "privacy.toc.transfer.legal_requirements": "Yasal Gereklilikler", 
+
+  "privacy.toc.transfer.security": "Veri Güvenliği", 
+
+  "privacy.toc.transfer.rights_gdpr": "Genel Veri Koruma Yönetmeliği (GDPR) kapsamındaki Veri Koruma Haklarınız", 
+
+   
+
+  "privacy.toc.service_providers": "Hizmet Sağlayıcıları", 
+
+  "privacy.toc.service_providers.analytics": "Analitik", 
+
+  "privacy.toc.service_providers.advertising": "Reklamcılık", 
+
+  "privacy.toc.service_providers.behavioral_remarketing": "Davranışsal Yeniden Pazarlama", 
+
+  "privacy.toc.service_providers.links": "Diğer Siteler İçin Bağlantılar", 
+
+  "privacy.toc.service_providers.changes": "Bu Gizlilik Politikasındaki Değişiklikler", 
+
+  "privacy.toc.service_providers.contact": "Bize Ulaşın", 
+
+"privacy.definitions.service": "Hizmet, Provider tarafından işletilen Aivontrixen web sitesidir", 
+
+  "privacy.definitions.personal_data": "Kişisel Veri, bu verilerden (veya elimizde bulunan veya elde edilmesi muhtemel diğer bilgilerden) tanımlanabilen yaşayan bir bireye ilişkin veriler anlamına gelir.", 
+
+  "privacy.definitions.usage_data": "Kullanım Verileri, Hizmetin kullanımıyla otomatik olarak toplanan veya Hizmet altyapısından (örneğin bir sayfa ziyareti süresi) elde edilen verilerdir.", 
+
+  "privacy.definitions.cookies": "Çerezler, cihazınızda (bilgisayar veya mobil cihaz) saklanan küçük veri parçacıklarıdır.", 
+
+  "privacy.definitions.data_controller": "Veri Sorumlusu, (tek başına ya da diğer kişilerle ortaklaşa) kişisel bilgilerin işleneceği amaçları ve şekli belirleyen gerçek veya tüzel kişiyi ifade eder. Bu Gizlilik Politikası kapsamında, kişisel verilerinizin Veri Sorumlusu biziz.", 
+
+  "privacy.definitions.data_processors": "Veri İşleyen (veya Hizmet Sağlayıcı), Veri Sorumlusunun adına verileri işleyen herhangi bir gerçek veya tüzel kişiyi ifade eder. Verilerinizi daha etkili işlemek için çeşitli Hizmet Sağlayıcılarının hizmetlerinden yararlanabiliriz.", 
+
+  "privacy.definitions.data_subject": "Veri Sahibi, hizmetimizi kullanan ve Kişisel Veri konusundaki yaşayan bireyi ifade eder.", 
+
+ 
+
+  "privacy.provider.take": "Provider, verilerinizin güvenli bir şekilde işlenmesini ve bu Gizlilik Politikası ile uyumlu olmasını sağlamak için makul ölçüde gerekli tüm adımları atacaktır ve verilerinizin, yeterli güvenlik kontrolleri bulunmadıkça bir kuruluş veya ülkeye transferi gerçekleşmeyecektir.", 
+
+ 
+
+  "privacy.info_collection.description": "Hizmetimizi size sunmak ve geliştirmek amacıyla çeşitli amaçlarla farklı tipte bilgiler toplarız.", 
+
+  "privacy.info_collection.personal_data.description": "Hizmetimizi kullanırken, sizi iletişim kurmak veya tanımlamak için kullanılabilecek bazı kişisel olarak tanımlanabilir bilgileri (\"Kişisel Veri\") sağlamanızı isteyebiliriz. Kişisel olarak tanımlanabilir bilgiler şunları içerebilir, ancak bunlarla sınırlı değildir:", 
+
+  "privacy.info.user1": "E-posta adresi", 
+
+  "privacy.info.user2": "Ad ve soyad", 
+
+  "privacy.info.user3": "Telefon numarası", 
+
+  "privacy.info.user4": "Adres, Eyalet, İl, Posta kodu, Şehir", 
+
+  "privacy.info.user5": "Çerezler ve Kullanım Verileri", 
+
+"privacy.info_collection.personal_data.usage": "Kişisel Verilerinizi bültenler, pazarlama veya promosyon materyalleri ve ilginizi çekebilecek diğer bilgilerle size ulaşmak için kullanabiliriz. Bu iletişimleri almak istemiyorsanız, gönderdiğimiz herhangi bir e-postadaki abonelikten çıkma bağlantısını takip ederek veya bizimle iletişime geçerek bu iletişimlerden tamamen çıkabilirsiniz.", 
+
+  "privacy.info_collection.usage_data.description": "Hizmete nasıl erişildiği ve kullanıldığına dair bilgiler de (\"Kullanım Verileri\") toplanabilir. Bu Kullanım Verileri, bilgisayarınızın IP adresi, tarayıcı türü, tarayıcı sürümü, hizmetimizde ziyaret ettiğiniz sayfalar, ziyaret tarih ve saati, bu sayfalarda geçirilen süre, benzersiz cihaz tanımlayıcıları ve diğer tanılayıcı verileri içerebilir.", 
+
+  "privacy.info_collection.cookies.description": "Çerezler ve benzeri izleme teknolojilerini, hizmetimizdeki etkinliği izlemek ve belirli bilgileri tutmak için kullanıyoruz.", 
+
+  "privacy.info.collection.cookies.description1": "Çerezler, anonim benzersiz bir tanımlayıcı içerebilen az miktarda veri içeren dosyalardır. Çerezler bir web sitesinden tarayıcınıza gönderilir ve cihazınızda saklanır. Kullanılan izleme teknolojileri arasında ışınlayıcılar, etiketler ve betikler bulunur; bu teknolojiler bilgi toplamak, izlemek ve hizmetimizi iyileştirmek ve analiz etmek için kullanılır.", 
+
+  "privacy.info.collection.cookies.instruct": "Tarayıcınızı tüm çerezleri reddetmeye veya bir çerez gönderildiğinde sizi bilgilendirmeye yönlendirebilirsiniz. Ancak çerezleri kabul etmezseniz, hizmetimizin bazı bölümlerini kullanamayabilirsiniz.", 
+
+  "privacy.info_collection.cookies.examples": "Kullandığımız Çerez Örnekleri:", 
+
+  "privacy.example1": "Oturum Çerezleri.", 
+
+  "privacy.example1.description": "Hizmetimizi çalıştırmak için Oturum Çerezleri kullanıyoruz.", 
+
+  "privacy.example2": "Tercih Çerezleri.", 
+
+  "privacy.example2.description": "Tercihlerinizi ve çeşitli ayarlarınızı hatırlamak için Tercih Çerezleri kullanıyoruz.", 
+
+  "privacy.example3": "Güvenlik Çerezleri.", 
+
+  "privacy.example3.description": "Güvenlik amaçları için Güvenlik Çerezleri kullanıyoruz.", 
+
+  "privacy.example4": "Reklam Çerezleri.", 
+
+  "privacy.example4.description": "Reklam Çerezleri, size ilgi alanlarınıza ve zevklerinize uygun reklamlar sunmak için kullanılır.", 
+
+ 
+
+  "privacy.info_collection.use_of_data": "Provider, toplanan verileri aşağıdakiler dahil çeşitli amaçlarla kullanır:", 
+
+  "provider1": "Hizmetimizi sağlamak ve sürdürmek", 
+
+  "provider2": "Hizmetimizdeki değişikliklerden sizi haberdar etmek", 
+
+  "provider3": "Hizmetimizin etkileşimli özelliklerine katılmanızı sağlamak", 
+
+  "provider4": "Müşteri desteği sağlamak", 
+
+  "provider5": "Hizmetimizi geliştirmek için analiz ve değerli bilgiler toplamak", 
+
+  "provider6": "Hizmetimizin kullanımını izlemek", 
+
+  "provider7": "Teknik sorunları tespit, önleme ve çözmek", 
+
+  "provider8": "Daha önce satın aldığınız veya talep ettiğiniz ürün ve hizmetlere benzer diğer ürün, hizmet ve etkinliklerle ilgili haberler, özel teklifler ve genel bilgiler sunmak (bu tür bilgileri almayı seçmediyseniz bu sağlanmayacaktır).", 
+
+"providerText": "Provider, Kullanım Verilerini dahili analiz amaçları için de saklayacaktır. Kullanım Verileri genellikle daha kısa bir süre saklanır; ancak bu veriler güvenliği güçlendirmek veya hizmetimizin işlevselliğini geliştirmek için kullanıldığında veya yasal olarak daha uzun süre saklamamız gerektiğinde farklı bir durum söz konusudur.", 
+
+  "privacy.info_collection.legal_basis": "Eğer Avrupa Ekonomik Bölgesi (EEA) vatandaşıysanız, bu Gizlilik Politikasında açıklanan kişisel bilgileri toplama ve kullanma için Provider’ın yasal dayanağı, topladığımız Kişisel Veri ve bu verileri topladığımız spesifik bağlama bağlıdır.", 
+
+  "privacy.accept.info": "Provider, Kişisel Verilerinizi aşağıdaki nedenlerle işleyebilir:", 
+
+  "privacy.accept.info.why1": "Sizinle bir sözleşme gerçekleştirmemiz gerekir", 
+
+  "privacy.accept.info.why2": "Bize izin verdiniz", 
+
+  "privacy.accept.info.why3": "İşleme, meşru menfaatlerimiz kapsamında olup, haklarınız tarafından aşılmaz", 
+
+  "privacy.accept.info.why4": "Yasa gerekliliklerine uymak.", 
+
+ 
+
+  "privacy.consent": "Bu Gizlilik Politikasına verdiğiniz onay ve bu bilgileri göndererek yaptığınız işlem, bu transferi kabul ettiğinizi gösterir.", 
+
+ 
+
+  "privacy.transfer.description": "Kişisel Verileriniz dahil bilgileriniz, veri koruma yasalarının farklı olabileceği, devlet, il, ülke veya diğer hükümet yetki alanlarının dışındaki bilgisayarlara transfer edilebilir ve orada saklanabilir.", 
+
+ 
+
+  "privacy.transfer.disclosure.business_transaction": "Provider bir birleşme, devralma veya varlık satışı durumunda kişisel verileriniz transfer edilebilir. Kişisel Verileriniz transfer edilmeden ve farklı bir Gizlilik Politikasına tabi olmadan önce size bildirimde bulunacağız.", 
+
+  "privacy.transfer.legal_requirements": "Provider, iyi niyetle böyle bir eylemin gerekli olduğuna inanarak Kişisel Verilerinizi açıklayabilir", 
+
+  "requirments1": "yasal bir yükümlülüğü yerine getirmek için", 
+
+  "requirments2": "Provider’ın haklarını veya mülkünü korumak için", 
+
+  "requirments3": "Hizmetle bağlantılı olası bir suçu önlemek veya soruşturmak için", 
+
+  "requirments4": "Hizmet kullanıcılarının veya kamuoyunun kişisel güvenliğini korumak için", 
+
+  "requirments5": "hukuki sorumluluktan korunmak için", 
+
+ 
+
+  "right.complain": "Kişisel Verilerinizin toplanması ve kullanılmasına ilişkin bir Veri Koruma Otoritesine şikayet etme hakkına sahipsiniz. Daha fazla bilgi için Avrupa Ekonomik Bölgesi (EEA) içinde yerel veri koruma otoritenizle iletişime geçiniz.", 
+
+  "privacy.transfer.security": "Verilerinizin güvenliği bizim için önemlidir, ancak hiçbir iletim veya depolama yöntemi %100 güvenli değildir. Ticari olarak kabul edilebilir yöntemler kullanmaya çalışıyoruz ancak mutlak güvenlik garantisi veremiyoruz.", 
+
+  "privacy.transfer.rights_gdpr": "Eğer Avrupa Ekonomik Bölgesi (EEA) sakinlerinden biriyeseniz, veri koruma haklarınız vardır. Provider, kişisel verilerinizi düzeltmek, değiştirmek, silmek veya kullanımını sınırlamak için makul adımlar atmayı amaçlamaktadır.", 
+
+  "privacy.certain.circums": "Belirli durumlarda aşağıdaki veri koruma haklarına sahipsiniz", 
+
+  "google.analytics": "Google Analytics", 
+
+  "google.analytics.desc": "Google Analytics, Google tarafından sunulan bir web analiz hizmetidir ve web sitesi trafiğini izler ve raporlar. Google, hizmetimizi kullanma verilerini izlemek ve izlemek için toplanan verileri kullanır. Bu veriler diğer Google hizmetleriyle paylaşılır. Google, topladığı verileri kendi reklam ağının reklamlarını bağlamsallaştırmak ve kişiselleştirmek için kullanabilir. Google Analytics’e etkinliğinizi sunmaktan çıkmak için Google Analytics çıkış eklentisini tarayıcınıza kurabilirsiniz. Bu eklenti, Google Analytics JavaScript (ga.js, analytics.js ve dc.js) dosyalarının Google Analytics ile ziyaret etkinliği hakkında bilgi paylaşmasını engeller. Google’ın gizlilik uygulamaları hakkında daha fazla bilgi için lütfen Google Gizlilik Şartları web sayfasını ziyaret edin.", 
+
+"privacy.your.access": "Erişim, güncelleme veya bilgilerinizin silinmesi hakkı. Mümkün olduğunda, kişisel verilerinize hesabınızın ayarlar bölümünden doğrudan erişebilir, güncelleyebilir veya silinmesini talep edebilirsiniz. Bu işlemleri kendiniz yapamıyorsanız, lütfen bize ulaşın. Düzeltme hakkı. Bilgileriniz yanlış veya eksikse, düzeltme hakkına sahipsiniz. İtiraz hakkı. Kişisel verilerinizin işlenmesine itiraz etme hakkınız vardır. Kısıtlama hakkı. Kişisel bilgilerinizin işlenmesini sınırlamamızı isteyebilirsiniz. Veri taşınabilirliği hakkı. Kişisel verilerinize ait bilgilerin yapılandırılmış, makine tarafından okunabilir ve yaygın kullanılan bir formatta kopyasını talep etme hakkınız vardır. Onayı geri çekme hakkı. Provider, kişisel bilgilerinizin işlenmesi için onayınıza dayanıyorsa, onayınızı istediğiniz zaman geri çekme hakkına da sahipsiniz.", 
+
+ 
+
+  "google.adSense": "Google AdSense DoubleClick Çerezi", 
+
+  "google.adSense.desc": "Google, üçüncü taraf bir satıcı olarak, hizmetimizde reklam sunmak için çerezler kullanır. Google’ın DoubleClick çerezi, kendisi ve ortakları sayesinde, hizmetimize veya internet üzerindeki diğer web sitelerine yapılan ziyaretleriniz temelinde reklam sunmalarını sağlar. DoubleClick Çerezinin ilgi temelli reklamcılığa yönelik kullanımından çıkmak için Google Reklam Ayarları web sayfasını ziyaret edebilirsiniz:", 
+
+  "google.adSense.provider": "Provider, hizmetimizi ziyaret ettikten sonra üçüncü taraf web sitelerinde size reklam göstermek için yeniden pazarlama hizmetleri kullanır. Biz ve üçüncü taraf satıcılarımız, geçmiş hizmet ziyaretlerinize dayanarak reklamları bilgilendirmek, optimize etmek ve sunmak için çerezler kullanır.", 
+
+  "google.adWords": "Google AdWords", 
+
+  "google.adWords.rec": "Google Analytics Çıkış Tarayıcı Eklentisini kurmanızı önerir –", 
+
+  "google.also": "Google ayrıca", 
+
+  "google.analytics.your.browser": "– web tarayıcınız için. Google Analytics Çıkış Tarayıcı Eklentisi, ziyaretçilere verilerinin Google Analytics tarafından toplanmasını ve kullanılmasını önleme imkanı verir. Google’ın gizlilik uygulamaları hakkında daha fazla bilgi için lütfen Google Gizlilik Şartları web sayfasını ziyaret edin:", 
+
+  "facebook": "Facebook", 
+
+  "facebook.remarketing": "Facebook yeniden pazarlama hizmeti, Facebook Inc. tarafından sağlanır. İlgi temelli reklamcılık hakkında daha fazla bilgi edinmek için Facebook sayfasını ziyaret edebilirsiniz:", 
+
+  "facebook.ad": "Facebook’un ilgi temelli reklamlarından çıkmak için aşağıdaki Facebook talimatlarını izleyin:", 
+
+  "facebook.adheres1": "Facebook, Dijital Reklam Birliği tarafından belirlenen Çevrimiçi Davranışsal Reklam için Öz-Düzenleme İlkelerine uymaktadır. Facebook ve diğer katılımcı şirketlerden çıkmak için ABD’deki Dijital Reklam Birliği aracılığıyla da çıkabilirsiniz.", 
+
+  "facebook.adheres2": "Kanada’daki Dijital Reklam Birliği", 
+
+  "facebook.adheres3": "veya Avrupa’daki Avrupa Dijital Reklam Birliği", 
+
+  "facebook.adheres4": "veya mobil cihaz ayarlarınızı kullanarak çıkabilirsiniz. Facebook’un gizlilik uygulamaları hakkında daha fazla bilgi için lütfen Facebook Veri Politikası sayfasını ziyaret edin:", 
+
+"privacy.shouldNote": "Bu taleplere yanıt vermeden önce kimliğinizi doğrulamanızı isteyebileceğimizi lütfen unutmayın.", 
+
+  "privacy.wishInformed": "Hakkınızda hangi Kişisel Verileri tuttuğumuzu öğrenmek ve bu verileri sistemlerimizden kaldırmak istiyorsanız, lütfen bizimle iletişime geçin.", 
+
+  "privacy.service_providers.description": "Hizmetimizi kolaylaştırmak için üçüncü taraf şirketler ve bireyler işe alabiliriz. Bu üçüncü taraflar, yalnızca görevlerini yerine getirmek amacıyla Kişisel Verilerinize erişir ve bu verileri başka bir amaçla açıklamamak veya kullanmamakla yükümlüdür.", 
+
+  "privacy.bolgaria": "Bulgaristan dışındaysanız ve bize bilgi vermeyi seçerseniz, verileri (Kişisel Veriler dahil) Bulgaristan’a transfer ettiğimizi ve orada işlediğimizi lütfen unutmayın.", 
+
+  "privacy.service_providers.analytics": "Hizmetimizin kullanımını izlemek ve analiz etmek için Google Analytics gibi üçüncü taraf hizmet sağlayıcıları kullanabiliriz.", 
+
+  "privacy.service_providers.advertising": "Hizmetimizi desteklemek ve sürdürmek amacıyla size reklam göstermek için üçüncü taraf hizmet sağlayıcıları kullanabiliriz.", 
+
+  "privacy.service_providers.behavioral_remarketing": "Google AdWords yeniden pazarlama hizmeti Google Inc. tarafından sağlanır. Görüntülü Reklamcılık için Google Analytics çıkışını yapabilir ve Google Görüntülü Reklam Ağı reklamlarını özelleştirmek için Google Reklam Ayarları sayfasını ziyaret edebilirsiniz:", 
+
+  "privacy.service_providers.links": "Hizmetimiz, tarafımızca işletilmeyen diğer sitelere bağlantılar içerebilir. Bu sitelerin Gizlilik Politikalarını inceleyin.", 
+
+  "privacy.noControl": "Üçüncü taraf sitelerin ve hizmetlerin içerikleri, gizlilik politikaları veya uygulamaları üzerinde hiçbir kontrolümüz yoktur ve sorumluluk kabul etmeyiz.", 
+
+  "privacy.child": "Çocukların Gizliliği", 
+
+  "privacy.service_providers.children": "Hizmetimiz 18 yaşın altındaki (“Çocuklar”) herhangi bir kişiye hitap etmez. 18 yaşın altındaki bireylerden bilerek kişisel olarak tanımlanabilir bilgi toplamayız. Bir ebeveyn veya veli olarak çocuğunuzun bize Kişisel Veri sağladığını fark ederseniz, lütfen bizimle iletişime geçin. Çocuklardan ebeveyn izni olmadan kişisel veri toplandığını fark edersek, bu bilgileri sunucularımızdan kaldırmak için adımlar atarız.", 
+
+  "privacy.changes": "Bu Gizlilik Politikasındaki Değişiklikler", 
+
+  "privacy.service_providers.changes": "Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Değişiklikler bu sayfada ve/veya e-posta yoluyla duyurulacaktır.", 
+
+  "privacy.letKnow": "Değişikliklerin yürürlüğe girmesinden önce e-posta ve/veya hizmetimizde öne çıkan bir bildirimle sizi bilgilendirecek ve Gizlilik Politikası’nın “geçerlilik tarihi”ni güncelleyeceğiz.", 
+
+  "privacy.advises": "Bu Gizlilik Politikasını periyodik olarak incelemeniz önerilir. Gizlilik Politikasındaki değişiklikler bu sayfada yayınlandığında yürürlüğe girer.", 
+
+  "privacy.service_providers.contact": "Bu Gizlilik Politikasıyla ilgili sorularınız varsa, lütfen e-posta yoluyla bizimle iletişime geçin.",  
+
+  "terms_title": "Kullanım Koşulları",
+  "terms_intro_welcome": "Aivontrixen'e hoş geldiniz. Bu Kullanım Koşulları (\"Koşullar\"), Aivontrixen tarafından yönetilen Aivontrixen'de bulunan platformumuzla (\"Hizmet\") olan ilişkinizi düzenler.",
+  "terms_intro_generator": "Kullanım Koşullarımız, Kullanım Koşulları Oluşturucu kullanılarak geliştirilmiştir.",
+  "terms_intro_acceptance_1": "Hizmetimizi ziyaret ederek veya kullanarak, bu Koşullara uymayı kabul etmektesiniz. Bu koşulların herhangi bir bölümüne itiraz etmeniz durumunda, Hizmeti kullanamazsınız.",
+  "terms_intro_changes": "Bu Koşulları zaman zaman değiştirebileceğimizi ve değişikliklerin yayınlandığı anda derhal yürürlüğe gireceğini lütfen unutmayın. Platformu kullanmaya devam etmeniz, revize edilmiş veya güncellenmiş koşulların kabul edildiği anlamına gelir.",
+  "terms_intro_rejection": "Bu Koşullardan herhangi birini reddediyorsanız, lütfen \"KABUL ET\" seçeneğine tıklamaktan kaçının ve Web Sitesi kullanımını durdurun.",
+  "terms_intro_website_def": "Web Sitesi, Aivontrixen adresinden erişilebilen Aivontrixen'i ifade eder",
+  "section_1_title": "1. Web Sitesi ve Hizmetlerin Kullanımı",
+  "section_1_access": "Burada belirtilen hüküm ve koşullara tabi olarak, Hizmetleri münhasır olmayan bir temelde kullanmak amacıyla Web Sitesine erişebilir ve Web Sitesini kullanabilirsiniz.",
+  "section_1_modifications": "Şirketin, tamamen kendi takdirine bağlı olarak ve herhangi bir zamanda, Web Sitesini veya Hizmetleri değiştirebileceğini, güncelleyebileceğini veya başka bir şekilde değiştirebileceğini, buna Web Sitesinin ve/veya Hizmetlerin bir kısmını veya tamamını sağlamayı durdurmayı veya Web Sitesi veya Hizmetler aracılığıyla sunulan herhangi bir içeriği önceden bildirimde bulunmaksızın değiştirmeyi veya silmeyi de dahil olduğunu kabul etmektesiniz.",
+  "section_1_void": "Web Sitesinin ve Hizmetlerin kullanımı yasak olduğu yerlerde geçersizdir.",
+  "section_1_warranties_intro": "Web Sitesini ve Hizmetleri kullanarak şunları beyan ve taahhüt etmektesiniz:",
+  "section_1_warranties_a": "gönderdiğiniz herhangi bir bilgi (varsa) doğru ve gerçeğe uygundur;",
+  "section_1_warranties_b": "bu bilgilerin doğruluğunu sürdüreceksiniz;",
+  "section_1_warranties_c": "kendi yargı bölgenizde reşit olma yaşının en azındasınız; ve",
+  "section_1_warranties_d": "Web Sitesini veya Hizmetleri kullanımınız, herhangi bir geçerli yasa veya düzenlemeyi veya üçüncü bir tarafa karşı sahip olabileceğiniz herhangi bir yasal veya sözleşmeye dayalı yükümlülüğü ihlal etmemekte veya ihlalini teşvik etmemektedir ve Web Sitesini, Hizmetleri ve Hizmetler ve Web Sitesi aracılığıyla düzenlenen hizmetleri, aşağıda tanımlanan Ürünler veya Üçüncü Taraflarla herhangi bir şekilde bağlantılı hizmetler de dahil olmak üzere, kullanımınızla bağlantılı olarak yürürlükteki tüm yasalara, kurallara ve düzenlemelere her zaman uyacaksınız.",
+  "section_1_undertakings_def": "Alt bölümler (a)-(d) toplu olarak “Kullanıcı Taahhütleri ve Beyanları” olarak anılacaktır.",
+  "section_1_verification": "Hizmetleri veya Web Sitesini kullanarak, Şirketin tamamen kendi takdirine bağlı olarak, ancak zorunlu olmamak kaydıyla, herhangi bir Kullanıcı tarafından Kullanıcı Taahhütleri ve Beyanlarının herhangi birinin veya tamamının karşılanıp karşılanmadığını doğrulayabileceğini anlıyor ve kabul ediyorsunuz ve ayrıca Şirketin Kullanıcı Taahhütleri ve Beyanlarının karşılanmasını sağlamaktan veya Kullanıcı Taahhütleri ve Beyanlarını karşılamayan Kullanıcılar tarafından Hizmetlerin veya Web Sitesinin kullanımını askıya almaktan, sonlandırmaktan veya önlemekten sorumlu olmadığını kabul ediyorsunuz.",
+  "section_1_responsibility": "Herhangi bir Üçüncü Tarafla ilişki kurup kurmama veya başka bir şekilde herhangi bir Üçüncü Tarafla herhangi bir şekilde etkileşimde bulunma konusunda kendi değerlendirmelerinizi, kararlarınızı ve tespitlerinizi yapmaktan yalnızca sizin sorumlu olduğunuzu anlıyorsunuz.",
+  "section_1_reporting": "Kullanıcı Taahhütleri ve Beyanlarına yönelik herhangi bir ihlalden haberdar olursanız, bunu Şirkete bildirmeniz teşvik edilir.",
+  "section_1_right_to_refuse": "Şirket, tamamen kendi takdirine bağlı olarak, size herhangi bir Hizmeti bildirimle veya bildirim olmaksızın sağlamama hakkını saklı tutar, ister sizin tarafınızdan veya başka bir Kullanıcı tarafından Kullanıcı Taahhütleri ve Beyanlarına herhangi bir ihlalden (diğer Kullanıcılar tarafından kendisine sağlanan raporlar veya başka herhangi bir yolla) haberdar olsun, ister başka herhangi bir nedenle.",
+  "section_1_disclaimer_main": "Yukarıdakilerden feragat etmeksizin, Şirket, aşağıdakilerden kaynaklanan ve/veya herhangi bir şekilde bunlarla ilgili olan her türlü ihtilaf, talep, dava, yaralanma, kayıp, zarar ve/veya hasar için açıkça feragat eder ve siz de Şirketi açıkça ibra edersiniz:",
+  "section_1_disclaimer_i": "bir Kullanıcının veya Üçüncü Tarafın beyanlarının herhangi bir yanlışlığı, zamansızlığı veya eksikliği; ve",
+  "section_1_disclaimer_ii": "Üçüncü Tarafların veya diğer Kullanıcıların herhangi biriyle, Ürünlerle veya başka bir şekilde bağlantılı olarak veya bunlar tarafından yapılan yanlış beyanlar ve/veya yanlış tanıtımlar.",
+  "section_1_platform_only": "Web Sitesini ve Hizmetleri kullanarak, Hizmetlerin yalnızca Kullanıcılara, tarafımızca yürütülen reklamlar veya promosyonlar aracılığıyla (sırasıyla, “Ürünler” ve “Üçüncü Taraflar”) üçüncü taraf satıcılar ve/veya hizmet sağlayıcılar tarafından sağlanan çeşitli ürün ve hizmetlere ulaşmalarına, satın almalarına ve/veya kullanmalarına yardımcı olmak için tasarlanmış bir platform sunduğunu anlıyor ve kabul ediyorsunuz.",
+  "section_1_company_a": "ilgili olduğu şekilde, herhangi bir Üçüncü Tarafı veya Ürünü veya bunların ilgili herhangi bir tarafını istihdam etmez, tavsiye etmez veya desteklemez ve herhangi bir Üçüncü Tarafın eylemleri veya ihmalleri, işleri, ürünleri veya hizmetleri üzerinde hiçbir kontrole sahip değildir;",
+  "section_1_company_b": "Üçüncü Taraflar ve Ürünler hakkında, bunların kalitesi, fiyatlandırması, uyumluluğu, kullanılabilirliği veya diğer herhangi bir özelliği hakkında veya herhangi bir Üçüncü Tarafla olan etkileşimleriniz veya işlemleriniz hakkında hiçbir beyan veya garanti vermez;",
+  "section_1_company_c": "Ürünlerle ilgili tescilli haklar veya diğer haklar veya özellikler veya düzenleyici yönler hakkında, bu Ürünlerin yüklenmesi, paylaşılması veya başka bir şekilde kullanıma sunulması ve kullanılması, satılması ve satın alınması için gerekli yetkilendirme, izinler veya lisanslar dahil olmak üzere hiçbir beyan veya garanti vermez; ve",
+  "section_1_company_d": "Hizmetleri herhangi bir şekilde kullanan veya kullanmış olan herhangi bir Kullanıcının veya diğer üçüncü tarafların performansından veya davranışından ve/veya Web Sitesinde veya dışında sorumlu değildir.",
+  "section_1_no_screening": "Şirket, Üçüncü Taraflar ve/veya Kullanıcılar, Ürünler veya Web Sitesi veya Hizmetlerle ilgili herhangi bir diğer özellik hakkındaki herhangi bir bilgiyi taramak veya başka bir şekilde doğrulamakla yükümlü değildir ve bu nedenle, Hizmetler veya Web Sitesi aracılığıyla herhangi biriyle ilişki kurmadan veya başka bir şekilde herhangi biriyle etkileşimde bulunmadan önce dikkatli olmalı ve kendi incelemelerinizi ve kontrollerinizi yapmalısınız.",
+  "section_1_full_disclaimer": "Şirket, Üçüncü Taraflar, Ürünler, Hizmetler ve Web Sitesi veya herhangi bir Üçüncü Tarafla olan etkileşimlerinizden veya işlemlerinizden kaynaklanan ve/veya bunlarla herhangi bir şekilde ilgili olan her türlü ihtilaf, talep, dava, yaralanma, kayıp, zarar ve/veya hasar için açıkça feragat eder ve siz de Şirketi açıkça ibra edersiniz, buna Hizmetleri veya Web Sitesini herhangi bir şekilde kullanan veya bunlarla bağlantılı olan Üçüncü Tarafların herhangi bir eylemi ve/veya ihmali de dahildir.",
+  "section_1_risk": "Hizmetleri veya Web Sitesini kullanarak, bu tür kullanımdan ve yaptığınız bağlantılardan, etkileşimlerden, satın almalardan veya diğer herhangi bir eylemden yalnızca sizin sorumlu olduğunuzu ve Hizmetlerin veya Web Sitesinin tüm kullanımının yalnızca sizin riskiniz altında olduğunu kabul ediyorsunuz.",
+  "section_1_no_sale": "Şüpheye mahal vermemek için, Şirket size herhangi bir Ürün veya hizmet (Hizmetler dışındaki) satmamakta, lisanslamamakta veya başka bir şekilde kullanıma sunmamaktadır ve tarafınızca herhangi bir Üçüncü Taraftan satın alınan herhangi bir Ürün veya hizmet için, destek ve bakım, temerrütler, hatalar, arızalar, hasarlar veya her türlü maliyet dahil ancak bunlarla sınırlı olmamak üzere, herhangi bir sorumluluğu olmayacaktır.",
+  "section_2_title": "2. Kısıtlamalar",
+  "section_2_intro": "Bunun 1. Bölümündeki hükümlerden feragat etmeksizin, şunları yapmayacaksınız ve herhangi bir üçüncü tarafa şunları yapmasına izin vermeyeceksiniz:",
+  "section_2_a": "Web Sitesinin veya Hizmetlerin altında yatan kodu tersine mühendislik yapmak veya bulmaya çalışmak;",
+  "section_2_b": "Web Sitesini veya Hizmetleri, herhangi bir yasa veya düzenlemeyi ihlal ederek kullanmak, buna yasadışı veya saldırgan materyal yayınlamak, paylaşmak veya başka bir şekilde aktarmak dahil ancak bunlarla sınırlı olmamak üzere;",
+  "section_2_c": "Web Sitesinin, Hizmetlerin veya Web Sitesi veya Hizmetlerin herhangi bir içeriğinin kopyasını çıkarmak, değiştirmek veya türev eserlerini oluşturmak;",
+  "section_2_d": "Web Sitesinin veya Hizmetlerin herhangi bir güvenlik veya erişim kontrol mekanizmasını devre dışı bırakmaya veya atlatmaya çalışmak;",
+  "section_2_e": "Web Sitesini veya Hizmetleri değiştirmek veya bunlara müdahale etmek için hileler, istismarlar, otomasyon yazılımları, botlar, hackler, modlar veya diğer herhangi bir yetkisiz üçüncü taraf yazılımı tasarlamak veya tasarlamaya yardımcı olmak;",
+  "section_2_f": "Web Sitesini veya Hizmetleri kullanmak veya diğer Kullanıcılarla, herhangi bir geçerli yasa veya düzenlemeyi ihlal eden herhangi bir amaç için etkileşimde bulunmak;",
+  "section_2_g": "Web Sitesine veya Hizmetlere, aşağıda tanımlanan diğer Kullanıcı Hesaplarına veya Web Sitesine veya Hizmetlere bağlı diğer cihaz, bilgisayar sistemi, telefon sistemleri veya ağlara yetkisiz erişim sağlamaya çalışmak; ve",
+  "section_2_h": "Kullanıcılar hakkında bilgi, onların rızası olmadan toplamak veya başka bir şekilde biriktirmek.",
+  "section_2_content_warranties": "Web Sitesi aracılığıyla ve/veya Hizmetleri kullanarak herhangi bir içerik yayınlar, yayımlar, paylaşırsınız veya başka bir şekilde aktarırsanız, bu içeriğin, içinde açıklanan herhangi bir ürün veya hizmetin doğru ve eksiksiz bir resmini sağladığını, buradaki bu Koşullara uygun olduğunu ve şunları yapmadığını beyan ve taahhüt ediyorsunuz:",
+  "section_2_content_a": "herhangi bir üçüncü tarafın fikri mülkiyet, manevi veya tanıtım haklarını ihlal etmek;",
+  "section_2_content_b": "herhangi bir iftira niteliğinde, lekeleyici, müstehcen, cinsel içerikli veya başka bir şekilde saldırgan içerik (nefreti, şiddeti veya bağnazlığı teşvik eden veya yücelten materyal dahil) içermek;",
+  "section_2_content_c": "herhangi bir solucan, virüs veya başka bir şekilde kötü niyetli yazılım içermek; ",
+  "section_2_content_d": "reklam veya pazarlama ile ilgili herhangi bir yasa veya düzenleme dahil olmak üzere, herhangi bir geçerli yasa veya düzenlemeyi ihlal etmek; ve",
+  "section_2_content_e": "altyapımız üzerinde makul olmayan veya orantısız derecede büyük bir yük oluşturan herhangi bir eylemde bulunmak.",
+  "section_2_license_grant": "Web Sitesi veya Hizmetleri kullanarak herhangi bir içeriği yayınlayarak, yükleyerek, yayımlayarak, paylaşarak veya başka bir şekilde aktararak, Şirkete ve onun herhangi bir bağlı kuruluşuna ve/veya alt lisans sahiplerine, Şirketin tamamen kendi takdirinde olacak şekilde makul herhangi bir biçimde bu içeriği yayınlama, paylaşma, görüntüleme ve başka bir şekilde aktarma konusunda dünya çapında, münhasır olmayan, sürekli, telifsiz bir lisans geri dönülmez bir şekilde vermiş oluyorsunuz.",
+  "section_2_removal_right": "Şirket, yukarıda belirtilen garantileri veya Şirketin ticari çıkarlarını ihlal eden herhangi bir içerik dahil ancak bunlarla sınırlı olmamak üzere, önceden bildirimde bulunmaksızın, tamamen kendi takdirine bağlı olarak herhangi bir içeriği kaldırma, erişimi askıya alma veya kalıcı olarak silme hakkını saklı tutar ve bu tür kararlar ve eylemlerle ilgili olarak herhangi bir hakkınız veya iddianız olmayacaktır.",
+  "section_2_no_liability_content": "Şirket, Kullanıcılar tarafından sağlanan, yayınlanan, yüklenen, paylaşılan veya başka bir şekilde kullanıma sunulan herhangi bir içerikten, bu içerikle ilgili herhangi bir ürün veya hizmetten sorumlu değildir ve sorumlu olmayacaktır. Web Sitesini veya Hizmetleri kullanan her Kullanıcı, bu hususta tam sorumluluk almayı beyan eder ve Şirket, yukarıdakilerle ilgili hiçbir sorumluluk kabul etmeyecektir.",
+  "section_3_title": "3. Tanıtım Materyalleri ve Bültenler",
+  "section_3_consent": "Yukarıdaki 3. Bölüm hükümlerine ek olarak, Kullanıcı, Şirketin Kullanıcıya tanıtım materyalleri ve bültenleri (”Tanıtım Materyalleri ve Bültenler”) e-posta, metin ve SMS mesajları, faks, posta, otomatik arama hizmetleri veya diğer herhangi bir yolla, tamamen Şirketin zaman zaman kendi takdirinde olacak şekilde, sağlamasına ve bu Tanıtım Materyallerini ve Bültenleri almayı açıkça kabul eder.",
+  "section_3_third_party_ads": "Kullanıcı ayrıca, Tanıtım Materyalleri ve Bültenlerin üçüncü tarafların reklamlarını içerebileceğini ve bu tür reklamların Tanıtım Materyalleri ve Bültenlerin bir parçası olarak alınmasına açıkça izin verdiğini kabul eder.",
+  "section_3_unsubscribe": "Kullanıcı, Tanıtım Materyalleri ve Bültenleri daha fazla almayı reddettiğini Şirkete bildiren bir talep göndererek herhangi bir zamanda Şirket ile e-posta yoluyla iletişime geçebilir.",
+  "section_4_title": "4. Fikri Mülkiyet",
+  "section_4_ownership": "Şirket, (a) Web Sitesi ve Hizmetler, Web Sitesi ve Hizmetlerdeki geliştirmeler, türevler, hata düzeltmeleri veya iyileştirmeler; ve (b) Şirketin ticari adları, ticari markaları ve logoları dahil olmak üzere dünya çapındaki tüm hakların, unvanların ve menfaatlerin sahibidir ve her zaman yalnızca Şirkette kalacaktır.",
+  "section_4_license_meaning": "Bu Koşullarda veya diğer herhangi bir iletişimde yukarıdakilerin satışı, yeniden satışı veya satın alınmasına yapılan tüm atıflar, yalnızca bu Koşullara uygun olarak Web Sitesini ve Hizmetleri kullanma hakkı anlamına gelecektir.",
+  "section_4_user_liability": "Kullanıcılar, Web Sitesini ve/veya Hizmetleri kullanarak Kullanıcılar tarafından sağlanan, paylaşılan veya başka bir şekilde kullanıma sunulan her türlü içerik ve bunun fikri mülkiyet hakları da dahil olmak üzere, bu içerikle ilgili herhangi bir beyanda bulunmayan Şirket nezdinde tam sorumluluk taşırlar. Şirket, bu tür içerikten kaynaklanan herhangi bir kayıp veya hasardan sorumlu olmayacak ve Kullanıcılar, yukarıdakilerden kaynaklanan herhangi bir hasar veya kayıp için Şirketi tazmin etmeyi ve zararsız tutmayı kabul ederler.",
+  "section_5_title": "5. Gizlilik",
+  "section_5_no_save": "Şirketin önceden yazılı izni olmadan Hizmetler ve Web Sitesi tarafından sağlanan herhangi bir içeriği kaydetmemeyi, toplamamayı veya başka bir şekilde elinizde tutmamayı ve kullanmamayı taahhüt ediyorsunuz.",
+  "section_5_company_rights": "Ayrıca, Şirketin, tamamen kendi takdirine bağlı olarak, sizi veya herhangi bir diğer Kullanıcıyı veya Üçüncü Tarafı kişisel olarak tanımlayabilecek veya kişisel ilgi alanlarınızı açıklayabilecek bilgiler de dahil olmak üzere, herhangi bir içeriği ve genel bilgiyi kaydetme, toplama veya başka bir şekilde elinde tutma ve kullanma hakkını saklı tuttuğunu kabul ediyorsunuz.",
+  "section_5_privacy_policy": "Şirket, Şirket Gizlilik Politikasında belirtilen bu tür içerik ve genel bilgilerin yürürlükteki herhangi bir yasa uyarınca izin verilen her türlü kullanımını yapma hakkını saklı tutar.",
+  "section_5_no_verification": "Yukarıdaki 1. Bölüm hükümlerinden feragat etmeksizin, Şirket bu tür herhangi bir içerik veya genel bilgiyi incelemez, test etmez, onaylamaz, onaylamaz veya başka bir şekilde doğrulamaz.",
+  "section_5_user_responsibility": "Bu tür içerik veya genel bilgileri yayınlayan, yükleyen, paylaşan veya başka bir şekilde kullanıma sunan her Kullanıcı, ilgili içerik veya genel bilgiler için, buna tüm üçüncü taraf bilgileri ve gerekli izinler de dahil olmak üzere, tek başına sorumluluk taşıyacaktır.",
+  "section_5_indemnification": "Şirket, yukarıdakilere uyulmamasından kaynaklanan herhangi bir kayıp veya hasardan sorumlu olmayacak ve yukarıdakilerden kaynaklanan herhangi bir hasar veya kayıp için Şirketi tazmin etmeyi ve zararsız tutmayı kabul ediyorsunuz.",
+  "section_5_not_storage": "YUKARIDAKİLERE BAKILMAKSIZIN, ŞİRKETİN BİR İÇERİK DEPOLAMA HİZMETİ OLMADIĞINI ANLIYOR VE KABUL EDİYORSUNUZ. ŞİRKETİN KAYBOLAN VEYA SİLİNEN HERHANGİ BİR İÇERİK VEYA GENEL BİLGİ İÇİN HİÇBİR SORUMLULUĞU OLMAYACAKTIR.",
+  "section_5_public_warning": "Yayınlanan, yüklenen, paylaşılan veya başka bir şekilde kullanıma sunulan HERHANGİ BİR İÇERİĞİN DİĞER KULLANICILAR TARAFINDAN OKUNABİLECEĞİNİ, TOPLANABİLECEĞİNİ VE KULLANILABİLECEĞİNİ VE İSTENMEYEN İÇERİK GÖNDERMEK İÇİN KULLANILABİLECEĞİNİ BİLMELİSİNİZ.",
+  "section_6_title": "6. Bağlantılar",
+  "section_6_description": "Web Sitesi veya Hizmetler, üçüncü taraflarca sunulan web siteleri, reklamverenler, yayıncılar veya Ürünlerle ilgili bağlantılar veya diğer içerikler içerebilir. Şirketin, bunlarla veya bunlar aracılığıyla sağlanan veya iletilen herhangi bir bilgiyle veya bu tür herhangi bir üçüncü tarafça sağlanan başka bir şeyle ilgili hiçbir kontrolü veya beyanı yoktur.",
+  "section_6_risk": "BU TÜR BAĞLANTILARIN VEYA DİĞER İÇERİKLERİN KULLANIMININ RİSKİNİN YALNIZCA SİZE AİT OLDUĞUNU, BU TÜR BAĞLANTILARIN VEYA DİĞER İÇERİKLERİN BU ÜÇÜNCÜ TARAFLARIN KULLANIM KOŞULLARI VE GİZLİLİK POLİTİKALARINA TABİ OLDUĞUNU VE ŞİRKETİN BU TÜR ÜÇÜNCÜ TARAFLARIN GİZLİLİK VEYA İŞ UYGULAMALARINDAN VEYA DİĞER POLİTİKALARINDAN SORUMLU OLMADIĞINI ANLIYOR VE KABUL EDİYORSUNUZ.",
+  "section_6_review_advice": "Bu tür herhangi bir Üçüncü Tarafa uygulanan geçerli koşulları ve politikaları dikkatlice incelemelisiniz.",
+  "section_6_full_disclaimer": "ŞİRKET, BU TÜR ÜÇÜNCÜ TARAFTAN VEYA BUNUN SONUCUNDA ORTAYA ÇIKAN HERHANGİ BİR KAYIP VEYA HASARDAN HİÇBİR ŞEKİLDE SORUMLU VEYA YÜKÜMLÜ DEĞİLDİR VE ŞİRKET, BU TÜR ÜÇÜNCÜ TARAFLARDAN KAYNAKLANAN VE/VEYA BUNLARLA HERHANGİ BİR ŞEKİLDE İLGİLİ OLAN HER TÜRLÜ İHTİLAF, TALEP, DAVA, YARALANMA, KAYIP, ZARAR VE/VEYA HASAR İÇİN AÇIKÇA FERAGAT EDER VE SİZ DE ŞİRKETİ AÇIKÇA İBRA EDERSİNİZ, BUNA KULLANILABİLİRLİK, KULLANIM KOŞULLARI, GİZLİLİK, BİLGİ, İÇERİK, MATERYALLER, REKLAM, ÜCRETLER, ÜRÜNLER VE/VEYA HİZMETLERLE İLGİLİ OLANLAR DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE.",
+  "section_7_title": "7. Yasaklanmış Kullanımlar",
+  "section_7_commercial": "Web Sitesi ve Hizmetler, Şirketin açık yazılı izni olmaksızın (Kullanıcıları herhangi bir Üçüncü Tarafa bağlama konusunda Şirket tarafından aksi belirtilmedikçe) herhangi bir ticari amaçla kullanılamaz.",
+  "section_7_recruitment": "Web Sitesi ve Hizmetler, Şirketle bağlantısı olmayan bir iş için başka bir web sitesi için işe alma, talepte bulunma, reklam yapma veya herhangi bir biçimde Kullanıcılarla istihdam, sözleşme veya başka herhangi bir amaç için iletişime geçme amacıyla herhangi bir kişi veya kuruluş tarafından Şirketten açık yazılı izin alınmadan kullanılamaz.",
+  "section_7_user_contact": "Bu Koşullar uyarınca aksi belirtilmedikçe, diğer herhangi bir Kullanıcıyla onların açık rızası olmadan iletişim kurmak, reklam yapmak, talepte bulunmak veya satış yapmak amacıyla Hizmetleri ve Web Sitesini kullanmamayı kabul ediyorsunuz.",
+  "section_8_title": "8. Destek",
+  "section_8_text": "Kullanıcılar, Web Sitesi ve Hizmetlerle ilgili destek için Şirket ile e-posta göndererek iletişime geçebilirler.",
+  "section_9_title": "9. Feragatler",
+  "section_9_security": "Şirket, teknolojisinin Web Sitesini ve Hizmetleri güvenli ve emniyetli tutmasını sağlamak için makul çabayı gösterir. Ancak, hiçbir teknoloji %100 güvenli değildir. Bu nedenle, kişisel bilgilerinizi korumak için ticari olarak kabul edilebilir yollar kullanmaya çalışsak da, mutlak güvenliğini garanti edemeyiz.",
+  "section_9_as_is": "Burada açıkça belirtilenler dışında, Web Sitesini ve Hizmetleri kullanımınız tamamen sizin takdirinizde ve riskinizdedir. Web Sitesi ve Hizmetler, herhangi bir garanti olmaksızın “OLDUĞU GİBİ” ve “MEVCUT OLDUĞU GİBİ” esasına göre sağlanır.",
+  "section_9_no_warranties": "Şirket, Web Sitesi ve Hizmetlerle ilgili zımni veya yasal her türlü garantiyi, buna unvan, ticari elverişlilik, belirli bir amaca uygunluk, tescilli hakların ihlal edilmemesi, iş yapma şekli veya performans şekli garantileri dahil ancak bunlarla sınırlı olmamak üzere açıkça reddeder.",
+  "section_9_no_advice": "Şirket, herhangi bir işlemin, ticaretin veya ilişkinin riski veya uygunluğu hakkında herhangi bir tavsiye vermez. Şirket, sizin tarafınızdan yapılan herhangi bir işlem veya ilişki için hiçbir sorumluluk kabul etmez ve işlemlerinizin ve ilişkilerinizin değerlendirilmesinden yalnızca sizin sorumlu olduğunuzu kabul ediyorsunuz.",
+  "section_9_no_liability_advice": "Yaptığınız herhangi bir işlem veya ilişki seçimi için Şirketi, yetkililerini, çalışanlarını veya bağlı kuruluşlarını sorumlu tutmayacaksınız.",
+  "section_9_no_created_warranty": "Şirketten veya yetkililerinden, çalışanlarından veya bağlı kuruluşlarından sizin tarafınızdan alınan hiçbir sözlü veya yazılı tavsiye veya bilgi, bu Koşullarda açıkça belirtilmeyen herhangi bir garanti oluşturmayacaktır. Bu tür bilgilere güvenmeyi seçerseniz, bunu yalnızca kendi riskinizle yaparsınız.",
+  "section_9_jurisdiction_note": "Bazı eyaletler veya yargı bölgeleri belirli garantilerin hariç tutulmasına izin vermez. Buna göre, yukarıdaki istisnaların bazıları sizin için geçerli olmayabilir.",
+  "section_10_title": "10. Sorumluluğun Sınırlandırılması",
+  "section_10_no_guarantee": "Şirket, Üçüncü Tarafların, Ürünlerin veya sağlanan, tüketilen veya başka bir şekilde kullanıma sunulan diğer herhangi bir bilginin değerini, kalitesini, uyumluluğunu veya diğer herhangi bir özelliğini (bundan sonra bu Bölümde: “Özellikler”) garanti etmez. Herhangi bir Özellik, geçerli Üçüncü Tarafın veya onu kullanan Kullanıcının veya Hizmetleri veya Web Sitesini kullananın yegane sorumluluğu altındadır.",
+  "section_10_monitoring": "Şirket, bu tür uyumu izlemeyi taahhüt etmez ve uyumsuzluğun tespit edildiği durumlarda, bu Koşullarda belirtildiği gibi, tamamen kendi takdirine bağlı olarak karar verileceği şekilde hareket edebilir.",
+  "section_10_exposure": "Yanlış, itiraz edilebilir, çocuklar için uygun olmayan veya sizin için başka bir şekilde uygunsuz olan içeriğe veya diğer bilgilere maruz kalabileceğinizi anlıyor ve kabul ediyorsunuz.",
+  "section_10_technical": "Şirket, herhangi bir telefon ağının veya hattının, bilgisayar çevrimiçi sistemlerinin, sunucuların veya sağlayıcıların, bilgisayar ekipmanının, yazılımın, teknik sorunlar nedeniyle herhangi bir e-postanın başarısızlığından veya İnternet'teki veya Web Sitesi veya Hizmetlerin herhangi birindeki trafik sıkışıklığından veya bunların birleşiminden kaynaklanan herhangi bir sorundan veya teknik arızadan, buna Kullanıcıların veya herhangi bir kişinin bilgisayarının, cep telefonunun veya Web Sitesi veya Hizmetlerle bağlantılı olarak materyal indirme veya katılım sonucunda ortaya çıkan herhangi bir yaralanma veya hasar dahil olmak üzere sorumlu değildir.",
+  "section_10_conduct": "Hiçbir koşulda Şirket, çevrimiçi veya çevrimdışı üçüncü tarafların, buna herhangi bir Kullanıcı ve harici sitelerin operatörleri de dahil olmak üzere, davranışından sorumlu olmayacaktır.",
+  "section_10_no_indirect": "Şirket veya yetkilileri, yöneticileri, çalışanları veya acentelerinden hiçbiri, Web Sitesini veya Hizmetleri kullanımınızdan kaynaklanan veya bunlarla bağlantılı olarak ortaya çıkan dolaylı, arızi, özel, cezai veya sonuç olarak ortaya çıkan zararlardan size karşı sorumlu olmayacaktır, zararların öngörülebilir olup olmadığına ve Şirketin bu tür zararların olasılığı hakkında bilgilendirilip bilgilendirilmediğine bakılmaksızın.",
+  "section_10_full_extent": "Yukarıdaki sorumluluk sınırlaması, geçerli yargı yetkisindeki yasaların izin verdiği en geniş ölçüde uygulanacaktır.",
+  "section_11_title": "11. Tazminat",
+  "section_11_text": "Bu Koşulların sizin tarafınızdan ihlal edilmesinden veya sizin tarafınızdan Web Sitesi veya Hizmetlerin yürürlükteki yasalara uygun olmayan herhangi bir kullanımından kaynaklanan veya bunlarla ilgili herhangi bir üçüncü tarafça yapılan fiili bir talep, talep, eylem veya diğer yargılamalarla bağlantılı olarak Şirketin uğrayabileceği veya maruz kalabileceği her türlü dava, yargılama, iddia, hasar, maliyet, yükümlülük veya masrafa (mahkeme masrafları ve makul avukatlık ücretleri dahil) karşı Şirketi savunacak, tazmin edecek ve zararsız tutacaksınız.",
+  "section_12_title": "12. Çeşitli",
+  "section_12_governing_law": "Bu Koşullar, yasa seçimi kuralları hariç olmak üzere ve Birleşmiş Milletler Uluslararası Mal Satış Sözleşmesi'ne bakılmaksızın İngiltere yasalarına tabi olacaktır. Davranışınız ayrıca diğer yerel, eyalet ve ulusal yasalara da tabi olabilir.",
+  "section_12_jurisdiction": "Bu Koşullar kapsamında veya Web Sitesi veya Hizmetle ilgili ortaya çıkan herhangi bir anlaşmazlık, nihai olarak İngiltere'deki yetkili mahkemeler tarafından çözülecektir.",
+  "section_12_no_class_action": "Şirkete karşı herhangi bir toplu dava talebinde bulunamazsınız ve Web Sitesini veya Hizmetleri kullanarak bu tür toplu dava taleplerinde bulunma haklarınızdan feragat etmeyi kabul ediyorsunuz.",
+  "section_12_limitation_period": "Şirkete karşı herhangi bir dava nedeni, bu dava nedeninin ortaya çıktığı tarihten itibaren bir (1) yıl içinde açılmalıdır.",
+  "section_12_severability": "Bu Koşulların herhangi bir hükmünün uygulanamaz olduğu kabul edilirse, bu hüküm, orijinal hükmün etkisini en yakından başaran uygulanabilir bir hükümle değiştirilecektir ve bu Koşulların geri kalan hükümleri tam olarak yürürlükte kalacaktır.",
+  "section_12_no_agency": "Bu Koşullardaki hiçbir şey, sizinle Şirket arasında herhangi bir acente, istihdam, ortak girişim veya ortaklık ilişkisi yaratmaz veya Şirket adına hareket etmenizi sağlamaz.",
+  "section_12_entire_agreement": "Bu Koşullarda açıkça belirtilebilecek olanlar dışında, bu Koşullar Şirket ile sizin aranızdaki buradaki konuyla ilgili tüm anlaşmayı teşkil eder.",
+  "section_12_notices": "Yasa uyarınca veya bu Koşullara göre size sağlamamız gerekebilecek herhangi bir bildirim, Şirket tarafından Hesap bilgilerinizde veya başka bir şekilde sağladığınız herhangi bir iletişim bilgisine, doğrudan veya dolaylı olarak, e-posta dahil olmak üzere sağlanabilir. Bu tür iletişim ve bildirimleri bu şekilde almayı açıkça kabul ediyorsunuz.",
+  "section_12_no_assignment": "Önceden yazılı iznimiz olmadan buradaki hiçbir hakkınızı devredemezsiniz.",
+  "section_12_no_limitation": "Bu Koşullarda yer alan hiçbir şey, Şirketin herhangi bir yasaklanmış faaliyet veya davranışla ilgili olarak kullanabileceği eylemleri veya çareleri sınırlayacak şekilde yorumlanmayacaktır.",
+  "section_12_no_waiver": "Bu Koşulların herhangi bir teriminin uygulanmaması, onay veya feragat teşkil etmez ve Şirket, bu terimi tamamen kendi takdirine bağlı olarak uygulama hakkını saklı tutar. Buradaki herhangi bir ihlal veya temerrütten feragat, önceki veya sonraki herhangi bir ihlal veya temerrütten feragat olarak kabul edilmeyecektir.",
+  "section_12_viewer_responsibility": "Sitedeki herhangi bir bilginin, görüşün, tavsiyenin veya diğer içeriğin doğruluğunu, eksiksizliğini veya kullanışlılığını değerlendirmek tamamen izleyicinin sorumluluğundadır."
+
 }

@@ -115,5 +115,388 @@
     "contact.input.email": "Emailul dvs.",
     "contact.input.message": "Mesajul dvs.",
     "contact.button": "Trimite mesaj",
-    "contact.success": "Mesajul dvs. a fost trimis cu succes!"
+    "contact.success": "Mesajul dvs. a fost trimis cu succes!",
+
+     "privacy.title": "Politică de confidențialitate", 
+
+  "privacy.intro.provider": "Furnizorul (\"noi\", \"ne\", sau \"al nostru\") administrează platforma Aivontrixen („Serviciul”).", 
+
+  "privacy.intro.description": "Acest document descrie practicile noastre privind colectarea, utilizarea și partajarea informațiilor personale atunci când interacționați cu Serviciul nostru și opțiunile disponibile pentru dumneavoastră în legătură cu aceste informații.", 
+
+  "privacy.intro.usage": "Noi, Aivontrixen, utilizăm informațiile dumneavoastră pentru a furniza și îmbunătăți Serviciul. Prin utilizarea Serviciului, consimțiți la colectarea și utilizarea datelor conform acestei politici. Cu excepția cazurilor în care sunt definite explicit în această Politică de confidențialitate, terminologia utilizată are aceeași semnificație ca în Termenii și Condițiile noastre, disponibile la Aivontrixen.", 
+
+ 
+
+  "privacy.toc.definitions": "Definiții", 
+
+  "privacy.toc.definitions.service": "Serviciu", 
+
+  "privacy.toc.definitions.personal_data": "Date personale", 
+
+  "privacy.toc.definitions.usage_data": "Date de utilizare", 
+
+  "privacy.toc.definitions.cookies": "Cookie-uri", 
+
+  "privacy.toc.definitions.data_controller": "Operator de date", 
+
+  "privacy.toc.definitions.data_processors": "Procesatori de date (sau furnizori de servicii)", 
+
+  "privacy.toc.definitions.data_subject": "Subiect de date (sau utilizator)", 
+
+   
+
+  "privacy.toc.info_collection": "Colectarea și utilizarea informațiilor", 
+
+  "privacy.toc.info_collection.types_of_data": "Tipuri de date colectate", 
+
+  "privacy.toc.info_collection.personal_data": "Date personale", 
+
+  "privacy.toc.info_collection.usage_data": "Date de utilizare", 
+
+  "privacy.toc.info_collection.tracking_cookies": "Date cookie-uri de urmărire", 
+
+  "privacy.toc.info_collection.use_of_data": "Utilizarea datelor", 
+
+  "privacy.toc.info_collection.legal_basis": "Baza legală pentru prelucrarea datelor personale conform Regulamentului General privind Protecția Datelor (GDPR)", 
+
+  "privacy.toc.info_collection.retention": "Păstrarea datelor", 
+
+   
+
+  "privacy.toc.transfer": "Transferul datelor", 
+
+  "privacy.toc.transfer.disclosure": "Divulgarea datelor", 
+
+  "privacy.toc.transfer.disclosure.business_transaction": "Tranzacție de afaceri", 
+
+  "privacy.toc.transfer.legal_requirements": "Cerințe legale", 
+
+  "privacy.toc.transfer.security": "Securitatea datelor", 
+
+  "privacy.toc.transfer.rights_gdpr": "Drepturile dumneavoastră de protecție a datelor conform Regulamentului General privind Protecția Datelor (GDPR)", 
+
+   
+
+  "privacy.toc.service_providers": "Furnizori de servicii", 
+
+  "privacy.toc.service_providers.analytics": "Analitică", 
+
+  "privacy.toc.service_providers.advertising": "Publicitate", 
+
+  "privacy.toc.service_providers.behavioral_remarketing": "Remarketing comportamental", 
+
+  "privacy.toc.service_providers.links": "Legături către alte site-uri", 
+
+  "privacy.toc.service_providers.changes": "Modificări ale acestei politici de confidențialitate", 
+
+  "privacy.toc.service_providers.contact": "Contactați-ne", 
+
+"privacy.definitions.service": "Serviciul este site-ul Aivontrixen operat de Furnizor", 
+
+  "privacy.definitions.personal_data": "Datele personale înseamnă date despre o persoană vie care poate fi identificată din acele date (sau din acele date și alte informații aflate în posesia noastră sau care ar putea intra în posesia noastră).", 
+
+  "privacy.definitions.usage_data": "Datele de utilizare sunt date colectate automat, generate fie de utilizarea Serviciului, fie de infrastructura Serviciului în sine (de exemplu, durata unei vizite pe pagină).", 
+
+  "privacy.definitions.cookies": "Cookie-urile sunt fragmente mici de date stocate pe dispozitivul dumneavoastră (computer sau dispozitiv mobil).", 
+
+  "privacy.definitions.data_controller": "Operatorul de date înseamnă persoana fizică sau juridică care (singură sau împreună cu alte persoane) determină scopurile și modalitatea de prelucrare a oricăror informații personale. În scopul acestei politici de confidențialitate, suntem operatorul de date pentru datele dumneavoastră personale.", 
+
+  "privacy.definitions.data_processors": "Procesatorul de date (sau furnizorul de servicii) înseamnă orice persoană fizică sau juridică care procesează datele în numele Operatorului de date. Putem folosi serviciile diferiților furnizori de servicii pentru a procesa datele dumneavoastră mai eficient.", 
+
+  "privacy.definitions.data_subject": "Subiectul de date este orice persoană vie care utilizează Serviciul nostru și este subiectul datelor personale.", 
+
+ 
+
+  "privacy.provider.take": "Furnizorul va lua toate măsurile rezonabil necesare pentru a asigura că datele dumneavoastră sunt tratate în siguranță și în conformitate cu această Politică de confidențialitate și nu va avea loc niciun transfer al Datelor dumneavoastră personale către o organizație sau o țară, cu excepția cazului în care există controale adecvate, inclusiv securitatea datelor și a altor informații personale.", 
+
+ 
+
+  "privacy.info_collection.description": "Colectăm diferite tipuri de informații în diverse scopuri pentru a furniza și îmbunătăți Serviciul nostru pentru dumneavoastră.", 
+
+  "privacy.info_collection.personal_data.description": "În timp ce utilizați Serviciul nostru, este posibil să vă cerem să ne furnizați anumite informații personale identificabile care pot fi folosite pentru a vă contacta sau identifica („Date personale”). Informațiile personale identificabile pot include, dar nu se limitează la:", 
+
+  "privacy.info.user1": "Adresă de e-mail", 
+
+  "privacy.info.user2": "Nume și prenume", 
+
+  "privacy.info.user3": "Număr de telefon", 
+
+  "privacy.info.user4": "Adresă, Stat, Provincie, Cod poștal, Oraș", 
+
+  "privacy.info.user5": "Cookie-uri și date de utilizare", 
+
+"privacy.info_collection.personal_data.usage": "Este posibil să folosim Datele dumneavoastră personale pentru a vă contacta cu buletine informative, materiale de marketing sau promoționale și alte informații care v-ar putea interesa. Puteți renunța la primirea oricăror, sau a tuturor, acestor comunicări de la noi urmând linkul de dezabonare sau instrucțiunile furnizate în orice e‑mail trimis de noi sau contactându-ne.", 
+
+  "privacy.info_collection.usage_data.description": "De asemenea, putem colecta informații despre modul în care Serviciul este accesat și utilizat („Date de utilizare”). Aceste Date de utilizare pot include informații cum ar fi adresa de protocol Internet a computerului dumneavoastră (de ex. adresa IP), tipul browserului, versiunea browserului, paginile Serviciului nostru pe care le vizitați, data și ora vizitei, timpul petrecut pe acele pagini, identificatori unici ai dispozitivului și alte date de diagnostic.", 
+
+  "privacy.info_collection.cookies.description": "Folosim cookie-uri și tehnologii similare de urmărire pentru a monitoriza activitatea pe Serviciul nostru și a păstra anumite informații.", 
+
+  "privacy.info.collection.cookies.description1": "Cookie-urile sunt fișiere cu o cantitate mică de date care pot include un identificator unic anonim. Cookie-urile sunt trimise browserului dumneavoastră de la un site web și stocate pe dispozitiv. Tehnologiile de urmărire utilizate includ balize, etichete și scripturi pentru a colecta și urmări informații și pentru a îmbunătăți și analiza Serviciul nostru.", 
+
+  "privacy.info.collection.cookies.instruct": "Puteți indica browserului să refuze toate cookie-urile sau să semnalizeze când un cookie este trimis. Totuși, dacă nu acceptați cookie-urile, este posibil să nu puteți folosi unele părți ale Serviciului nostru.", 
+
+  "privacy.info_collection.cookies.examples": "Exemple de cookie-uri pe care le utilizăm:", 
+
+  "privacy.example1": "Cookie-uri de sesiune.", 
+
+  "privacy.example1.description": "Folosim cookie-uri de sesiune pentru a opera Serviciul nostru.", 
+
+  "privacy.example2": "Cookie-uri de preferință.", 
+
+  "privacy.example2.description": "Folosim cookie-uri de preferință pentru a reține preferințele și diferite setări ale dumneavoastră.", 
+
+  "privacy.example3": "Cookie-uri de securitate.", 
+
+  "privacy.example3.description": "Folosim cookie-uri de securitate în scopuri de securitate.", 
+
+  "privacy.example4": "Cookie-uri publicitare.", 
+
+  "privacy.example4.description": "Cookie-urile publicitare sunt utilizate pentru a vă prezenta reclame care ar putea fi relevante pentru dumneavoastră și interesele dumneavoastră.", 
+
+ 
+
+  "privacy.info_collection.use_of_data": "Furnizorul folosește datele colectate în diverse scopuri, inclusiv:", 
+
+  "provider1": "Pentru a furniza și menține Serviciul nostru", 
+
+  "provider2": "Pentru a vă informa despre modificările Serviciului nostru", 
+
+  "provider3": "Pentru a vă permite să participați la funcționalitățile interactive ale Serviciului nostru când alegeți să o faceți", 
+
+  "provider4": "Pentru a oferi suport clienților", 
+
+  "provider5": "Pentru a colecta analize sau informații valoroase pentru a îmbunătăți Serviciul nostru", 
+
+  "provider6": "Pentru a monitoriza utilizarea Serviciului nostru", 
+
+  "provider7": "Pentru a detecta, preveni și rezolva probleme tehnice", 
+
+  "provider8": "Pentru a vă furniza știri, oferte speciale și informații generale despre alte produse, servicii și evenimente pe care le oferim și care sunt similare cu cele pe care le-ați achiziționat sau întrebat deja, cu excepția cazului în care ați ales să nu primiți astfel de informații", 
+
+"providerText": "Furnizorul va păstra, de asemenea, Datele de utilizare în scopuri de analiză internă. Datele de utilizare sunt, în general, păstrate pentru o perioadă mai scurtă, cu excepția cazului în care aceste date sunt folosite pentru a consolida securitatea sau pentru a îmbunătăți funcționalitatea Serviciului nostru, sau suntem obligați din punct de vedere legal să păstrăm aceste date pentru perioade mai lungi.", 
+
+  "privacy.info_collection.legal_basis": "Dacă proveniți din Spațiul Economic European (SEE), baza legală a Furnizorului pentru colectarea și utilizarea informațiilor personale descrise în această Politică de confidențialitate depinde de Datele personale pe care le colectăm și de contextul specific în care le colectăm.", 
+
+  "privacy.accept.info": "Furnizorul poate procesa Datele dumneavoastră personale deoarece:", 
+
+  "privacy.accept.info.why1": "Trebuie să încheiem un contract cu dumneavoastră", 
+
+  "privacy.accept.info.why2": "Ne-ați acordat permisiunea", 
+
+  "privacy.accept.info.why3": "Prelucrarea este în interesul nostru legitim și nu este anulat de drepturile dumneavoastră", 
+
+  "privacy.accept.info.why4": " Pentru a respecta legea.", 
+
+ 
+
+  "privacy.consent": "consimțământul nostru la această Politică de confidențialitate, urmat de trimiterea acestor informații, reprezintă acordul dumneavoastră la acel transfer.", 
+
+ 
+
+  "privacy.transfer.description": "Informațiile dumneavoastră, inclusiv Datele personale, pot fi transferate către — și păstrate pe — computere aflate în afara statului, provinciei, țării sau alte jurisdicții guvernamentale unde legile de protecție a datelor pot diferi de cele din jurisdicția dumneavoastră.", 
+
+ 
+
+  "privacy.transfer.disclosure.business_transaction": "Dacă Furnizorul este implicat într-o fuziune, achiziție sau vânzare de active, Datele dumneavoastră personale pot fi transferate. Vom furniza o notificare înainte ca Datele dumneavoastră personale să fie transferate și să devină subiectul unei alte Politici de confidențialitate.", 
+
+  "privacy.transfer.legal_requirements": "Furnizorul poate divulga Datele dumneavoastră personale din buna credință că o astfel de acțiune este necesară", 
+
+  "requirments1": "pentru a respecta o obligație legală", 
+
+  "requirments2": "pentru a proteja drepturile sau proprietatea furnizorului", 
+
+  "requirments3": "Pentru a preveni sau investiga posibile încălcări în legătură cu Serviciul", 
+
+  "requirments4": "Pentru a proteja siguranța personală a utilizatorilor Serviciului sau a publicului", 
+
+  "requirments5": "Pentru a proteja împotriva răspunderii legale", 
+
+ 
+
+  "right.complain": "Aveți dreptul de a depune o plângere la o Autoritate de protecție a datelor cu privire la colectarea și utilizarea Datelor dumneavoastră personale. Pentru mai multe informații, vă rugăm să contactați autoritatea locală de protecție a datelor din Spațiul Economic European (SEE).", 
+
+  "privacy.transfer.security": "Securitatea datelor dumneavoastră este importantă pentru noi, dar nici o metodă de transmitere sau stocare nu este 100% sigură. Ne străduim să utilizăm mijloace comercial acceptabile, dar nu putem garanta o securitate absolută.", 
+
+  "privacy.transfer.rights_gdpr": "Dacă sunteți rezident al Spațiului Economic European (SEE), aveți drepturi de protecție a datelor. Furnizorul are ca scop să ia măsuri rezonabile pentru a vă permite să corectați, să modificați, să ștergeți sau să limitați utilizarea Datelor dumneavoastră personale.", 
+
+  "privacy.certain.circums": "În anumite circumstanțe, aveți următoarele drepturi de protecție a datelor", 
+
+  "google.analytics": "Google Analytics", 
+
+  "google.analytics.desc": "Google Analytics este un serviciu de analiză web oferit de Google care monitorizează și raportează traficul site-ului. Google folosește datele colectate pentru a urmări și monitoriza utilizarea Serviciului nostru. Aceste date sunt partajate cu alte servicii Google. Google poate folosi datele colectate pentru a contextualiza și personaliza reclamele propriei sale rețele de publicitate. Puteți renunța la furnizarea activității dumneavoastră pe Serviciu către Google Analytics instalând suplimentul de browser de renunțare la Google Analytics. Suplimentul previne scriptul JavaScript al Google Analytics (ga.js, analytics.js și dc.js) să partajeze informații cu Google Analytics despre activitatea vizitelor. Pentru mai multe informații despre practicile de confidențialitate ale Google, vă rugăm să vizitați pagina Termeni de confidențialitate Google", 
+
+"privacy.your.access": "Dreptul de a accesa, actualiza sau șterge informațiile pe care le deținem despre dumneavoastră. Ori de câte ori este posibil, puteți accesa, actualiza sau solicita ștergerea Datelor dumneavoastră personale direct în secțiunea de setări a contului. Dacă nu puteți efectua aceste acțiuni singur, vă rugăm să ne contactați pentru asistență. Dreptul de rectificare. Aveți dreptul ca informațiile dumneavoastră să fie rectificate dacă acestea sunt inexacte sau incomplete. Dreptul de a vă opune. Aveți dreptul să vă opuneți prelucrării Datelor dumneavoastră personale. Dreptul de restricție. Aveți dreptul să solicitați să restricționăm prelucrarea informațiilor personale. Dreptul la portabilitatea datelor. Aveți dreptul să vi se furnizeze o copie a informațiilor pe care le deținem despre dumneavoastră într-un format structurat, lizibil de mașină și utilizat în mod obișnuit. Dreptul de a retrage consimțământul. De asemenea, aveți dreptul să vă retrageți consimțământul în orice moment în care Furnizorul s-a bazat pe consimțământul dumneavoastră pentru a prelucra informațiile personale.", 
+
+  "google.adSense": "Cookie Google AdSense DoubleClick", 
+
+  "google.adSense.desc": "Google, în calitate de furnizor terț, folosește cookie-uri pentru a difuza reclame pe Serviciul nostru. Utilizarea cookie-ului DoubleClick de către Google îi permite acestuia și partenerilor să difuzeze reclame utilizatorilor noștri pe baza vizitei lor pe Serviciul nostru sau alte site-uri de pe internet. Puteți renunța la utilizarea cookie-ului DoubleClick pentru publicitatea bazată pe interese vizitând pagina de setări Google Ads:", 
+
+  "google.adSense.provider": "Furnizorul folosește servicii de remarketing pentru a face publicitate pe site-uri terțe după ce ați vizitat Serviciul nostru. Noi și furnizorii noștri terți folosim cookie-uri pentru a informa, optimiza și difuza reclame pe baza vizitelor dumneavoastră anterioare pe Serviciul nostru.", 
+
+  "google.adWords": "Google AdWords", 
+
+  "google.adWords.rec": "recomandă instalarea suplimentului de browser pentru renunțarea la Google Analytics –", 
+
+  "google.also": "Google, de asemenea", 
+
+  "google.analytics.your.browser": "– pentru browserul dumneavoastră web. Suplimentul de browser pentru renunțarea la Google Analytics oferă vizitatorilor posibilitatea de a preveni colectarea și utilizarea datelor de către Google Analytics. Pentru mai multe informații despre practicile de confidențialitate ale Google, vă rugăm să vizitați pagina Termeni de confidențialitate Google:", 
+
+  "facebook": "Facebook", 
+
+  "facebook.remarketing": "Serviciul de remarketing Facebook este furnizat de Facebook Inc. Puteți afla mai multe despre publicitatea bazată pe interese de la Facebook vizitând această pagină:", 
+
+  "facebook.ad": "Pentru a renunța la reclamele Facebook bazate pe interese, urmați aceste instrucțiuni de la Facebook:", 
+
+  "facebook.adheres1": "Facebook aderă la Principiile autorreglementate pentru publicitatea comportamentală online stabilite de Digital Advertising Alliance. De asemenea, puteți renunța la Facebook și alte companii participante prin Digital Advertising Alliance în SUA ", 
+
+  "facebook.adheres2": "Digital Advertising Alliance din Canada în Canada", 
+
+  "facebook.adheres3": "sau European Interactive Digital Advertising Alliance în Europa", 
+
+  "facebook.adheres4": "sau renunțați utilizând setările dispozitivului mobil. Pentru mai multe informații despre practicile de confidențialitate ale Facebook, vă rugăm să vizitați Politica de date a Facebook:", 
+
+"privacy.shouldNote": "Vă rugăm să rețineți că este posibil să vă solicităm verificarea identității înainte de a răspunde la astfel de cereri.", 
+
+  "privacy.wishInformed": "Dacă doriți să fiți informat despre datele personale pe care le deținem despre dumneavoastră și dacă doriți să fie șterse din sistemele noastre, vă rugăm să ne contactați.", 
+
+  "privacy.service_providers.description": "Este posibil să angajăm companii și persoane terțe pentru a facilita Serviciul nostru. Aceste terțe părți au acces la Datele dumneavoastră personale numai pentru a îndeplini sarcini și sunt obligate să nu le divulge sau să le folosească în alte scopuri.", 
+
+  "privacy.bolgaria": "Dacă vă aflați în afara Bulgariei și alegeți să ne furnizați informații, vă rugăm să rețineți că transferăm datele, inclusiv Datele personale, în Bulgaria și le procesăm acolo.", 
+
+  "privacy.service_providers.analytics": "Este posibil să folosim furnizori de servicii terți, cum ar fi Google Analytics, pentru a monitoriza și analiza utilizarea Serviciului nostru.", 
+
+  "privacy.service_providers.advertising": "Este posibil să folosim furnizori de servicii terți pentru a vă afișa reclame pentru a susține și menține Serviciul nostru", 
+
+  "privacy.service_providers.behavioral_remarketing": "Serviciul de remarketing Google AdWords este furnizat de Google Inc. Puteți renunța la Google Analytics pentru publicitatea pe afișaj și să personalizați reclamele rețelei Google Display vizitând pagina Setări Google Ads:", 
+
+  "privacy.service_providers.links": "Serviciul nostru poate conține legături către alte site-uri care nu sunt operate de noi. Revizuiți Politicile de confidențialitate ale acelor site-uri.", 
+
+  "privacy.noControl": "Nu avem niciun control și nu ne asumăm nicio responsabilitate pentru conținutul, politicile de confidențialitate sau practicile oricărui site sau serviciu terț.", 
+
+  "privacy.child": "Confidențialitatea copiilor", 
+
+  "privacy.service_providers.children": "Serviciul nostru nu se adresează nimănui sub vârsta de 18 ani („Copii”). Nu colectăm în mod conștient informații personale identificabile de la nimeni sub 18 ani. Dacă sunteți părinte sau tutore și sunteți conștient că Copiii dumneavoastră ne-au furnizat Date personale, vă rugăm să ne contactați. Dacă devenim conștienți că am colectat Date personale de la copii fără verificarea consimțământului parental, luăm măsuri pentru a elimina acele informații din serverele noastre.", 
+
+  "privacy.changes": "Modificări ale acestei politici de confidențialitate", 
+
+  "privacy.service_providers.changes": "Este posibil să actualizăm Politica noastră de confidențialitate din când în când. Modificările vor fi postate pe această pagină și/sau comunicate prin e‑mail.", 
+
+  "privacy.letKnow": "Vă vom informa prin e‑mail și/sau printr-o notificare proeminentă pe Serviciul nostru, înainte ca modificarea să devină efectivă și vom actualiza „data intrării în vigoare” în partea de sus a acestei Politici de confidențialitate.", 
+
+  "privacy.advises": "Vă sfătuim să revizuiți periodic această Politică de confidențialitate pentru eventuale modificări. Modificările acestei politici devin efective când sunt postate pe această pagină.", 
+
+  "privacy.service_providers.contact": "Dacă aveți întrebări privind această Politică de confidențialitate, vă rugăm să ne contactați prin e‑mail.",
+
+  "terms_title": "Termeni de Utilizare",
+  "terms_intro_welcome": "Bine ați venit la Aivontrixen. Acești Termeni de Utilizare (\"Termeni\") guvernează implicarea dumneavoastră cu platforma noastră situată la Aivontrixen (Serviciul) operată de Aivontrixen.",
+  "terms_intro_generator": "Termenii noștri de utilizare au fost dezvoltați cu ajutorul Generatorului de Termeni de Utilizare.",
+  "terms_intro_acceptance_1": "Prin vizitarea sau utilizarea Serviciului nostru, sunteți de acord să respectați acești Termeni. Dacă aveți vreo obiecție la orice parte a acestor termeni, nu puteți utiliza Serviciul.",
+  "terms_intro_changes": "Vă rugăm să înțelegeți că putem modifica acești Termeni periodic, iar modificările vor fi efective imediat după publicare. Utilizarea continuă a platformei constituie acceptarea oricăror termeni revizuiți sau actualizați.",
+  "terms_intro_rejection": "Dacă respingeți oricare dintre acești Termeni, vă rugăm să vă abțineți de la a da click pe \"ACCEPT\" și să încetați utilizarea Site-ului Web.",
+  "terms_intro_website_def": "Site-ul Web se referă la Aivontrixen, accesibil de la Aivontrixen",
+  "section_1_title": "1. Utilizarea Site-ului Web și a Serviciilor",
+  "section_1_access": "Sub rezerva termenilor și condițiilor stabilite aici, puteți accesa și utiliza Site-ul Web în scopul utilizării Serviciilor pe o bază neexclusivă.",
+  "section_1_modifications": "Recunoașteți că Societatea poate, la discreția sa exclusivă și în orice moment, să modifice, să actualizeze sau să schimbe în alt mod Site-ul Web sau Serviciile, inclusiv să întrerupă furnizarea unei părți sau a întregului Site Web și/sau Servicii sau să modifice sau să elimine orice conținut disponibil prin intermediul Site-ului Web sau al Serviciilor, fără notificare prealabilă.",
+  "section_1_void": "Utilizarea Site-ului Web și a Serviciilor este nulă acolo unde este interzisă.",
+  "section_1_warranties_intro": "Prin utilizarea Site-ului Web și a Serviciilor, declarați și garantați că:",
+  "section_1_warranties_a": "toate informațiile pe care le trimiteți (dacă este cazul) sunt veridice și exacte;",
+  "section_1_warranties_b": "veți menține acuratețea acestor informații; și",
+  "section_1_warranties_c": "aveți cel puțin vârsta majoratului în jurisdicția dumneavoastră; și",
+  "section_1_warranties_d": "utilizarea de către dumneavoastră a Site-ului Web sau a Serviciilor nu încalcă și nu promovează încălcarea niciunei legi sau reglementări aplicabile sau a oricărei obligații legale sau contractuale pe care ați putea-o avea față de o terță parte și ați respectat și veți respecta în orice moment toate legile, regulile și reglementările aplicabile în legătură cu utilizarea de către dumneavoastră a Serviciilor și a Site-ului Web, a oricăror servicii aranjate prin intermediul Serviciilor și al Site-ului Web, inclusiv, fără limitare, acele servicii conectate în orice mod la Produse sau Terțe Părți, așa cum sunt definiți acești termeni aici.",
+  "section_1_undertakings_def": "Subsecțiunile (a)-(d) vor fi denumite, colectiv, „Declarațiile și Garanțiile Utilizatorului”.",
+  "section_1_verification": "Prin utilizarea Serviciilor sau a Site-ului Web, înțelegeți și sunteți de acord că Societatea poate, la discreția sa exclusivă, dar nu este obligată, să verifice dacă oricare sau toate Declarațiile și Garanțiile Utilizatorului sunt respectate de către orice Utilizator și sunteți de acord în continuare că Societatea nu este responsabilă pentru asigurarea faptului că Declarațiile și Garanțiile Utilizatorului sunt respectate sau pentru orice eșec de a suspenda, rezilia sau preveni utilizarea Serviciilor sau a Site-ului Web de către Utilizatorii care nu respectă Declarațiile și Garanțiile Utilizatorului.",
+  "section_1_responsibility": "Înțelegeți că sunteți **singurul responsabil** pentru a vă face propriile evaluări, decizii și judecăți cu privire la faptul dacă să vă angajați cu orice Terță Parte sau să interacționați cu orice Terță Parte în orice mod.",
+  "section_1_reporting": "Dacă luați cunoștință de orice încălcare a Declarațiilor și Garanțiilor Utilizatorului, sunteți încurajat să **raportați** acest lucru Societății.",
+  "section_1_right_to_refuse": "Societatea își rezervă dreptul de a **nu vă furniza** niciun Serviciu, cu sau fără notificare, la discreția sa exclusivă, fie că este adusă la cunoștința ei orice încălcare a Declarațiilor și Garanțiilor Utilizatorului (fie prin rapoarte furnizate de alți Utilizatori, fie în orice alt mod) de către dumneavoastră sau orice alt Utilizator, fie din orice alt motiv.",
+  "section_1_disclaimer_main": "Fără a aduce atingere celor de mai sus, Societatea **declina în mod expres** orice și toată răspunderea, și dumneavoastră **eliberați în mod expres** Societatea de, toate controversele, pretențiile, procesele, vătămările, pierderile, daunele și/sau prejudiciile care decurg din și/sau sunt în orice fel legate de:",
+  "section_1_disclaimer_i": "orice inexactitate, sincronizare incorectă sau caracter incomplet al declarațiilor unui Utilizator sau al unei Terțe Părți; și",
+  "section_1_disclaimer_ii": "declarații false și/sau denaturări făcute, fie în legătură cu, fie de către oricare dintre Terțele Părți sau alți Utilizatori, Produse sau în alt mod.",
+  "section_1_platform_only": "Prin utilizarea Site-ului Web și a Serviciilor, înțelegeți și sunteți de acord că Serviciile oferă doar o **platformă** concepută pentru a ajuta Utilizatorii să ajungă, să cumpere și/sau să utilizeze diverse produse și servicii furnizate de vânzători terți și/sau prestatori de servicii, prin reclamele sau promoțiile pe care le desfășurăm (respectiv, „**Produsele**” și „**Terțele Părți**”).",
+  "section_1_company_a": "**nu angajează, nu recomandă și nu aprobă** nicio Terță Parte sau Produse, dacă este relevant, sau orice parte înrudită a acestora, și **nu are control** asupra actelor sau omisiunilor niciunei Terțe Părți, afacerii lor, produselor sau serviciilor lor;",
+  "section_1_company_b": "**nu face declarații sau garanții** cu privire la Terțele Părți și Produse, inclusiv calitatea, prețul, compatibilitatea, disponibilitatea sau orice alte caracteristici ale acestora, sau cu privire la interacțiunile sau relațiile dumneavoastră cu orice Terță Parte;",
+  "section_1_company_c": "**nu face declarații sau garanții** cu privire la drepturile de proprietate sau alte drepturi sau caracteristici sau aspecte de reglementare legate de Produse, inclusiv orice autorizație, permis sau licență necesară pentru încărcarea, partajarea sau punerea la dispoziție în alt mod, precum și pentru utilizarea, vânzarea și cumpărarea unor astfel de Produse; și",
+  "section_1_company_d": "**nu este responsabilă** pentru performanța sau conduita niciunui Utilizator sau a altor terțe părți care utilizează sau au utilizat Serviciile în orice mod, și/sau pe Site-ul Web sau în afara acestuia.",
+  "section_1_no_screening": "Societatea **nu este obligată să examineze sau să verifice în alt mod** orice informații referitoare la Terțe Părți și/sau Utilizatori, Produse sau orice altă caracteristică legată de Site-ul Web sau Servicii și, prin urmare, ar trebui să **luați măsuri de precauție și să efectuați propriile cercetări și verificări** înainte de a vă angaja cu oricine prin intermediul Serviciilor sau Site-ului Web sau de a interacționa cu oricine în alt mod.",
+  "section_1_full_disclaimer": "Societatea **declina în mod expres** orice și toată răspunderea, și dumneavoastră **eliberați în mod expres** Societatea de, toate controversele, pretențiile, procesele, vătămările, pierderile, daunele și/sau prejudiciile care decurg din și/sau sunt în orice fel legate de Terțele Părți, Produse, Servicii și Site-ul Web sau interacțiunile sau relațiile dumneavoastră cu orice Terță Parte, incluzând, fără limitare, orice acte și/sau omisiuni ale Terțelor Părți care utilizează sau sunt conectate la Servicii sau Site-ul Web în orice mod.",
+  "section_1_risk": "Prin utilizarea Serviciilor sau a Site-ului Web, recunoașteți că sunteți **singurul responsabil** pentru o astfel de utilizare și pentru conexiunile, interacțiunile, achizițiile sau orice alte acțiuni pe care le întreprindeți și că toată utilizarea Serviciilor sau a Site-ului Web se face pe **riscul dumneavoastră exclusiv**.",
+  "section_1_no_sale": "Pentru a evita orice îndoială, Societatea **nu vă vinde, nu vă licențiază sau nu vă pune la dispoziție în alt mod** niciun Produs sau serviciu (altele decât Serviciile) și **nu va avea nicio răspundere** pentru niciun Produs sau serviciu pe care îl cumpărați de la orice Terță Parte, incluzând, fără limitare, în ceea ce privește orice suport și întreținere, neîndeplinire, erori, defecțiuni, daune sau costuri de orice fel.",
+  "section_2_title": "2. Restricții",
+  "section_2_intro": "Fără a aduce atingere prevederilor Secțiunii 1 din acesta, **nu veți**, și nu veți permite niciunei terțe părți, să:",
+  "section_2_a": "**dezasamblați** sau să încercați să descoperiți codul sursă al Site-ului Web sau al Serviciilor;",
+  "section_2_b": "**utilizați** Site-ul Web sau Serviciile **încălcând orice lege sau reglementare aplicabilă**, inclusiv, dar fără a se limita la, postarea, publicarea, partajarea sau transmiterea în alt mod a oricărui material ilegal sau ofensator;",
+  "section_2_c": "**copiați, modificați sau creați lucrări derivate** din Site-ul Web, Servicii sau din conținutul oricăruia dintre Site-urile Web sau Servicii;",
+  "section_2_d": "încercați să **dezactivați sau să eludați** orice mecanism de securitate sau de control al accesului al Site-ului Web sau al Serviciilor;",
+  "section_2_e": "**proiectați sau ajutați la proiectarea** oricăror trucuri, exploatări, software de automatizare, boți, hack-uri, moduri sau orice alt software neautorizat de la terți pentru a modifica sau interfera cu Site-ul Web sau cu Serviciile;",
+  "section_2_f": "utilizați Site-ul Web sau Serviciile sau să vă implicați cu alți Utilizatori în **orice scop care încalcă orice lege sau reglementare aplicabilă**;",
+  "section_2_g": "încercați să obțineți **acces neautorizat** la Site-ul Web sau la Servicii, la alte Conturi de Utilizator, așa cum sunt definite mai jos, sau la alte dispozitive, sisteme informatice, sisteme telefonice sau rețele conectate la Site-ul Web sau la Servicii; și",
+  "section_2_h": "**colectați** sau să **stocați în alt mod informații** despre Utilizatori fără consimțământul acestora.",
+  "section_2_content_warranties": "Dacă postați, publicați, partajați sau transmiteți în alt mod orice conținut prin intermediul Site-ului Web și/sau folosind Serviciile, declarați și garantați că un astfel de conținut oferă o **reprezentare exactă și completă** a oricăror produse sau servicii descrise în acesta, **respectă acești Termeni** aici și **nu**:",
+  "section_2_content_a": "**încalcă** drepturile de proprietate intelectuală, morală sau de publicitate ale unei terțe părți;",
+  "section_2_content_b": "conține orice **conținut defăimător, calomnios, obscen, sugestiv sexual sau altfel ofensator** (inclusiv material care promovează sau glorifică ura, violența sau bigotismul);",
+  "section_2_content_c": "conține **viermi, viruși sau software rău intenționat** de altă natură;",
+  "section_2_content_d": "**încalcă** orice lege sau reglementare aplicabilă, inclusiv orice lege sau reglementare privind publicitatea sau marketingul; și",
+  "section_2_content_e": "întreprindeți orice acțiune care impune o **sarcină nerezonabilă sau disproporționat de mare** asupra infrastructurii noastre.",
+  "section_2_license_grant": "Prin postarea, încărcarea, publicarea, partajarea sau transmiterea în alt mod a oricărui conținut folosind Site-ul Web sau Serviciile, acordați irevocabil Societății și oricăreia dintre filialele sale și/sau sublicențiaților o **licență mondială, neexclusivă, perpetuă, fără redevențe** pentru a publica, partaja, afișa și transmite în alt mod un astfel de conținut în orice formă rezonabilă, la **discreția exclusivă a Societății**.",
+  "section_2_removal_right": "Societatea își rezervă dreptul de a **elimina, suspenda accesul sau șterge permanent** orice conținut în conformitate cu **discreția sa exclusivă, fără notificare prealabilă**, incluzând, fără limitare, orice conținut care încalcă garanțiile stabilite mai sus sau interesele comerciale ale Societății, și **nu veți avea niciun drept sau pretenție** în legătură cu astfel de decizii și acțiuni.",
+  "section_2_no_liability_content": "Societatea **nu este** și nu va fi **răspunzătoare** pentru niciun conținut furnizat, postat, încărcat, partajat sau pus la dispoziție în alt mod de către Utilizatori, orice produse sau servicii legate de un astfel de conținut furnizat, postat, încărcat, partajat sau pus la dispoziție în alt mod de către Utilizatori. Fiecare Utilizator care utilizează Site-ul Web sau Serviciile declară prin prezenta că își asumă **întreaga responsabilitate** în acest sens, iar Societatea **nu va avea nicio răspundere** în legătură cu cele de mai sus.",
+  "section_3_title": "3. Materiale Promoționale și Buletine Informative",
+  "section_3_consent": "În plus față de prevederile Secțiunii 3 de mai sus, Utilizatorul își dă **consimțământul expres** Societății de a-i furniza Utilizatorului materiale promoționale și buletine informative (”**Materiale Promoționale și Buletine Informative**”) **prin orice mijloace disponibile**, inclusiv prin e-mail, mesaje text și SMS, fax, poștă, servicii de apelare automată sau în orice alt mod, toate în conformitate cu **discreția exclusivă a Societății**, așa cum va fi din când în când, și de a **primi** astfel de Materiale Promoționale și Buletine Informative.",
+  "section_3_third_party_ads": "Utilizatorul recunoaște în continuare că Materialele Promoționale și Buletinele Informative pot include **publicitate din partea terților**, și **este de acord în mod expres** cu primirea unor astfel de reclame ca parte a Materialelor Promoționale și a Buletinelor Informative.",
+  "section_3_unsubscribe": "Utilizatorul poate **contacta** Societatea în orice moment trimițând o cerere prin e-mail prin care notifică Societatea cu privire la refuzul său de a continua să primească Materiale Promoționale și Buletine Informative.",
+  "section_4_title": "4. Proprietate Intelectuală",
+  "section_4_ownership": "Societatea este proprietarul tuturor drepturilor, titlurilor și intereselor la nivel mondial în: (a) Site-ul Web și Serviciile, îmbunătățirile, derivatele, corecțiile de erori sau îmbunătățirile aduse Site-ului Web și Serviciilor; și (b) denumirile comerciale, mărcile comerciale și logo-urile Societății, și vor rămâne **exclusiv ale Societății** în orice moment.",
+  "section_4_license_meaning": "Toate referințele din acești Termeni sau din orice altă comunicare la vânzarea, revânzarea sau cumpărarea celor de mai sus înseamnă doar **dreptul de a utiliza Site-ul Web și Serviciile** conform acestor Termeni.",
+  "section_4_user_liability": "Utilizatorii poartă **singura responsabilitate** pentru tot și orice conținut, inclusiv orice drepturi de proprietate intelectuală ale acestuia, furnizat, partajat sau pus la dispoziție în alt mod de către Utilizatori folosind Site-ul Web și/sau Serviciile, iar Societatea **nu face declarații** cu privire la niciun astfel de conținut. Societatea **nu va fi răspunzătoare** pentru nicio pierdere sau daune suferite de un astfel de conținut, iar Utilizatorii sunt de acord să **despăgubească** și să **exonereze** Societatea de orice daune sau pierderi care decurg din cele de mai sus.",
+  "section_5_title": "5. Confidențialitate",
+  "section_5_no_save": "Vă angajați să **nu salvați, să nu colectați sau să nu păstrați în alt mod** în posesia dumneavoastră și să nu utilizați **niciun conținut** furnizat de Servicii și Site-ul Web **fără acordul prealabil scris** al Societății.",
+  "section_5_company_rights": "De asemenea, recunoașteți că Societatea își rezervă dreptul, la discreția sa exclusivă, de a **salva, colecta sau păstra în alt mod** în posesia și de a utiliza **orice conținut și informații publice**, inclusiv informații care vă pot **identifica personal** pe dumneavoastră sau pe orice alt Utilizator sau Terță Parte sau să descrie interesele dumneavoastră personale.",
+  "section_5_privacy_policy": "Societatea își rezervă dreptul de a face **orice utilizare permisă** în conformitate cu orice lege aplicabilă a acestor conținuturi și informații publice, așa cum este stabilit în **Politica de Confidențialitate a Societății**.",
+  "section_5_no_verification": "Fără a aduce atingere prevederilor Secțiunii 1 de mai sus, Societatea **nu examinează, nu testează, nu confirmă, nu aprobă și nu verifică în alt mod** un astfel de conținut sau informații publice.",
+  "section_5_user_responsibility": "Fiecare Utilizator care postează, încarcă, partajează sau pune la dispoziție în alt mod un astfel de conținut sau informații publice va purta **singura responsabilitate** pentru conținutul sau informațiile publice, inclusiv orice informații ale terților și **consimțămintele necesare**.",
+  "section_5_indemnification": "Societatea **nu va fi răspunzătoare** pentru nicio pierdere sau daune suferite din cauza nerespectării celor de mai sus, și sunteți de acord să **despăgubiți** și să **exonerați** Societatea de orice daune sau pierderi care decurg din cele de mai sus.",
+  "section_5_not_storage": "FĂRĂ A ADUCE ATINGERE CELOR DE MAI SUS, ÎNȚELEGEȚI ȘI RECUNOAȘTEȚI CĂ SOCIETATEA **NU ESTE UN SERVICIU DE STOCARE A CONȚINUTULUI**. SOCIETATEA **NU VA AVEA NICIO RĂSPUNDERE** PENTRU ORICE **CONȚINUT PIERDUT SAU ȘTERS** SAU INFORMAȚII PUBLICE.",
+  "section_5_public_warning": "TREBUIE SĂ FIȚI CONȘTIENT CĂ **ORICE CONȚINUT** postat, încărcat, partajat sau pus la dispoziție în alt mod **POATE FI CITIT, COLECTAT ȘI UTILIZAT DE ALȚI UTILIZATORI**, ȘI POATE FI UTILIZAT PENTRU A TRIMITE **CONȚINUT NESOLICITAT**.",
+  "section_6_title": "6. Link-uri",
+  "section_6_description": "Site-ul Web sau Serviciile pot conține link-uri sau alte conținuturi legate de site-uri web, agenți de publicitate, editori sau Produse oferite de terțe părți. Societatea **nu are control** și **nu face declarații** cu privire la acestea sau la orice informații furnizate sau transmise prin intermediul acestora, sau furnizate în alt mod de către o astfel de terță parte.",
+  "section_6_risk": "ÎNȚELEGEȚI ȘI SUNTEȚI DE ACORD CĂ UTILIZAREA UNOR ASTFEL DE LINK-URI SAU ALTOR CONȚINUTURI ESTE PE **PROPRIUL DUMNEAVOASTRĂ RISC**, CĂ ASTFEL DE LINK-URI SAU ALTE CONȚINUTURI SUNT GUVERNATE DE **TERMENII DE UTILIZARE ȘI POLITICILE DE CONFIDENȚIALITATE ALE ACESTOR TERȚE PĂRȚI**, ȘI CĂ SOCIETATEA **NU ESTE RESPONSABILĂ** PENTRU CONFIDENȚIALITATEA SAU PRACTICILE COMERCIALE SAU ALTE POLITICI ALE ACESTOR TERȚE PĂRȚI.",
+  "section_6_review_advice": "Ar trebui să **revizuiți cu atenție** termenii și politicile aplicabile care se aplică oricărei astfel de Terțe Părți.",
+  "section_6_full_disclaimer": "SOCIETATEA **NU ESTE RESPONSABILĂ** ÎN NICIUN FEL PENTRU ORICE ASTFEL DE **TERȚĂ PARTE**, SAU PENTRU ORICE **PIERDERE SAU DAUNE** DE ORICE FEL SUFERITE CA REZULTAT AL ACESTUI LUCRU, ȘI SOCIETATEA **DECLINA ÎN MOD EXPRES** ORICE ȘI TOATĂ RĂSPUNDEREA, ȘI DUMNEAVOASTRĂ **ELIBERAȚI ÎN MOD EXPRES** SOCIETATEA DE, TOATE CONTROVERSELE, PRETENȚIILE, PROCESELE, VĂTĂMĂRILE, PIERDERILE, DAUNELE ȘI/SAU PREJUDICIILE, CARE DECURG DIN ȘI/SAU SUNT ÎN ORICE FEL **LEGATE DE ASTFEL DE TERȚE PĂRȚI**, INCLUZÂND, FĂRĂ LIMITARE, LEGATE DE DISPONIBILITATE, TERMENII DE UTILIZARE, CONFIDENȚIALITATE, INFORMAȚII, CONȚINUT, MATERIALE, PUBLICITATE, TAXE, PRODUSE ȘI/SAU SERVICII.",
+  "section_7_title": "7. Utilizări Interzise",
+  "section_7_commercial": "Site-ul Web și Serviciile **nu pot fi utilizate** în legătură cu **niciun demers comercial** (cu excepția cazului în care este permis în mod expres de Societate în conectarea Utilizatorilor cu orice Terțe Părți) **fără consimțământul prealabil scris** al Societății.",
+  "section_7_recruitment": "Site-ul Web și Serviciile **nu pot fi utilizate** de nicio persoană sau organizație pentru a **recruta** pentru un alt site web, pentru a **solicita, a face publicitate sau a contacta** sub orice formă Utilizatorii pentru **angajare, contractare sau orice alt scop** pentru o afacere **neafiliată** Societății **fără consimțământul prealabil scris** al Societății.",
+  "section_7_user_contact": "Sunteți de acord să **nu utilizați** Serviciile și Site-ul Web pentru a **contacta, face publicitate, solicita sau vinde** oricărui alt Utilizator **fără consimțământul expres** al acestuia, cu excepția cazului în care este permis altfel în conformitate cu acești Termeni.",
+  "section_8_title": "8. Asistență",
+  "section_8_text": "Utilizatorii pot **contacta** Societatea cu privire la asistența pentru Site-ul Web și Servicii, **trimițând un e-mail**",
+  "section_9_title": "9. Exonerări de Răspundere",
+  "section_9_security": "Societatea depune **eforturi rezonabile** pentru a se asigura că tehnologia sa menține Site-ul Web și Serviciile sigure și securizate. Cu toate acestea, **nicio tehnologie nu este 100% sigură**. Prin urmare, deși ne străduim să folosim mijloace acceptabile din punct de vedere comercial pentru a vă proteja informațiile personale, **nu putem garanta securitatea absolută** a acestora.",
+  "section_9_as_is": "Cu excepția cazurilor în care este prevăzut în mod expres aici, utilizarea de către dumneavoastră a Site-ului Web și a Serviciilor se face la **discreția și riscul dumneavoastră exclusiv**. Site-ul Web și Serviciile sunt furnizate pe o bază „**AȘA CUM SUNT**” și „**CONFORM DISPONIBILITĂȚII**” **fără garanții** de niciun fel.",
+  "section_9_no_warranties": "Societatea **declina în mod expres toate garanțiile implicite sau statutare** de orice fel cu privire la Site-ul Web și Servicii, incluzând, fără limitare, garanțiile de titlu, vandabilitate, adecvare pentru un anumit scop, neîncălcare a drepturilor de proprietate, curs al tranzacționării sau curs al performanței.",
+  "section_9_no_advice": "Societatea **nu oferă niciun sfat** cu privire la riscul sau adecvarea oricărei tranzacții, operațiuni sau implicări. Societatea **nu își asumă nicio responsabilitate** pentru nicio tranzacție sau implicare efectuată de dumneavoastră și recunoașteți că sunteți **singurul responsabil** pentru evaluarea tranzacțiilor și implicărilor dumneavoastră.",
+  "section_9_no_liability_advice": "**Nu veți trage la răspundere** Societatea, ofițerii, angajații sau afiliații acesteia pentru orice alegeri de tranzacții sau implicări făcute de dumneavoastră.",
+  "section_9_no_created_warranty": "Niciun sfat sau informație, orală sau scrisă, obținută de dumneavoastră de la Societate sau de la ofițerii, angajații sau afiliații acesteia, **nu va crea nicio garanție** care nu este expres prevăzută în acești Termeni. Dacă alegeți să vă bazați pe astfel de informații, o faceți **exclusiv pe propriul risc**.",
+  "section_9_jurisdiction_note": "Unele state sau jurisdicții **nu permit** excluderea anumitor garanții. În consecință, unele dintre excluderile de mai sus **s-ar putea să nu se aplice** dumneavoastră.",
+  "section_10_title": "10. Limitarea Răspunderii",
+  "section_10_no_guarantee": "Societatea **nu garantează** valoarea, calitatea, compatibilitatea sau orice altă caracteristică a Terțelor Părți, a Produselor sau a oricăror alte informații furnizate, consumate sau puse la dispoziție în alt mod (în continuare în această Secțiune: „**Caracteristicile**”). Fiecare Caracteristică este sub **responsabilitatea exclusivă** a Terței Părți sau a Utilizatorului aplicabil care o utilizează, dacă este cazul, sau utilizează Serviciile sau Site-ul Web.",
+  "section_10_monitoring": "Societatea **nu se angajează** să monitorizeze o astfel de conformitate și poate lua măsuri atunci când este detectată neconformitatea, așa cum va fi decis în conformitate cu **discreția sa exclusivă**, așa cum este descris în acești Termeni.",
+  "section_10_exposure": "Înțelegeți și sunteți de acord că puteți fi expus la conținut sau alte informații care sunt **inexacte, inacceptabile, inadecvate** pentru copii sau altfel **nepotrivite** pentru dumneavoastră.",
+  "section_10_technical": "Societatea **nu este responsabilă** pentru nicio problemă sau **defecțiune tehnică** a oricărei rețele sau linii telefonice, sisteme informatice online, servere sau furnizori, echipamente informatice, software, eșecul oricărui e-mail din cauza problemelor tehnice sau a congestiei de trafic pe internet sau pe oricare dintre Site-urile Web sau Servicii sau orice combinație a acestora, inclusiv orice vătămare sau **deteriorare a Utilizatorilor** sau a computerului, telefonului mobil sau a oricărui alt dispozitiv al oricărei persoane legate de sau rezultând din participarea la sau descărcarea de materiale în legătură cu Site-ul Web sau Serviciile.",
+  "section_10_conduct": "În **niciun caz** Societatea nu va fi responsabilă pentru **conduita terțelor părți**, inclusiv a oricărui Utilizator, online sau offline, și a operatorilor de site-uri externe.",
+  "section_10_no_indirect": "În **niciun caz** Societatea sau oricare dintre ofițerii, directorii, angajații sau agenții săi nu va fi răspunzătoare față de dumneavoastră pentru **daune indirecte, incidentale, speciale, punitive sau consecvențiale**, care decurg din sau sunt legate de utilizarea de către dumneavoastră a Site-ului Web sau a Serviciilor, **indiferent dacă daunele sunt previzibile** și **indiferent dacă Societatea a fost avertizată** cu privire la posibilitatea unor astfel de daune.",
+  "section_10_full_extent": "Limitarea răspunderii de mai sus se va aplica în **măsura maximă permisă de lege** în jurisdicția aplicabilă.",
+  "section_11_title": "11. Despăgubire",
+  "section_11_text": "Veți **apăra, despăgubi și exonera** Societatea de și împotriva oricăror **procese, proceduri, afirmații, daune, costuri, răspunderi sau cheltuieli** (inclusiv costurile de judecată și onorariile rezonabile ale avocaților) pe care Societatea le poate **suferi sau suporta** în legătură cu orice pretenție efectivă, cerere, acțiune sau altă procedură a oricărei terțe părți care decurge din sau se referă la **orice încălcare a acestor Termeni** de către dumneavoastră sau **orice utilizare** a Site-ului Web sau a Serviciilor de către dumneavoastră **care nu este în conformitate cu legea aplicabilă**.",
+  "section_12_title": "12. Dispoziții Diverse",
+  "section_12_governing_law": "Acești Termeni vor fi guvernați de **legile Angliei**, excluzând normele sale de conflict de legi și fără a ține cont de Convenția Națiunilor Unite privind contractele de vânzare internațională de mărfuri. Conduita dumneavoastră poate fi, de asemenea, supusă altor legi locale, de stat și naționale.",
+  "section_12_jurisdiction": "Orice **dispută** care decurge din acești Termeni sau în legătură cu Site-ul Web sau Serviciul va fi soluționată în cele din urmă de **instanțele competente din Anglia**.",
+  "section_12_no_class_action": "**Nu puteți iniția nicio acțiune colectivă** împotriva Societății, iar prin utilizarea Site-ului Web sau a Serviciilor, sunteți de acord să **renunțați la drepturile dumneavoastră** de a iniția astfel de acțiuni colective.",
+  "section_12_limitation_period": "Orice **cauză de acțiune** împotriva Societății trebuie inițiată **în termen de un (1) an** de la data la care o astfel de cauză de acțiune a apărut.",
+  "section_12_severability": "În cazul în care orice prevedere a acestor Termeni este considerată **neaplicabilă**, o astfel de prevedere va fi **înlocuită cu o prevedere aplicabilă** care realizează cel mai bine efectul prevederii inițiale, iar termenii rămași ai acestor Termeni vor rămâne în **vigoare și efectivitate deplină**.",
+  "section_12_no_agency": "Nicio prevedere conținută în acești Termeni nu creează nicio **relație de agenție, angajare, joint venture sau parteneriat** între dumneavoastră și Societate sau vă autorizează să acționați în numele Societății.",
+  "section_12_entire_agreement": "Cu excepția cazurilor în care este prevăzut în mod expres în acești Termeni, acești Termeni constituie **întregul acord** între Societate și dumneavoastră în legătură cu subiectul acestuia.",
+  "section_12_notices": "Orice **notificare** pe care putem fi obligați să v-o dăm, fie prin lege, fie conform acestor Termeni, poate fi dată de Societate la **orice informație de contact** pe care ați furnizat-o în informațiile contului dumneavoastră sau în alt mod, direct sau indirect, inclusiv prin **e-mail**. Sunteți de acord în mod expres cu primirea unor astfel de comunicări și notificări în acest mod.",
+  "section_12_no_assignment": "**Nu puteți cesiona** niciun drept în temeiul prezentului document **fără acordul nostru prealabil scris**.",
+  "section_12_no_limitation": "Nicio prevedere conținută în acești Termeni nu va fi interpretată pentru a **limita acțiunile sau remediile** disponibile Societății în legătură cu orice activitate sau conduită interzisă.",
+  "section_12_no_waiver": "**Neaplicarea** oricărui termen din acești Termeni **nu va constitui o consimțire sau o renunțare**, iar Societatea își rezervă dreptul de a aplica un astfel de termen la **discreția sa exclusivă**. Nicio renunțare la orice încălcare sau neîndeplinire aici nu va fi considerată o renunțare la orice încălcare sau neîndeplinire anterioară sau ulterioară.",
+  "section_12_viewer_responsibility": "Este **responsabilitatea exclusivă a vizualizatorului** să evalueze acuratețea, caracterul complet sau utilitatea oricărei informații, opinii, sfaturi sau alt conținut de pe Site."
+
 }

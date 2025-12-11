@@ -69,19 +69,16 @@
   "reviews.based": "Balstoties uz 247 vērtējumiem",
   "reviews.score": "Vērtējums no 5",
   "reviews.comment": "Jaudīga, viegli lietojama tirdzniecības platforma ar stabilu automatizāciju un izglītības resursiem.",
-
-   "heroNew.title": "Iepazīstiet Aivontrixen un izmēģiniet jaunāko versiju.",
+  "heroNew.title": "Iepazīstiet Aivontrixen un izmēģiniet jaunāko versiju.",
   "heroNew.description": "Laipni lūdzam dinamiskā centrā, kur visi tirgotāji – no iesācējiem līdz profesionāļiem – aug kopā. Mēs esam apņēmušies nodrošināt praktiskas zināšanas, inovatīvas stratēģijas un stabilu, nepārtrauktu atbalstu.",
   "heroNew.form.title": "Atklājiet platformu – bezmaksas reģistrācija",
   "heroNew.form.firstName": "Vārds",
   "heroNew.form.lastName": "Uzvārds",
   "heroNew.form.email": "E-pasts",
   "heroNew.form.phone": "Tālruņa numurs",
-  
   "heroNew.form.submit": "Reģistrēties tagad",
   "heroNew.form.disclaimer": "Reģistrējoties un izveidojot kontu, jūs apstiprināt, ka esat izlasījis un piekrītat lietošanas noteikumiem, privātuma politikai un sīkdatņu politikai. Jūs arī apzināties, ka šī vietne darbojas tikai kā mārketinga platforma.",
   "heroNew.form.readMore": "Lasīt vairāk",
-
   "communityNew.title": "Paceliet savu tirdzniecību nākamajā līmenī",
   "communityNew.intro": "Mūsu dinamiskajā kopienā jūs iegūsiet unikālu iespēju sadarboties ar pieredzējušiem tirgotājiem un ietekmīgiem tirgus līderiem. Viņi dāsni dalās ar dziļām zināšanām, ko ieguvuši, gadu gaitā darbojoties sarežģītos finanšu tirgos.",
   "communityNew.cards.expert.title": "Profesionāls atbalsts, kad tas nepieciešams",
@@ -94,7 +91,6 @@
   "communityNew.cards.network.text": "Kopiena, kas veicina izaugsmi un kopīgu progresu.",
   "communityNew.closing": "Mūsu filozofija ir nodrošināt pilnībā integrētu atbalsta ekosistēmu. Mēs piedāvājam ne tikai pamata ieskatus un taktiku, bet arī ekskluzīvus resursus visu līmeņu tirgotājiem – sākot no stratēģiskās mācību bibliotēkas līdz moderniem analītikas risinājumiem.",
   "communityNew.cta": "Sākt izpēti",
-
   "assetsNew.title": "Aivontrixen atver neierobežotas investīciju iespējas: izpētiet dažādus aktīvus",
   "assetsNew.intro1": "Ienirstiet dinamiskajā tirdzniecības pasaulē ar plašu aktīvu klāstu. Aivontrixen atbalsta visus investoru tipus – gan tos, kuri izvēlas tradicionālos aktīvus, piemēram, akcijas vai izejvielas, gan novatorus, kuri strādā ar kriptovalūtām vai CFD. Neatkarīgi no tā, vai jūsu mērķis ir kapitāla pieaugums, portfeļa paplašināšana vai sarežģītas tirdzniecības stratēģijas, Aivontrixen nodrošina nepieciešamos rīkus un ieskatus. Moderni algoritmi, reāllaika analītika un spēcīgs atbalsts palīdz sasniegt panākumus mūsdienu tirgos. Atklājiet savu tirdzniecības potenciālu kopā ar Aivontrixen.",
   "assetsNew.intro2": "Aivontrixen piedāvā vienkāršu, intuitīvu tirdzniecības pieredzi gan iesācējiem, gan pieredzējušiem tirgotājiem. Nepārtraukts atbalsts un bagātīgi izglītojoši resursi stiprina prasmes un pārliecību.",
@@ -105,15 +101,374 @@
   "assetsNew.cards.futures.title": "Fjūčeru līgumi",
   "assetsNew.cards.futures.text": "Fjūčeri ļauj izmantot progresīvas riska ierobežošanas vai spekulatīvās stratēģijas, piešķirot portfelim lielāku dziļumu.",
   "assetsNew.closing": "Mūsu tirdzniecības platforma nodrošina konsekventu un intuitīvu pieredzi visās aktīvu klasēs. Lietotājam draudzīgs dizains, jaudīgi rīki un plašs finanšu instrumentu klāsts ļauj viegli pārvaldīt portfeli atbilstoši saviem mērķiem. Izpētiet plašos tirgus un maksimāli palieliniet savu tirdzniecības priekšrocību.",
-
   "differenceNew.title": "Kāpēc izvēlēties Aivontrixen?",
   "differenceNew.text": "Pievienojoties mūsu tirdzniecības ekosistēmai, jūs iegūsiet daudz priekšrocību – jaunu skatījumu, praktiskus padomus un vidi, kas veicina jūsu izaugsmi. Sazinieties ar pieredzējušiem tirgotājiem, pilnveidojiet prasmes un paceliet savu tirdzniecības ceļu jaunā līmenī.",
   "differenceNew.cta": "Pievienoties tagad",
+  "contact.heading": "Sazinieties ar mums",
+  "contact.input.name": "Jūsu vārds",
+  "contact.input.email": "Jūsu e-pasts",
+  "contact.input.message": "Jūsu ziņa",
+  "contact.button": "Sūtīt ziņu",
+  "contact.success": "Jūsu ziņa veiksmīgi nosūtīta!",
 
-     "contact.heading": "Sazinieties ar mums",
-    "contact.input.name": "Jūsu vārds",
-    "contact.input.email": "Jūsu e-pasts",
-    "contact.input.message": "Jūsu ziņa",
-    "contact.button": "Sūtīt ziņu",
-    "contact.success": "Jūsu ziņa veiksmīgi nosūtīta!"
+  
+  "privacy.title": "Privātuma politika", 
+
+  "privacy.intro.provider": "Sniedzējs (\"mūs\", \"mēs\" vai \"mūsu\") pārvalda Aivontrixen platformu (\"Pakalpojumu\").", 
+
+  "privacy.intro.description": "Šis dokuments apraksta mūsu prakses saistībā ar personīgās informācijas vākšanu, izmantošanu un koplietošanu, kad jūs lietojat mūsu Pakalpojumu, kā arī iespējas, kas jums pieejamas attiecībā uz šo informāciju.", 
+
+  "privacy.intro.usage": "Mēs, Aivontrixen, izmantojam jūsu informāciju, lai nodrošinātu un uzlabotu Pakalpojumu. Lietojot Pakalpojumu, jūs piekrītiet datu vākšanai un izmantošanai, kā norādīts šajā politikā. Ja vien šajā Privātuma politikā nav īpaši definēts, šeit lietotā terminoloģija ir tas pats, kā mūsu Noteikumos un nosacījumos, kas pieejami Aivontrixen.", 
+
+  "privacy.toc.definitions": "Definīcijas", 
+
+  "privacy.toc.definitions.service": "Pakalpojums", 
+
+  "privacy.toc.definitions.personal_data": "Personiskie dati", 
+
+  "privacy.toc.definitions.usage_data": "Lietošanas dati", 
+
+  "privacy.toc.definitions.cookies": "Sīkdatnes", 
+
+  "privacy.toc.definitions.data_controller": "Datu pārzinis", 
+
+  "privacy.toc.definitions.data_processors": "Datu apstrādātāji (vai Pakalpojumu sniedzēji)", 
+
+  "privacy.toc.definitions.data_subject": "Datu subjekts (vai Lietotājs)", 
+
+  "privacy.toc.info_collection": "Informācijas vākšana un izmantošana", 
+
+  "privacy.toc.info_collection.types_of_data": "Savāktie datu veidi", 
+
+  "privacy.toc.info_collection.personal_data": "Personiskie dati", 
+
+  "privacy.toc.info_collection.usage_data": "Lietošanas dati", 
+
+  "privacy.toc.info_collection.tracking_cookies": "Izsekošanas sīkdatņu dati", 
+
+  "privacy.toc.info_collection.use_of_data": "Datu izmantošana", 
+
+  "privacy.toc.info_collection.legal_basis": "Juridiskais pamats personisko datu apstrādei saskaņā ar Vispārīgo datu aizsardzības regulas (GDPR) prasībām", 
+
+  "privacy.toc.info_collection.retention": "Datu glabāšana", 
+
+  "privacy.toc.transfer": "Datu pārraide", 
+
+  "privacy.toc.transfer.disclosure": "Datu atklāšana", 
+
+  "privacy.toc.transfer.disclosure.business_transaction": "Biznesa darījums", 
+
+  "privacy.toc.transfer.legal_requirements": "Juridiskas prasības", 
+
+  "privacy.toc.transfer.security": "Datu drošība", 
+
+  "privacy.toc.transfer.rights_gdpr": "Jūsu datu aizsardzības tiesības saskaņā ar Vispārējo datu aizsardzības regulu (GDPR)", 
+
+  "privacy.toc.service_providers": "Pakalpojumu sniedzēji", 
+
+  "privacy.toc.service_providers.analytics": "Analītika", 
+
+  "privacy.toc.service_providers.advertising": "Reklāma", 
+
+  "privacy.toc.service_providers.behavioral_remarketing": "Uzvedības pārmārketinga", 
+
+  "privacy.toc.service_providers.links": "Saites uz citām vietnēm", 
+
+  "privacy.toc.service_providers.changes": "Izmaiņas šajā Privātuma politikā", 
+
+  "privacy.toc.service_providers.contact": "Sazinieties ar mums", 
+
+  "privacy.definitions.service": "Pakalpojums ir Aivontrixen mājaslapa, ko pārvalda Sniedzējs", 
+
+  "privacy.definitions.personal_data": "Personiskie dati ir dati par dzīvu personu, kas var tikt identificēta no šiem datiem (vai no tiem un citām informācijām, kas ir mūsu rīcībā vai, iespējams, nonāks mūsu rīcībā).", 
+
+  "privacy.definitions.usage_data": "Lietošanas dati ir dati, kas tiek automātiski savākti, vai nu radīti, lietojot Pakalpojumu, vai no Pakalpojuma infrastruktūras pašas (piemēram, lapas apmeklējuma ilgums).", 
+
+  "privacy.definitions.cookies": "Sīkdatnes ir mazi datu gabali, kas glabājas jūsu ierīcē (datorā vai mobilajā ierīcē).", 
+
+  "privacy.definitions.data_controller": "Datu pārzinis ir fiziskā vai juridiskā persona, kas (pašām vai kopā ar citām personām) nosaka mērķus un veidu, kādā jebkāda personiskā informācija tiek vai tiks apstrādāta. Šīs Privātuma politikas nolūkā mēs esam jūsu personisko datu datu pārzinis.", 
+
+  "privacy.definitions.data_processors": "Datu apstrādātājs (vai Pakalpojumu sniedzējs) ir jebkura fiziskā vai juridiskā persona, kas apstrādā datus Datu pārzinim. Mēs varam izmantot dažādu Pakalpojumu sniedzēju pakalpojumus, lai efektīvāk apstrādātu jūsu datus.", 
+
+  "privacy.definitions.data_subject": "Datu subjekts ir jebkura dzīva persona, kas izmanto mūsu Pakalpojumu un ir personisko datu subjekts.", 
+
+  "privacy.provider.take": "Sniedzējs veiks visus saprātīgi nepieciešamos soļus, lai nodrošinātu, ka jūsu dati tiek apstrādāti droši un saskaņā ar šo Privātuma politiku, un jūsu personiskie dati netiks pārsūtīti nevienai organizācijai vai valstij, ja vien nav ieviesti adekvāti kontroles mehānismi, ieskaitot jūsu datu un citu personisko informāciju drošību.", 
+
+  "privacy.info_collection.description": "Mēs vācām vairākus dažādus informācijas veidus dažādiem mērķiem, lai nodrošinātu un uzlabotu mūsu Pakalpojumu jums.", 
+
+  "privacy.info_collection.personal_data.description": "Lietojot mūsu Pakalpojumu, mēs varam lūgt jums sniegt noteiktu personiski identificējamu informāciju, ko var izmantot, lai sazinātos ar jums vai jūs identificētu (“Personiskie dati”). Personiski identificējama informācija var ietvert, bet neaprobežojas ar:", 
+
+  "privacy.info.user1": "E-pasta adrese", 
+
+  "privacy.info.user2": "Vārds un uzvārds", 
+
+  "privacy.info.user3": "Tālruņa numurs", 
+
+  "privacy.info.user4": "Adrese, valsts, province, pasta indekss, pilsēta", 
+
+  "privacy.info.user5": "Sīkdatnes un lietošanas dati", 
+
+  "privacy.info_collection.personal_data.usage": "Mēs varam izmantot jūsu Personiskos datus, lai sazinātos ar jums ar biļeteniem, mārketinga vai reklāmas materiāliem un citu informāciju, kas varētu būt jums interesanta. Jūs varat atteikties no šo ziņojumu saņemšanas, izpildot atabonēšanas saiti vai norādījumus, kas sniegti jebkurā e-pastā, ko mēs nosūtām, vai sazinoties ar mums.", 
+
+  "privacy.info_collection.usage_data.description": "Mēs varam arī savākt informāciju par to, kā Pakalpojums tiek piekļūts un izmantots (“Lietošanas dati”). Šie Lietošanas dati var ietvert informāciju, piemēram, jūsu datora IP adresi, pārlūkprogrammas veidu, pārlūkprogrammas versiju, mūsu Pakalpojuma lapas, kuras apmeklējat, apmeklējuma laiku un datumu, laiku, kas pavadīts šajās lapās, unikālus ierīču identifikatorus un citus diagnostikas datus.", 
+
+  "privacy.info_collection.cookies.description": "Mēs izmantojam sīkdatnes un līdzīgas izsekošanas tehnoloģijas, lai izsekotu darbību mūsu Pakalpojumā un uzglabātu noteiktu informāciju.", 
+
+  "privacy.info.collection.cookies.description1": "Sīkdatnes ir faili ar nelielu datu apjomu, kas var ietvert anonīmu unikālu identifikatoru. Sīkdatnes tiek nosūtītas uz jūsu pārlūkprogrammu no tīmekļa vietnes un uzglabātas jūsu ierīcē. Izsekošanas tehnoloģijas, kas arī tiek izmantotas, ir beacon, tag un skripti, lai savāktu un izsekotu informāciju, kā arī uzlabotu un analizētu mūsu Pakalpojumu.", 
+
+  "privacy.info.collection.cookies.instruct": "Jūs varat instruēt savu pārlūkprogrammu atteikties no visām sīkdatnēm vai norādīt, kad sīkdatne tiek nosūtīta. Tomēr, ja neakceptēsiet sīkdatnes, varat nespēt izmantot dažas Pakalpojuma daļas.", 
+
+  "privacy.info_collection.cookies.examples": "Sīkdatņu piemēri, ko mēs izmantojam:", 
+
+  "privacy.example1": "Sesijas sīkdatnes.", 
+
+  "privacy.example1.description": "Mēs izmantojam sesijas sīkdatnes, lai darbinātu mūsu Pakalpojumu.", 
+
+  "privacy.example2": "Izvēles sīkdatnes.", 
+
+  "privacy.example2.description": "Mēs izmantojam izvēles sīkdatnes, lai atcerētos jūsu preferences un dažādus iestatījumus.", 
+
+  "privacy.example3": "Drošības sīkdatnes.", 
+
+  "privacy.example3.description": "Mēs izmantojam drošības sīkdatnes drošības nolūkos.", 
+
+  "privacy.example4": "Reklāmas sīkdatnes.", 
+
+  "privacy.example4.description": "Reklāmas sīkdatnes tiek izmantotas, lai jums piedāvātu reklāmas, kas var būt saistītas ar jums un jūsu interesēm.", 
+
+  "privacy.info_collection.use_of_data": "Sniedzējs izmanto savāktos datus dažādiem mērķiem, tostarp:", 
+
+  "provider1": "Nodrošināt un uzturēt mūsu Pakalpojumu", 
+
+  "provider2": "Paziņot jums par izmaiņām mūsu Pakalpojumā", 
+
+  "provider3": "Ļaut jums piedalīties interaktīvās Pakalpojuma funkcijās, kad jūs to izvēlaties", 
+
+  "provider4": "Nodrošināt klientu atbalstu", 
+
+  "provider5": "Savākt analīzes vai vērtīgu informāciju, lai mēs varētu uzlabot mūsu Pakalpojumu", 
+
+  "provider6": "Uzraudzīt Pakalpojuma lietošanu", 
+
+  "provider7": "Noteikt, novērst un risināt tehniskās problēmas", 
+
+  "provider8": "Sniedzēt jums ziņas, īpašos piedāvājumus un vispārīgu informāciju par citiem precēm, pakalpojumiem un notikumiem, ko mēs piedāvājam un kas ir līdzīgi tiem, kurus jūs jau esat iegādājies vai par kuriem informējāties, ja vien jūs neesat izvēlējies nesaņemt šādu informāciju", 
+
+  "providerText": "Sniedzējs arī saglabās Lietošanas datus iekšējās analīzes nolūkos. Lietošanas dati parasti tiek saglabāti īsāku laika periodu, izņemot gadījumus, kad šie dati tiek izmantoti, lai stiprinātu drošību vai uzlabotu mūsu Pakalpojuma funkcionalitāti, vai arī mums likumīgi jāuzglabā šie dati ilgāk.", 
+
+  "privacy.info_collection.legal_basis": "Ja jūs esat no Eiropas Ekonomikas zonas (EEA), Sniedzēja juridiskais pamats personiskās informācijas vākšanai un izmantošanai, kas aprakstīta šajā Privātuma politikā, ir atkarīgs no savāktajiem Personiskajiem datiem un konkrētā kontekstā, kurā mēs tos vācam.", 
+
+  "privacy.accept.info": "Sniedzējs var apstrādāt jūsu Personiskos datus, jo:", 
+
+  "privacy.accept.info.why1": "Mums jāizpilda līgums ar jums", 
+
+  "privacy.accept.info.why2": "Jūs esat devis mums atļauju", 
+
+  "privacy.accept.info.why3": "Apstrāde ir mūsu likumīgajos interese un netiek pārrakstīta ar jūsu tiesībām", 
+
+  "privacy.accept.info.why4": "Lai izpildītu likumu.", 
+
+  "privacy.consent": "mūsu piekrišana šai Privātuma politikai, ko seko jūsu šādu informāciju iesniegšana, apzīmē jūsu piekrišanu šai pārsūtīšanai.", 
+
+  "privacy.transfer.description": "Jūsu informācija, ieskaitot Personiskos datus, var tikt pārsūtīta uz — un glabāta — datoros, kas atrodas ārpus jūsu štata, provinces, valsts vai citas valdības jurisdikcijas, kur datu aizsardzības likumi var atšķirties no jūsu jurisdikcijas likumiem.", 
+
+  "privacy.transfer.disclosure.business_transaction": "Ja Sniedzējs piedalās apvienošanā, iegādē vai aktīvu pārdošanā, jūsu Personiskie dati var tikt pārsūtīti. Mēs sniegsim paziņojumu pirms jūsu Personisko datu pārsūtīšanas un tas kļūst par daļu no citas Privātuma politikas.", 
+
+  "privacy.transfer.legal_requirements": "Sniedzējs var atklāt jūsu Personiskos datus, uzskatot, ka šāds rīcības solis ir nepieciešams,", 
+
+  "requirments1": "lai izpildītu juridisku saistību", 
+
+  "requirments2": "lai aizsargātu sniedzēja tiesības vai īpašumu", 
+
+  "requirments3": "Lai novērstu vai izmeklētu iespējamą ļaunprātīgu rīcību saistībā ar Pakalpojumu", 
+
+  "requirments4": "Lai aizsargātu Pakalpojuma lietotāju vai sabiedrības personīgo drošību", 
+
+  "requirments5": "Lai aizsargātu no juridiskas atbildības", 
+
+  "right.complain": "Jums ir tiesības sūdzēties Datu aizsardzības iestādē par mūsu Personisko datu vākšanu un izmantošanu. Lai iegūtu vairāk informācijas, lūdzu, sazinieties ar savu vietējo datu aizsardzības iestādi Eiropas Ekonomikas zonā (EEA).", 
+
+  "privacy.transfer.security": "Jūsu datu drošība ir mums svarīga, taču neviens pārraides vai uzglabāšanas veids nav 100% drošs. Mēs cenšamies izmantot komerciāli pieņemamus līdzekļus, bet nevaram garantēt absolūtu drošību.", 
+
+  "privacy.transfer.rights_gdpr": "Ja jūs esat Eiropas Ekonomikas zonas (EEA) iedzīvotājs, jums ir datu aizsardzības tiesības. Sniedzējs cenšas veikt saprātīgus soļus, lai ļautu jums labot, mainīt, dzēst vai ierobežot jūsu Personisko datu izmantošanu.", 
+
+  "privacy.certain.circums": "Dažos apstākļos jums ir šādas datu aizsardzības tiesības", 
+
+  "google.analytics": "Google Analytics", 
+
+  "google.analytics.desc": "Google Analytics ir tīmekļa analītikas pakalpojums, ko piedāvā Google, kas izseko un ziņo par vietnes trafiku. Google izmanto savāktos datus, lai izsekotu un uzraudzītu mūsu Pakalpojuma lietošanu. Šie dati tiek kopīgi izmantoti ar citām Google pakalpojumiem. Google var izmantot savāktos datus, lai kontekstualizētu un personalizētu savas reklāmu tīkla reklāmas. Jūs varat atteikties no savas aktivitātes pieejamības Google Analytics, instalējot Google Analytics atslēgšanas pārlūkprogrammas papildinājumu. Šis papildinājums neļauj Google Analytics JavaScript (ga.js, analytics.js un dc.js) koplietot informāciju ar Google Analytics par apmeklējumu aktivitāti. Lai iegūtu vairāk informācijas par Google privātuma praktiskām, lūdzu, apmeklējiet Google privātuma noteikumu mājaslapu.", 
+
+  "privacy.your.access": "Tiesības piekļūt, atjaunināt vai dzēst informāciju, ko mēs par jums glabājam. Kad tas ir iespējams, jūs varat piekļūt, atjaunināt vai pieprasīt jūsu Personisko datu dzēšanu tieši jūsu konta iestatījumu sadaļā. Ja jums pašiem neizdodas veikt šīs darbības, lūdzu, sazinieties ar mums, lai mēs jums palīdzētu. Taisīšanas tiesības. Jums ir tiesības labot jūsu informāciju, ja tā ir neprecīza vai nepilnīga. Tiesības iebilst. Jums ir tiesības iebilst pret mūsu Personisko datu apstrādi. Tiesības ierobežot. Jums ir tiesības pieprasīt, lai mēs ierobežotu jūsu personiskās informācijas apstrādi. Tiesības uz datu pārnesamību. Jums ir tiesības saņemt mūsu par jums glabāto informāciju strukturētā, mašīnlasāmā un plaši izmantotā formātā. Tiesības atsaukt piekrišanu. Jums arī ir tiesības jebkurā brīdī atsaukt savu piekrišanu, ja Sniedzējs ir balstījies uz jūsu piekrišanu, apstrādājot jūsu personisko informāciju.", 
+
+  "google.adSense": "Google AdSense DoubleClick Cookie", 
+
+  "google.adSense.desc": "Google kā trešās puses piegādātājs izmanto sīkdatnes, lai mūsu Pakalpojumā rādītu reklāmas. Google DoubleClick sīkdatnes lietošana ļauj tam un tā partneriem rādīt reklāmas mūsu lietotājiem, balstoties uz viņu apmeklējumu mūsu Pakalpojumā vai citās interneta vietnēs. Jūs varat atteikties no DoubleClick sīkdatnes lietošanas interešu balstītai reklāmai, apmeklējot Google reklāmu iestatījumu mājaslapu:", 
+
+  "google.adSense.provider": "Sniedzējs izmanto remarketinga pakalpojumus, lai reklamētu trešo pušu vietnēs jums pēc tam, kad esat apmeklējis mūsu Pakalpojumu. Mēs un mūsu trešo pušu piegādātāji izmantojam sīkdatnes, lai informētu, optimizētu un rādītu reklāmas, pamatojoties uz jūsu iepriekšējām apmeklējuma vietām mūsu Pakalpojumā.", 
+
+  "google.adWords": "Google AdWords", 
+
+  "google.adWords.rec": "iesaka instalēt Google Analytics atslēgšanas pārlūkprogrammas papildinājumu –", 
+
+  "google.also": "Google arī", 
+
+  "google.analytics.your.browser": "– jūsu tīmekļa pārlūkprogrammai. Google Analytics atslēgšanas pārlūkprogrammas papildinājums ļauj apmeklētājiem neļaut savus datus savākt un izmantot Google Analytics. Lai uzzinātu vairāk par Google privātuma praktiku, lūdzu, apmeklējiet Google privātuma noteikumu mājaslapu:", 
+
+  "facebook": "Facebook", 
+
+  "facebook.remarketing": "Facebook remarketinga pakalpojumu nodrošina Facebook Inc. Plašāku informāciju par interešu balstītu reklāmu no Facebook varat uzzināt, apmeklējot šo lapu:", 
+
+  "facebook.ad": "Lai atteiktos no Facebook interešu balstītām reklāmām, izpildiet šīs instrukcijas no Facebook:", 
+
+  "facebook.adheres1": "Facebook ievēro pašregulējamos principus tiešsaistes uzvedības reklāmai, ko izveidojis Digital Advertising Alliance. Jūs varat arī atteikties no Facebook un citām iesaistītajām uzņēmumiem caur Digital Advertising Alliance ASV ", 
+
+  "facebook.adheres2": "Digital Advertising Alliance of Canada Kanādā", 
+
+  "facebook.adheres3": "vai European Interactive Digital Advertising Alliance Eiropā", 
+
+  "facebook.adheres4": "vai atteikties, izmantojot mobilās ierīces iestatījumus. Lai uzzinātu vairāk par Facebook privātuma praktiku, lūdzu, apmeklējiet Facebook Datu politiku:", 
+
+  "privacy.shouldNote": "Lūdzu, ņemiet vērā, ka mēs varam pieprasīt apstiprināt jūsu identitāti, pirms atbildēt uz šādiem pieprasījumiem.", 
+
+  "privacy.wishInformed": "Ja vēlaties uzzināt, kādus Personiskos datus mēs par jums turam, un ja vēlaties tos no mūsu sistēmām izdzēst, lūdzu, sazinieties ar mums.", 
+
+  "privacy.service_providers.description": "Mēs varam iesaistīt trešo pušu uzņēmumus un personas, lai nodrošinātu mūsu Pakalpojumu. Šīm trešajām pusēm ir piekļuve jūsu Personiskajiem datiem tikai, lai izpildītu uzdevumus, un tās ir saistītas neizpaust vai neizmantot tos citam mērķim.", 
+
+  "privacy.bolgaria": "Ja jūs atrodaties ārpus Bulgārijas un izvēlaties mums sniegt informāciju, lūdzu, ņemiet vērā, ka mēs pārsūtām datus, ieskaitot Personiskos datus, uz Bulgāriju un tur tos apstrādājam.", 
+
+  "privacy.service_providers.analytics": "Mēs varam izmantot trešo pušu Pakalpojumu sniedzējus, piemēram, Google Analytics, lai uzraudzītu un analizētu mūsu Pakalpojuma lietošanu.", 
+
+  "privacy.service_providers.advertising": "Mēs varam izmantot trešo pušu Pakalpojumu sniedzējus, lai rādītu jums reklāmas, lai atbalstītu un uzturētu mūsu Pakalpojumu", 
+
+  "privacy.service_providers.behavioral_remarketing": "Google AdWords remarketinga pakalpojumu nodrošina Google Inc. Jūs varat atteikties no Google Analytics Display Advertising un pielāgot Google Display Network reklāmas, apmeklējot Google reklāmu iestatījumu lapu:", 
+
+  "privacy.service_providers.links": "Mūsu Pakalpojumā var būt saites uz citām vietnēm, kuras mēs neoperējam. Pārskatiet šo vietņu Privātuma politikas.", 
+
+  "privacy.noControl": "Mēs neesam atbildīgi par trešo pušu vietņu vai pakalpojumu saturu, privātuma politiku vai praksi, un neuzņemsimies atbildību par tiem.", 
+
+  "privacy.child": "Bērnu privātums", 
+
+  "privacy.service_providers.children": "Mūsu Pakalpojums neadresē nevienu, kurš ir jaunāks par 18 gadiem (“Bērni”). Mēs neapzināti neapkopo personiski identificējamu informāciju no jebkura, kurš ir jaunāks par 18 gadiem. Ja esat vecāks vai aizbildnis un esat informēts, ka jūsu Bērni ir snieguši mums Personiskos datus, lūdzu, sazinieties ar mums. Ja mēs kļūstam informēti, ka esam savākuši Personiskos datus no bērniem bez vecāku piekrišanas apstiprinājuma, mēs veicam soļus, lai šo informāciju noņemtu no mūsu serveriem.", 
+
+  "privacy.changes": "Izmaiņas šajā Privātuma politikā", 
+
+  "privacy.service_providers.changes": "Mēs varam laiku pa laikam atjaunināt mūsu Privātuma politiku. Izmaiņas tiks publicētas šajā lapā un/vai paziņotas pa e-pastu.", 
+
+  "privacy.letKnow": "Mēs informēsim jūs pa e-pastu un/vai redzamu paziņojumu mūsu Pakalpojumā pirms izmaiņas stājas spēkā, un atjaunināsim “stāšanās spēkā datumu” Privātuma politikas sākumā.", 
+
+  "privacy.advises": "Ieteicams periodiski pārskatīt šo Privātuma politiku, lai uzzinātu par jebkurām izmaiņām. Izmaiņas šajā Privātuma politikā stājas spēkā, kad tās tiek publicētas šajā lapā.", 
+
+  "privacy.service_providers.contact": "Ja jums ir jautājumi par šo Privātuma politiku, lūdzu, sazinieties ar mums pa e-pastu.",
+  
+  
+  "terms_title": "Lietošanas noteikumi",
+  "terms_intro_welcome": "Laipni lūdzam Aivontrixen. Šie Lietošanas noteikumi (\"Noteikumi\") regulē jūsu piekļuvi un mūsu platformas, kas atrodas Aivontrixen (\"Pakalpojums\"), izmantošanu, kuru pārvalda Aivontrixen.",
+  "terms_intro_generator": "Mūsu Lietošanas noteikumi tika izveidoti, izmantojot Lietošanas noteikumu ģeneratoru.",
+  "terms_intro_acceptance_1": "Apmeklējot vai izmantojot Pakalpojumu, jūs piekrītat ievērot šos Noteikumus. Ja nepiekrītat kaut vienai Noteikumu daļai, jums nav tiesību izmantot Pakalpojumu.",
+  "terms_intro_changes": "Mēs paturam tiesības jebkurā brīdī grozīt šos Noteikumus, izmaiņas stājas spēkā uzreiz pēc publicēšanas. Turpinot izmantot platformu, jūs piekrītat grozītajiem noteikumiem.",
+  "terms_intro_rejection": "Ja nepiekrītat šiem Noteikumiem, lūdzu, nes spiediet \"PIEŅEMT\" un nekavējoties pārtrauciet tīmekļa vietnes izmantošanu.",
+  "terms_intro_website_def": "Ar \"Tīmekļa vietne\" tiek saprasts Aivontrixen, kas pieejams no Aivontrixen",
+  "section_1_title": "1. Tīmekļa vietnes un pakalpojumu izmantošana",
+  "section_1_access": "Saskaņā ar šeit noteiktajiem nosacījumiem jums ir tiesības piekļūt un izmantot Tīmekļa vietni tikai Pakalpojumu izmantošanas nolūkā uz neekskluzīvas licences pamata.",
+  "section_1_modifications": "Jūs atzīstat, ka Uzņēmums pēc saviem ieskatiem jebkurā brīdī var mainīt, atjaunināt vai pārtraukt jebkuru Tīmekļa vietnes vai Pakalpojumu daļu (tostarp dzēst saturu), bez iepriekšēja brīdinājuma.",
+  "section_1_void": "Tīmekļa vietnes un Pakalpojumu izmantošana ir spēkā neesoša tur, kur tas ir aizliegts.",
+  "section_1_warranties_intro": "Izmantojot Tīmekļa vietni un Pakalpojumus, jūs apliecināt un garantējat, ka:",
+  "section_1_warranties_a": "visa iesniegtā informācija (ja tāda ir) ir patiesa un precīza;",
+  "section_1_warranties_b": "jūs uzturēsiet šādas informācijas precizitāti;",
+  "section_1_warranties_c": "jūs esat vismaz pilngadību sasniedzis savā jurisdikcijā;",
+  "section_1_warranties_d": "jūsu Tīmekļa vietnes vai Pakalpojumu izmantošana nepārkāpj un neveicina nekādu piemērojamo likumu, noteikumu vai jūsu saistību pret trešajām personām pārkāpšanu un jūs vienmēr ievērosiet visus piemērojamos likumus un noteikumus.",
+  "section_1_undertakings_def": "Iepriekšējos apakšpunktus (a)–(d) kopā sauc par “Lietotāja apliecinājumiem un garantijām”.",
+  "section_1_verification": "Jūs saprotat un piekrītat, ka Uzņēmums pēc saviem ieskatiem var (bet tam nav pienākuma) pārbaudīt Lietotāja apliecinājumu un garantiju izpildi un nav atbildīgs par to neizpildi vai neapturēšanu.",
+  "section_1_responsibility": "Jūs esat vienīgi atbildīgs par saviem lēmumiem attiecībā uz sadarbību ar trešajām personām.",
+  "section_1_reporting": "Ja uzzināt par Lietotāja apliecinājumu un garantiju pārkāpumu, aicinām to ziņot Uzņēmumam.",
+  "section_1_right_to_refuse": "Uzņēmums patur tiesības pēc saviem ieskatiem atteikt Pakalpojumu sniegšanu ar vai bez brīdinājuma jebkāda iemesla dēļ.",
+  "section_1_disclaimer_main": "Uzņēmums skaidri atsakās no jebkādas atbildības, un jūs skaidri atbrīvojat Uzņēmumu no jebkādām pretenzijām, kas izriet no:",
+  "section_1_disclaimer_i": "jebkuras Lietotāja vai trešās personas sniegtās informācijas neprecizitātes, novēlotības vai nepilnības;",
+  "section_1_disclaimer_ii": "nepatiesiem vai maldinošiem apgalvojumiem no trešo personu vai citu Lietotāju puses.",
+  "section_1_platform_only": "Pakalpojums ir tikai platforma, kas palīdz Lietotājiem sazināties, iegādāties un izmantot trešo personu piedāvātos produktus (\"Produkti\") un pakalpojumus (\"Trešās personas\").",
+  "section_1_company_a": "nepieņem darbā, neiesaka un neuzņemas kontroli pār Trešajām personām vai Produktiem;",
+  "section_1_company_b": "nesniedz nekādas garantijas par Trešo personu vai Produktu kvalitāti, cenām, saderību utt.;",
+  "section_1_company_c": "nesniedz garantijas par Produktu intelektuālā īpašuma tiesībām vai nepieciešamajām atļaujām/licencēm;",
+  "section_1_company_d": "nav atbildīgs par Lietotāju vai trešo personu rīcību tiešsaistē vai bezsaistē.",
+  "section_1_no_screening": "Uzņēmumam nav pienākuma pārbaudīt Lietotājus, Trešās personas vai Produktus, tāpēc iesakām būt piesardzīgiem un veikt pašu pārbaudi.",
+  "section_1_full_disclaimer": "Uzņēmums pilnībā atsakās no jebkādas atbildības, un jūs atbrīvojat Uzņēmumu no jebkādiem zaudējumiem, kas saistītiem ar Trešajām personām, Produktiem, Pakalpojumiem vai jūsu sadarbību ar tām.",
+  "section_1_risk": "Visa Pakalpojumu un Tīmekļa vietnes izmantošana notiek uz jūsu pašu risku.",
+  "section_1_no_sale": "Uzņēmums nepārdod, nelicencē un citādi nenodrošina Produktus vai citus pakalpojumus (izņemot pašus Pakalpojumus) un nav atbildīgs par jebkādiem trūkumiem vai zaudējumiem no Trešo personu produktiem.",
+  "section_2_title": "2. Ierobežojumi",
+  "section_2_intro": "Neierobežojot 1. sadaļu, jums un trešajām personām aizliegts:",
+  "section_2_a": "veikt reverso inženieriju vai mēģināt atrast Tīmekļa vietnes vai Pakalpojumu pamatkodu;",
+  "section_2_b": "izmantot Pakalpojumu likumu pārkāpumiem vai publicēt nelegālu/aizskarošu saturu;",
+  "section_2_c": "kopēt, modificēt vai izveidot atvasinātus darbus;",
+  "section_2_d": "apiet drošības mehānismus;",
+  "section_2_e": "izstrādāt vai izmantot krāpšanas programmas, botus, hakus;",
+  "section_2_f": "izmantot Pakalpojumu nelikumīgiem mērķiem;",
+  "section_2_g": "mēģināt nesankcionēti piekļūt citiem kontiem vai sistēmām;",
+  "section_2_h": "bez piekrišanas vākt informāciju par citiem Lietotājiem.",
+  "section_2_content_warranties": "Publicējot saturu, jūs garantējat, ka tas ir precīzs, atbilst Noteikumiem un ne:",
+  "section_2_content_a": "pārkāpj trešo personu intelektuālā īpašuma tiesības;",
+  "section_2_content_b": "ir apmelojošs, obscenisks, naidu kurinošs;",
+  "section_2_content_c": "satur vīrusus vai ļaunprātīgu programmatūru;",
+  "section_2_content_d": "pārkāpj reklāmas likumus;",
+  "section_2_content_e": "rada pārmērīgu slodzi infrastruktūrai.",
+  "section_2_license_grant": "Publicējot saturu, jūs neatsaucami piešķirat Uzņēmumam un tā saistītajām personām pasaules mēroga, neekskluzīvu, pastāvīgu, bezatlīdzības licenci izmantot šo saturu.",
+  "section_2_removal_right": "Uzņēmums patur tiesības bez brīdinājuma dzēst vai bloķēt jebkuru saturu pēc saviem ieskatiem.",
+  "section_2_no_liability_content": "Uzņēmums nav atbildīgs par Lietotāju publicēto saturu vai ar to saistītiem produktiem/pakalpojumiem.",
+  "section_3_title": "3. Reklāmas materiāli un biļeteni",
+  "section_3_consent": "Jūs skaidri piekrītat saņemt no Uzņēmuma reklāmas materiālus un biļetenus pa jebkādiem kanāliem (e-pasts, SMS u.c.).",
+  "section_3_third_party_ads": "Šādos materiālos var būt trešo personu reklāma, un jūs tam piekrītat.",
+  "section_3_unsubscribe": "Jūs jebkurā brīdī varat atteikties, nosūtot atteikumu uz e-pastu.",
+  "section_4_title": "4. Intelektuālais īpašums",
+  "section_4_ownership": "Uzņēmums ir visu tiesību īpašnieks uz Tīmekļa vietni, Pakalpojumiem, preču zīmēm un logotipiem.",
+  "section_4_license_meaning": "Atsauces uz pārdošanu nozīmē tikai lietošanas tiesības saskaņā ar šiem Noteikumiem.",
+  "section_4_user_liability": "Lietotāji ir pilnībā atbildīgi par savu saturu un intelektuālā īpašuma tiesībām, atlīdzinot Uzņēmumam jebkādus zaudējumus.",
+  "section_5_title": "5. Privātums",
+  "section_5_no_save": "Bez Uzņēmuma rakstiskas atļaujas aizliegts saglabāt vai vākt Pakalpojumu saturu.",
+  "section_5_company_rights": "Uzņēmums patur tiesības vākt un izmantot jebkuru publisko informāciju, tostarp personas datus, saskaņā ar Privātuma politiku.",
+  "section_5_privacy_policy": "Uzņēmums var izmantot šādus datus likumā un Privātuma politikā atļautajā apjomā.",
+  "section_5_no_verification": "Uzņēmumam nav pienākuma pārbaudīt šādu saturu.",
+  "section_5_user_responsibility": "Par publicēto saturu pilnu atbildību nes publicētājs.",
+  "section_5_indemnification": "Jūs atlīdzināsiet Uzņēmumam visus zaudējumus no iepriekš minētā pārkāpuma.",
+  "section_5_not_storage": "UZŅĒMUMS NAV SATURA GLABĀBŠANAS PAKALPOJUMS. TAS NAV ATBILDĪGS PAR DZĒSTU SATURU.",
+  "section_5_public_warning": "JŪSU PUBLICĒTAIS SATURS VAR TIKT LASĪTS, VĀKTS UN IZMANTOTS CITIEM LIETOTĀJIEM, ARĪ NEPIEPRASĪTU ZIŅOJUMU NOSŪTĪŠANAI.",
+  "section_6_title": "6. Saites",
+  "section_6_description": "Tīmekļa vietnē var būt trešo personu saites; Uzņēmums tās nekontrolē un nesniedz garantijas.",
+  "section_6_risk": "Šādu saišu izmantošana notiek uz jūsu risku un tiek regulēta ar trešo personu noteikumiem.",
+  "section_6_review_advice": "Ieteicams iepazīties ar trešo personu noteikumiem un privātuma politiku.",
+  "section_6_full_disclaimer": "Uzņēmums nav atbildīgs par trešo personu saitēm vai zaudējumiem no tām, jūs to pilnībā atbrīvojat no atbildības.",
+  "section_7_title": "7. Aizliegta izmantošana",
+  "section_7_commercial": "Bez Uzņēmuma rakstiskas atļaujas aizliegta komerciāla izmantošana (izņemot atļauto sadarbību ar Trešajām personām).",
+  "section_7_recruitment": "Aizliegts vervēt vai reklamēt citās vietnēs bez rakstiskas atļaujas.",
+  "section_7_user_contact": "Aizliegts sazināties ar citiem Lietotājiem reklāmas nolūkos bez viņu piekrišanas.",
+  "section_8_title": "8. Atbalsts",
+  "section_8_text": "Atbalstu var saņemt, nosūtot e-pastu Uzņēmumam.",
+  "section_9_title": "9. Atrunas",
+  "section_9_security": "Uzņēmums veic saprātīgus drošības pasākumus, bet nevar garantēt 100 % drošību.",
+  "section_9_as_is": "Pakalpojums tiek sniegts \"KĀ IR\" un \"KĀ PIEJAMS\" bez jebkādām garantijām.",
+  "section_9_no_warranties": "Uzņēmums skaidri atsakās no jebkādām garantijām (komercija, piemērotība mērķim, neaizskaramība utt.).",
+  "section_9_no_advice": "Uzņēmums nesniedz padomus par darījumu riskiem; visa atbildība gulstas uz jums.",
+  "section_9_no_created_warranty": "Neviena mutiska vai rakstiska informācija nerada papildu garantijas.",
+  "section_9_jurisdiction_note": "Dažās jurisdikcijās noteiktu garantiju izslēgšana nav atļauta, tāpēc daļa izslēgšanas var neattiekties.",
+  "section_10_title": "10. Atbildības ierobežojums",
+  "section_10_no_guarantee": "Uzņēmums negarantē Trešo personu vai Produktu kvalitāti, vērtību utt.",
+  "section_10_monitoring": "Uzņēmumam nav pienākuma pastāvīgi uzraudzīt atbilstību.",
+  "section_10_exposure": "Jūs varat saskarties ar neprecīzu vai aizskarošu saturu.",
+  "section_10_technical": "Uzņēmums nav atbildīgs par tehniskiem traucējumiem, interneta sastrēgumiem vai ierīču bojājumiem.",
+  "section_10_conduct": "Uzņēmums nav atbildīgs par trešo personu rīcību.",
+  "section_10_no_indirect": "Uzņēmums nekādā gadījumā nav atbildīgs par netiešiem, izrietošiem vai soda zaudējumiem.",
+  "section_10_full_extent": "Iepriekšējais ierobežojums piemērojams maksimāli atļautajā apjomā.",
+  "section_11_title": "11. Atlīdzināšana",
+  "section_11_text": "Jūs aizsargāsiet, atlīdzināsiet un atbrīvosiet Uzņēmumu no jebkādām prasībām, zaudējumiem un izmaksām (tostarp advokāta izmaksām), kas radušās no jūsu Noteikumu pārkāpuma vai neatļautas Pakalpojumu izmantošanas.",
+  "section_12_title": "12. Dažādi",
+  "section_12_governing_law": "Šiem Noteikumiem piemēro Anglijas tiesības, izņemot kolīziju normas un ANO Starptautisko preču pirkuma līgumu konvenciju.",
+  "section_12_jurisdiction": "Visi strīdi izskatāmi tikai Anglijas tiesās.",
+  "section_12_no_class_action": "Jūs atsakāties no kolektīvām prasībām.",
+  "section_12_limitation_period": "Jebkāda prasība pret Uzņēmumu jāiesniedz 1 gada laikā no notikuma.",
+  "section_12_severability": "Ja kāds noteikums ir spēkā neesošs, tas tiek aizvietots ar līdzvērtīgu, pārējie paliek spēkā.",
+  "section_12_no_agency": "Starp jums un Uzņēmumu nerodas aģentūras, darba vai partnerattiecības.",
+  "section_12_entire_agreement": "Šie Noteikumi ir pilnīgs līgums starp pusēm.",
+  "section_12_notices": "Visi paziņojumi var tikt nosūtīti uz jūsu norādīto kontaktinformāciju.",
+  "section_12_no_assignment": "Jūs nedrīkstat nodot tiesības bez Uzņēmuma rakstiskas piekrišanas.",
+  "section_12_no_limitation": "Nekas neierobežo Uzņēmuma tiesības pret aizliegtām darbībām.",
+  "section_12_no_waiver": "Tiesību neizmantošana nav atteikšanās no tām.",
+  "section_12_viewer_responsibility": "Vietnes satura precizitātes un lietderības novērtēšana ir tikai skatītāja atbildība."
 }

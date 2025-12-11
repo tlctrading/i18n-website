@@ -69,7 +69,6 @@
   "reviews.based": "247개 평가 기준",
   "reviews.score": "5점 만점",
   "reviews.comment": "강력하고 사용하기 쉬운 거래 플랫폼으로, 안정적인 자동화 및 교육 자료를 제공합니다.",
-
   "heroNew.title": "Aivontrixen을 알아보고 최신 Aivontrixen 출시를 경험하세요.",
   "heroNew.description": "모든 수준의 트레이더들이 함께 성장하는 활기찬 허브로 들어오세요. 우리는 실행 가능한 지식, 혁신적인 전략, 그리고 모든 참여자를 위한 꾸준한 격려를 제공하는 데 전념하고 있습니다.",
   "heroNew.form.title": "플랫폼 알아보기 – 무료 등록",
@@ -77,11 +76,9 @@
   "heroNew.form.lastName": "성",
   "heroNew.form.email": "이메일",
   "heroNew.form.phone": "전화번호",
-  
   "heroNew.form.submit": "지금 등록하기",
   "heroNew.form.disclaimer": "계정을 등록하고 생성함으로써 귀하는 당사의 이용약관, 개인정보처리방침 및 쿠키 정책을 읽고 동의했음을 확인합니다. 또한 본 웹사이트는 오직 마케팅 플랫폼으로만 운영됨을 인정합니다.",
   "heroNew.form.readMore": "더 보기",
-
   "communityNew.title": "트레이딩 여정을 한 단계 더 높이세요",
   "communityNew.intro": "우리의 활기찬 커뮤니티는 숙련된 트레이더와 영향력 있는 시장 리더들과 협력할 수 있는 독점적인 기회를 제공합니다. 그들은 복잡한 금융 환경을 다년간 탐색하며 쌓아온 깊은 전문성을 아낌없이 공유합니다.",
   "communityNew.cards.expert.title": "요청 시 전문가 가이드",
@@ -94,7 +91,6 @@
   "communityNew.cards.network.text": "성장과 공동 발전을 고무하는 협력형 커뮤니티입니다.",
   "communityNew.closing": "우리의 철학은 완전히 통합된 지원 생태계를 제공하는 데 초점을 맞춥니다. 단순한 통찰력과 전략을 넘어, 모든 수준의 트레이더를 위한 맞춤형 리소스를 세심하게 구성합니다 — 다양한 전략에 관한 광범위한 교육 라이브러리부터 최첨단 분석 솔루션까지.",
   "communityNew.cta": "지금 탐색하기",
-
   "assetsNew.title": "Aivontrixen이 열어주는 무한한 투자 경로: 다양한 자산을 탐험하세요",
   "assetsNew.intro1": "Aivontrixen의 역동적인 트레이딩 세계에 빠져보세요. 주식과 원자재 같은 전통적 자산을 선호하는 투자자부터 암호화폐 및 CFD 같은 혁신적 자산을 추구하는 투자자까지, 모든 유형의 투자자를 위한 폭넓은 선택지를 제공합니다. 부의 창출, 포트폴리오 확장, 또는 고급 트레이딩 전략 등 어떤 목표든 달성할 수 있도록 Aivontrixen은 필요한 도구와 인사이트를 제공합니다. 첨단 알고리즘, 실시간 분석, 탄탄한 지원 체계를 기반으로 변화하는 시장에서 성공하기 위한 모든 것을 갖추고 있습니다. 지금 Aivontrixen과 함께 당신의 트레이딩 잠재력을 펼치세요.",
   "assetsNew.intro2": "Aivontrixen은 신규 사용자와 숙련된 사용자 모두에게 간편하고 직관적인 트레이딩 경험을 제공합니다. 지속적인 지원과 풍부한 교육 자료를 통해 여러분의 역량과 자신감을 강화합니다.",
@@ -105,15 +101,412 @@
   "assetsNew.cards.futures.title": "선물 계약",
   "assetsNew.cards.futures.text": "선물은 미래 가격을 예측하고 복잡한 포트폴리오에 깊이를 더하는 세련된 헤지 또는 투기 전략을 구현할 수 있게 합니다.",
   "assetsNew.closing": "우리의 트레이딩 플랫폼은 모든 자산 클래스에서 일관되고 직관적인 경험을 제공합니다. 사용자 중심의 설계와 강력한 기능, 다양한 상품을 통해 목표에 맞는 포트폴리오를 손쉽게 구성하고 관리할 수 있습니다. 다양한 시장을 탐색하고 트레이딩 우위를 극대화하세요.",
-
   "differenceNew.title": "Aivontrixen의 차별점은 무엇인가요?",
   "differenceNew.text": "우리의 트레이딩 생태계에 합류하면 수많은 이점을 누릴 수 있습니다. 새로운 관점과 실용적인 가이드, 그리고 당신의 성장을 돕는 환경을 제공합니다. 베테랑 트레이더와 연결하고 역량을 확장하며 트레이딩 여정을 업그레이드하세요.",
   "differenceNew.cta": "지금 참여하기",
+  "contact.heading": "문의하기",
+  "contact.input.name": "이름",
+  "contact.input.email": "이메일",
+  "contact.input.message": "메시지",
+  "contact.button": "메시지 보내기",
+  "contact.success": "메시지가 성공적으로 전송되었습니다!",
+  
+  "privacy.title": "개인정보 처리방침", 
 
-   "contact.heading": "문의하기",
-    "contact.input.name": "이름",
-    "contact.input.email": "이메일",
-    "contact.input.message": "메시지",
-    "contact.button": "메시지 보내기",
-    "contact.success": "메시지가 성공적으로 전송되었습니다!"
+  "privacy.intro.provider": "제공자(\"us\", \"we\", 또는 \"our\")는 Aivontrixen 플랫폼(이하 \"서비스\")을 관리합니다.", 
+
+  "privacy.intro.description": "본 문서는 귀하가 서비스에 참여할 때 개인 정보의 수집, 이용 및 공유와 해당 정보에 대한 귀하가 선택할 수 있는 옵션에 관한 당사의 정책을 설명합니다.", 
+
+  "privacy.intro.usage": "저희 Aivontrixen은 귀하의 정보를 사용하여 서비스를 제공하고 향상시킵니다. 서비스에 참여함으로써 귀하는 본 정책에 명시된 데이터 수집 및 이용에 동의하는 것입니다. 본 개인정보 처리방침에 별도로 정의되지 않은 용어는 Aivontrixen에서 제공하는 이용약관과 동일한 의미를 갖습니다.", 
+
+   
+
+  "privacy.toc.definitions": "정의", 
+
+  "privacy.toc.definitions.service": "서비스", 
+
+  "privacy.toc.definitions.personal_data": "개인 데이터", 
+
+  "privacy.toc.definitions.usage_data": "사용 데이터", 
+
+  "privacy.toc.definitions.cookies": "쿠키", 
+
+  "privacy.toc.definitions.data_controller": "데이터 관리자", 
+
+  "privacy.toc.definitions.data_processors": "데이터 처리자(또는 서비스 제공자)", 
+
+  "privacy.toc.definitions.data_subject": "데이터 주체(또는 사용자)", 
+
+   
+
+  "privacy.toc.info_collection": "정보 수집 및 이용", 
+
+  "privacy.toc.info_collection.types_of_data": "수집되는 데이터 유형", 
+
+  "privacy.toc.info_collection.personal_data": "개인 데이터", 
+
+  "privacy.toc.info_collection.usage_data": "사용 데이터", 
+
+  "privacy.toc.info_collection.tracking_cookies": "추적 쿠키 데이터", 
+
+  "privacy.toc.info_collection.use_of_data": "데이터 사용", 
+
+  "privacy.toc.info_collection.legal_basis": "일반 데이터 보호 규정(GDPR)에 따른 개인 데이터 처리의 법적 근거", 
+
+  "privacy.toc.info_collection.retention": "데이터 보유", 
+
+   
+
+  "privacy.toc.transfer": "데이터 이전", 
+
+  "privacy.toc.transfer.disclosure": "데이터 공개", 
+
+  "privacy.toc.transfer.disclosure.business_transaction": "비즈니스 거래", 
+
+  "privacy.toc.transfer.legal_requirements": "법적 요구사항", 
+
+  "privacy.toc.transfer.security": "데이터 보안", 
+
+  "privacy.toc.transfer.rights_gdpr": "일반 데이터 보호 규정(GDPR) 하의 데이터 보호 권리", 
+
+   
+
+  "privacy.toc.service_providers": "서비스 제공자", 
+
+  "privacy.toc.service_providers.analytics": "분석", 
+
+  "privacy.toc.service_providers.advertising": "광고", 
+
+  "privacy.toc.service_providers.behavioral_remarketing": "행동 기반 재마케팅", 
+
+  "privacy.toc.service_providers.links": "다른 사이트로의 링크", 
+
+  "privacy.toc.service_providers.changes": "개인정보 처리방침 변경", 
+
+  "privacy.toc.service_providers.contact": "문의하기", 
+
+"privacy.definitions.service": "서비스는 제공자가 운영하는 Aivontrixen 웹사이트입니다.", 
+
+  "privacy.definitions.personal_data": "개인 데이터는 살아 있는 개인에 관한 데이터로, 해당 데이터(또는 당사가 보유하거나 보유하게 될 기타 정보)로부터 식별될 수 있는 정보를 의미합니다.", 
+
+  "privacy.definitions.usage_data": "사용 데이터는 서비스 사용 또는 서비스 인프라 자체에서 자동으로 수집되는 데이터(예: 페이지 방문 시간)입니다.", 
+
+  "privacy.definitions.cookies": "쿠키는 귀하의 장치(컴퓨터 또는 모바일 장치)에 저장되는 작은 데이터 조각입니다.", 
+
+  "privacy.definitions.data_controller": "데이터 관리자는 (단독 또는 공동으로) 개인 정보를 처리하는 목적 및 방식을 결정하는 자연인 또는 법인을 의미합니다. 본 개인정보 처리방침에서는 당사가 귀하의 개인 데이터에 대한 데이터 관리자입니다.", 
+
+  "privacy.definitions.data_processors": "데이터 처리자(또는 서비스 제공자)는 데이터 관리자를 대신하여 데이터를 처리하는 자연인 또는 법인을 의미합니다. 당사는 귀하의 데이터를 보다 효과적으로 처리하기 위해 다양한 서비스 제공자의 서비스를 이용할 수 있습니다.", 
+
+  "privacy.definitions.data_subject": "데이터 주체는 당사 서비스를 이용하고 개인 데이터의 대상이 되는 살아 있는 개인을 의미합니다.", 
+
+ 
+
+  "privacy.provider.take": "제공자는 귀하의 데이터가 안전하게 처리되고 본 개인정보 처리방침에 따라 관리되도록 합리적으로 필요한 모든 조치를 취하며, 적절한 보안 통제가 없는 조직이나 국가로 귀하의 개인 데이터를 이전하지 않습니다.", 
+
+ 
+
+  "privacy.info_collection.description": "우리는 다양한 목적을 위해 여러 유형의 정보를 수집하여 서비스를 제공하고 개선합니다.", 
+
+  "privacy.info_collection.personal_data.description": "서비스 이용 중에 연락하거나 귀하를 식별할 수 있는 특정 개인 식별 정보를 제공해 달라고 요청할 수 있습니다(“개인 데이터”). 개인 식별 정보에는 다음이 포함될 수 있지만 이에 국한되지 않습니다:", 
+
+  "privacy.info.user1": "이메일 주소", 
+
+  "privacy.info.user2": "이름 및 성", 
+
+  "privacy.info.user3": "전화 번호", 
+
+  "privacy.info.user4": "주소, 주/도, 우편번호, 도시", 
+
+  "privacy.info.user5": "쿠키 및 사용 데이터", 
+
+"privacy.info_collection.personal_data.usage": "당사는 귀하의 개인 데이터를 사용하여 뉴스레터, 마케팅 또는 프로모션 자료 및 귀하에게 유용할 수 있는 기타 정보를 전달할 수 있습니다. 이메일에 포함된 구독 해제 링크를 따라가거나 이메일에 제공된 지침을 따르거나 저희에게 연락함으로써 이러한 커뮤니케이션을 모두 또는 일부 수신 거부할 수 있습니다.", 
+
+  "privacy.info_collection.usage_data.description": "우리는 서비스가 어떻게 접근되고 사용되는지에 대한 정보(“사용 데이터”)도 수집할 수 있습니다. 이 사용 데이터에는 컴퓨터의 IP 주소, 브라우저 종류, 브라우저 버전, 방문한 서비스 페이지, 방문 일시, 페이지 체류 시간, 고유 장치 식별자 및 기타 진단 데이터가 포함될 수 있습니다.", 
+
+  "privacy.info_collection.cookies.description": "우리는 쿠키 및 유사한 추적 기술을 사용하여 서비스 활동을 추적하고 특정 정보를 보관합니다.", 
+
+  "privacy.info.collection.cookies.description1": "쿠키는 작은 양의 데이터를 포함하는 파일이며, 익명 고유 식별자를 포함할 수 있습니다. 쿠키는 웹사이트에서 브라우저로 전송되어 장치에 저장됩니다. 사용되는 추적 기술에는 비콘, 태그 및 스크립트가 포함되어 정보를 수집하고 추적하며 서비스를 개선하고 분석합니다.", 
+
+  "privacy.info.collection.cookies.instruct": "브라우저 설정을 통해 모든 쿠키를 차단하거나 쿠키가 전송될 때 알림을 받을 수 있습니다. 그러나 쿠키를 수락하지 않을 경우 서비스의 일부 기능을 사용할 수 없을 수 있습니다.", 
+
+  "privacy.info_collection.cookies.examples": "우리가 사용하는 쿠키의 예:", 
+
+  "privacy.example1": "세션 쿠키.", 
+
+  "privacy.example1.description": "우리는 서비스 운영을 위해 세션 쿠키를 사용합니다.", 
+
+  "privacy.example2": "선호 쿠키.", 
+
+  "privacy.example2.description": "우리는 귀하의 선호도와 다양한 설정을 기억하기 위해 선호 쿠키를 사용합니다.", 
+
+  "privacy.example3": "보안 쿠키.", 
+
+  "privacy.example3.description": "우리는 보안 목적을 위해 보안 쿠키를 사용합니다.", 
+
+  "privacy.example4": "광고 쿠키.", 
+
+  "privacy.example4.description": "광고 쿠키는 귀하와 귀하의 관심사에 관련된 광고를 제공하기 위해 사용됩니다.", 
+
+ 
+
+  "privacy.info_collection.use_of_data": "제공자는 수집된 데이터를 다음과 같은 다양한 목적에 사용합니다:", 
+
+  "provider1": "서비스 제공 및 유지", 
+
+  "provider2": "서비스 변경 사항 알림", 
+
+  "provider3": "귀하가 선택할 경우 서비스의 인터랙티브 기능에 참여하도록 허용", 
+
+  "provider4": "고객 지원 제공", 
+
+  "provider5": "서비스 개선을 위한 분석 및 유용한 정보 수집", 
+
+  "provider6": "서비스 사용 모니터링", 
+
+  "provider7": "기술 문제 감지, 예방 및 해결", 
+
+  "provider8": "귀하가 이미 구매하거나 문의한 제품과 유사한 기타 상품, 서비스 및 이벤트에 대한 뉴스, 특별 제안 및 일반 정보를 제공 (원하지 않을 경우 수신 거부 가능)", 
+
+"providerText": "제공자는 내부 분석 목적을 위해 사용 데이터를 보관합니다. 사용 데이터는 일반적으로 짧은 기간 보관되며, 보안 강화 또는 서비스 기능 개선을 위해 사용되거나 법적 의무에 따라 더 오래 보관해야 할 경우를 제외합니다.", 
+
+  "privacy.info_collection.legal_basis": "귀하가 유럽 경제 지역(EEA) 거주자인 경우, 제공자가 본 개인정보 처리방침에 명시된 개인 정보를 수집·이용하는 법적 근거는 수집하는 개인 데이터와 수집 상황에 따라 달라집니다.", 
+
+  "privacy.accept.info": "제공자는 다음 이유로 귀하의 개인 데이터를 처리할 수 있습니다:", 
+
+  "privacy.accept.info.why1": "귀하와 계약을 이행하기 위해", 
+
+  "privacy.accept.info.why2": "귀하가 허가했기 때문에", 
+
+  "privacy.accept.info.why3": "처리가 당사의 정당한 이익에 부합하고 귀하의 권리보다 우선하는 경우", 
+
+  "privacy.accept.info.why4": " 법을 준수하기 위해.", 
+
+ 
+
+  "privacy.consent": "본 개인정보 처리방침에 대한 귀하의 동의와 해당 정보 제출은 해당 이전에 동의함을 의미합니다.", 
+
+ 
+
+  "privacy.transfer.description": "귀하의 정보(개인 데이터를 포함)는 귀하가 거주하는 주·도·국가·관할 구역과 다른 법률이 적용되는 컴퓨터에 이전 및 보관될 수 있습니다.", 
+
+ 
+
+  "privacy.transfer.disclosure.business_transaction": "제공자가 합병, 인수 또는 자산 매각에 관여하는 경우, 귀하의 개인 데이터가 이전될 수 있습니다. 우리는 개인 데이터가 이전되고 다른 개인정보 처리방침의 적용을 받게 되기 전에 통지를 제공할 것입니다.", 
+
+  "privacy.transfer.legal_requirements": "제공자는 다음과 같은 정당한 사유가 있다고 믿을 경우 귀하의 개인 데이터를 공개할 수 있습니다", 
+
+  "requirments1": "법적 의무를 준수하기 위해", 
+
+  "requirments2": "제공자의 권리 또는 재산을 보호하기 위해", 
+
+  "requirments3": "서비스와 관련된 부정 행위를 방지하거나 조사하기 위해", 
+
+  "requirments4": "서비스 이용자 또는 공공의 인적 안전을 보호하기 위해", 
+
+  "requirments5": "법적 책임으로부터 보호하기 위해", 
+
+ 
+
+  "right.complain": "귀하는 데이터 보호 당국에 개인정보 수집 및 이용에 대해 불만을 제기할 권리가 있습니다. 자세한 내용은 유럽 경제 지역(EEA) 내의 현지 데이터 보호 당국에 문의하십시오.", 
+
+  "privacy.transfer.security": "귀하의 데이터 보안은 중요하지만, 전송이나 저장 방법이 100% 안전하다고 보장할 수 없습니다. 우리는 상업적으로 합리적인 수단을 사용하려 노력하지만 절대적인 보안을 보장할 수는 없습니다.", 
+
+  "privacy.transfer.rights_gdpr": "귀하가 유럽 경제 지역(EEA) 거주자라면 데이터 보호 권리가 있습니다. 제공자는 귀하가 개인 데이터를 정정, 수정, 삭제하거나 사용을 제한할 수 있도록 합리적인 조치를 취합니다.", 
+
+  "privacy.certain.circums": "특정 상황에서 귀하는 다음과 같은 데이터 보호 권리를 가집니다", 
+
+  "google.analytics": "구글 애널리틱스", 
+
+  "google.analytics.desc": "구글 애널리틱스는 구글이 제공하는 웹 분석 서비스로, 웹사이트 트래픽을 추적하고 보고합니다. 구글은 수집된 데이터를 사용하여 우리 서비스 이용을 추적·모니터링합니다. 이 데이터는 다른 구글 서비스와 공유됩니다. 구글은 수집된 데이터를 자체 광고 네트워크의 광고를 상황에 맞게 개인화하는 데 사용할 수 있습니다. 구글 애널리틱스 옵트아웃 브라우저 애드온을 설치하면 서비스에서의 활동을 구글 애널리틱스에 제공하지 않도록 할 수 있습니다. 이 애드온은 구글 애널리틱스 JavaScript(ga.js, analytics.js, dc.js)가 방문 활동 정보를 구글 애널리틱스에 공유하는 것을 방지합니다. 구글의 개인정보 보호 관행에 대한 자세한 내용은 구글 개인정보 보호 약관 웹 페이지를 방문하십시오.", 
+
+"privacy.your.access": "귀하의 접근 권리: 귀하에 대한 정보를 접근, 업데이트 또는 삭제할 권리. 가능한 경우, 계정 설정 섹션에서 직접 개인 데이터를 접근, 업데이트 또는 삭제 요청할 수 있습니다. 직접 수행할 수 없을 경우, 도움을 위해 문의해 주십시오. 정정 권리: 정보가 부정확하거나 불완전한 경우 정정받을 권리. 반대 권리: 개인 데이터 처리에 반대할 권리. 제한 권리: 개인 정보 처리 제한을 요청할 권리. 데이터 이동권: 구조화된 기계 판독 가능 형식으로 정보를 제공받을 권리. 동의 철회 권리: 제공자가 귀하의 동의에 근거해 개인 정보를 처리한 경우 언제든지 동의를 철회할 권리.", 
+
+ 
+
+  "google.adSense": "Google AdSense DoubleClick 쿠키", 
+
+  "google.adSense.desc": "Google은 제3자 공급업체로서 쿠키를 사용해 우리 서비스에 광고를 제공합니다. Google이 DoubleClick 쿠키를 사용하면 Google 및 파트너가 서비스 방문이나 인터넷상의 다른 웹사이트 방문을 기반으로 사용자에게 광고를 제공할 수 있습니다. 관심 기반 광고를 위해 DoubleClick 쿠키 사용을 중단하려면 Google Ads 설정 웹 페이지를 방문하십시오.", 
+
+  "google.adSense.provider": "제공자는 재마케팅 서비스를 사용하여 귀하가 우리 서비스를 방문한 후 제3자 웹사이트에 광고를 제공합니다. 당사와 제3자 공급업체는 쿠키를 사용해 과거 서비스 방문을 기반으로 광고를 최적화하고 제공합니다.", 
+
+  "google.adWords": "Google 광고", 
+
+  "google.adWords.rec": "Google Analytics 옵트아웃 브라우저 애드온 설치를 권장합니다 –", 
+
+  "google.also": "Google 또한", 
+
+  "google.analytics.your.browser": "– 귀하의 웹 브라우저용. Google Analytics 옵트아웃 브라우저 애드온은 방문자가 자신의 데이터가 Google Analytics에 수집·사용되는 것을 방지할 수 있게 해 줍니다. Google의 개인정보 보호 관행에 대한 자세한 내용은 Google 개인정보 보호 약관 웹 페이지를 방문하십시오:", 
+
+  "facebook": "페이스북", 
+
+  "facebook.remarketing": "Facebook 재마케팅 서비스는 Facebook Inc.에서 제공됩니다. 관심 기반 광고에 대해 더 알아보려면 이 페이지를 방문하십시오:", 
+
+  "facebook.ad": "Facebook의 관심 기반 광고를 옵트아웃하려면 다음 Facebook 지침을 따르십시오:", 
+
+  "facebook.adheres1": "Facebook은 디지털 광고 연합(Digital Advertising Alliance)이 제정한 온라인 행동 광고 자체 규제 원칙을 준수합니다. 또한 미국 디지털 광고 연합을 통해 Facebook 및 참여 기업의 옵트아웃도 가능합니다.", 
+
+  "facebook.adheres2": "캐나다 디지털 광고 연합", 
+
+  "facebook.adheres3": "또는 유럽 인터랙티브 디지털 광고 연합", 
+
+  "facebook.adheres4": "또는 모바일 기기 설정을 통해 옵트아웃할 수 있습니다. Facebook의 개인정보 보호 관행에 대한 자세한 내용은 Facebook 데이터 정책을 방문하십시오:", 
+
+"privacy.shouldNote": "해당 요청에 응답하기 전에 신원 확인을 요청할 수 있음을 알려드립니다.", 
+
+  "privacy.wishInformed": "귀하가 보유하고 있는 개인 데이터에 대해 알기를 원하거나 시스템에서 삭제를 원한다면, 문의해 주십시오.", 
+
+  "privacy.service_providers.description": "우리는 서비스 제공을 위해 제3자 기업 및 개인을 고용할 수 있습니다. 이들 제3자는 귀하의 개인 데이터에 접근할 수 있으나, 업무 수행 외에는 사용하거나 공개하지 않을 의무가 있습니다.", 
+
+  "privacy.bolgaria": "귀하가 불가리아 외에 거주하고 정보를 제공하는 경우, 데이터(개인 데이터를 포함)를 불가리아로 이전하고 현지에서 처리한다는 점을 유의하십시오.", 
+
+  "privacy.service_providers.analytics": "우리는 Google Analytics와 같은 제3자 서비스 제공자를 사용해 서비스 이용을 모니터링하고 분석할 수 있습니다.", 
+
+  "privacy.service_providers.advertising": "우리는 제3자 서비스 제공자를 사용해 광고를 표시함으로써 서비스 유지 및 지원에 도움을 받을 수 있습니다", 
+
+  "privacy.service_providers.behavioral_remarketing": "Google AdWords 재마케팅 서비스는 Google Inc.에서 제공합니다. 디스플레이 광고에 대한 Google Analytics를 옵트아웃하고 Google 디스플레이 네트워크 광고를 맞춤 설정하려면 Google Ads 설정 페이지를 방문하십시오:", 
+
+  "privacy.service_providers.links": "우리 서비스에는 당사에서 운영하지 않는 다른 사이트로의 링크가 포함될 수 있습니다. 해당 사이트의 개인정보 처리방침을 검토하십시오.", 
+
+  "privacy.noControl": "우리는 제3자 사이트나 서비스의 콘텐츠, 개인정보 처리방침 또는 관행에 대해 통제하거나 책임을 지지 않습니다.", 
+
+  "privacy.child": "아동 개인정보 보호", 
+
+  "privacy.service_providers.children": "우리 서비스는 18세 미만(“아동”)을 대상으로 하지 않습니다. 우리는 18세 미만으로부터 개인 식별 정보를 고의로 수집하지 않습니다. 부모님이나 보호자로서 귀하의 자녀가 개인 데이터를 제공한 사실을 알게 된다면, 문의해 주십시오. 아동으로부터 부모 동의 없이 개인 데이터를 수집한 경우, 해당 정보를 서버에서 삭제하는 조치를 취합니다.", 
+
+  "privacy.changes": "개인정보 처리방침 변경", 
+
+  "privacy.service_providers.changes": "우리는 개인정보 처리방침을 수시로 업데이트할 수 있습니다. 변경 사항은 이 페이지에 게시되며/또는 이메일로 통보됩니다.", 
+
+  "privacy.letKnow": "우리는 변경이 효력 발생하기 전에 이메일 및/또는 서비스에 눈에 띄는 공지를 통해 알려드리며, 개인정보 처리방침 상단에 “시행일”을 업데이트합니다.", 
+
+  "privacy.advises": "본 개인정보 처리방침을 정기적으로 검토하시기 바랍니다. 변경 사항은 이 페이지에 게시되는 순간 효력이 발생합니다.", 
+
+  "privacy.service_providers.contact": "본 개인정보 처리방침에 대한 문의는 이메일로 연락해 주십시오.", 
+
+  
+
+
+  "terms_title": "이용약관",
+  "terms_intro_welcome": "Aivontrixen에 오신 것을 환영합니다. 본 이용약관(이하 \"약관\")은 Aivontrixen이 운영하는 Aivontrixen에 위치한 플랫폼(이하 \"서비스\")에 대한 귀하의 접근 및 이용을 규정합니다.",
+  "terms_intro_generator": "본 이용약관은 이용약관 생성기를 통해 작성되었습니다.",
+  "terms_intro_acceptance_1": "서비스에 접속하거나 이용함으로써 귀하는 본 약관을 전부 수락하고 이에 구속되는 데 동의합니다. 본 약관의 어느 부분이라도 동의하지 않는 경우 서비스를 이용할 수 없습니다.",
+  "terms_intro_changes": "당사는 언제든지 본 약관을 수정할 수 있으며, 수정된 약관은 게시되는 즉시 효력이 발생합니다. 수정 후에도 서비스를 계속 이용하면 변경된 약관에 동의한 것으로 간주됩니다.",
+  "terms_intro_rejection": "본 약관에 동의하지 않으실 경우 \"수락\" 버튼을 클릭하지 마시고 즉시 웹사이트 이용을 중단하여 주십시오.",
+  "terms_intro_website_def": "「웹사이트」란 Aivontrixen에서 접속 가능한 Aivontrixen을 말합니다.",
+
+  "section_1_title": "1. 웹사이트 및 서비스 이용",
+  "section_1_access": "본 약관에 따라 귀하는 비독점적으로 서비스를 이용할 목적으로만 웹사이트에 접속하고 이용할 수 있습니다.",
+  "section_1_modifications": "귀하는 회사가 단독 재량으로 언제든지 사전 통지 없이 웹사이트 또는 서비스를 수정·업데이트·중단하거나 콘텐츠를 삭제할 수 있음을 인정합니다.",
+  "section_1_void": "법률이 금지하는 지역에서는 웹사이트 및 서비스 이용이 무효입니다.",
+  "section_1_warranties_intro": "웹사이트 및 서비스를 이용함으로써 귀하는 다음 사항을 진술하고 보증합니다:",
+  "section_1_warranties_a": "귀하가 제출하는 모든 정보(해당되는 경우)는 진실하고 정확합니다;",
+  "section_1_warranties_b": "해당 정보를 항상 정확하게 유지합니다;",
+  "section_1_warranties_c": "귀하는 관할 지역에서 성년 이상입니다;",
+  "section_1_warranties_d": "웹사이트 또는 서비스 이용이 적용 가능한 법률·규정 또는 제3자에 대한 법적·계약적 의무를 위반하거나 위반을 조장하지 않으며, 서비스·웹사이트 이용 및 제품·제3자와 관련된 모든 행위에서 적용 법률을 준수합니다.",
+  "section_1_undertakings_def": "위 (a)~(d)항을 총칭하여 \"이용자 진술 및 보증\"이라 합니다.",
+  "section_1_verification": "회사는 단독 재량으로 이용자 진술 및 보증 준수 여부를 확인할 수 있으나 의무는 없으며, 이를 준수하지 않는 이용자를 정지·차단하지 못한 데 대한 책임도 없습니다.",
+  "section_1_responsibility": "귀하는 제3자와의 모든 상호작용에 대한 평가·결정·판단을 전적으로 본인 책임임을 이해합니다.",
+  "section_1_reporting": "이용자 진술 및 보증 위반을 발견하면 회사에 신고해 주시기 바랍니다.",
+  "section_1_right_to_refuse": "회사는 위반 여부와 관계없이 언제든지 단독 재량으로 귀하에게 서비스 제공을 거부할 수 있습니다.",
+  "section_1_disclaimer_main": "위 규정에 영향을 주지 아니하고, 회사는 다음으로 인해 발생하는 모든 분쟁·청구·손해·피해에 대해 명시적으로 책임을 부인하며 귀하는 회사를 면책합니다:",
+  "section_1_disclaimer_i": "이용자 또는 제3자의 진술이 부정확·지연·불완전한 경우;",
+  "section_1_disclaimer_ii": "제3자·기타 이용자·제품과 관련된 허위 또는 오해를 유발하는 진술.",
+  "section_1_platform_only": "서비스는 단지 당사 광고·프로모션을 통해 제3자 공급업체가 제공하는 제품(「제품」) 및 서비스 제공자(「제3자」)를 연결·구매·이용할 수 있도록 돕는 플랫폼일 뿐입니다.",
+  "section_1_company_a": "회사는 제3자 또는 제품을 고용·추천·보증하거나 그들의 행위·부작위를 통제하지 않습니다;",
+  "section_1_company_b": "제3자·제품의 품질·가격·호환성·가용성 등에 대해 어떠한 진술·보증도 하지 않습니다;",
+  "section_1_company_c": "제품의 소유권·규제·허가·라이선스 등에 대해 어떠한 진술·보증도 하지 않습니다;",
+  "section_1_company_d": "온·오프라인에서 이용자 및 제3자의 행위에 대해 책임지지 않습니다.",
+  "section_1_no_screening": "회사는 이용자·제3자·제품 정보를 사전 검증할 의무가 없으므로, 서비스를 통해 누구와도 거래 전 스스로 신중히 검토해야 합니다.",
+  "section_1_full_disclaimer": "회사는 제3자·제품·서비스·웹사이트 및 제3자와의 모든 행위·부작위로 인해 발생하는 모든 손해에 대해 책임을 지지 않으며, 귀하는 회사를 완전히 면책합니다.",
+  "section_1_risk": "서비스 및 웹사이트 이용은 전적으로 귀하의 책임과 위험 부담입니다.",
+  "section_1_no_sale": "명확히 하기 위해, 회사는 서비스 외의 제품·서비스를 직접 판매·라이선스 제공하지 않으며, 제3자로부터 구매한 제품·서비스의 지원·결함·손해 등에 대해 책임지지 않습니다.",
+
+  "section_2_title": "2. 제한사항",
+  "section_2_intro": "제1조를 침해하지 않는 범위에서, 귀하는 다음 행위를 하거나 제3자로 하여금 하게 해서는 안 됩니다:",
+  "section_2_a": "웹사이트 또는 서비스에 대한 리버스 엔지니어링 또는 소스코드 탐색;",
+  "section_2_b": "불법·음란·폭력선동 등 불법 또는 공격적인 콘텐츠 게시;",
+  "section_2_c": "복제·수정·2차적 저작물 작성;",
+  "section_2_d": "보안·접근 통제 메커니즘 우회 시도;",
+  "section_2_e": "치트·핵·봇 등 불법 소프트웨어 개발·이용;",
+  "section_2_f": "법률 위반 목적의 이용;",
+  "section_2_g": "타인 계정 또는 연결 시스템에 대한 무단 접근;",
+  "section_2_h": "동의 없는 이용자 정보 수집.",
+  "section_2_content_warranties": "귀하가 게시·업로드·공유하는 콘텐츠는 정확·완전해야 하며 다음을 포함해선 안 됩니다:",
+  "section_2_content_a": "제3자의 지식재산권·인격권·퍼블리시티권 침해;",
+  "section_2_content_b": "명예훼손·음란물·증오·폭력 선동 등 유해 콘텐츠;",
+  "section_2_content_c": "바이러스·악성코드;",
+  "section_2_content_d": "광고·마케팅 관련 법령 위반;",
+  "section_2_content_e": "인프라에 과도한 부하를 주는 행위.",
+  "section_2_license_grant": "콘텐츠를 게시함으로써 귀하는 회사 및 그 계열사에게 전 세계적·비독점적·영구적·무상·재라이선스 가능한 라이선스를 부여합니다.",
+  "section_2_removal_right": "회사는 사전 통지 없이 언제든지 콘텐츠를 삭제·차단할 수 있으며, 이에 대해 귀하는 어떠한 청구도 할 수 없습니다.",
+  "section_2_no_liability_content": "회사는 이용자가 게시한 콘텐츠 및 그와 관련된 제품·서비스에 대해 일절 책임지지 않으며, 모든 책임은 해당 이용자에게 있습니다.",
+
+  "section_3_title": "3. 광고 자료 및 뉴스레터",
+  "section_3_consent": "귀하는 회사로부터 이메일·SMS·우편·자동 전화 등 모든 수단으로 광고성 정보 및 뉴스레터를 수신하는 데 명시적 동의합니다.",
+  "section_3_third_party_ads": "해당 자료에는 제3자 광고가 포함될 수 있으며 귀하는 이에 동의합니다.",
+  "section_3_unsubscribe": "언제든지 이메일로 수신거부를 요청할 수 있습니다.",
+
+  "section_4_title": "4. 지식재산권",
+  "section_4_ownership": "웹사이트·서비스·상표·로고 및 모든 개선사항에 대한 모든 권리는 회사에 귀속됩니다.",
+  "section_4_license_meaning": "판매·구매라는 표현은 본 약관에 따른 사용권 부여만을 의미합니다.",
+  "section_4_user_liability": "귀하가 제공한 콘텐츠의 지식재산권 침해 책임은 전적으로 귀하에게 있으며, 회사를 면책합니다.",
+
+  "section_5_title": "5. 개인정보 보호",
+  "section_5_no_save": "귀하는 회사의 사전 서면 동의 없이 서비스 내 콘텐츠를 저장·수집·이용할 수 없습니다.",
+  "section_5_company_rights": "회사는 공개 정보 및 개인식별 정보를 포함한 모든 콘텐츠를 수집·보관·이용할 권리가 있습니다.",
+  "section_5_privacy_policy": "회사는 개인정보처리방침에 따라 허용되는 범위에서 해당 정보를 이용할 수 있습니다.",
+  "section_5_no_verification": "회사는 해당 콘텐츠를 검토·승인·확인할 의무가 없습니다.",
+  "section_5_user_responsibility": "콘텐츠 게시 책임은 전적으로 게시자에게 있습니다.",
+  "section_5_indemnification": "위 규정을 위반하여 발생한 손해에 대해 귀하는 회사를 면책합니다.",
+  "section_5_not_storage": "회사는 콘텐츠 보관 서비스가 아니며, 콘텐츠 분실·삭제에 대해 책임지지 않습니다.",
+  "section_5_public_warning": "귀하가 게시한 콘텐츠는 다른 이용자에 의해 수집·이용될 수 있으며, 원치 않는 메시지의 원인이 될 수 있습니다.",
+
+  "section_6_title": "6. 링크",
+  "section_6_description": "웹사이트·서비스에는 제3자 웹사이트 링크가 포함될 수 있으며, 회사는 이에 대해 통제권이 없습니다.",
+  "section_6_risk": "해당 링크 이용은 전적으로 귀하의 책임이며, 제3자의 이용약관·개인정보처리방침이 적용됩니다.",
+  "section_6_review_advice": "제3자 사이트의 약관과 정책을 반드시 확인하시기 바랍니다.",
+  "section_6_full_disclaimer": "회사는 제3자 사이트 관련 모든 손해에 대해 책임지지 않으며 귀하는 회사를 면책합니다.",
+
+  "section_7_title": "7. 금지된 이용",
+  "section_7_commercial": "회사 명시적 서면 동의 없이 상업적 목적으로 서비스를 이용할 수 없습니다.",
+  "section_7_recruitment": "회사와 무관한 채용·영업 목적으로 이용자를 모집·연락할 수 없습니다.",
+  "section_7_user_contact": "다른 이용자의 명시적 동의 없이 광고·판매 행위를 할 수 없습니다.",
+
+  "section_8_title": "8. 고객지원",
+  "section_8_text": "웹사이트 및 서비스 관련 지원은 이메일로 문의해 주십시오.",
+
+  "section_9_title": "9. 면책조항",
+  "section_9_security": "회사는 합리적인 보안 조치를 취하나 절대적 보안을 보장할 수 없습니다.",
+  "section_9_as_is": "서비스는 \"있는 그대로\" 및 \"이용 가능한 상태로\" 제공되며 어떠한 보증도 하지 않습니다.",
+  "section_9_no_warranties": "상품성·특정목적적합성·비침해 등 모든 묵시적 보증을 배제합니다.",
+  "section_9_no_advice": "회사는 거래 위험·적합성에 대한 조언을 하지 않으며, 모든 판단은 귀하 책임입니다.",
+  "section_9_no_created_warranty": "회사로부터 받은 구두·서면 정보로 추가 보증이 생성되지 않습니다.",
+  "section_9_jurisdiction_note": "일부 국가에서는 특정 보증 배제를 허용하지 않으므로 해당 배제가 적용되지 않을 수 있습니다.",
+
+  "section_10_title": "10. 책임의 제한",
+  "section_10_no_guarantee": "회사는 제3자·제품의 품질·가치 등을 보장하지 않습니다.",
+  "section_10_monitoring": "회사는 준수 여부를 상시 감시할 의무가 없습니다.",
+  "section_10_exposure": "부정확·불쾌한 콘텐츠에 노출될 수 있습니다.",
+
+  "section_10_technical": "기술적 오류·인터넷 혼잡 등으로 인한 손해에 대해 책임지지 않습니다.",
+  "section_10_conduct": "온·오프라인 제3자 행위에 대해 책임지지 않습니다.",
+  "section_10_no_indirect": "간접·부수적·특별·징벌적·파생 손해에 대해 일절 책임지지 않습니다.",
+  "section_10_full_extent": "위 책임 제한은 적용 법률이 허용하는 최대 한도 내에서 적용됩니다.",
+
+  "section_11_title": "11. 면책",
+  "section_11_text": "귀하는 본 약관 위반 또는 부적법한 이용으로 인해 발생하는 모든 청구·손해·비용(변호사 비용 포함)에 대해 회사를 면책하고 방어할 의무가 있습니다.",
+
+  "section_12_title": "12. 기타",
+  "section_12_governing_law": "본 약관은 잉글랜드 법률이 적용되며, 법률선택규칙 및 국제물품매매협약은 배제됩니다.",
+  "section_12_jurisdiction": "모든 분쟁은 잉글랜드 법원에 전속 관할입니다.",
+  "section_12_no_class_action": "집단소송을 제기할 수 없습니다.",
+  "section_12_limitation_period": "회사에 대한 모든 청구는 원인 발생일로부터 1년 이내에 제기해야 합니다.",
+  "section_12_severability": "일부 조항이 무효인 경우 나머지 조항은 유효합니다.",
+  "section_12_no_agency": "양 당사자 간 대리·고용·합작 관계가 아닙니다.",
+  "section_12_entire_agreement": "본 약관은 양 당사자 간 완전한 합의입니다.",
+  "section_12_notices": "모든 통지는 귀하가 제공한 연락처로 발송될 수 있습니다.",
+  "section_12_no_assignment": "귀하는 회사의 사전 서면 동의 없이 본 약관상 권리를 양도할 수 없습니다.",
+  "section_12_no_limitation": "금지 행위에 대한 회사의 권리·구제수단을 제한하지 않습니다.",
+  "section_12_no_waiver": "권리 불행사는 포기로 간주되지 않습니다.",
+  "section_12_viewer_responsibility": "사이트 내 정보·의견의 정확성·유용성은 전적으로 이용자 본인이 판단해야 합니다."
 }

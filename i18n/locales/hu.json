@@ -114,5 +114,388 @@
     "contact.input.email": "Az Ön emailje",
     "contact.input.message": "Az Ön üzenete",
     "contact.button": "Üzenet küldése",
-    "contact.success": "Üzenete sikeresen elküldve!"
+    "contact.success": "Üzenete sikeresen elküldve!",
+
+  "privacy.title": "Adatvédelmi irányelvek", 
+
+  "privacy.intro.provider": "Szolgáltató (\"us\", \"we\", vagy \"our\") kezeli az Aivontrixen platformot (a \"Szolgáltatás\").", 
+
+  "privacy.intro.description": "Ez a dokumentum ismerteti gyakorlati módszereinket a személyes adatok gyűjtésével, felhasználásával és megosztásával kapcsolatban, amikor használja a Szolgáltatásunkat, valamint a rendelkezésére álló lehetőségeket ezen adatokkal kapcsolatban.", 
+
+  "privacy.intro.usage": "Mi, az Aivontrixen, az Ön információit használjuk a Szolgáltatás biztosításához és fejlesztéséhez. A Szolgáltatás használatával hozzájárul az adatgyűjtéshez és -felhasználáshoz, ahogy azt ebben a szabályzatban leírjuk. Ha ebben az Adatvédelmi Szabályzatban nincs külön definiálva, a kifejezések ugyanazt a jelentést hordozzák, mint a Aivontrixen által elérhető Általános Szerződési Feltételekben.", 
+
+   
+
+  "privacy.toc.definitions": "Meghatározások", 
+
+  "privacy.toc.definitions.service": "Szolgáltatás", 
+
+  "privacy.toc.definitions.personal_data": "Személyes adatok", 
+
+  "privacy.toc.definitions.usage_data": "Használati adatok", 
+
+  "privacy.toc.definitions.cookies": "Sütik", 
+
+  "privacy.toc.definitions.data_controller": "Adatkezelő", 
+
+  "privacy.toc.definitions.data_processors": "Adatfeldolgozók (vagy Szolgáltatók)", 
+
+  "privacy.toc.definitions.data_subject": "Adatérintett (vagy Felhasználó)", 
+
+   
+
+  "privacy.toc.info_collection": "Információgyűjtés és felhasználás", 
+
+  "privacy.toc.info_collection.types_of_data": "Gyűjtött adatok típusai", 
+
+  "privacy.toc.info_collection.personal_data": "Személyes adatok", 
+
+  "privacy.toc.info_collection.usage_data": "Használati adatok", 
+
+  "privacy.toc.info_collection.tracking_cookies": "Követő sütik adatai", 
+
+  "privacy.toc.info_collection.use_of_data": "Az adatok felhasználása", 
+
+  "privacy.toc.info_collection.legal_basis": "Jogalap a személyes adatok feldolgozásához az Általános Adatvédelmi Rendelet (GDPR) szerint", 
+
+  "privacy.toc.info_collection.retention": "Adatok megőrzése", 
+
+   
+
+  "privacy.toc.transfer": "Adatok átvitele", 
+
+  "privacy.toc.transfer.disclosure": "Adatok közzététele", 
+
+  "privacy.toc.transfer.disclosure.business_transaction": "Üzleti tranzakció", 
+
+  "privacy.toc.transfer.legal_requirements": "Jogi követelmények", 
+
+  "privacy.toc.transfer.security": "Adatok biztonsága", 
+
+  "privacy.toc.transfer.rights_gdpr": "Az Ön adatvédelmi jogai az Általános Adatvédelmi Rendelet (GDPR) szerint", 
+
+   
+
+  "privacy.toc.service_providers": "Szolgáltatók", 
+
+  "privacy.toc.service_providers.analytics": "Analitika", 
+
+  "privacy.toc.service_providers.advertising": "Hirdetés", 
+
+  "privacy.toc.service_providers.behavioral_remarketing": "Viselkedésalapú remarketing", 
+
+  "privacy.toc.service_providers.links": "Linkek más oldalakra", 
+
+  "privacy.toc.service_providers.changes": "Az adatvédelmi szabályzat változásai", 
+
+  "privacy.toc.service_providers.contact": "Lépjen kapcsolatba velünk", 
+
+"privacy.definitions.service": "A Szolgáltatás az Aivontrixen weboldal, amelyet a Szolgáltató üzemeltet", 
+
+  "privacy.definitions.personal_data": "A személyes adatok olyan adatok, amelyek egy élő személyről szólnak, akit az ezen adatok (vagy ezek és egyéb információk, amelyek a rendelkezésünkre állnak vagy várhatóan a birtokunkba kerülnek) alapján azonosítani lehet.", 
+
+  "privacy.definitions.usage_data": "A használati adatok olyan adatok, amelyeket automatikusan gyűjtünk, akár a Szolgáltatás használata, akár a Szolgáltatás infrastruktúrája által generálódnak (például egy oldal látogatásának időtartama).", 
+
+  "privacy.definitions.cookies": "A sütik kis adategységek, amelyeket az eszközön (számítógép vagy mobil eszköz) tárol.", 
+
+  "privacy.definitions.data_controller": "Az adatkezelő azt a természetes vagy jogi személyt jelenti, aki (akár önállóan, akár közösen más személyekkel) meghatározza a személyes adatok feldolgozásának célját és módját. Ezen Adatvédelmi Szabályzat céljából mi vagyunk az Ön személyes adatainak adatkezelői.", 
+
+  "privacy.definitions.data_processors": "Az adatfeldolgozó (vagy Szolgáltató) olyan természetes vagy jogi személy, aki a adatkezelő nevében dolgozza fel az adatokat. Különböző Szolgáltatók szolgáltatásait vehetjük igénybe, hogy hatékonyabban dolgozzuk fel adatait.", 
+
+  "privacy.definitions.data_subject": "Az adatérintett minden élő személy, aki a Szolgáltatásunkat használja, és személyes adat tárgya.", 
+
+ 
+
+  "privacy.provider.take": "A Szolgáltató minden ésszerűen szükséges lépést megtesz annak érdekében, hogy adatait biztonságosan kezelje ezzel az Adatvédelmi Szabályzattal összhangban, és személyes adatait csak olyan szervezetnek vagy országba nem továbbítja, ahol megfelelő ellenőrzések, beleértve adatainak biztonságát, hiányoznak.", 
+
+ 
+
+  "privacy.info_collection.description": "Különböző típusú információkat gyűjtünk különböző célokra, hogy biztosítsuk és javítsuk a Szolgáltatásunkat Önnek.", 
+
+  "privacy.info_collection.personal_data.description": "A Szolgáltatás használata során kérhetjük, hogy adjon meg bizonyos személyazonosítható információkat, amelyekkel felvehetjük a kapcsolatot vagy azonosíthatjuk Önt („Személyes adatok”). A személyazonosítható információk például a következők lehetnek, de nem kizárólagosan:", 
+
+  "privacy.info.user1": "E-mail cím", 
+
+  "privacy.info.user2": "Keresztnév és vezetéknév", 
+
+  "privacy.info.user3": "Telefonszám", 
+
+  "privacy.info.user4": "Cím, állam, tartomány, irányítószám, város", 
+
+  "privacy.info.user5": "Sütik és használati adatok", 
+
+"privacy.info_collection.personal_data.usage": "Személyes adatait felhasználhatjuk hírlevelek, marketing vagy promóciós anyagok, valamint egyéb, Önnek érdekes információk küldésére. Leiratkozhat bármely vagy minden ilyen kommunikációról a leiratkozási hivatkozás vagy az általunk küldött e-mailekben leírt utasítások követésével, vagy felveheti velünk a kapcsolatot.", 
+
+  "privacy.info_collection.usage_data.description": "Gyűjthetünk információkat arról is, hogy a Szolgáltatást hogyan éri el és használja („Használati adatok”). Ezek az adatok tartalmazhatják például a számítógépe IP-címét, böngésző típusát, böngésző verzióját, a Szolgáltatásunk által látogatott oldalakat, a látogatás időpontját és dátumát, az egyes oldalakon eltöltött időt, egyedi eszközazonosítókat és egyéb diagnosztikai adatokat.", 
+
+  "privacy.info_collection.cookies.description": "Sütiket és hasonló nyomkövető technológiákat használunk a Szolgáltatásunkon történő tevékenységek nyomon követésére és bizonyos információk tárolására.", 
+
+  "privacy.info.collection.cookies.description1": "A sütik kis adatfájlok, amelyek tartalmazhatnak névtelen egyedi azonosítót. A sütiket a weboldal küldi a böngészőnek, és azok az Ön eszközén tárolódnak. A nyomkövető technológiák közé tartoznak a beacon-ek, címkék és szkriptek, amelyek információkat gyűjtenek és nyomon követik, valamint a Szolgáltatásunk fejlesztésére és elemzésére szolgálnak.", 
+
+  "privacy.info.collection.cookies.instruct": "Beállíthatja a böngészőt, hogy minden sütit visszautasítson, vagy jelezze, amikor egy süti küldésre kerül. Azonban, ha nem fogadja el a sütiket, a Szolgáltatás bizonyos részeit esetleg nem tudja használni.", 
+
+  "privacy.info_collection.cookies.examples": "Ami sütiket használunk, példák:", 
+
+  "privacy.example1": "Munkamenet sütik.", 
+
+  "privacy.example1.description": "A Szolgáltatás működtetéséhez munkamenet sütiket használunk.", 
+
+  "privacy.example2": "Beállítási sütik.", 
+
+  "privacy.example2.description": "A beállítási sütiket arra használjuk, hogy megjegyezzük az Ön preferenciáit és egyéb beállításait.", 
+
+  "privacy.example3": "Biztonsági sütik.", 
+
+  "privacy.example3.description": "Biztonsági célokra használunk biztonsági sütiket.", 
+
+  "privacy.example4": "Hirdetési sütik.", 
+
+  "privacy.example4.description": "A hirdetési sütik segítségével olyan hirdetéseket jelenítünk meg, amelyek relevánsak lehetnek Önnek és érdeklődési körének.", 
+
+ 
+
+  "privacy.info_collection.use_of_data": "A Szolgáltató a gyűjtött adatokat különböző célokra használja, többek között:", 
+
+  "provider1": "A Szolgáltatás biztosítása és fenntartása", 
+
+  "provider2": "Értesítés a Szolgáltatás változásairól", 
+
+  "provider3": "Lehetővé tétele, hogy részt vegyen a Szolgáltatás interaktív funkcióiban, ha úgy dönt", 
+
+  "provider4": "Ügyfélszolgálat biztosítása", 
+
+  "provider5": "Elemzések vagy értékes információk gyűjtése a Szolgáltatás javítása érdekében", 
+
+  "provider6": "A Szolgáltatás használatának nyomon követése", 
+
+  "provider7": "Műszaki problémák észlelése, megelőzése és kezelése", 
+
+  "provider8": "Hírek, speciális ajánlatok és általános információk nyújtása Önnek más, általunk kínált termékekről, szolgáltatásokról és eseményekről, amelyek hasonlóak a már megvásárolt vagy érdeklődött termékekhez, kivéve ha Ön lemondott az ilyen információk fogadásáról.", 
+
+"providerText": "A Szolgáltató a használati adatokat belső elemzési célokra is megőrzi. A használati adatokat általában rövidebb ideig tároljuk, kivéve, ha az adatokat a Szolgáltatás biztonságának erősítésére vagy funkcióinak javítására használjuk, vagy ha jogi kötelezettségünk hosszabb ideig megőrizni ezeket.", 
+
+  "privacy.info_collection.legal_basis": "Ha az Európai Gazdasági Térség (EGT) állampolgára, a Szolgáltató jogalapja a személyes adatok gyűjtésére és felhasználására ebben az Adatvédelmi Szabályzatban a gyűjtött személyes adatoktól és a gyűjtés konkrét körülményeitől függ.", 
+
+  "privacy.accept.info": "A Szolgáltató a személyes adatait az alábbiak miatt dolgozhatja fel:", 
+
+  "privacy.accept.info.why1": "Szerződés teljesítése szükséges", 
+
+  "privacy.accept.info.why2": "Megadta a szükséges engedélyt", 
+
+  "privacy.accept.info.why3": "A feldolgozás a mi jogos érdekeinket szolgálja, és nem felülmúlja az Ön jogait", 
+
+  "privacy.accept.info.why4": " A törvénynek való megfelelés.", 
+
+ 
+
+  "privacy.consent": "Az Ön beleegyezése ebbe az Adatvédelmi Szabályzatba, majd az ilyen információk benyújtása, az adatok átvitelével kapcsolatos megállapodásként értelmezendő.", 
+
+ 
+
+  "privacy.transfer.description": "Az Ön információi, beleértve a személyes adatokat, átvihetők és tárolhatók olyan számítógépeken, amelyek az Ön államán, tartományán, országán vagy egyéb kormányzati joghatóságán kívül találhatók, ahol az adatvédelmi szabályok eltérhetnek az Ön joghatóságában alkalmazottaktól.", 
+
+ 
+
+  "privacy.transfer.disclosure.business_transaction": "Ha a Szolgáltató egy összeolvadásban, felvásárlásban vagy eszközértékesítésben vesz részt, személyes adatai átvihetők. Értesítést küldünk, mielőtt személyes adatait átvisszük, és másik Adatvédelmi Szabályzat alá kerül.", 
+
+  "privacy.transfer.legal_requirements": "A Szolgáltató jóhiszeműen úgy véli, hogy szükséges lehet személyes adatainak közzététele", 
+
+  "requirments1": "jogi kötelezettség teljesítése érdekében", 
+
+  "requirments2": "a Szolgáltató jogainak vagy vagyoni érdekeinek védelme érdekében", 
+
+  "requirments3": "a Szolgáltatással kapcsolatos esetleges jogsértés megelőzése vagy kivizsgálása érdekében", 
+
+  "requirments4": "a Szolgáltatás felhasználóinak vagy a nyilvánosság személyes biztonságának védelme érdekében", 
+
+  "requirments5": "jogi felelősség elkerülése érdekében", 
+
+ 
+
+  "right.complain": "Jogában áll panaszt tenni egy Adatvédelmi Hatóságnál a személyes adatainak gyűjtése és felhasználása miatt. További információkért lépjen kapcsolatba a helyi adatvédelmi hatósággal az Európai Gazdasági Térségben (EGT).", 
+
+  "privacy.transfer.security": "Adatainak biztonsága számunkra fontos, de semmilyen átvitel vagy tárolási módszer nem 100%-ban biztonságos. Kereskedelmi szempontból elfogadható módszereket alkalmazunk, de nem tudunk abszolút biztonságot garantálni.", 
+
+  "privacy.transfer.rights_gdpr": "Ha az Európai Gazdasági Térség (EGT) lakosa, adatvédelmi jogokkal rendelkezik. A Szolgáltató igyekszik ésszerű lépéseket tenni, hogy lehetőséget biztosítson személyes adatainak helyesbítésére, módosítására, törlésére vagy felhasználásának korlátozására.", 
+
+  "privacy.certain.circums": "Bizonyos körülmények között az alábbi adatvédelmi jogokkal rendelkezik", 
+
+  "google.analytics": "Google Analytics", 
+
+  "google.analytics.desc": "A Google Analytics a Google által kínált webanalitikai szolgáltatás, amely a weboldal forgalmát követi és jelent. A Google a gyűjtött adatokat a Szolgáltatásunk használatának nyomon követésére és monitorozására használja. Ezek az adatok megosztásra kerülnek más Google szolgáltatásokkal. A Google felhasználhatja a gyűjtött adatokat saját hirdetési hálózata hirdetéseinek kontextusba helyezésére és személyre szabására. Leiratkozhat arról, hogy a Google Analytics elérje a tevékenységét a Szolgáltatáson, ha telepíti a Google Analytics leiratkozó böngésző kiegészítőt. A kiegészítő megakadályozza, hogy a Google Analytics JavaScript (ga.js, analytics.js, és dc.js) információkat osszon meg a Google Analytics-szel a látogatásokról. További információkért a Google adatvédelmi gyakorlatairól keresse fel a Google Adatvédelmi Feltételek weboldalát.", 
+
+"privacy.your.access": "A hozzáférés joga, az adatok frissítése vagy törlése. Amikor csak lehetséges, közvetlenül a fiók beállításokban érheti el, frissítheti vagy kérheti személyes adatainak törlését. Ha nem tudja ezeket a műveleteket saját maga elvégezni, kérjük, vegye fel velünk a kapcsolatot a segítségért. A helyesbítés joga. Jogában áll, hogy helyesbítse adatait, ha azok pontatlanok vagy hiányosak. A tiltakozás joga. Jogában áll tiltakozni a személyes adatai feldolgozása ellen. A korlátozás joga. Jogában áll kérni, hogy korlátozzuk személyes adatainak feldolgozását. Az adatátvitel joga. Jogában áll, hogy a rólunk tárolt információk egy strukturált, géppel olvasható és általánosan használt formátumban kapjon. A hozzájárulás visszavonásának joga. Emellett joga van bármikor visszavonni a hozzájárulását, ha a Szolgáltató az Ön hozzájárulására támaszkodva dolgozza fel személyes adatait.", 
+
+  "google.adSense": "Google AdSense DoubleClick Cookie", 
+
+  "google.adSense.desc": "A Google, mint harmadik fél szolgáltató, sütiket használ hirdetések megjelenítésére a Szolgáltatásunkban. A DoubleClick süti használata lehetővé teszi a Google és partnerei számára, hogy hirdetéseket jelenítsenek meg felhasználóinknak a Szolgáltatásunk vagy más internetes oldalak látogatása alapján. Leiratkozhat a DoubleClick süti használatáról, ha az érdeklődés-alapú hirdetéseket szeretne letiltani, a Google Ads beállítások weboldalán.", 
+
+  "google.adSense.provider": "A Szolgáltató remarketing szolgáltatásokat használ, hogy harmadik fél weboldalakon hirdetéseket jelenítsen meg Önnek, miután meglátogatta a Szolgáltatásunkat. Mi és harmadik fél szolgáltatóink sütiket használunk, hogy tájékoztassuk, optimalizáljuk és hirdetéseket jelenítsünk meg az Ön korábbi látogatásai alapján.", 
+
+  "google.adWords": "Google AdWords", 
+
+  "google.adWords.rec": "ajánlja a Google Analytics leiratkozó böngésző kiegészítő telepítését –", 
+
+  "google.also": "A Google is", 
+
+  "google.analytics.your.browser": "– az Ön webböngészőjéhez. A Google Analytics leiratkozó böngésző kiegészítő lehetővé teszi a látogatók számára, hogy megakadályozzák adataik gyűjtését és felhasználását a Google Analytics által. További információk a Google adatvédelmi gyakorlatáról a Google Adatvédelmi Feltételek weboldalon:", 
+
+  "facebook": "Facebook", 
+
+  "facebook.remarketing": "A Facebook remarketing szolgáltatást a Facebook Inc. nyújtja. További információk az érdeklődés-alapú hirdetésekről a Facebook oldalán érhetők el:", 
+
+  "facebook.ad": "A Facebook érdeklődés-alapú hirdetéseiől való leiratkozáshoz kövesse a Facebook útmutatóját:", 
+
+  "facebook.adheres1": "A Facebook betartja a Digitális Hirdetési Szövetség által létrehozott online viselkedésalapú hirdetésekkel kapcsolatos önszabályozási elveket. A Facebook és más résztvevő cégek leiratkozhatnak a Digitális Hirdetési Szövetségen keresztül az USA-ban ", 
+
+  "facebook.adheres2": "a Kanadai Digitális Hirdetési Szövetség kanadai tagja", 
+
+  "facebook.adheres3": "vagy az Európai Interaktív Digitális Hirdetési Szövetség európai tagja", 
+
+  "facebook.adheres4": "vagy leiratkozhat mobil eszközének beállításaiban. További információk a Facebook adatvédelmi gyakorlatáról a Facebook Adatvédelmi Szabályzatában:", 
+
+"privacy.shouldNote": "Felhívjuk figyelmét, hogy előfordulhat, hogy a kérések megválaszolása előtt azonosítóját ellenőrizni kell.", 
+
+  "privacy.wishInformed": "Ha szeretné megtudni, milyen személyes adatokat tárolunk Önről, és ha szeretné, hogy ezeket eltávolítsuk a rendszerünkből, kérjük, vegye fel velünk a kapcsolatot.", 
+
+  "privacy.service_providers.description": "Külső cégeket és magánszemélyeket vehetünk igénybe a Szolgáltatásunk megvalósításához. Ezek a harmadik felek csak a személyes adatokhoz férnek hozzá feladatok ellátása érdekében, és kötelesek azokat nem nyilvánosságra hozni vagy más célra felhasználni.", 
+
+  "privacy.bolgaria": "Ha Bulgárián kívül tartózkodik és információt ad meg nekünk, vegye figyelembe, hogy az adatokat, beleértve a személyes adatokat, Bulgáriába továbbítjuk és ott dolgozzuk fel.", 
+
+  "privacy.service_providers.analytics": "Külső Szolgáltatókat, például a Google Analytics-t használhatunk a Szolgáltatás használatának nyomon követésére és elemzésére.", 
+
+  "privacy.service_providers.advertising": "Külső Szolgáltatókat vehetünk igénybe, hogy hirdetéseket jelenítsünk meg Önnek, ezzel támogassuk és fenntartsuk a Szolgáltatásunkat", 
+
+  "privacy.service_providers.behavioral_remarketing": "A Google AdWords remarketing szolgáltatást a Google Inc. nyújtja. A Google Analytics Display Advertising leiratkozáshoz és a Google Display Network hirdetések testreszabásához látogasson el a Google Ads beállítási oldalra:", 
+
+  "privacy.service_providers.links": "A Szolgáltatás tartalmazhat linkeket más, általunk nem üzemeltetett oldalakra. Tekintse át azok adatvédelmi szabályzatait.", 
+
+  "privacy.noControl": "Nem rendelkezünk ellenőrzéssel, és nem vállalunk felelősséget harmadik fél oldalak vagy szolgáltatások tartalma, adatvédelmi szabályzata vagy gyakorlata iránt.", 
+
+  "privacy.child": "Gyermekek adatvédelem", 
+
+  "privacy.service_providers.children": "A Szolgáltatás nem szól 18 éves kor alatti személyeknek (“Gyermekek”). Nem gyűjtünk tudatosan személyazonosítható adatokat 18 év alatti személyektől. Ha Ön szülő vagy gyám, és tudomására jut, hogy gyermekei személyes adatokat adtak meg, kérjük, lépjen kapcsolatba velünk. Ha tudomásunkra jut, hogy gyermekek személyes adatait szülői hozzájárulás ellenőrzése nélkül gyűjtöttük, lépéseket teszünk az adatok szervereinkről való eltávolításra.", 
+
+  "privacy.changes": "Az adatvédelmi szabályzat változásai", 
+
+  "privacy.service_providers.changes": "Időnként frissíthetjük adatvédelmi szabályzatunkat. A változásokat ezen az oldalon közzétesszük, illetve e-mailben értesítjük.", 
+
+  "privacy.letKnow": "E-mailben és/vagy a Szolgáltatásban jól látható értesítéssel tájékoztatjuk Önt a változásokról, mielőtt azok hatályba lépnek, és frissítjük a „hatálybalépés dátuma” mezőt a Szolgáltatás tetején.", 
+
+  "privacy.advises": "Javasoljuk, hogy időről időre tekintse át ezt az adatvédelmi szabályzatot a változások miatt. A szabályzat változásai az oldalon való közzétételkor lépnek hatályba.", 
+
+  "privacy.service_providers.contact": "Ha bármilyen kérdése van ezzel az adatvédelmi szabályzattal kapcsolatban, kérjük, vegye fel velünk a kapcsolatot e-mailben.",
+
+  "terms_title": "Felhasználási Feltételek",
+  "terms_intro_welcome": "Üdvözöljük az Aivontrixen oldalon. Ezek a Felhasználási Feltételek (a továbbiakban: „Feltételek”) szabályozzák az Aivontrixen által üzemeltetett Aivontrixen platformunkkal (a továbbiakban: „Szolgáltatás”) való kapcsolatát.",
+  "terms_intro_generator": "Felhasználási Feltételeinket a Felhasználási Feltételek Generátor segítségével fejlesztettük ki.",
+  "terms_intro_acceptance_1": "Szolgáltatásunk látogatásával vagy használatával Ön beleegyezik, hogy elfogadja és betartja ezeket a Feltételeket. Ha a feltételek bármely része ellen kifogással él, nem használhatja a Szolgáltatást.",
+  "terms_intro_changes": "Kérjük, vegye figyelembe, hogy időről időre módosíthatjuk ezeket a Feltételeket, és a változások a közzétételtől számítva azonnal hatályba lépnek. A platform folyamatos használata a felülvizsgált vagy frissített feltételek elfogadását jelenti.",
+  "terms_intro_rejection": "Ha elutasítja ezen Feltételek bármelyikét, kérjük, tartózkodjon a „ELFOGADOM” gombra kattintástól, és hagyja abba a Weboldal használatát.",
+  "terms_intro_website_def": "A Weboldal az Aivontrixen oldalt jelenti, amely elérhető az Aivontrixen címen.",
+  "section_1_title": "1. A Weboldal és a Szolgáltatások Használata",
+  "section_1_access": "Az itt meghatározott feltételekkel Ön nem kizárólagos alapon hozzáférhet a Weboldalhoz és használhatja azt a Szolgáltatások igénybevételének céljából.",
+  "section_1_modifications": "Ön tudomásul veszi, hogy a Társaság saját belátása szerint és bármikor módosíthatja, frissítheti vagy más módon megváltoztathatja a Weboldalt vagy a Szolgáltatásokat, beleértve a Weboldal és/vagy a Szolgáltatások bármely vagy összes részének nyújtásának megszüntetését, vagy a Weboldalon vagy a Szolgáltatásokon keresztül elérhető tartalom módosítását vagy törlését, előzetes értesítés nélkül.",
+  "section_1_void": "A Weboldal és a Szolgáltatások használata tilos, ha az tilos.",
+  "section_1_warranties_intro": "A Weboldal és a Szolgáltatások használatával Ön kijelenti és szavatolja, hogy:",
+  "section_1_warranties_a": "az Ön által benyújtott bármely információ (ha releváns) igaz és pontos;",
+  "section_1_warranties_b": "fenntartja az ilyen információk pontosságát;",
+  "section_1_warranties_c": "Ön legalább a joghatósága szerinti nagykorúsági kor felett van; és",
+  "section_1_warranties_d": "a Weboldal vagy a Szolgáltatások használata nem sérti, és nem mozdítja elő bármely alkalmazandó törvény vagy rendelet vagy bármely jogi vagy szerződéses kötelezettség megsértését, amellyel harmadik féllel szemben rendelkezhet, és mindenkor betartja a Szolgáltatások és a Weboldal használatára vonatkozó összes alkalmazandó törvényt, szabályt és rendeletet, a Szolgáltatásokon és a Weboldalon keresztül szervezett bármely szolgáltatást, beleértve korlátozás nélkül azokat a szolgáltatásokat, amelyek bármilyen módon kapcsolódnak a Termékekhez vagy Harmadik Felekhez, ahogyan ezek a kifejezések itt definiálva vannak.",
+  "section_1_undertakings_def": "Az (a)–(d) alpontok együttesen a „Felhasználói Kötelezettségvállalások és Garanciák” elnevezést kapják.",
+  "section_1_verification": "A Szolgáltatások vagy a Weboldal használatával Ön megérti és elfogadja, hogy a Társaság saját belátása szerint, de nem köteles, ellenőrizheti, hogy bármely Felhasználó teljesíti-e a Felhasználói Kötelezettségvállalások és Garanciák bármelyikét vagy mindegyikét, és Ön továbbá elfogadja, hogy a Társaság nem felelős a Felhasználói Kötelezettségvállalások és Garanciák teljesítésének biztosításáért, vagy a Szolgáltatások vagy a Weboldal használatának felfüggesztéséért, megszüntetéséért vagy megtiltásáért azoknak a Felhasználóknak, akik nem teljesítik a Felhasználói Kötelezettségvállalásokat és Garanciákat.",
+  "section_1_responsibility": "Ön megérti, hogy kizárólag Ön felelős a saját értékeléseinek, döntéseinek és megítéléseinek meghozataláért arról, hogy bármely Harmadik Féllel együttműködjön-e vagy más módon interakcióba lépjen-e bármely Harmadik Féllel bármilyen módon.",
+  "section_1_reporting": "Ha tudomására jut a Felhasználói Kötelezettségvállalások és Garanciák bármilyen megsértése, javasoljuk, hogy jelentse azt a Társaságnak.",
+  "section_1_right_to_refuse": "A Társaság fenntartja a jogot, hogy saját belátása szerint értesítéssel vagy anélkül megtagadja bármely Szolgáltatás nyújtását Önnek, függetlenül attól, hogy tudomására jut-e a Felhasználói Kötelezettségvállalások és Garanciák bármely megsértése (akár más Felhasználók által biztosított jelentések, akár más módon) Öntől vagy bármely más Felhasználótól, vagy bármely más okból.",
+  "section_1_disclaimer_main": "A fentiek sérelme nélkül, a Társaság kifejezetten kizárja, Ön pedig kifejezetten felmenti a Társaságot minden felelősség alól, bármely vitából, követelésből, perből, sérülésből, veszteségből, kárból és/vagy sérelemből eredő, és/vagy bármilyen módon kapcsolódó kárért, amely a következőkből ered:",
+  "section_1_disclaimer_i": "egy Felhasználó vagy Harmadik Fél nyilatkozatainak bármilyen pontatlansága, időszerűtlensége vagy hiányossága; és",
+  "section_1_disclaimer_ii": "téves nyilatkozatok és/vagy hamis állítások, akár a Harmadik Felek vagy más Felhasználók, Termékek vonatkozásában, akár más módon.",
+  "section_1_platform_only": "A Weboldal és a Szolgáltatások használatával Ön megérti és elfogadja, hogy a Szolgáltatások csupán egy platformot kínálnak, amelynek célja, hogy segítse a Felhasználókat a harmadik fél eladók és/vagy szolgáltatók által biztosított különféle termékek és szolgáltatások elérésében, megvásárlásában és/vagy használatában, az általunk futtatott hirdetéseken vagy promóciókon keresztül (a továbbiakban: „Termékek” és „Harmadik Felek”, rendre).",
+  "section_1_company_a": "nem alkalmaz, nem ajánl vagy nem támogat semmilyen Harmadik Felet vagy Terméket, attól függően, hogy melyik releváns, sem azok kapcsolt feleit, és nincs befolyása semmilyen Harmadik Fél tettei vagy mulasztásai, üzleti tevékenysége, termékei vagy szolgáltatásai felett;",
+  "section_1_company_b": "nem tesz semmilyen kijelentést vagy garanciát a Harmadik Felekkel és a Termékekkel kapcsolatban, beleértve azok minőségét, árképzését, kompatibilitását, elérhetőségét vagy bármely más jellemzőjét, vagy az Ön Harmadik Felekkel folytatott interakcióival vagy üzleti kapcsolataival kapcsolatban;",
+  "section_1_company_c": "nem tesz semmilyen kijelentést vagy garanciát a Termékekhez kapcsolódó tulajdonjogokkal vagy egyéb jogokkal vagy szabályozási jellemzőkkel kapcsolatban, beleértve az ilyen Termékek feltöltéséhez, megosztásához vagy más módon elérhetővé tételéhez, valamint azok használatához, eladásához és megvásárlásához szükséges bármely engedélyt, jogosítványt vagy licencet; és",
+  "section_1_company_d": "nem felelős semmilyen Felhasználó vagy más harmadik fél teljesítményéért vagy magatartásáért, aki bármilyen módon használja vagy használta a Szolgáltatásokat, és/vagy a Weboldalon vagy azon kívül.",
+  "section_1_no_screening": "A Társaság nem köteles átvilágítani vagy más módon ellenőrizni a Harmadik Felekkel és/vagy Felhasználókkal, a Termékekkel vagy a Weboldalhoz vagy a Szolgáltatásokhoz kapcsolódó bármely más funkcióval kapcsolatos információkat, ezért óvatosnak kell lennie, és el kell végeznie saját vizsgálatait és ellenőrzéseit, mielőtt a Szolgáltatásokon vagy a Weboldalon keresztül bárkivel kapcsolatba lépne, vagy más módon interakcióba lépne bárkivel.",
+  "section_1_full_disclaimer": "A Társaság kifejezetten elutasít, és Ön kifejezetten felmenti a Társaságot minden felelősség alól, bármely vitából, követelésből, perből, sérülésből, veszteségből, kárból és/vagy sérelemből eredő, és/vagy bármilyen módon a Harmadik Felekkel, a Termékekkel, a Szolgáltatásokkal és a Weboldallal, vagy az Ön Harmadik Felekkel folytatott interakcióival vagy üzleti kapcsolataival kapcsolatos kárért, beleértve korlátozás nélkül a Szolgáltatásokat vagy a Weboldalt bármilyen módon használó vagy azokkal kapcsolatos Harmadik Felek bármely tetteit és/vagy mulasztásait.",
+  "section_1_risk": "A Szolgáltatások vagy a Weboldal használatával Ön tudomásul veszi, hogy kizárólag Ön felelős az ilyen használatért és az Ön által tett kapcsolódásokért, interakciókért, vásárlásokért vagy bármely más cselekedetért, és a Szolgáltatások vagy a Weboldal minden használata kizárólag az Ön kockázatára történik.",
+  "section_1_no_sale": "A félreértések elkerülése végett, a Társaság nem értékesít, nem licencel és nem tesz más módon elérhetővé semmilyen Terméket vagy szolgáltatást (a Szolgáltatásokon kívül) az Ön számára, és nem vállal felelősséget semmilyen Termékért vagy szolgáltatásért, amelyet bármely Harmadik Féltől vásárol, beleértve korlátozás nélkül a támogatást és karbantartást, a hibákat, tévedéseket, meghibásodásokat, károkat vagy bármilyen jellegű költségeket.",
+  "section_2_title": "2. Korlátozások",
+  "section_2_intro": "A jelen dokumentum 1. szakaszának rendelkezéseinek sérelme nélkül, Ön nem fogja, és nem engedi meg harmadik félnek sem, hogy:",
+  "section_2_a": "visszafejti (reverse engineering) vagy megkísérli felfedezni a Weboldal vagy a Szolgáltatások alapkódját;",
+  "section_2_b": "a Weboldalt vagy a Szolgáltatásokat bármely alkalmazandó törvény vagy rendelet megsértésével használja, beleértve korlátozás nélkül bármely illegális vagy kifogásolható tartalom közzétételét, nyilvánosságra hozatalát, megosztását vagy más módon történő továbbítását;",
+  "section_2_c": "másolja, módosítja vagy származékos műveket hoz létre a Weboldalból, a Szolgáltatásokból vagy a Weboldalak vagy Szolgáltatások bármelyikének tartalmából;",
+  "section_2_d": "megkísérli letiltani vagy megkerülni a Weboldal vagy a Szolgáltatások bármely biztonsági vagy hozzáférés-ellenőrzési mechanizmusát;",
+  "section_2_e": "csalásokat, kihasználásokat, automatizálási szoftvereket, botokat, hackeket, modokat vagy bármely más jogosulatlan harmadik fél szoftverét tervezze vagy segítse azok tervezését a Weboldal vagy a Szolgáltatások módosítására vagy zavarására;",
+  "section_2_f": "a Weboldalt vagy a Szolgáltatásokat használja, vagy más Felhasználókkal interakcióba lép olyan célból, amely sérti bármely alkalmazandó törvényt vagy rendeletet;",
+  "section_2_g": "megkísérel jogosulatlan hozzáférést szerezni a Weboldalhoz vagy a Szolgáltatásokhoz, más Felhasználói Fiókokhoz, az alábbiakban meghatározottak szerint, vagy más eszköz-, számítógépes rendszerhez, telefonrendszerhez vagy hálózatokhoz, amelyek a Weboldalhoz vagy a Szolgáltatásokhoz kapcsolódnak; és",
+  "section_2_h": "információkat gyűjtsön vagy más módon gyűjtsön a Felhasználókról az ő beleegyezésük nélkül.",
+  "section_2_content_warranties": "Ha bármilyen tartalmat tesz közzé, ad ki, oszt meg vagy más módon továbbít a Weboldalon és/vagy a Szolgáltatások használatával, Ön kijelenti és szavatolja, hogy az ilyen tartalom pontos és teljes képet ad az abban leírt termékekről vagy szolgáltatásokról, megfelel a jelen Feltételeknek, és nem:",
+  "section_2_content_a": "sérti bármely harmadik fél szellemi tulajdonát, erkölcsi vagy nyilvánossági jogait;",
+  "section_2_content_b": "tartalmaz rágalmazó, becsületsértő, obszcén, szexuálisan szuggesztív vagy más módon kifogásolható anyagot (beleértve a gyűlöletet, erőszakot vagy fanatizmust népszerűsítő vagy dicsőítő anyagokat);",
+  "section_2_content_c": "tartalmaz bármilyen férget, vírust vagy más módon rosszindulatú szoftvert;",
+  "section_2_content_d": "sérti bármely alkalmazandó törvényt vagy rendeletet, beleértve a reklámozásra vagy marketingre vonatkozó törvényeket vagy rendeleteket; és",
+  "section_2_content_e": "olyan cselekedetet hajt végre, amely indokolatlan vagy aránytalanul nagy terhelést ró az infrastruktúránkra.",
+  "section_2_license_grant": "A Weboldal vagy a Szolgáltatások használatával bármilyen tartalom közzétételével, feltöltésével, nyilvánosságra hozatalával, megosztásával vagy más módon történő továbbításával Ön visszavonhatatlanul világméretű, nem kizárólagos, örökös, jogdíjmentes licencet biztosít a Társaságnak és annak bármely társult vállalkozásának és/vagy allicencvevőjének az ilyen tartalom közzétételére, megosztására, megjelenítésére és más módon történő továbbítására bármilyen ésszerű formában, amely a Társaság kizárólagos belátása szerint történik.",
+  "section_2_removal_right": "A Társaság fenntartja a jogot, hogy előzetes értesítés nélkül, saját belátása szerint eltávolítson, felfüggesszen vagy véglegesen töröljön bármilyen tartalmat, beleértve korlátozás nélkül azokat a tartalmakat, amelyek sértik a fent meghatározott garanciákat vagy a Társaság üzleti érdekeit, és Önnek nem lesz semmilyen joga vagy igénye az ilyen döntésekkel és intézkedésekkel kapcsolatban.",
+  "section_2_no_liability_content": "A Társaság nem felelős és nem lesz felelős a Felhasználók által biztosított, közzétett, feltöltött, megosztott vagy más módon elérhetővé tett tartalomért, sem az ilyen tartalomhoz kapcsolódó, a Felhasználók által biztosított, közzétett, feltöltött, megosztott vagy más módon elérhetővé tett termékekért vagy szolgáltatásokért. Minden Felhasználó, aki a Weboldalt vagy a Szolgáltatásokat használja, ezúton kijelenti, hogy teljes felelősséget vállal ezért, és a Társaság a fentiekkel kapcsolatban nem vállal felelősséget.",
+  "section_3_title": "3. Promóciós Anyagok és Hírlevelek",
+  "section_3_consent": "A jelen 3. szakaszának rendelkezésein túlmenően a Felhasználó kifejezett hozzájárulását adja a Társaságnak, hogy a rendelkezésére álló bármely módon Promóciós Anyagokat és Hírleveleket (a továbbiakban: „Promóciós Anyagok és Hírlevelek”) biztosítson a Felhasználó számára, beleértve az e-mailt, szöveges és SMS üzeneteket, faxot, postát, automatikus tárcsázási szolgáltatásokat vagy bármely más módszert, mindezt a Társaság időről időre fennálló kizárólagos belátása szerint, valamint az ilyen Promóciós Anyagok és Hírlevelek fogadásához.",
+  "section_3_third_party_ads": "A Felhasználó továbbá tudomásul veszi, hogy a Promóciós Anyagok és Hírlevelek harmadik fél hirdetéseket is tartalmazhatnak, és kifejezetten beleegyezik az ilyen hirdetések Promóciós Anyagok és Hírlevelek részeként történő fogadásába.",
+  "section_3_unsubscribe": "A Felhasználó bármikor felveheti a kapcsolatot a Társasággal, ha e-mailben küldött kérelemmel értesíti a Társaságot arról, hogy megtagadja a Promóciós Anyagok és Hírlevelek további fogadását.",
+  "section_4_title": "4. Szellemi Tulajdon",
+  "section_4_ownership": "A Társaság birtokolja az összes világméretű jogot, címet és érdekeltséget a következőkre vonatkozóan: (a) a Weboldal és a Szolgáltatások, fejlesztések, származékos termékek, hibajavítások vagy a Weboldal és a Szolgáltatások fejlesztései; és (b) a Társaság kereskedelmi nevei, védjegyei és logói, és mindenkor kizárólagosan a Társaság tulajdonában maradnak.",
+  "section_4_license_meaning": "A jelen Feltételekben vagy bármely más kommunikációban a fentiek eladására, viszonteladására vagy megvásárlására történő minden hivatkozás csak a Weboldal és a Szolgáltatások jelen Feltételek szerinti használatának jogát jelenti.",
+  "section_4_user_liability": "A Felhasználók kizárólagos felelősséget vállalnak minden tartalomért, beleértve az azzal kapcsolatos szellemi tulajdonjogokat, amelyet a Felhasználók a Weboldal és/vagy a Szolgáltatások használatával biztosítanak, megosztanak vagy más módon elérhetővé tesznek, és a Társaság nem tesz semmilyen kijelentést az ilyen tartalommal kapcsolatban. A Társaság nem felelős az ilyen tartalom következtében felmerült semmilyen veszteségért vagy kárért, és a Felhasználók vállalják, hogy kártalanítják és megvédik a Társaságot a fentiekből eredő minden kártól vagy veszteségtől.",
+  "section_5_title": "5. Adatvédelem",
+  "section_5_no_save": "Ön vállalja, hogy a Társaság előzetes írásbeli hozzájárulása nélkül nem menti, nem gyűjti és más módon nem tartja meg birtokában és használatában a Szolgáltatások és a Weboldal által biztosított tartalmat.",
+  "section_5_company_rights": "Ön továbbá tudomásul veszi, hogy a Társaság fenntartja a jogot, hogy saját belátása szerint elmentse, összegyűjtse vagy más módon birtokában tartsa és felhasználja az összes tartalmat és nyilvános információt, beleértve azokat az információkat is, amelyek személyesen azonosíthatják Önt vagy bármely más Felhasználót vagy Harmadik Felet, vagy leírhatják az Ön személyes érdekeit.",
+  "section_5_privacy_policy": "A Társaság fenntartja a jogot, hogy az ilyen tartalommal és nyilvános információkkal kapcsolatban a Társaság Adatvédelmi Irányelveiben meghatározottak szerint, bármely alkalmazandó jogszabály által megengedett módon éljen a felhasználás jogával.",
+  "section_5_no_verification": "A jelen 1. szakaszának rendelkezéseinek sérelme nélkül, a Társaság nem vizsgálja felül, nem teszteli, nem erősíti meg, nem hagyja jóvá vagy más módon nem ellenőrzi az ilyen tartalmakat vagy nyilvános információkat.",
+  "section_5_user_responsibility": "Minden Felhasználó, aki közzéteszi, feltölti, megosztja vagy más módon elérhetővé teszi az ilyen tartalmat vagy nyilvános információkat, kizárólagos felelősséget vállal a tartalomért vagy a nyilvános információkért, beleértve az összes harmadik fél információt és a szükséges hozzájárulásokat.",
+  "section_5_indemnification": "A Társaság nem felelős a fentiek be nem tartásából eredő semmilyen veszteségért vagy kárért, és Ön vállalja, hogy kártalanítja és megvédi a Társaságot a fentiekből eredő minden kártól vagy veszteségtől.",
+  "section_5_not_storage": "A FENTIEK ELLENÉRE ÖN MEGÉRTÉSI ÉS ELISMERI, HOGY A TÁRSASÁG NEM TARTALOMTÁROLÁSI SZOLGÁLTATÁS. A TÁRSASÁG NEM VÁLLAL FELELŐSSÉGET AZ ELVESZTETT VAGY TÖRÖLT TARTALOMÉRT VAGY NYILVÁNOS INFORMÁCIÓKÉRT.",
+  "section_5_public_warning": "TUDATÁBAN KELL LENNIE, HOGY BÁRMELY TARTALMAT, amelyet közzétesznek, feltöltenek, megosztanak vagy más módon elérhetővé tesznek, MÁS FELHASZNÁLÓK OLVASHATNAK, GYŰJTHETNEK ÉS FELHASZNÁLHATNAK, ÉS EZT FEL LEHET HASZNÁLNI NEM KÉRTEK KÜLDÉSÉRE.",
+  "section_6_title": "6. Hivatkozások",
+  "section_6_description": "A Weboldal vagy a Szolgáltatások tartalmazhatnak linkeket vagy egyéb tartalmakat, amelyek harmadik felek által kínált webhelyekre, hirdetőkre, kiadókra vagy Termékekre vonatkoznak. A Társaság nem gyakorol ellenőrzést, és nem tesz semmilyen nyilatkozatot velük vagy azokon keresztül biztosított vagy továbbított információkkal kapcsolatban, vagy amelyet bármely ilyen harmadik fél más módon biztosít.",
+  "section_6_risk": "ÖN MEGÉRTÉSI ÉS ELFOGADJA, HOGY AZ ILYEN HIVATKOZÁSOK VAGY EGYÉB TARTALMAK HASZNÁLATA KIZÁRÓLAG AZ ÖN KOCKÁZATÁRA TÖRTÉNIK, HOGY AZ ILYEN HIVATKOZÁSOK VAGY EGYÉB TARTALMAK AZOKNAK A HARMADIK FELEKNEK A FELHASZNÁLÁSI FELTÉTELEI ÉS ADATVÉDELMI IRÁNYELVEI ALAPJÁN SZABÁLYOZOTTAK, ÉS A TÁRSASÁG NEM FELELŐS AZ ILYEN HARMADIK FELEK ADATVÉDELMI VAGY ÜZLETI GYAKORLATÁÉRT VAGY EGYÉB IRÁNYELVEIÉRT.",
+  "section_6_review_advice": "Alaposan át kell tekintenie az adott Harmadik Félre vonatkozó alkalmazandó feltételeket és irányelveket.",
+  "section_6_full_disclaimer": "A TÁRSASÁG SEMMILYEN MÓDON NEM FELELŐS ÉS NEM VONHATÓ FELELŐSSÉGRE EGYETLEN ILYEN HARMADIK FÉLÉRT SEM, VAGY AZ EBBŐL EREDŐ BÁRMILYEN JELLEGŰ VESZTESÉGÉRT VAGY KÁRÉRT, ÉS A TÁRSASÁG KIFEJEZETTEN KIZÁRJA, ÉS ÖN KIFEJEZETTEN FELMENTI A TÁRSASÁGOT MINDEN FELELŐSSÉG ALÓL, BÁRMELY VITÁBÓL, KÖVETELÉSBŐL, PERBŐL, SÉRÜLÉSBŐL, VESZTESÉGBŐL, KÁRBÓL ÉS/VAGY SÉRELEMBŐL EREDŐ, ÉS/VAGY BÁRMILYEN MÓDON KAPCSOLÓDÓ KÁRÉRT, AMELY AZ ILYEN HARMADIK FELEKBŐL ERED, BELEÉRTVE KORLÁTOZÁS NÉLKÜL AZ ELÉRHETŐSÉGÉVEL, FELHASZNÁLÁSI FELTÉTELEIVEL, ADATVÉDELMÉVEL, INFORMÁCIÓIVAL, TARTALMÁVAL, ANYAGAIVAL, HIRDETÉSEIVEL, DÍJAIVAL, TERMÉKEIVEL ÉS/VAGY SZOLGÁLTATÁSAIVAL KAPCSOLATOS KÁROKAT.",
+  "section_7_title": "7. Tiltott Felhasználások",
+  "section_7_commercial": "A Weboldal és a Szolgáltatások nem használhatók fel semmilyen kereskedelmi célra (kivéve, ha a Társaság másként engedélyezi a Felhasználók bármely Harmadik Félhez való kapcsolásával) a Társaság kifejezett írásbeli hozzájárulása nélkül.",
+  "section_7_recruitment": "A Weboldalt és a Szolgáltatásokat semmilyen személy vagy szervezet nem használhatja más webhelyre történő toborzásra, kérésre, hirdetésre vagy bármilyen formában történő kapcsolatfelvételre a Felhasználókkal foglalkoztatás, szerződéskötés vagy bármilyen más célból, amely nem kapcsolódik a Társasághoz, a Társaság kifejezett írásbeli engedélye nélkül.",
+  "section_7_user_contact": "Ön beleegyezik, hogy nem használja a Szolgáltatásokat és a Weboldalt más Felhasználókkal való kapcsolatfelvételre, hirdetésre, kérésre vagy eladásra az ő kifejezett beleegyezésük nélkül, kivéve, ha a jelen Feltételek másként engedélyezik.",
+  "section_8_title": "8. Támogatás",
+  "section_8_text": "A Felhasználók e-mail küldésével felvehetik a kapcsolatot a Társasággal a Weboldal és a Szolgáltatások támogatásával kapcsolatban.",
+  "section_9_title": "9. Felelősségkizárások",
+  "section_9_security": "A Társaság ésszerű erőfeszítéseket tesz annak érdekében, hogy technológiája biztosítsa a Weboldal és a Szolgáltatások biztonságát és védelmét. Azonban egyetlen technológia sem 100%-ig biztonságos. Ezért, bár igyekszünk kereskedelmileg elfogadható eszközöket alkalmazni az Ön személyes adatainak védelme érdekében, nem tudjuk garantálni azok abszolút biztonságát.",
+  "section_9_as_is": "A kifejezetten itt meghatározott esetek kivételével a Weboldal és a Szolgáltatások használata kizárólag az Ön saját belátása és kockázata. A Weboldal és a Szolgáltatások „AHOGYAN VAN” és „AHOGYAN ELÉRHETŐ” alapon, bármilyen garancia nélkül biztosítottak.",
+  "section_9_no_warranties": "A Társaság kifejezetten elutasítja a Weboldalhoz és a Szolgáltatásokhoz kapcsolódó bármilyen implicit vagy törvényi garanciát, beleértve korlátozás nélkül a jogcímre, az eladhatóságra, egy adott célra való alkalmasságra, a tulajdonosi jogok megsértésének hiányára, az üzletmenetre vagy a teljesítmény menetére vonatkozó garanciákat.",
+  "section_9_no_advice": "A Társaság nem ad tanácsot semmilyen kereskedés, tranzakció vagy részvétel kockázatával vagy alkalmasságával kapcsolatban. A Társaság nem vállal felelősséget az Ön által végrehajtott tranzakcióért vagy részvételért, és Ön tudomásul veszi, hogy kizárólag Ön felelős a tranzakciók és részvétel értékeléséért.",
+  "section_9_no_liability_advice": "Nem vonja felelősségre a Társaságot, annak tisztviselőit, alkalmazottait vagy kapcsolt vállalkozásait az Ön által hozott tranzakciós vagy részvételi döntésekért.",
+  "section_9_no_created_warranty": "A Társaságtól vagy annak tisztviselőitől, alkalmazottaitól vagy kapcsolt vállalkozásaitól kapott szóbeli vagy írásbeli tanácsok vagy információk nem hoznak létre olyan garanciát, amelyet ezek a Feltételek kifejezetten nem tartalmaznak. Ha úgy dönt, hogy megbízik ilyen információkban, azt kizárólag a saját kockázatára teszi.",
+  "section_9_jurisdiction_note": "Egyes államok vagy joghatóságok nem engedélyezik bizonyos garanciák kizárását. Ennek megfelelően a fenti kizárások egy része nem vonatkozhat Önre.",
+  "section_10_title": "10. Felelősség Korlátozása",
+  "section_10_no_guarantee": "A Társaság nem garantálja a Harmadik Felek, a Termékek vagy bármely más biztosított, felhasznált vagy más módon elérhetővé tett információ értékét, minőségét, kompatibilitását vagy bármely más jellemzőjét (a továbbiakban ebben a szakaszban: „Jellemzők”). Bármely Jellemző az alkalmazandó Harmadik Fél vagy az azt használó Felhasználó kizárólagos felelőssége alá tartozik, ahogy az releváns, vagy a Szolgáltatásokat vagy a Weboldalt használja.",
+  "section_10_monitoring": "A Társaság nem vállalja az ilyen megfelelés ellenőrzését, és a Feltételekben leírtak szerint saját belátása szerint cselekedhet, ha a nem megfelelés észlelhető.",
+  "section_10_exposure": "Ön megérti és elfogadja, hogy ki lehet téve olyan tartalomnak vagy egyéb információknak, amelyek pontatlanok, kifogásolhatók, gyermekek számára nem megfelelőek, vagy más módon nem megfelelőek az Ön számára.",
+  "section_10_technical": "A Társaság nem felelős semmilyen technikai problémáért vagy meghibásodásért semmilyen telefonhálózaton vagy vonalon, online számítógépes rendszeren, szerveren vagy szolgáltatón, számítógépes berendezésen, szoftveren, bármely e-mail meghibásodásáért technikai problémák vagy az interneten vagy a Weboldalak vagy Szolgáltatások bármelyikén lévő forgalmi torlódás, vagy ezek kombinációja miatt, beleértve a Felhasználókat vagy bármely személy számítógépét, mobiltelefonját vagy bármely más eszközét érő sérülést vagy kárt, amely a Weboldallal vagy a Szolgáltatásokkal kapcsolatos részvételből vagy tartalom letöltéséből ered vagy azzal összefügg.",
+  "section_10_conduct": "A Társaság semmilyen körülmények között nem felelős harmadik felek, beleértve bármely Felhasználó, online vagy offline magatartásáért, valamint külső oldalak üzemeltetőiért.",
+  "section_10_no_indirect": "A Társaság, illetve annak tisztviselői, igazgatói, alkalmazottai vagy ügynökei semmilyen körülmények között nem felelősek Önnel szemben semmilyen közvetett, véletlen, különleges, büntető vagy következményes kárért, amely a Weboldal vagy a Szolgáltatások használatából ered vagy azzal kapcsolatos, függetlenül attól, hogy a károk előreláthatók voltak-e vagy sem, és függetlenül attól, hogy a Társaságot tájékoztatták-e az ilyen károk lehetőségéről vagy sem.",
+  "section_10_full_extent": "A fent említett felelősségkorlátozás az alkalmazandó joghatóság törvényei által megengedett legteljesebb mértékben érvényesül.",
+  "section_11_title": "11. Kártalanítás",
+  "section_11_text": "Ön megvédi, kártalanítja és ártalmatlannak tartja a Társaságot minden és bármely per, eljárás, állítás, kár, költség, felelősség vagy kiadás (beleértve a bírósági költségeket és az ésszerű ügyvédi díjakat) ellen, amelyet a Társaság elszenvedhet vagy felmerülhet az Ön által a jelen Feltételek bármely megsértésével vagy a Weboldal vagy a Szolgáltatások Ön általi használatával kapcsolatos vagy abból eredő bármely tényleges követelés, kereslet, cselekmény vagy más eljárás miatt, amely nem felel meg az alkalmazandó jogszabályoknak.",
+  "section_12_title": "12. Egyebek",
+  "section_12_governing_law": "Ezekre a Feltételekre Anglia törvényei az irányadók, kizárva annak a kollíziós jogra vonatkozó szabályait, és figyelmen kívül hagyva az Egyesült Nemzetek Szervezete áruk nemzetközi adásvételére vonatkozó szerződésekről szóló egyezményét. Az Ön magatartására más helyi, állami és nemzeti törvények is vonatkozhatnak.",
+  "section_12_jurisdiction": "A jelen Feltételek alapján vagy a Weboldalhoz vagy a Szolgáltatáshoz kapcsolódó bármely vitát véglegesen az angliai illetékes bíróságok rendezik.",
+  "section_12_no_class_action": "Nem indíthat csoportos keresetet a Társaság ellen, és a Weboldal vagy a Szolgáltatások használatával Ön beleegyezik abba, hogy lemond az ilyen csoportos keresetek indításának jogáról.",
+  "section_12_limitation_period": "A Társaság elleni kereset indítását az adott kereseti ok felmerülésének napjától számított egy (1) éven belül meg kell indítani.",
+  "section_12_severability": "Abban az esetben, ha ezen Feltételek bármely rendelkezése végrehajthatatlannak minősül, az ilyen rendelkezést egy végrehajtható rendelkezéssel helyettesítjük, amely a lehető legszorosabban éri el az eredeti rendelkezés hatását, és ezen Feltételek többi feltétele teljes hatályban és érvényben marad.",
+  "section_12_no_agency": "A jelen Feltételek egyetlen rendelkezése sem hoz létre ügynöki, foglalkoztatási, közös vállalkozási vagy partnerségi kapcsolatot Ön és a Társaság között, és nem teszi lehetővé, hogy Ön a Társaság nevében járjon el.",
+  "section_12_entire_agreement": "Hacsak ezen Feltételek kifejezetten másként nem rendelkeznek, ezek a Feltételek a Társaság és Ön közötti teljes megállapodást jelentik a jelen tárgykörrel kapcsolatban.",
+  "section_12_notices": "Bármely értesítést, amelyet jogszabály vagy a jelen Feltételek alapján Önnek kell kézbesítenünk, a Társaság biztosíthatja az Ön Fiókja adataiban vagy más módon megadott bármely elérhetőségi adatra, akár közvetlenül, akár közvetve, ideértve az e-mailt is. Ön kifejezetten beleegyezik az ilyen kommunikációk és értesítések ilyen módon történő fogadásába.",
+  "section_12_no_assignment": "Előzetes írásbeli hozzájárulásunk nélkül nem ruházhat át semmilyen jogot ezen dokumentum alapján.",
+  "section_12_no_limitation": "A jelen Feltételekben foglaltakat nem szabad úgy értelmezni, hogy azok korlátozzák a Társaság rendelkezésére álló intézkedéseket vagy jogorvoslati lehetőségeket bármely tiltott tevékenység vagy magatartás tekintetében.",
+  "section_12_no_waiver": "Ezen Feltételek bármely feltételének be nem tartása nem minősül beleegyezésnek vagy lemondásnak, és a Társaság fenntartja a jogot, hogy saját belátása szerint érvényesítse ezt a feltételt. Az itt foglalt bármely jogsértés vagy mulasztás elengedése nem tekintendő semmilyen korábbi vagy későbbi jogsértés vagy mulasztás elengedésének.",
+  "section_12_viewer_responsibility": "Kizárólag a néző felelőssége a Webhelyen található bármely információ, vélemény, tanács vagy egyéb tartalom pontosságának, teljességének vagy hasznosságának felmérése."
+
 }

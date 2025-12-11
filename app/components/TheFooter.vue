@@ -27,7 +27,7 @@
                             <h3 class="footer-heaing text-center">Website</h3>
                             <ul>
                                 <li>
-                                    <a href="https://aivontrixen-app.com/about.php" class="flex items-center justify-center md:justify-start">
+                                    <router-link to="/about" class="flex items-center justify-center md:justify-start">
                                         <span class="gb-icon">
                                             <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img"
                                                 height="1em" width="1em" viewBox="0 0 256 512">
@@ -35,10 +35,10 @@
                                                     d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z">
                                                 </path>
                                             </svg>
-                                        </span>About Us </a>
+                                        </span>About Us </router-link>
                                 </li>
                                 <li>
-                                    <a href="https://aivontrixen-app.com/" class="flex items-center justify-center md:justify-start">
+                                    <router-link to="/"  class="flex items-center justify-center md:justify-start">
                                         <span class="gb-icon">
                                             <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img"
                                                 height="1em" width="1em" viewBox="0 0 256 512">
@@ -46,10 +46,10 @@
                                                     d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z">
                                                 </path>
                                             </svg>
-                                        </span>Home </a>
+                                        </span>Home </router-link>
                                 </li>
                                 <li>
-                                    <a href="https://aivontrixen-app.com/contact.php" class="flex items-center justify-center md:justify-start">
+                                    <router-link to="/contacts" class="flex items-center justify-center md:justify-start">
                                         <span class="gb-icon">
                                             <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img"
                                                 height="1em" width="1em" viewBox="0 0 256 512">
@@ -57,7 +57,7 @@
                                                     d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z">
                                                 </path>
                                             </svg>
-                                        </span>Contact Us </a>
+                                        </span>Contact Us </router-link>
                                 </li>
                             </ul>
                         </div>
@@ -66,7 +66,7 @@
                         <div class="footer-widget">
                             <ul class="ul2">
                                 <li>
-                                    <a href="https://aivontrixen-app.com/privacy-policy.php" class="flex items-center justify-center md:justify-start">
+                                    <router-link to="/privacy" class="flex items-center justify-center md:justify-start">
                                         <span class="gb-icon">
                                             <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img"
                                                 height="1em" width="1em" viewBox="0 0 256 512">
@@ -74,10 +74,10 @@
                                                     d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z">
                                                 </path>
                                             </svg>
-                                        </span>Privacy Policy </a>
+                                        </span>Privacy Policy </router-link>
                                 </li>
                                 <li>
-                                    <a href="https://aivontrixen-app.com/terms-of-use.php" class="flex items-center justify-center md:justify-start">
+                                    <router-link to="/terms" class="flex items-center justify-center md:justify-start">
                                         <span class="gb-icon">
                                             <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img"
                                                 height="1em" width="1em" viewBox="0 0 256 512">
@@ -85,7 +85,7 @@
                                                     d="M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z">
                                                 </path>
                                             </svg>
-                                        </span>Terms and Conditions </a>
+                                        </span>Terms and Conditions</router-link>
                                 </li>
                             </ul>
                         </div>

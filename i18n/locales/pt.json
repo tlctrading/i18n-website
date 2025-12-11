@@ -115,5 +115,382 @@
     "contact.input.email": "Seu email",
     "contact.input.message": "Sua mensagem",
     "contact.button": "Enviar mensagem",
-    "contact.success": "Sua mensagem foi enviada com sucesso!"
+    "contact.success": "Sua mensagem foi enviada com sucesso!",
+
+    "privacy.title": "Política de Privacidade", 
+
+  "privacy.intro.provider": "Provedor (\"nos\", \"nós\" ou \"nosso\") gerencia a plataforma Aivontrixen (o \"Serviço\").", 
+
+  "privacy.intro.description": "Este documento descreve nossas práticas relacionadas à coleta, uso e compartilhamento de informações pessoais quando você utiliza nosso Serviço e as opções disponíveis para você em relação a essas informações.", 
+
+  "privacy.intro.usage": "Nós, Aivontrixen, utilizamos suas informações para fornecer e aprimorar o Serviço. Ao utilizar o Serviço, você consente com a coleta e o uso de dados conforme descrito nesta política. Salvo definição específica nesta Política de Privacidade, a terminologia aqui utilizada tem o mesmo significado que em nossos Termos e Condições, disponíveis na Aivontrixen.", 
+
+   
+
+  "privacy.toc.definitions": "Definições", 
+
+  "privacy.toc.definitions.service": "Serviço", 
+
+  "privacy.toc.definitions.personal_data": "Dados Pessoais", 
+
+  "privacy.toc.definitions.usage_data": "Dados de Uso", 
+
+  "privacy.toc.definitions.cookies": "Cookies", 
+
+  "privacy.toc.definitions.data_controller": "Controlador de Dados", 
+
+  "privacy.toc.definitions.data_processors": "Processadores de Dados (ou Provedores de Serviço)", 
+
+  "privacy.toc.definitions.data_subject": "Titular dos Dados (ou Usuário)", 
+
+   
+
+  "privacy.toc.info_collection": "Coleta e Uso de Informações", 
+
+  "privacy.toc.info_collection.types_of_data": "Tipos de Dados Coletados", 
+
+  "privacy.toc.info_collection.personal_data": "Dados Pessoais", 
+
+  "privacy.toc.info_collection.usage_data": "Dados de Uso", 
+
+  "privacy.toc.info_collection.tracking_cookies": "Dados de Cookies de Rastreamento", 
+
+  "privacy.toc.info_collection.use_of_data": "Uso dos Dados", 
+
+  "privacy.toc.info_collection.legal_basis": "Base Legal para o Processamento de Dados Pessoais sob o Regulamento Geral de Proteção de Dados (GDPR)", 
+
+  "privacy.toc.info_collection.retention": "Retenção de Dados", 
+
+   
+
+  "privacy.toc.transfer": "Transferência de Dados", 
+
+  "privacy.toc.transfer.disclosure": "Divulgação de Dados", 
+
+  "privacy.toc.transfer.disclosure.business_transaction": "Transação Comercial", 
+
+  "privacy.toc.transfer.legal_requirements": "Requisitos Legais", 
+
+  "privacy.toc.transfer.security": "Segurança dos Dados", 
+
+  "privacy.toc.transfer.rights_gdpr": "Seus Direitos de Proteção de Dados sob o Regulamento Geral de Proteção de Dados (GDPR)", 
+
+   
+
+  "privacy.toc.service_providers": "Provedores de Serviço", 
+
+  "privacy.toc.service_providers.analytics": "Análise", 
+
+  "privacy.toc.service_providers.advertising": "Publicidade", 
+
+  "privacy.toc.service_providers.behavioral_remarketing": "Remarketing Comportamental", 
+
+  "privacy.toc.service_providers.links": "Links para Outros Sites", 
+
+  "privacy.toc.service_providers.changes": "Alterações nesta Política de Privacidade", 
+
+  "privacy.toc.service_providers.contact": "Contate‑nos", 
+
+   
+
+  "privacy.definitions.service": "Serviço é o site Aivontrixen operado pelo Provedor", 
+
+  "privacy.definitions.personal_data": "Dados Pessoais são dados sobre um indivíduo vivo que pode ser identificado a partir desses dados (ou a partir desses e de outras informações que estejam em nossa posse ou que provavelmente venham a estar em nossa posse).", 
+
+  "privacy.definitions.usage_data": "Dados de Uso são dados coletados automaticamente, gerados pelo uso do Serviço ou pela própria infraestrutura do Serviço (por exemplo, a duração de uma visita a uma página).", 
+
+  "privacy.definitions.cookies": "Cookies são pequenos fragmentos de dados armazenados em seu dispositivo (computador ou dispositivo móvel).", 
+
+  "privacy.definitions.data_controller": "Controlador de Dados significa a pessoa física ou jurídica que (sozinha ou em conjunto com outras pessoas) determina as finalidades e os meios pelos quais quaisquer informações pessoais são ou serão processadas. Para fins desta Política de Privacidade, somos o Controlador de Dados dos seus Dados Pessoais.", 
+
+  "privacy.definitions.data_processors": "Processador de Dados (ou Provedor de Serviço) significa qualquer pessoa física ou jurídica que processa os dados em nome do Controlador de Dados. Podemos usar os serviços de vários Provedores de Serviço para processar seus dados de forma mais eficaz.", 
+
+  "privacy.definitions.data_subject": "Titular dos Dados é qualquer indivíduo vivo que utiliza nosso Serviço e é objeto de Dados Pessoais.", 
+
+ 
+
+  "privacy.provider.take": "O Provedor tomará todas as medidas razoavelmente necessárias para garantir que seus dados sejam tratados de forma segura e em conformidade com esta Política de Privacidade e nenhuma transferência de seus Dados Pessoais ocorrerá para uma organização ou país, a menos que existam controles adequados, incluindo a segurança de seus dados e outras informações pessoais.", 
+
+ 
+
+  "privacy.info_collection.description": "Coletamos diferentes tipos de informações para vários propósitos, a fim de fornecer e melhorar nosso Serviço para você.", 
+
+  "privacy.info_collection.personal_data.description": "Ao usar nosso Serviço, podemos solicitar que você nos forneça certas informações de identificação pessoal que podem ser usadas para contatá‑lo ou identificá‑lo (“Dados Pessoais”). Informações de identificação pessoal podem incluir, mas não se limitam a:", 
+
+  "privacy.info.user1": "Endereço de e‑mail", 
+
+  "privacy.info.user2": "Nome e sobrenome", 
+
+  "privacy.info.user3": "Número de telefone", 
+
+  "privacy.info.user4": "Endereço, Estado, Província, CEP/Código Postal, Cidade", 
+
+  "privacy.info.user5": "Cookies e Dados de Uso", 
+
+"privacy.info_collection.personal_data.usage": "Podemos usar seus Dados Pessoais para contatá‑lo com newsletters, materiais de marketing ou promocionais e outras informações que possam ser de seu interesse. Você pode optar por não receber nenhuma ou todas essas comunicações seguindo o link de cancelamento de assinatura ou as instruções fornecidas em qualquer e‑mail que enviarmos ou entrando em contato conosco.", 
+
+  "privacy.info_collection.usage_data.description": "Também podemos coletar informações sobre como o Serviço é acessado e usado (“Dados de Uso”). Esses Dados de Uso podem incluir informações como o endereço de Protocolo de Internet (IP) do seu computador, tipo de navegador, versão do navegador, as páginas do nosso Serviço que você visita, a data e hora da sua visita, o tempo gasto nessas páginas, identificadores únicos de dispositivo e outros dados de diagnóstico.", 
+
+  "privacy.info_collection.cookies.description": "Usamos cookies e tecnologias de rastreamento semelhantes para monitorar a atividade em nosso Serviço e armazenar certas informações.", 
+
+  "privacy.info.collection.cookies.description1": "Cookies são arquivos com pequena quantidade de dados que podem incluir um identificador anônimo único. Cookies são enviados ao seu navegador por um site e armazenados no seu dispositivo. Tecnologias de rastreamento também utilizadas são beacons, tags e scripts para coletar e rastrear informações e melhorar e analisar nosso Serviço.", 
+
+  "privacy.info.collection.cookies.instruct": "Você pode instruir seu navegador a recusar todos os cookies ou a indicar quando um cookie está sendo enviado. No entanto, se você não aceitar cookies, pode não conseguir usar algumas partes do nosso Serviço.", 
+
+  "privacy.info_collection.cookies.examples": "Exemplos de Cookies que usamos:", 
+
+  "privacy.example1": "Cookies de Sessão.", 
+
+  "privacy.example1.description": "Usamos Cookies de Sessão para operar nosso Serviço.", 
+
+  "privacy.example2": "Cookies de Preferência.", 
+
+  "privacy.example2.description": "Usamos Cookies de Preferência para lembrar suas preferências e várias configurações.", 
+
+  "privacy.example3": "Cookies de Segurança.", 
+
+  "privacy.example3.description": "Usamos Cookies de Segurança para fins de segurança.", 
+
+  "privacy.example4": "Cookies de Publicidade.", 
+
+  "privacy.example4.description": "Cookies de Publicidade são usados para lhe fornecer anúncios que podem ser relevantes para você e seus interesses.", 
+
+ 
+
+  "privacy.info_collection.use_of_data": "O Provedor usa os dados coletados para vários propósitos, incluindo:", 
+
+  "provider1": "Fornecer e manter nosso Serviço", 
+
+  "provider2": "Notificar você sobre alterações em nosso Serviço", 
+
+  "provider3": "Permitir que você participe de recursos interativos do nosso Serviço quando optar por isso", 
+
+  "provider4": "Fornecer suporte ao cliente", 
+
+  "provider5": "Coletar análises ou informações valiosas para que possamos melhorar nosso Serviço", 
+
+  "provider6": "Monitorar o uso de nosso Serviço", 
+
+  "provider7": "Detectar, prevenir e resolver questões técnicas", 
+
+  "provider8": "Fornecer a você notícias, ofertas especiais e informações gerais sobre outros bens, serviços e eventos que oferecemos e que são semelhantes àqueles que você já comprou ou pesquisou, a menos que você tenha optado por não receber tais informações", 
+
+"providerText": "O Provedor também reterá Dados de Uso para fins de análise interna. Dados de Uso são geralmente retidos por um período mais curto, exceto quando esses dados são usados para reforçar a segurança ou melhorar a funcionalidade do nosso Serviço, ou quando somos legalmente obrigados a reter esses dados por períodos mais longos", 
+
+  "privacy.info_collection.legal_basis": "Se você for da Área Econômica Europeia (EEA), a base legal do Provedor para coletar e usar as informações pessoais descritas nesta Política de Privacidade depende dos Dados Pessoais que coletamos e do contexto específico em que os coletamos.", 
+
+  "privacy.accept.info": "O Provedor pode processar seus Dados Pessoais porque:", 
+
+  "privacy.accept.info.why1": "Precisamos executar um contrato com você", 
+
+  "privacy.accept.info.why2": "Você nos deu permissão", 
+
+  "privacy.accept.info.why3": "O processamento está em nossos interesses legítimos e não é sobreposto pelos seus direitos", 
+
+  "privacy.accept.info.why4": "Para cumprir a lei.", 
+
+  "privacy.consent": "nosso consentimento a esta Política de Privacidade seguido pela sua submissão de tais informações representa seu acordo com essa transferência.", 
+
+  "privacy.transfer.description": "Suas informações, incluindo Dados Pessoais, podem ser transferidas para — e mantidas em — computadores localizados fora do seu estado, província, país ou outra jurisdição governamental onde as leis de proteção de dados podem diferir das de sua jurisdição.", 
+
+  "privacy.transfer.disclosure.business_transaction": "Se o Provedor estiver envolvido em uma fusão, aquisição ou venda de ativos, seus Dados Pessoais podem ser transferidos. Forneceremos aviso antes que seus Dados Pessoais sejam transferidos e passem a estar sujeitos a uma Política de Privacidade diferente.", 
+
+  "privacy.transfer.legal_requirements": "O Provedor pode divulgar seus Dados Pessoais na boa‑fé de que tal ação seja necessária", 
+
+  "requirments1": "para cumprir uma obrigação legal", 
+
+  "requirments2": "para proteger direitos ou propriedade do provedor", 
+
+  "requirments3": "Para prevenir ou investigar possíveis irregularidades relacionadas ao Serviço", 
+
+  "requirments4": "Para proteger a segurança pessoal dos usuários do Serviço ou do público", 
+
+  "requirments5": "Para proteger contra responsabilidade legal", 
+
+  "right.complain": "Você tem o direito de apresentar reclamação a uma Autoridade de Proteção de Dados sobre nossa coleta e uso de seus Dados Pessoais. Para mais informações, entre em contato com a autoridade de proteção de dados local na Área Econômica Europeia (EEA).", 
+
+  "privacy.transfer.security": "A segurança de seus dados é importante para nós, mas nenhum método de transmissão ou armazenamento é 100% seguro. Esforçamo‑nos para usar meios comercialmente aceitáveis, mas não podemos garantir segurança absoluta.", 
+
+  "privacy.transfer.rights_gdpr": "Se você for residente da Área Econômica Europeia (EEA), possui direitos de proteção de dados. O Provedor pretende tomar medidas razoáveis para permitir que você corrija, altere, exclua ou limite o uso de seus Dados Pessoais.", 
+
+  "privacy.certain.circums": "Em certas circunstâncias, você tem os seguintes direitos de proteção de dados", 
+
+  "google.analytics": "Google Analytics", 
+
+  "google.analytics.desc": "Google Analytics é um serviço de análise web oferecido pelo Google que rastreia e relata o tráfego do site. O Google usa os dados coletados para rastrear e monitorar o uso do nosso Serviço. Esses dados são compartilhados com outros serviços do Google. O Google pode usar os dados coletados para contextualizar e personalizar os anúncios de sua própria rede de publicidade. Você pode optar por não disponibilizar sua atividade no Serviço ao Google Analytics instalando o complemento de navegador de exclusão do Google Analytics. O complemento impede que o JavaScript do Google Analytics (ga.js, analytics.js e dc.js) compartilhe informações com o Google Analytics sobre a atividade de visitas. Para mais informações sobre as práticas de privacidade do Google, visite a página de Termos de Privacidade do Google", 
+
+  "privacy.your.access": "O direito de acessar, atualizar ou excluir as informações que temos sobre você. Sempre que possível, você pode acessar, atualizar ou solicitar a exclusão de seus Dados Pessoais diretamente na seção de configurações da sua conta. Se você não puder realizar essas ações, entre em contato conosco para assistência. O direito de retificação. Você tem o direito de que suas informações sejam retificadas se estiverem imprecisas ou incompletas. O direito de objeção. Você tem o direito de se opor ao nosso processamento de seus Dados Pessoais. O direito de restrição. Você tem o direito de solicitar que restrinjamos o processamento de suas informações pessoais. O direito à portabilidade de dados. Você tem o direito de receber uma cópia das informações que temos sobre você em formato estruturado, legível por máquina e comumente usado. O direito de retirar o consentimento. Você também tem o direito de retirar seu consentimento a qualquer momento quando o Provedor se baseou no seu consentimento para processar suas informações pessoais.", 
+
+  "google.adSense": "Cookie Google AdSense DoubleClick", 
+
+  "google.adSense.desc": "O Google, como fornecedor terceirizado, usa cookies para veicular anúncios em nosso Serviço. O uso do cookie DoubleClick pelo Google permite que ele e seus parceiros exibam anúncios aos nossos usuários com base em sua visita ao nosso Serviço ou a outros sites na Internet. Você pode optar por não usar o Cookie DoubleClick para publicidade baseada em interesses visitando a página de Configurações de Anúncios do Google:", 
+
+  "google.adSense.provider": "O Provedor usa serviços de remarketing para anunciar em sites de terceiros para você após visitar nosso Serviço. Nós e nossos fornecedores terceirizados usamos cookies para informar, otimizar e veicular anúncios com base em suas visitas anteriores ao nosso Serviço.", 
+
+  "google.adWords": "Google AdWords", 
+
+  "google.adWords.rec": "recomenda instalar o Complemento de Navegador de Exclusão do Google Analytics –", 
+
+  "google.also": "O Google também", 
+
+  "google.analytics.your.browser": "– para o seu navegador web. O Complemento de Navegador de Exclusão do Google Analytics oferece aos visitantes a capacidade de impedir que seus dados sejam coletados e usados pelo Google Analytics. Para mais informações sobre as práticas de privacidade do Google, visite a página de Termos de Privacidade do Google:", 
+
+  "facebook": "Facebook", 
+
+  "facebook.remarketing": "O serviço de remarketing do Facebook é fornecido pela Facebook Inc. Você pode saber mais sobre publicidade baseada em interesses do Facebook visitando esta página:", 
+
+  "facebook.ad": "Para optar por não receber anúncios baseados em interesses do Facebook, siga estas instruções do Facebook:", 
+
+  "facebook.adheres1": "O Facebook adere aos Princípios Autorregulatórios para Publicidade Comportamental Online estabelecidos pela Digital Advertising Alliance. Você também pode optar por não receber anúncios do Facebook e de outras empresas participantes através da Digital Advertising Alliance nos EUA ", 
+
+  "facebook.adheres2": "da Digital Advertising Alliance do Canadá no Canadá", 
+
+  "facebook.adheres3": "ou da European Interactive Digital Advertising Alliance na Europa", 
+
+  "facebook.adheres4": "ou optar por não receber usando as configurações do seu dispositivo móvel. Para mais informações sobre as práticas de privacidade do Facebook, visite a Política de Dados do Facebook:", 
+
+  "privacy.shouldNote": "Observe que podemos solicitar que você verifique sua identidade antes de responder a tais solicitações.", 
+
+  "privacy.wishInformed": "Se você deseja ser informado sobre quais Dados Pessoais mantemos sobre você e se deseja que sejam removidos de nossos sistemas, entre em contato conosco.", 
+
+  "privacy.service_providers.description": "Podemos contratar empresas e indivíduos terceirizados para facilitar nosso Serviço. Esses terceiros têm acesso aos seus Dados Pessoais apenas para executar tarefas e têm a obrigação de não divulgá‑los ou usá‑los para qualquer outro fim.", 
+
+  "privacy.bolgaria": "Se você estiver localizado fora da Bulgária e optar por nos fornecer informações, observe que transferimos os dados, incluindo Dados Pessoais, para a Bulgária e os processamos lá.", 
+
+  "privacy.service_providers.analytics": "Podemos usar Provedores de Serviço terceiros, como o Google Analytics, para monitorar e analisar o uso do nosso Serviço.", 
+
+  "privacy.service_providers.advertising": "Podemos usar Provedores de Serviço terceiros para exibir anúncios a você, a fim de apoiar e manter nosso Serviço", 
+
+  "privacy.service_providers.behavioral_remarketing": "O serviço de remarketing do Google AdWords é fornecido pela Google Inc. Você pode optar por não usar o Google Analytics para Publicidade em Display e personalizar os anúncios da Rede de Display do Google visitando a página de Configurações de Anúncios do Google:", 
+
+  "privacy.service_providers.links": "Nosso Serviço pode conter links para outros sites que não são operados por nós. Revise as Políticas de Privacidade desses sites.", 
+
+  "privacy.noControl": "Não temos controle nem assumimos responsabilidade pelo conteúdo, políticas de privacidade ou práticas de sites ou serviços de terceiros.", 
+
+  "privacy.child": "Privacidade Infantil", 
+
+  "privacy.service_providers.children": "Nosso Serviço não se dirige a menores de 18 anos (“Crianças”). Não coletamos conscientemente informações de identificação pessoal de menores de 18 anos. Se você for pai, mãe ou responsável e souber que seus filhos nos forneceram Dados Pessoais, entre em contato conosco. Se tomarmos conhecimento de que coletamos Dados de crianças sem a verificação do consentimento dos pais, tomaremos medidas para remover essas informações de nossos servidores.", 
+
+  "privacy.changes": "Alterações nesta Política de Privacidade", 
+
+  "privacy.service_providers.changes": "Podemos atualizar nossa Política de Privacidade de tempos em tempos. As alterações serão publicadas nesta página e/ou notificadas por e‑mail.", 
+
+  "privacy.letKnow": "Informaremos a você por e‑mail e/ou um aviso destacado em nosso Serviço, antes que a alteração entre em vigor, e atualizaremos a “data de vigência” no topo desta Política de Privacidade", 
+
+  "privacy.advises": "Recomendamos que você revise esta Política de Privacidade periodicamente para quaisquer alterações. As alterações nesta Política de Privacidade entram em vigor quando são publicadas nesta página.", 
+
+  "privacy.service_providers.contact": "Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato conosco por e‑mail.",
+
+    "terms_title": "Termos de Uso",
+  "terms_intro_welcome": "Bem-vindo ao Aivontrixen. Estes Termos de Uso (\"Termos\") regulam seu engajamento com nossa plataforma localizada no Aivontrixen (o \"Serviço\") gerido pelo Aivontrixen.",
+  "terms_intro_generator": "Nossos Termos de Uso foram desenvolvidos usando o Gerador de Termos de Uso.",
+  "terms_intro_acceptance_1": "Ao visitar ou utilizar nosso Serviço, você concorda em cumprir estes Termos. Caso você discorde de qualquer seção destes termos, não poderá utilizar o Serviço.",
+  "terms_intro_changes": "Entenda que podemos modificar estes Termos periodicamente, e as alterações entram em vigor imediatamente após a publicação. Seu uso continuado da plataforma constitui aceitação de quaisquer termos revisados ou atualizados.",
+  "terms_intro_rejection": "Se você rejeitar quaisquer destes Termos, por favor, evite clicar em \"ACEITAR\" e interrompa o uso do site.",
+  "terms_intro_website_def": "Website refere-se ao Aivontrixen, disponível em Aivontrixen",
+  "section_1_title": "1. Uso do Site e Serviços",
+  "section_1_access": "Sujeito aos termos e condições aqui estabelecidos, você pode acessar e usar o Site com o objetivo de usar os Serviços em base não exclusiva.",
+  "section_1_modifications": "Você reconhece que a Empresa pode, a seu exclusivo critério e a qualquer momento, modificar, atualizar ou de outra forma alterar o Site ou os Serviços, incluindo descontinuar a prestação de qualquer parte ou de todo o Site e/ou Serviços ou modificar ou excluir qualquer conteúdo disponível através do Site ou Serviços, sem aviso prévio.",
+  "section_1_void": "O uso do Site e dos Serviços é nulo onde proibido.",
+  "section_1_warranties_intro": "Ao usar o Site e os Serviços, você declara e garante que:",
+  "section_1_warranties_a": "qualquer informação que você enviar (se aplicável) é verdadeira e precisa;",
+  "section_1_warranties_b": "você manterá a precisão dessas informações;",
+  "section_1_warranties_c": "você tem, no mínimo, a maioridade legal em sua jurisdição; e",
+  "section_1_warranties_d": "seu uso do Site ou dos Serviços não viola ou promove a violação de qualquer lei ou regulamento aplicável ou qualquer obrigação legal ou contratual que você possa ter com terceiros e você tem e continuará a cumprir, em todos os momentos, todas as leis, regras e regulamentos aplicáveis relacionados ao seu uso dos Serviços e do Site, quaisquer serviços organizados através dos Serviços e do Site, incluindo, sem limitação, tais serviços conectados de alguma forma aos Produtos ou Terceiros, conforme tais termos são definidos aqui.",
+  "section_1_undertakings_def": "As subseções (a)-(d) serão referidas, conjuntamente, como “Compromissos e Garantias dos Usuários”.",
+  "section_1_verification": "Ao usar os Serviços ou o Site, você entende e concorda que a Empresa pode, a seu exclusivo critério, mas não é obrigada, verificar se quaisquer ou todas as Compromissos e Garantias dos Usuários são cumpridos por algum Usuário e você ainda concorda que a Empresa não é responsável por garantir que os Compromissos e Garantias dos Usuários sejam atendidos ou por qualquer falha em suspender, encerrar ou impedir o uso dos Serviços ou do Site por Usuários que não atendam aos Compromissos e Garantias dos Usuários.",
+  "section_1_responsibility": "Você entende que é o único responsável por fazer suas próprias avaliações, decisões e julgamentos sobre se envolver com quaisquer Terceiros ou interagir de qualquer forma com quaisquer Terceiros.",
+  "section_1_reporting": "Se você tomar conhecimento de qualquer violação dos Compromissos e Garantias dos Usuários, é incentivado a reportá-la à Empresa.",
+  "section_1_right_to_refuse": "A Empresa reserva-se o direito de não lhe fornecer quaisquer Serviços, com ou sem aviso, a seu exclusivo critério, seja por tomar conhecimento de qualquer violação dos Compromissos e Garantias dos Usuários (seja por relatos fornecidos por outros Usuários ou por qualquer outro meio) por você ou por outro Usuário, ou por qualquer outro motivo.",
+  "section_1_disclaimer_main": "Sem prejuízo do acima, a Empresa declara expressamente que isenta, e você libera expressamente a Empresa de, qualquer e toda responsabilidade por quaisquer controvérsias, reivindicações, processos, lesões, perdas, danos e/ou prejuízos decorrentes ou de alguma forma relacionados a:",
+  "section_1_disclaimer_i": "qualquer imprecisão, atraso ou incompletude das representações de um Usuário ou de um Terceiro; e",
+  "section_1_disclaimer_ii": "declarações falsas e/ou representações equivocadas feitas, seja em conexão com ou por quaisquer Terceiros ou outros Usuários, Produtos ou de outra forma.",
+  "section_1_platform_only": "Ao usar o Site e os Serviços, você entende e concorda que os Serviços apenas oferecem uma plataforma designada para auxiliar os Usuários a alcançar, comprar e/ou usar diversos produtos e serviços fornecidos por vendedores e/ou provedores de serviços de terceiros, por meio dos anúncios ou promoções realizados por nós (respectivamente, os “Produtos” e os “Terceiros”).",
+  "section_1_company_a": "não emprega, recomenda ou endossa quaisquer Terceiros ou Produtos, conforme aplicável, ou qualquer parte relacionada, e não tem controle sobre os atos ou omissões de qualquer Terceiro, seus negócios, seus produtos ou serviços;",
+  "section_1_company_b": "não faz representações ou garantias sobre os Terceiros e Produtos, incluindo sua qualidade, preço, compatibilidade, disponibilidade ou quaisquer outras características, ou sobre suas interações ou relações com quaisquer Terceiros;",
+  "section_1_company_c": "não faz representações ou garantias sobre os direitos proprietários ou outros direitos, características ou aspectos regulatórios relacionados aos Produtos, incluindo quaisquer autorizações, permissões ou licenças necessárias para o upload, compartilhamento ou disponibilização, e para o uso, venda e compra desses Produtos; e",
+  "section_1_company_d": "não é responsável pelo desempenho ou conduta de qualquer Usuário ou outros terceiros de qualquer forma ao usar ou ter usado os Serviços, e/ou dentro ou fora do Site.",
+  "section_1_no_screening": "A Empresa não tem obrigação de examinar ou de outra forma verificar qualquer informação sobre Terceiros e/ou Usuários, os Produtos ou qualquer outro recurso relacionado ao Site ou aos Serviços e, portanto, você deve exercer cautela e realizar suas próprias verificações antes de se envolver com qualquer pessoa através dos Serviços ou do Site ou de interagir de outra forma com alguém.",
+  "section_1_full_disclaimer": "A Empresa declara expressamente que isenta, e você libera expressamente a Empresa de, qualquer e toda responsabilidade por quaisquer controvérsias, reivindicações, processos, lesões, perdas, danos e/ou prejuízos decorrentes ou de alguma forma relacionados aos Terceiros, Produtos, Serviços e Site ou suas interações ou relações com quaisquer Terceiros, incluindo, sem limitação, quaisquer atos e/ou omissões de Terceiros ao usar ou estar conectado aos Serviços ou ao Site de qualquer forma.",
+  "section_1_risk": "Ao usar os Serviços ou o Site, você reconhece que é o único responsável por esse uso e pelas conexões, interações, compras ou quaisquer outras ações que realizar e que todo o uso dos Serviços ou do Site é por seu exclusivo risco.",
+  "section_1_no_sale": "Para evitar qualquer dúvida, a Empresa não está vendendo, licenciando ou disponibilizando a você quaisquer Produtos ou serviços (além dos Serviços) e não terá qualquer responsabilidade por quaisquer Produtos ou serviços adquiridos por você de qualquer Terceiro, incluindo, sem limitações, em relação a suporte e manutenção, defeitos, erros, falhas, danos ou custos de qualquer tipo.",
+  "section_2_title": "2. Restrições",
+  "section_2_intro": "Sem prejuízo das disposições da Seção 1, você não deverá, e não deverá permitir que qualquer terceiro, faça:",
+  "section_2_a": "engenharia reversa ou tentar descobrir o código subjacente do Site ou dos Serviços;",
+  "section_2_b": "usar o Site ou os Serviços em violação a qualquer lei ou regulamento aplicável, incluindo, mas não se limitando a, publicar, compartilhar ou de outra forma transferir qualquer material ilegal ou ofensivo;",
+  "section_2_c": "copiar, modificar ou criar obras derivadas do Site, dos Serviços ou do conteúdo de qualquer parte do Site ou dos Serviços;",
+  "section_2_d": "tentar desativar ou contornar qualquer mecanismo de segurança ou controle de acesso do Site ou dos Serviços;",
+  "section_2_e": "projetar ou auxiliar na criação de cheats, exploits, softwares de automação, bots, hacks, modos ou qualquer outro software não autorizado de terceiros para modificar ou interferir no Site ou nos Serviços;",
+  "section_2_f": "usar o Site ou os Serviços ou interagir com outros Usuários para qualquer propósito que viole qualquer lei ou regulamento aplicável;",
+  "section_2_g": "tentar obter acesso não autorizado ao Site ou aos Serviços, a outras Contas de Usuário, conforme definido abaixo, ou a outro dispositivo, sistema de computador, sistemas telefônicos ou redes conectadas ao Site ou aos Serviços; e",
+  "section_2_h": "coletar ou de outra forma obter informações sobre Usuários sem seu consentimento.",
+  "section_2_content_warranties": "Se você publicar, divulgar, compartilhar ou de outra forma transferir através do Site e/ou usando os Serviços qualquer conteúdo, você declara e garante que esse conteúdo fornece uma imagem precisa e completa de quaisquer produtos ou serviços descritos nele, cumpre estes Termos aqui presentes, e não:",
+  "section_2_content_a": "viola os direitos de propriedade intelectual, morais ou de publicidade de qualquer terceiro;",
+  "section_2_content_b": "contém qualquer conteúdo difamatório, calunioso, obsceno, sugestivo sexualmente ou de outra forma ofensivo (incluindo material que promove ou glorifica ódio, violência ou intolerância);",
+  "section_2_content_c": "contém quaisquer worms, vírus ou outro software malicioso;",
+  "section_2_content_d": "viola qualquer lei ou regulamento aplicável, incluindo qualquer lei ou regulamento relativo à publicidade ou marketing; e",
+  "section_2_content_e": "realiza qualquer ação que imponha uma carga injusta ou desproporcionalmente grande em nossa infraestrutura.",
+  "section_2_license_grant": "Ao publicar, fazer upload, publicar, compartilhar ou de outra forma transferir qualquer conteúdo usando o Site ou os Serviços, você concede irrevogavelmente à Empresa e a quaisquer de suas afiliadas e/ou sublicenciados uma licença mundial, não exclusiva, perpétua, livre de royalties para publicar, compartilhar, exibir e de outra forma transferir tal conteúdo em qualquer forma razoável que esteja a exclusivo critério da Empresa.",
+  "section_2_removal_right": "A Empresa reserva-se o direito de remover, suspender o acesso ou excluir permanentemente qualquer conteúdo de acordo com seu exclusivo critério, sem aviso prévio, incluindo, sem limitação, qualquer conteúdo que viole as garantias acima estabelecidas ou os interesses comerciais da Empresa, e você não terá direito ou reivindicação em relação a tais decisões e ações.",
+  "section_2_no_liability_content": "A Empresa não é, e não deverá ser, responsável por qualquer conteúdo fornecido, publicado, feito upload, compartilhado ou de outra forma disponibilizado por Usuários, quaisquer produtos ou serviços relacionados a tal conteúdo fornecido, publicado, carregado, compartilhado ou de outra forma disponibilizado por Usuários. Cada Usuário que utiliza o Site ou os Serviços declara assumir total responsabilidade a esse respeito, e a Empresa não terá responsabilidade em relação ao acima exposto.",
+  "section_3_title": "3. Materiais Promocionais e Boletins Informativos",
+  "section_3_consent": "Além das disposições da Seção 3 acima, o Usuário dá seu consentimento expresso à Empresa para fornecer ao Usuário materiais promocionais e boletins informativos (os “Materiais Promocionais e Boletins Informativos”) por quaisquer meios disponíveis, incluindo e‑mail, mensagens de texto e SMS, fax, correio, serviços de discagem automática ou quaisquer outros meios, tudo de acordo com o exclusivo critério da Empresa, conforme for de tempos em tempos, e para receber tais Materiais Promocionais e Boletins Informativos.",
+  "section_3_third_party_ads": "O Usuário ainda reconhece que os Materiais Promocionais e Boletins Informativos podem incluir anúncios de terceiros, e ele consente expressamente em receber tais anúncios como parte dos Materiais Promocionais e Boletins Informativos.",
+  "section_3_unsubscribe": "O Usuário pode contactar a Empresa a qualquer momento enviando uma solicitação por e‑mail notificando a Empresa de sua recusa em continuar recebendo os Materiais Promocionais e Boletins Informativos.",
+  "section_4_title": "4. Propriedade Intelectual",
+  "section_4_ownership": "A Empresa é a proprietária de todos os direitos, títulos e interesses mundialmente em: (a) o Site e os Serviços, aprimoramentos, derivados, correções de bugs ou melhorias ao Site e aos Serviços; e (b) nomes comerciais, marcas registradas e logotipos da Empresa, e permanecerá em todos os momentos exclusivamente com a Empresa.",
+  "section_4_license_meaning": "Todas as referências nestes Termos ou em quaisquer outras comunicações à venda, revenda ou compra do acima mencionado significam apenas o direito de usar o Site e os Serviços de acordo com estes Termos.",
+  "section_4_user_liability": "Os Usuários assumem total responsabilidade por qualquer e todo conteúdo, incluindo quaisquer direitos de propriedade intelectual sobre ele, fornecido, compartilhado ou de outra forma disponibilizado pelos Usuários ao usar o Site e/ou os Serviços, e a Empresa não faz qualquer representação a respeito de tal conteúdo. A Empresa não será responsável por quaisquer perdas ou danos incorridos por tal conteúdo, e os Usuários concordam em indenizar e manter a Empresa isenta de qualquer dano ou perda decorrente do acima.",
+  "section_5_title": "5. Privacidade",
+  "section_5_no_save": "Você se compromete a não salvar, coletar ou de outra forma manter em sua posse e uso qualquer conteúdo fornecido pelos Serviços e pelo Site sem o consentimento prévio por escrito da Empresa.",
+  "section_5_company_rights": "Você ainda reconhece que a Empresa reserva-se o direito, a seu exclusivo critério, de salvar, coletar ou de outra forma manter em sua posse e uso qualquer conteúdo e informações públicas, incluindo informações que possam identificá-lo pessoalmente ou a qualquer outro Usuário ou Terceiro ou descrever seus interesses pessoais.",
+  "section_5_privacy_policy": "A Empresa reserva-se o direito de fazer qualquer e todo uso permitido sob qualquer lei aplicável desse conteúdo e informações públicas conforme estabelecido na Política de Privacidade da Empresa.",
+  "section_5_no_verification": "Sem prejuízo das disposições da Seção 1 acima, a Empresa não revisa, testa, confirma, aprova ou de outra forma verifica qualquer conteúdo ou informação pública.",
+  "section_5_user_responsibility": "Cada Usuário que publica, faz upload, compartilha ou de outra forma disponibiliza tal conteúdo ou informação pública assumirá total responsabilidade pelo conteúdo ou informação pública, incluindo quaisquer e todas as informações de terceiros e consentimentos necessários.",
+  "section_5_indemnification": "A Empresa não será responsável por qualquer perda ou dano incorrido por não cumprir o acima, e você concorda em indenizar e manter a Empresa isenta de qualquer dano ou perda decorrente do acima.",
+  "section_5_not_storage": "NÃO OBSTANTE O ANTERIOR, VOCÊ ENTENDE E RECONHECE QUE A EMPRESA NÃO É UM SERVIÇO DE ARMAZENAMENTO DE CONTEÚDO. A EMPRESA NÃO TERÁ RESPONSABILIDADE POR QUALQUER CONTEÚDO OU INFORMAÇÃO PÚBLICA PERDIDO OU APAGADO.",
+  "section_5_public_warning": "VOCÊ DEVE ESTAR CIENTE DE QUE QUALQUER Conteúdo publicado, carregado, compartilhado ou de outra forma disponibilizado PODE SER LIDO, COLETADO E USADO POR OUTROS USUÁRIOS, E PODERIA SER USADO PARA ENVIAR CONTEÚDO NÃO SOLICITADO.",
+  "section_6_title": "6. Links",
+  "section_6_description": "O Site ou os Serviços podem conter links ou outro conteúdo relacionado a sites, anunciantes, publicadores ou Produtos oferecidos por terceiros. A Empresa não tem controle e não faz representações a respeito dos mesmos ou de quaisquer informações fornecidas ou transmitidas por eles, ou de outra forma fornecidas por tais terceiros.",
+  "section_6_risk": "VOCÊ ENTENDE E CONCORDA QUE O USO DE TAIS LINKS OU OUTRO CONTEÚDO É POR SUA PRÓPRIA RESPONSABILIDADE, QUE TAIS LINKS OU OUTRO CONTEÚDO SÃO REGIDOS PELOS TERMOS DE USO E POLÍTICAS DE PRIVACIDADE DESSAS PARTES TERCEIRAS, E QUE A EMPRESA NÃO É RESPONSÁVEL PELA PRIVACIDADE OU PRÁTICAS COMERCIAIS OU OUTRAS POLÍTICAS DESSAS PARTES TERCEIRAS.",
+  "section_6_review_advice": "Você deve revisar cuidadosamente os termos e políticas aplicáveis que se aplicam a qualquer desses Terceiros.",
+  "section_6_full_disclaimer": "A EMPRESA NÃO É RESPONSÁVEL OU LEGALMENTE RESPONSÁVEL DE QUALQUER FORMA POR TAL TERCEIRO, NEM POR QUALQUER PERDA OU DANO DE QUALQUER TIPO RESULTANTE, E A EMPRESA DECLARA EXPRESSAMENTE QUE ISENTA, E VOCÊ LIBERA EXPRESSAMENTE A EMPRESA DE, QUALQUER E TODA RESPONSABILIDADE POR QUALQUER CONTROVÉRSIA, REIVINDICAÇÃO, PROCESSO, LESÃO, PERDA, DANO E/OU PREJUÍZO, DECORRENTE OU DE QUALQUER FORMA RELACIONADO A ESTES TERCEIROS, INCLUINDO, SEM LIMITAÇÃO, QUESTÕES RELATIVAS A DISPONIBILIDADE, TERMOS DE USO, PRIVACIDADE, INFORMAÇÕES, CONTEÚDO, MATERIAIS, PUBLICIDADE, TAXAS, PRODUTOS E/OU SERVIÇOS.",
+  "section_7_title": "7. Usos Proibidos",
+  "section_7_commercial": "O Site e os Serviços não podem ser usados em conexão com quaisquer empreendimentos comerciais (a menos que permitido pela Empresa ao conectar Usuários a quaisquer Terceiros) sem o consentimento expresso por escrito da Empresa.",
+  "section_7_recruitment": "O Site e os Serviços não podem ser usados por nenhuma pessoa ou organização para recrutar para outro site, solicitar, anunciar ou contatar de qualquer forma Usuários para emprego, contrato ou qualquer outro propósito para um negócio não afiliado à Empresa sem permissão expressa por escrito da Empresa.",
+  "section_7_user_contact": "Você concorda em não usar os Serviços e o Site para contatar, anunciar, solicitar ou vender a qualquer outro Usuário sem o consentimento expresso dele, a menos que permitido sob estes Termos.",
+  "section_8_title": "8. Suporte",
+  "section_8_text": "Os Usuários podem contactar a Empresa quanto ao suporte para o Site e os Serviços enviando um e‑mail",
+  "section_9_title": "9. Isenções de Responsabilidade",
+  "section_9_security": "A Empresa faz esforços razoáveis para garantir que sua tecnologia mantenha o Site e os Serviços seguros. No entanto, nenhuma tecnologia é 100% segura. Portanto, embora nos esforcemos para usar meios comercialmente aceitáveis para proteger suas informações pessoais, não podemos garantir sua segurança absoluta.",
+  "section_9_as_is": "Exceto conforme expressamente estabelecido aqui, seu uso do Site e dos Serviços é a seu exclusivo critério e risco. O Site e os Serviços são fornecidos em bases “COMO ESTÃO” e “CONFORME DISPONÍVEIS”, sem garantias de qualquer tipo.",
+  "section_9_no_warranties": "A Empresa declara expressamente que renuncia a todas as garantias implícitas ou legais de qualquer tipo relacionadas ao Site e aos Serviços, incluindo, sem limitação, as garantias de título, comercialização, adequação a uma finalidade específica, não violação de direitos proprietários, prática comercial ou desempenho.",
+  "section_9_no_advice": "A Empresa não oferece nenhum conselho sobre o risco ou adequação de qualquer negociação, transação ou engajamento. A Empresa não assume responsabilidade por qualquer transação ou engajamento feito por você e você reconhece que é o único responsável pela avaliação de suas transações e engajamentos.",
+  "section_9_no_liability_advice": "Você não deverá responsabilizar a Empresa, seus diretores, empregados ou afiliados por quaisquer escolhas de transação ou engajamento feitas por você.",
+  "section_9_no_created_warranty": "Nenhum conselho ou informação, seja oral ou escrita, obtido por você da Empresa ou de seus diretores, empregados ou afiliados, criará qualquer garantia não expressamente declarada nestes Termos. Se você optar por confiar nessas informações, o faz exclusivamente por seu próprio risco.",
+  "section_9_jurisdiction_note": "Alguns estados ou jurisdições não permitem a exclusão de certas garantias. Consequentemente, algumas das exclusões acima podem não se aplicar a você.",
+  "section_10_title": "10. Limitação de Responsabilidade",
+  "section_10_no_guarantee": "A Empresa não garante o valor, qualidade, compatibilidade ou qualquer outra característica dos Terceiros, Produtos ou qualquer outra informação fornecida, consumida ou de outra forma disponibilizada (doravante nesta Seção: as “Características”). Qualquer Característica está sob responsabilidade exclusiva do respectivo Terceiro ou Usuário que a utiliza, conforme aplicável, ou ao usar os Serviços ou o Site.",
+  "section_10_monitoring": "A Empresa não se compromete a monitorar tal conformidade e pode agir quando for detectada não conformidade, conforme decidir a seu exclusivo critério, como descrito nestes Termos.",
+  "section_10_exposure": "Você entende e concorda que pode estar exposto a conteúdo ou outras informações que sejam imprecisas, questionáveis, inadequadas para crianças ou de outra forma inadequadas para você.",
+  "section_10_technical": "A Empresa não é responsável por quaisquer problemas ou falhas técnicas de qualquer rede telefônica ou linhas, sistemas online de computadores, servidores ou provedores, equipamentos de computador, software, falha de qualquer e‑mail devido a problemas técnicos ou congestionamento de tráfego na Internet ou em qualquer parte do Site ou dos Serviços ou combinação destes, incluindo qualquer lesão ou dano a Usuários ou ao computador, telefone móvel ou qualquer outro dispositivo de qualquer pessoa relacionado ou resultante da participação ou download de materiais em conexão com o Site ou os Serviços.",
+  "section_10_conduct": "Em nenhuma circunstância a Empresa será responsável pela conduta de terceiros, incluindo quaisquer Usuários, seja online ou offline, e operadores de sites externos.",
+  "section_10_no_indirect": "Em nenhum caso a Empresa ou quaisquer de seus diretores, administradores, empregados ou agentes serão responsáveis perante você por quaisquer danos indiretos, incidentais, especiais, punitivos ou consequenciais, decorrentes ou em conexão com seu uso do Site ou dos Serviços, sejam eles previsíveis ou não e independentemente de a Empresa ter sido avisada da possibilidade de tais danos.",
+  "section_10_full_extent": "A limitação de responsabilidade acima deverá ser aplicada na máxima extensão permitida por lei na jurisdição aplicável.",
+  "section_11_title": "11. Indenização",
+  "section_11_text": "Você defenderá, indenizará e manterá a Empresa isenta de quaisquer e todos os processos, procedimentos, reivindicações, danos, custos, responsabilidades ou despesas (incluindo custos judiciais e honorários advocatícios razoáveis) que a Empresa possa sofrer ou incorrer em conexão com qualquer reivindicação, demanda, ação ou outro procedimento real por qualquer terceiro decorrente ou relacionado a qualquer violação destes Termos por você ou qualquer uso por você do Site ou dos Serviços que não esteja de acordo com a lei aplicável.",
+  "section_12_title": "12. Disposições Gerais",
+  "section_12_governing_law": "Estes Termos serão regidos pelas leis da Inglaterra, excluindo suas regras de escolha de lei, e sem consideração à Convenção das Nações Unidas sobre a Venda Internacional de Mercadorias. Seu comportamento também pode estar sujeito a outras leis locais, estaduais e nacionais.",
+  "section_12_jurisdiction": "Qualquer disputa decorrente destes Termos ou relativa ao Site ou Serviço será resolvida definitivamente pelos tribunais competentes da Inglaterra.",
+  "section_12_no_class_action": "Você não pode avançar quaisquer reivindicações de ação coletiva contra a Empresa, e ao usar o Site ou os Serviços você concorda em renunciar ao seu direito de avançar tais reivindicações de ação coletiva.",
+  "section_12_limitation_period": "Qualquer causa de ação contra a Empresa deve ser proposta dentro de um (1) ano a partir da data em que tal causa de ação surgiu.",
+  "section_12_severability": "No caso de qualquer disposição destes Termos ser considerada inexequível, tal disposição será substituída por uma disposição exequível que mais se aproxime do efeito da disposição original, e os termos restantes destes Termos permanecerão em pleno vigor e efeito.",
+  "section_12_no_agency": "Nada nestes Termos cria qualquer agência, emprego, joint venture ou parceria entre você e a Empresa ou lhe permite agir em nome da Empresa.",
+  "section_12_entire_agreement": "Exceto se expressamente declarado nestes Termos, estes Termos constituem o acordo completo entre a Empresa e você referente ao assunto aqui tratado.",
+  "section_12_notices": "Qualquer notificação que possamos ser obrigados a lhe fornecer, seja por lei ou de acordo com estes Termos, pode ser fornecida pela Empresa a qualquer informação de contato que você tenha fornecido em sua informação de Conta ou outra, direta ou indiretamente, inclusive por e‑mail. Você concorda expressamente em receber tais comunicações e notificações dessa maneira.",
+  "section_12_no_assignment": "Você não pode ceder quaisquer direitos aqui descritos sem o nosso consentimento prévio por escrito.",
+  "section_12_no_limitation": "Nada contido nestes Termos deve ser interpretado como limitar as ações ou recursos disponíveis à Empresa em relação a qualquer atividade ou conduta proibida.",
+  "section_12_no_waiver": "A não aplicação de qualquer termo destes Termos não constitui consentimento ou renúncia, e a Empresa reserva-se o direito de aplicar tal termo a seu exclusivo critério. Nenhuma renúncia de qualquer violação ou inadimplência aqui descrita será considerada renúncia de qualquer violação ou inadimplência precedente ou subsequente.",
+  "section_12_viewer_responsibility": "É responsabilidade exclusiva do visualizador avaliar a precisão, completude ou utilidade de qualquer informação, opinião, conselho ou outro conteúdo no Site."
+
 }

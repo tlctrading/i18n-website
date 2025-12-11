@@ -115,5 +115,390 @@
     "contact.input.email": "Email Anda",
     "contact.input.message": "Pesan Anda",
     "contact.button": "Kirim Pesan",
-    "contact.success": "Pesan Anda berhasil dikirim!"
+    "contact.success": "Pesan Anda berhasil dikirim!",
+
+ "privacy.title": "Kebijakan Privasi", 
+
+  "privacy.intro.provider": "Penyedia (\"us\", \"we\", atau \"our\") mengelola platform Aivontrixen (\"Layanan\").", 
+
+  "privacy.intro.description": "Dokumen ini menjelaskan praktik kami terkait pengumpulan, penggunaan, dan pembagian informasi pribadi ketika Anda menggunakan Layanan kami serta opsi yang tersedia bagi Anda mengenai informasi tersebut.", 
+
+  "privacy.intro.usage": "Kami, Aivontrixen, menggunakan informasi Anda untuk menyediakan dan meningkatkan Layanan. Dengan menggunakan Layanan, Anda menyetujui pengumpulan dan penggunaan data sebagaimana dijelaskan dalam kebijakan ini. Kecuali didefinisikan secara khusus dalam Kebijakan Privasi ini, istilah yang digunakan di sini memiliki arti yang sama seperti dalam Syarat dan Ketentuan kami, yang tersedia dari Aivontrixen.", 
+
+   
+
+  "privacy.toc.definitions": "Definisi", 
+
+  "privacy.toc.definitions.service": "Layanan", 
+
+  "privacy.toc.definitions.personal_data": "Data Pribadi", 
+
+  "privacy.toc.definitions.usage_data": "Data Penggunaan", 
+
+  "privacy.toc.definitions.cookies": "Cookies", 
+
+  "privacy.toc.definitions.data_controller": "Pengendali Data", 
+
+  "privacy.toc.definitions.data_processors": "Pemroses Data (atau Penyedia Layanan)", 
+
+  "privacy.toc.definitions.data_subject": "Subjek Data (atau Pengguna)", 
+
+   
+
+  "privacy.toc.info_collection": "Pengumpulan dan Penggunaan Informasi", 
+
+  "privacy.toc.info_collection.types_of_data": "Jenis Data yang Dikumpulkan", 
+
+  "privacy.toc.info_collection.personal_data": "Data Pribadi", 
+
+  "privacy.toc.info_collection.usage_data": "Data Penggunaan", 
+
+  "privacy.toc.info_collection.tracking_cookies": "Data Cookie Pelacakan", 
+
+  "privacy.toc.info_collection.use_of_data": "Penggunaan Data", 
+
+  "privacy.toc.info_collection.legal_basis": "Dasar Hukum untuk Memproses Data Pribadi Berdasarkan General Data Protection Regulation (GDPR)", 
+
+  "privacy.toc.info_collection.retention": "Penyimpanan Data", 
+
+   
+
+  "privacy.toc.transfer": "Transfer Data", 
+
+  "privacy.toc.transfer.disclosure": "Pengungkapan Data", 
+
+  "privacy.toc.transfer.disclosure.business_transaction": "Transaksi Bisnis", 
+
+  "privacy.toc.transfer.legal_requirements": "Kewajiban Hukum", 
+
+  "privacy.toc.transfer.security": "Keamanan Data", 
+
+  "privacy.toc.transfer.rights_gdpr": "Hak Perlindungan Data Anda Berdasarkan General Data Protection Regulation (GDPR)", 
+
+   
+
+  "privacy.toc.service_providers": "Penyedia Layanan", 
+
+  "privacy.toc.service_providers.analytics": "Analitik", 
+
+  "privacy.toc.service_providers.advertising": "Periklanan", 
+
+  "privacy.toc.service_providers.behavioral_remarketing": "Remarketing Perilaku", 
+
+  "privacy.toc.service_providers.links": "Tautan ke Situs Lain", 
+
+  "privacy.toc.service_providers.changes": "Perubahan Kebijakan Privasi Ini", 
+
+  "privacy.toc.service_providers.contact": "Hubungi Kami", 
+
+"privacy.definitions.service": "Layanan adalah situs web Aivontrixen yang dioperasikan oleh Penyedia", 
+
+  "privacy.definitions.personal_data": "Data Pribadi berarti data tentang individu yang hidup yang dapat diidentifikasi dari data tersebut (atau dari data tersebut dan informasi lain baik yang kami miliki atau yang kemungkinan akan kami miliki).", 
+
+  "privacy.definitions.usage_data": "Data Penggunaan adalah data yang dikumpulkan secara otomatis baik yang dihasilkan oleh penggunaan Layanan atau dari infrastruktur Layanan itu sendiri (misalnya, durasi kunjungan halaman).", 
+
+  "privacy.definitions.cookies": "Cookie adalah potongan kecil data yang disimpan di perangkat Anda (komputer atau perangkat seluler).", 
+
+  "privacy.definitions.data_controller": "Pengendali Data berarti orang alami atau badan hukum yang (sendiri atau bersama dengan orang lain) menentukan tujuan dan cara pemrosesan informasi pribadi apa pun, atau akan diproses. Untuk tujuan Kebijakan Privasi ini, kami adalah Pengendali Data atas Data Pribadi Anda.", 
+
+  "privacy.definitions.data_processors": "Pemroses Data (atau Penyedia Layanan) berarti orang alami atau badan hukum yang memproses data atas nama Pengendali Data. Kami dapat menggunakan layanan berbagai Penyedia Layanan untuk memproses data Anda secara lebih efektif.", 
+
+  "privacy.definitions.data_subject": "Subjek Data adalah individu yang hidup yang menggunakan Layanan kami dan menjadi subjek Data Pribadi.", 
+
+ 
+
+  "privacy.provider.take": "Penyedia akan mengambil semua langkah yang wajar diperlukan untuk memastikan data Anda diperlakukan dengan aman dan sesuai dengan Kebijakan Privasi ini serta tidak ada transfer Data Pribadi Anda ke organisasi atau negara kecuali terdapat kontrol yang memadai termasuk keamanan data Anda dan informasi pribadi lainnya.", 
+
+ 
+
+  "privacy.info_collection.description": "Kami mengumpulkan berbagai jenis informasi untuk berbagai tujuan guna menyediakan dan meningkatkan Layanan kami kepada Anda.", 
+
+  "privacy.info_collection.personal_data.description": "Saat menggunakan Layanan kami, kami mungkin meminta Anda memberikan informasi pribadi tertentu yang dapat digunakan untuk menghubungi atau mengidentifikasi Anda (“Data Pribadi”). Informasi pribadi dapat mencakup, namun tidak terbatas pada:", 
+
+  "privacy.info.user1": "Alamat email", 
+
+  "privacy.info.user2": "Nama depan dan nama belakang", 
+
+  "privacy.info.user3": "Nomor telepon", 
+
+  "privacy.info.user4": "Alamat, Negara Bagian, Provinsi, Kode Pos, Kota", 
+
+  "privacy.info.user5": "Cookie dan Data Penggunaan", 
+
+"privacy.info_collection.personal_data.usage": "Kami dapat menggunakan Data Pribadi Anda untuk menghubungi Anda dengan buletin, materi pemasaran atau promosi, dan informasi lain yang mungkin menarik bagi Anda. Anda dapat memilih untuk tidak menerima semua atau sebagian komunikasi ini dari kami dengan mengikuti tautan berhenti berlangganan atau petunjuk yang disediakan dalam setiap email yang kami kirim atau dengan menghubungi kami.", 
+
+  "privacy.info_collection.usage_data.description": "Kami juga dapat mengumpulkan informasi tentang cara mengakses dan menggunakan Layanan (“Data Penggunaan”). Data Penggunaan ini dapat mencakup informasi seperti alamat Protokol Internet (mis. alamat IP) komputer Anda, tipe browser, versi browser, halaman Layanan kami yang Anda kunjungi, waktu dan tanggal kunjungan Anda, waktu yang dihabiskan pada halaman tersebut, pengidentifikasi perangkat unik, dan data diagnostik lainnya.", 
+
+  "privacy.info_collection.cookies.description": "Kami menggunakan cookie dan teknologi pelacakan serupa untuk melacak aktivitas pada Layanan kami dan menyimpan informasi tertentu.", 
+
+  "privacy.info.collection.cookies.description1": "Cookie adalah file dengan sejumlah kecil data yang dapat mencakup pengidentifikasi unik anonim. Cookie dikirim ke browser Anda dari situs web dan disimpan di perangkat Anda. Teknologi pelacakan yang juga digunakan meliputi beacon, tag, dan skrip untuk mengumpulkan dan melacak informasi serta untuk meningkatkan dan menganalisis Layanan kami.", 
+
+  "privacy.info.collection.cookies.instruct": "Anda dapat menginstruksikan browser Anda untuk menolak semua cookie atau memberi tahu ketika cookie sedang dikirim. Namun, jika Anda tidak menerima cookie, Anda mungkin tidak dapat menggunakan beberapa bagian Layanan kami.", 
+
+  "privacy.info_collection.cookies.examples": "Contoh Cookie yang kami gunakan:", 
+
+  "privacy.example1": "Cookie Sesi.", 
+
+  "privacy.example1.description": "Kami menggunakan Cookie Sesi untuk menjalankan Layanan kami.", 
+
+  "privacy.example2": "Cookie Preferensi.", 
+
+  "privacy.example2.description": "Kami menggunakan Cookie Preferensi untuk mengingat preferensi dan berbagai pengaturan Anda.", 
+
+  "privacy.example3": "Cookie Keamanan.", 
+
+  "privacy.example3.description": "Kami menggunakan Cookie Keamanan untuk tujuan keamanan.", 
+
+  "privacy.example4": "Cookie Periklanan.", 
+
+  "privacy.example4.description": "Cookie Periklanan digunakan untuk menayangkan iklan yang mungkin relevan bagi Anda dan minat Anda.", 
+
+ 
+
+  "privacy.info_collection.use_of_data": "Penyedia menggunakan data yang dikumpulkan untuk berbagai tujuan termasuk:", 
+
+  "provider1": "Untuk menyediakan dan memelihara Layanan kami", 
+
+  "provider2": "Untuk memberi tahu Anda tentang perubahan pada Layanan kami", 
+
+  "provider3": "Untuk memungkinkan Anda berpartisipasi dalam fitur interaktif Layanan kami ketika Anda memilih melakukannya", 
+
+  "provider4": "Untuk menyediakan dukungan pelanggan", 
+
+  "provider5": "Untuk mengumpulkan analisis atau informasi berharga agar kami dapat meningkatkan Layanan kami", 
+
+  "provider6": "Untuk memantau penggunaan Layanan kami", 
+
+  "provider7": "Untuk mendeteksi, mencegah, dan menangani masalah teknis", 
+
+  "provider8": "Untuk menyediakan berita, penawaran khusus, dan informasi umum tentang barang, layanan, dan acara lain yang kami tawarkan yang serupa dengan yang telah Anda beli atau tanyakan kecuali Anda telah memilih untuk tidak menerima informasi tersebut", 
+
+"providerText": "Penyedia juga akan menyimpan Data Penggunaan untuk keperluan analisis internal. Data Penggunaan biasanya disimpan untuk periode yang lebih pendek, kecuali data ini digunakan untuk memperkuat keamanan atau meningkatkan fungsionalitas Layanan kami, atau kami diwajibkan secara hukum untuk menyimpan data ini untuk periode yang lebih lama", 
+
+  "privacy.info_collection.legal_basis": "Jika Anda berasal dari Wilayah Ekonomi Eropa (EEA), dasar hukum Penyedia untuk mengumpulkan dan menggunakan informasi pribadi yang dijelaskan dalam Kebijakan Privasi ini bergantung pada Data Pribadi yang kami kumpulkan dan konteks spesifik di mana kami mengumpulkannya.", 
+
+  "privacy.accept.info": "Penyedia dapat memproses Data Pribadi Anda karena:", 
+
+  "privacy.accept.info.why1": "Kami perlu melaksanakan kontrak dengan Anda", 
+
+  "privacy.accept.info.why2": "Anda telah memberi kami izin", 
+
+  "privacy.accept.info.why3": "Pemrosesan ini dalam kepentingan sah kami dan tidak ditimpa oleh hak Anda", 
+
+  "privacy.accept.info.why4": " Untuk mematuhi hukum.", 
+
+ 
+
+  "privacy.consent": "persetujuan kami terhadap Kebijakan Privasi ini yang diikuti oleh pengiriman informasi tersebut oleh Anda merupakan persetujuan Anda terhadap transfer tersebut.", 
+
+ 
+
+  "privacy.transfer.description": "Informasi Anda, termasuk Data Pribadi, dapat dipindahkan ke — dan disimpan di — komputer yang berada di luar negara bagian, provinsi, negara, atau yurisdiksi pemerintah lainnya tempat Anda berada, dimana undang-undang perlindungan data mungkin berbeda dengan undang-undang di yurisdiksi Anda.", 
+
+ 
+
+  "privacy.transfer.disclosure.business_transaction": "Jika Penyedia terlibat dalam merger, akuisisi, atau penjualan aset, Data Pribadi Anda dapat dipindahkan. Kami akan memberikan pemberitahuan sebelum Data Pribadi Anda dipindahkan dan menjadi subjek Kebijakan Privasi yang berbeda.", 
+
+  "privacy.transfer.legal_requirements": "Penyedia dapat mengungkapkan Data Pribadi Anda dengan itikad baik bahwa tindakan tersebut diperlukan", 
+
+  "requirments1": "untuk mematuhi kewajiban hukum", 
+
+  "requirments2": "untuk melindungi hak atau properti penyedia", 
+
+  "requirments3": "Untuk mencegah atau menyelidiki kemungkinan kesalahan terkait Layanan", 
+
+  "requirments4": "Untuk melindungi keselamatan pribadi pengguna Layanan atau publik", 
+
+  "requirments5": "Untuk melindungi dari tanggung jawab hukum", 
+
+ 
+
+  "right.complain": "Anda memiliki hak untuk mengajukan keluhan kepada Otoritas Perlindungan Data tentang pengumpulan dan penggunaan Data Pribadi Anda. Untuk informasi lebih lanjut, silakan hubungi otoritas perlindungan data lokal Anda di Wilayah Ekonomi Eropa (EEA).", 
+
+  "privacy.transfer.security": "Keamanan data Anda penting bagi kami, namun tidak ada metode transmisi atau penyimpanan yang 100% aman. Kami berusaha menggunakan cara yang dapat diterima secara komersial tetapi tidak dapat menjamin keamanan mutlak.", 
+
+  "privacy.transfer.rights_gdpr": "Jika Anda merupakan penduduk Wilayah Ekonomi Eropa (EEA), Anda memiliki hak perlindungan data. Penyedia berupaya mengambil langkah yang wajar untuk memungkinkan Anda memperbaiki, mengubah, menghapus, atau membatasi penggunaan Data Pribadi Anda.", 
+
+  "privacy.certain.circums": "Dalam keadaan tertentu, Anda memiliki hak perlindungan data berikut", 
+
+  "google.analytics": "Google Analytics", 
+
+  "google.analytics.desc": "Google Analytics adalah layanan analitik web yang disediakan oleh Google yang melacak dan melaporkan lalu lintas situs web. Google menggunakan data yang dikumpulkan untuk melacak dan memantau penggunaan Layanan kami. Data ini dibagikan dengan layanan Google lainnya. Google dapat menggunakan data yang dikumpulkan untuk mengkontekstualisasikan dan mempersonalisasi iklan jaringan iklan miliknya. Anda dapat memilih untuk tidak mengizinkan aktivitas Anda pada Layanan tersedia bagi Google Analytics dengan memasang add-on opt-out Google Analytics di browser. Add-on ini mencegah JavaScript Google Analytics (ga.js, analytics.js, dan dc.js) berbagi informasi dengan Google Analytics tentang aktivitas kunjungan. Untuk informasi lebih lanjut tentang praktik privasi Google, silakan kunjungi halaman Ketentuan Privasi Google", 
+
+"privacy.your.access": "Hak untuk mengakses, memperbarui, atau menghapus informasi yang kami miliki tentang Anda. Kapan pun memungkinkan, Anda dapat mengakses, memperbarui, atau meminta penghapusan Data Pribadi Anda langsung melalui bagian pengaturan akun Anda. Jika Anda tidak dapat melakukan tindakan ini sendiri, silakan hubungi kami untuk bantuan. Hak koreksi. Anda berhak agar informasi Anda dikoreksi jika informasi tersebut tidak akurat atau tidak lengkap. Hak menolak. Anda berhak menolak pemrosesan Data Pribadi Anda oleh kami. Hak pembatasan. Anda berhak meminta kami membatasi pemrosesan informasi pribadi Anda. Hak portabilitas data. Anda berhak menerima salinan informasi yang kami miliki tentang Anda dalam format terstruktur, dapat dibaca mesin, dan umum digunakan. Hak menarik persetujuan. Anda juga berhak menarik persetujuan Anda kapan saja di mana Penyedia mengandalkan persetujuan Anda untuk memproses informasi pribadi Anda.", 
+
+ 
+
+  "google.adSense": "Google AdSense DoubleClick Cookie", 
+
+  "google.adSense.desc": "Google, sebagai vendor pihak ketiga, menggunakan cookie untuk menayangkan iklan pada Layanan kami. Penggunaan cookie DoubleClick oleh Google memungkinkan Google dan mitranya menayangkan iklan kepada pengguna kami berdasarkan kunjungan mereka ke Layanan kami atau situs web lain di Internet. Anda dapat memilih untuk tidak menggunakan Cookie DoubleClick untuk iklan berbasis minat dengan mengunjungi halaman Pengaturan Iklan Google:", 
+
+  "google.adSense.provider": "Penyedia menggunakan layanan remarketing untuk mengiklankan kepada Anda di situs web pihak ketiga setelah Anda mengunjungi Layanan kami. Kami dan vendor pihak ketiga kami menggunakan cookie untuk memberi tahu, mengoptimalkan, dan menayangkan iklan berdasarkan kunjungan Anda sebelumnya ke Layanan kami.", 
+
+  "google.adWords": "Google AdWords", 
+
+  "google.adWords.rec": "menyarankan menginstal Google Analytics Opt-out Browser Add-on –", 
+
+  "google.also": "Google juga", 
+
+  "google.analytics.your.browser": "– untuk browser web Anda. Google Analytics Opt-out Browser Add-on memberikan pengunjung kemampuan untuk mencegah data mereka dikumpulkan dan digunakan oleh Google Analytics. Untuk informasi lebih lanjut tentang praktik privasi Google, silakan kunjungi halaman Ketentuan Privasi Google:", 
+
+  "facebook": "Facebook", 
+
+  "facebook.remarketing": "Layanan remarketing Facebook disediakan oleh Facebook Inc. Anda dapat mempelajari lebih lanjut tentang iklan berbasis minat dari Facebook dengan mengunjungi halaman ini:", 
+
+  "facebook.ad": "Untuk menolak iklan berbasis minat Facebook, ikuti petunjuk berikut dari Facebook:", 
+
+  "facebook.adheres1": "Facebook mematuhi Prinsip Swakelola untuk Periklanan Perilaku Daring yang ditetapkan oleh Digital Advertising Alliance. Anda juga dapat menolak dari Facebook dan perusahaan lain yang berpartisipasi melalui Digital Advertising Alliance di AS ", 
+
+  "facebook.adheres2": "Digital Advertising Alliance of Canada di Kanada", 
+
+  "facebook.adheres3": "atau European Interactive Digital Advertising Alliance di Eropa", 
+
+  "facebook.adheres4": "atau menolak menggunakan pengaturan perangkat seluler Anda. Untuk informasi lebih lanjut tentang praktik privasi Facebook, silakan kunjungi Kebijakan Data Facebook:", 
+
+"privacy.shouldNote": "Harap dicatat bahwa kami mungkin meminta Anda untuk memverifikasi identitas Anda sebelum menanggapi permintaan tersebut.", 
+
+  "privacy.wishInformed": "Jika Anda ingin diinformasikan Data Pribadi apa yang kami miliki tentang Anda dan jika Anda ingin data tersebut dihapus dari sistem kami, silakan hubungi kami.", 
+
+  "privacy.service_providers.description": "Kami dapat mempekerjakan perusahaan dan individu pihak ketiga untuk memfasilitasi Layanan kami. Pihak ketiga ini memiliki akses ke Data Pribadi Anda hanya untuk melakukan tugas dan diwajibkan untuk tidak mengungkapkan atau menggunakannya untuk tujuan lain.", 
+
+  "privacy.bolgaria": "Jika Anda berada di luar Bulgaria dan memilih untuk memberikan informasi kepada kami, harap dicatat bahwa kami mentransfer data, termasuk Data Pribadi, ke Bulgaria dan memprosesnya di sana.", 
+
+  "privacy.service_providers.analytics": "Kami dapat menggunakan Penyedia Layanan pihak ketiga seperti Google Analytics untuk memantau dan menganalisis penggunaan Layanan kami.", 
+
+  "privacy.service_providers.advertising": "Kami dapat menggunakan Penyedia Layanan pihak ketiga untuk menampilkan iklan kepada Anda guna membantu mendukung dan memelihara Layanan kami", 
+
+  "privacy.service_providers.behavioral_remarketing": "Layanan remarketing Google AdWords disediakan oleh Google Inc. Anda dapat menolak Google Analytics untuk Iklan Display dan menyesuaikan iklan Google Display Network dengan mengunjungi halaman Pengaturan Iklan Google:", 
+
+  "privacy.service_providers.links": "Layanan kami mungkin berisi tautan ke situs lain yang tidak dioperasikan oleh kami. Tinjau Kebijakan Privasi situs-situs tersebut.", 
+
+  "privacy.noControl": "Kami tidak memiliki kontrol dan tidak bertanggung jawab atas konten, kebijakan privasi, atau praktik situs atau layanan pihak ketiga mana pun.", 
+
+  "privacy.child": "Privasi Anak", 
+
+  "privacy.service_providers.children": "Layanan kami tidak ditujukan untuk siapa pun di bawah usia 18 tahun (“Anak-anak”). Kami tidak dengan sengaja mengumpulkan informasi pribadi dari siapa pun di bawah usia 18 tahun. Jika Anda orang tua atau wali dan mengetahui bahwa Anak Anda telah memberikan Data Pribadi kepada kami, silakan hubungi kami. Jika kami mengetahui bahwa kami telah mengumpulkan Data Pribadi dari anak tanpa verifikasi persetujuan orang tua, kami mengambil langkah untuk menghapus informasi tersebut dari server kami.", 
+
+  "privacy.changes": "Perubahan Kebijakan Privasi Ini", 
+
+  "privacy.service_providers.changes": "Kami dapat memperbarui Kebijakan Privasi kami dari waktu ke waktu. Perubahan akan diposting di halaman ini dan/atau diberitahukan melalui email.", 
+
+  "privacy.letKnow": "Kami akan memberi tahu Anda melalui email dan/atau pemberitahuan menonjol pada Layanan kami, sebelum perubahan menjadi efektif dan memperbarui “tanggal efektif” di bagian atas Kebijakan Privasi ini", 
+
+  "privacy.advises": "Anda disarankan untuk meninjau Kebijakan Privasi ini secara berkala untuk setiap perubahan. Perubahan pada Kebijakan Privasi ini berlaku ketika diposting di halaman ini.", 
+
+  "privacy.service_providers.contact": "Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, silakan hubungi kami melalui email.",
+
+  "terms_title": "Ketentuan Penggunaan",
+  "terms_intro_welcome": "Selamat datang di Aivontrixen. Ketentuan Penggunaan ini (\"Ketentuan\") mengatur keterlibatan Anda dengan platform kami yang terletak di Aivontrixen (disebut \"Layanan\") yang dikelola oleh Aivontrixen.",
+  "terms_intro_generator": "Ketentuan Penggunaan kami dikembangkan menggunakan Generator Ketentuan Penggunaan.",
+  "terms_intro_acceptance_1": "Dengan mengunjungi atau menggunakan Layanan kami, Anda setuju untuk mematuhi Ketentuan ini. Jika Anda keberatan dengan bagian mana pun dari ketentuan ini, Anda tidak boleh menggunakan Layanan.",
+  "terms_intro_changes": "Harap dipahami bahwa kami dapat merevisi Ketentuan ini dari waktu ke waktu, dan perubahan akan segera berlaku setelah dipublikasikan. Penggunaan platform Anda secara berkelanjutan merupakan penerimaan atas semua ketentuan yang direvisi atau diperbarui.",
+  "terms_intro_rejection": "Jika Anda menolak salah satu dari Ketentuan ini, harap jangan mengklik \"SAYA TERIMA\" dan hentikan penggunaan Situs Web.",
+  "terms_intro_website_def": "Situs Web mengacu pada Aivontrixen, yang dapat diakses dari Aivontrixen",
+  "section_1_title": "1. Penggunaan Situs Web dan Layanan",
+  "section_1_access": "Tunduk pada syarat dan ketentuan yang ditetapkan di sini, Anda dapat mengakses dan menggunakan Situs Web untuk tujuan menggunakan Layanan secara non-eksklusif.",
+  "section_1_modifications": "Anda mengakui bahwa Perusahaan dapat, atas kebijakannya sendiri dan kapan saja, memodifikasi, memperbarui, atau mengubah Situs Web atau Layanan, termasuk menghentikan penyediaan salah satu atau semua bagian dari Situs Web dan/atau Layanan atau memodifikasi atau menghapus konten apa pun yang tersedia melalui Situs Web atau Layanan, tanpa pemberitahuan sebelumnya.",
+  "section_1_void": "Penggunaan Situs Web dan Layanan batal jika dilarang.",
+  "section_1_warranties_intro": "Dengan menggunakan Situs Web dan Layanan, Anda menyatakan dan menjamin bahwa:",
+  "section_1_warranties_a": "setiap informasi yang Anda kirimkan (jika berlaku) adalah benar dan akurat;",
+  "section_1_warranties_b": "Anda akan menjaga keakuratan informasi tersebut;",
+  "section_1_warranties_c": "Anda setidaknya sudah mencapai usia dewasa di yurisdiksi Anda; dan",
+  "section_1_warranties_d": "penggunaan Situs Web atau Layanan oleh Anda tidak melanggar atau mempromosikan pelanggaran hukum atau peraturan yang berlaku atau kewajiban hukum atau kontrak apa pun yang mungkin Anda miliki kepada pihak ketiga dan bahwa Anda akan mematuhi setiap saat semua undang-undang, aturan, dan peraturan yang berlaku sehubungan dengan penggunaan Layanan dan Situs Web oleh Anda, layanan apa pun yang diatur melalui Layanan dan Situs Web, termasuk tanpa batasan layanan tersebut yang terhubung dengan Produk atau Pihak Ketiga dengan cara apa pun, sebagaimana istilah tersebut didefinisikan di sini.",
+  "section_1_undertakings_def": "Sub-ayat (a)-(d) secara kolektif akan disebut sebagai \"Janji dan Jaminan Pengguna\".",
+  "section_1_verification": "Dengan menggunakan Layanan atau Situs Web, Anda memahami dan menyetujui bahwa Perusahaan dapat, atas kebijakannya sendiri, tetapi tidak diwajibkan, memverifikasi bahwa salah satu atau semua Janji dan Jaminan Pengguna dipenuhi oleh Pengguna mana pun dan Anda selanjutnya setuju bahwa Perusahaan tidak bertanggung jawab untuk memastikan bahwa Janji dan Jaminan Pengguna dipenuhi atau atas kegagalan apa pun untuk menangguhkan, mengakhiri, atau mencegah penggunaan Layanan atau Situs Web oleh Pengguna yang tidak memenuhi Janji dan Jaminan Pengguna.",
+  "section_1_responsibility": "Anda memahami bahwa Anda sepenuhnya bertanggung jawab untuk membuat penilaian, keputusan, dan penilaian Anda sendiri tentang apakah akan terlibat dengan Pihak Ketiga mana pun atau berinteraksi dengan Pihak Ketiga mana pun dengan cara apa pun.",
+  "section_1_reporting": "Jika Anda mengetahui adanya pelanggaran terhadap Janji dan Jaminan Pengguna, Anda didorong untuk melaporkannya kepada Perusahaan.",
+  "section_1_right_to_refuse": "Perusahaan berhak untuk tidak memberikan Layanan apa pun kepada Anda dengan atau tanpa pemberitahuan atas kebijakannya sendiri, terlepas dari apakah ia mengetahui adanya pelanggaran terhadap Janji dan Jaminan Pengguna (baik melalui laporan yang diberikan kepadanya oleh Pengguna lain atau dengan cara lain) oleh Anda atau Pengguna lain, atau karena alasan lain apa pun.",
+  "section_1_disclaimer_main": "Tanpa menyimpang dari hal di atas, Perusahaan secara tegas melepaskan, dan Anda secara tegas membebaskan Perusahaan dari, setiap dan semua tanggung jawab atas setiap perselisihan, klaim, tuntutan hukum, cedera, kerugian, kehilangan, dan/atau kerusakan yang timbul dari dan/atau dengan cara apa pun terkait dengan:",
+  "section_1_disclaimer_i": "ketidakakuratan, ketidaktepatan waktu, atau ketidaklengkapan representasi Pengguna atau Pihak Ketiga; dan",
+  "section_1_disclaimer_ii": "pernyataan keliru dan/atau salah representasi, baik sehubungan dengan atau oleh Pihak Ketiga atau Pengguna lain, Produk, atau sebaliknya.",
+  "section_1_platform_only": "Dengan menggunakan Situs Web dan Layanan, Anda memahami dan menyetujui bahwa Layanan hanya menawarkan platform yang ditujukan untuk membantu Pengguna mengakses, membeli, dan/atau menggunakan berbagai produk dan layanan yang disediakan oleh vendor dan/atau penyedia layanan pihak ketiga, melalui iklan atau promosi yang kami jalankan (masing-masing, \"Produk\" dan \"Pihak Ketiga\", secara berurutan).",
+  "section_1_company_a": "tidak mempekerjakan, merekomendasikan, atau mendukung Pihak Ketiga atau Produk mana pun, sebagaimana relevan, atau pihak terkait mana pun, dan tidak memiliki kendali atas tindakan atau kelalaian Pihak Ketiga mana pun, bisnis mereka, produk atau layanan mereka;",
+  "section_1_company_b": "tidak membuat pernyataan atau jaminan apa pun mengenai Pihak Ketiga dan Produk, termasuk kualitas, penetapan harga, kompatibilitas, ketersediaan, atau fitur lainnya, atau sehubungan dengan interaksi atau urusan Anda dengan Pihak Ketiga mana pun;",
+  "section_1_company_c": "tidak membuat pernyataan atau jaminan apa pun mengenai hak kepemilikan atau hak lain atau fitur atau aspek peraturan yang terkait dengan Produk, termasuk otorisasi, izin, atau lisensi yang diperlukan untuk mengunggah, berbagi, atau menyediakan, dan untuk penggunaan, penjualan, dan pembelian Produk tersebut; dan",
+  "section_1_company_d": "tidak bertanggung jawab atas kinerja atau perilaku Pengguna atau pihak ketiga lainnya yang menggunakan atau telah menggunakan Layanan dengan cara apa pun, dan/atau di dalam atau di luar Situs Web.",
+  "section_1_no_screening": "Perusahaan tidak berkewajiban untuk menyaring atau memverifikasi informasi apa pun mengenai Pihak Ketiga dan/atau Pengguna, Produk, atau fitur lain apa pun yang terkait dengan Situs Web atau Layanan dan oleh karena itu, Anda harus berhati-hati dan melakukan penyelidikan dan pemeriksaan Anda sendiri sebelum terlibat dengan siapa pun melalui Layanan atau Situs Web atau berinteraksi dengan siapa pun dengan cara lain.",
+  "section_1_full_disclaimer": "Perusahaan secara tegas melepaskan, dan Anda secara tegas membebaskan Perusahaan dari, setiap dan semua tanggung jawab atas setiap perselisihan, klaim, tuntutan hukum, cedera, kerugian, kehilangan, dan/atau kerusakan yang timbul dari dan/atau dengan cara apa pun terkait dengan Pihak Ketiga, Produk, Layanan, dan Situs Web atau interaksi atau urusan Anda dengan Pihak Ketiga mana pun, termasuk tanpa batasan sehubungan dengan tindakan dan/atau kelalaian Pihak Ketiga mana pun yang menggunakan atau terhubung ke Layanan atau Situs Web dengan cara apa pun.",
+  "section_1_risk": "Dengan menggunakan Layanan atau Situs Web, Anda mengakui bahwa Anda sepenuhnya bertanggung jawab atas penggunaan dan koneksi, interaksi, pembelian, atau tindakan lain apa pun yang Anda lakukan dan semua penggunaan Layanan atau Situs Web adalah risiko Anda sendiri.",
+  "section_1_no_sale": "Untuk menghindari keraguan, Perusahaan tidak menjual, melisensikan, atau menyediakan Produk atau layanan apa pun (selain Layanan) kepada Anda dan tidak akan memiliki tanggung jawab apa pun untuk Produk atau layanan apa pun yang Anda beli dari Pihak Ketiga mana pun, termasuk tanpa batasan, sehubungan dengan dukungan dan pemeliharaan, cacat, kesalahan, kegagalan, kerusakan, atau biaya apa pun.",
+  "section_2_title": "2. Pembatasan",
+  "section_2_intro": "Tanpa menyimpang dari ketentuan Bagian 1 di atas, Anda tidak akan, dan tidak akan mengizinkan pihak ketiga mana pun untuk:",
+  "section_2_a": "melakukan rekayasa terbalik atau mencoba menemukan kode sumber Situs Web atau Layanan;",
+  "section_2_b": "menggunakan Situs Web atau Layanan yang melanggar hukum atau peraturan yang berlaku, termasuk tanpa batasan, memposting, menerbitkan, berbagi, atau mentransfer materi ilegal atau tidak menyenangkan;",
+  "section_2_c": "menyalin, memodifikasi, atau membuat karya turunan dari Situs Web, Layanan, atau konten dari salah satu Situs Web atau Layanan;",
+  "section_2_d": "mencoba menonaktifkan atau melewati mekanisme keamanan atau kontrol akses Situs Web atau Layanan;",
+  "section_2_e": "merancang atau membantu dalam merancang kecurangan, eksploitasi, perangkat lunak otomatisasi, bot, peretasan, mod, atau perangkat lunak pihak ketiga tidak sah lainnya untuk memodifikasi atau mengganggu Situs Web atau Layanan;",
+  "section_2_f": "menggunakan Situs Web atau Layanan atau terlibat dengan Pengguna lain untuk tujuan apa pun yang bertentangan dengan hukum atau peraturan yang berlaku;",
+  "section_2_g": "mencoba mendapatkan akses tidak sah ke Situs Web atau Layanan, Akun Pengguna lainnya, sebagaimana didefinisikan di bawah, atau perangkat lain, sistem komputer, sistem telepon, atau jaringan yang terhubung ke Situs Web atau Layanan; dan",
+  "section_2_h": "mengumpulkan atau mengumpulkan informasi tentang Pengguna tanpa persetujuan mereka.",
+  "section_2_content_warranties": "Jika Anda memposting, menerbitkan, berbagi, atau mentransfer konten apa pun melalui Situs Web dan/atau menggunakan Layanan, Anda menyatakan dan menjamin bahwa konten tersebut memberikan gambaran yang akurat dan lengkap tentang setiap produk atau layanan yang dijelaskan di dalamnya, mematuhi Ketentuan ini di sini, dan tidak:",
+  "section_2_content_a": "melanggar kekayaan intelektual, moral, atau hak publisitas pihak ketiga mana pun;",
+  "section_2_content_b": "mengandung materi yang memfitnah, mencemarkan nama baik, cabul, sugestif seksual, atau tidak menyenangkan (termasuk materi yang mempromosikan atau mengagungkan kebencian, kekerasan, atau kefanatikan);",
+  "section_2_content_c": "mengandung cacing, virus, atau perangkat lunak berbahaya lainnya;",
+  "section_2_content_d": "melanggar hukum atau peraturan yang berlaku, termasuk hukum atau peraturan apa pun yang berkaitan dengan periklanan atau pemasaran; dan",
+  "section_2_content_e": "melakukan tindakan apa pun yang memaksakan beban yang tidak masuk akal atau tidak proporsional pada infrastruktur kami.",
+  "section_2_license_grant": "Dengan memposting, mengunggah, menerbitkan, berbagi, atau mentransfer konten apa pun menggunakan Situs Web atau Layanan, Anda dengan ini secara tidak dapat dibatalkan memberikan kepada Perusahaan dan afiliasi dan/atau sub-lisensinya lisensi di seluruh dunia, non-eksklusif, abadi, bebas royalti untuk mempublikasikan, berbagi, menampilkan, dan mentransfer konten tersebut dalam bentuk wajar apa pun yang akan menjadi kebijakan tunggal Perusahaan.",
+  "section_2_removal_right": "Perusahaan berhak untuk menghapus, menangguhkan akses, atau menghapus secara permanen konten apa pun sesuai dengan kebijakannya sendiri tanpa pemberitahuan sebelumnya, termasuk tanpa batasan konten tersebut yang melanggar jaminan yang ditetapkan di atas atau kepentingan bisnis Perusahaan, dan Anda tidak akan memiliki hak atau klaim sehubungan dengan keputusan dan tindakan tersebut.",
+  "section_2_no_liability_content": "Perusahaan tidak, dan tidak akan, bertanggung jawab atas konten apa pun yang disediakan, diposting, diunggah, dibagikan, atau disediakan oleh Pengguna, produk atau layanan apa pun yang terkait dengan konten tersebut yang disediakan, diposting, diunggah, dibagikan, atau disediakan oleh Pengguna. Setiap Pengguna yang menggunakan Situs Web atau Layanan dengan ini menyatakan untuk mengambil tanggung jawab penuh sehubungan dengan hal tersebut, dan Perusahaan tidak akan memiliki tanggung jawab apa pun sehubungan dengan hal di atas.",
+  "section_3_title": "3. Materi Promosi dan Buletin",
+  "section_3_consent": "Selain ketentuan Bagian 3 di atas, Pengguna memberikan persetujuan tegasnya kepada Perusahaan untuk menyediakan Materi Promosi dan Buletin (\"Materi Promosi dan Buletin\") kepada Pengguna melalui sarana apa pun yang tersedia, termasuk melalui email, pesan teks dan SMS, faks, pos, layanan panggilan otomatis, atau sarana lain, semuanya sesuai dengan kebijakan tunggal Perusahaan dari waktu ke waktu, dan untuk menerima Materi Promosi dan Buletin tersebut.",
+  "section_3_third_party_ads": "Pengguna selanjutnya mengakui bahwa Materi Promosi dan Buletin dapat mencakup iklan pihak ketiga, dan secara tegas menyetujui untuk menerima iklan tersebut sebagai bagian dari Materi Promosi dan Buletin.",
+  "section_3_unsubscribe": "Pengguna dapat menghubungi Perusahaan kapan saja dengan mengirimkan permintaan melalui email yang memberitahukan kepada Perusahaan tentang penolakannya untuk menerima Materi Promosi dan Buletin lebih lanjut.",
+  "section_4_title": "4. Kekayaan Intelektual",
+  "section_4_ownership": "Perusahaan memiliki semua hak, judul, dan kepentingan di seluruh dunia dalam: (a) Situs Web dan Layanan, peningkatan, turunan, perbaikan bug, atau penyempurnaan Situs Web dan Layanan; dan (b) nama dagang, merek dagang, dan logo Perusahaan, dan akan tetap menjadi milik eksklusif Perusahaan setiap saat.",
+  "section_4_license_meaning": "Semua referensi dalam Ketentuan ini atau komunikasi lainnya untuk penjualan, penjualan kembali, atau pembelian hal di atas hanya berarti hak untuk menggunakan Situs Web dan Layanan sesuai dengan Ketentuan ini.",
+  "section_4_user_liability": "Pengguna menanggung tanggung jawab tunggal atas setiap dan semua konten, termasuk hak kekayaan intelektual apa pun yang berkaitan dengannya, yang disediakan, dibagikan, atau disediakan oleh Pengguna menggunakan Situs Web dan/atau Layanan, dan Perusahaan tidak membuat pernyataan apa pun sehubungan dengan konten tersebut. Perusahaan tidak akan bertanggung jawab atas kerugian atau kerusakan apa pun yang timbul dari konten tersebut, dan Pengguna setuju untuk mengganti kerugian dan membebaskan Perusahaan dari kerugian atau kerusakan apa pun yang timbul dari hal di atas.",
+  "section_5_title": "5. Privasi",
+  "section_5_no_save": "Anda berjanji untuk tidak menyimpan, mengumpulkan, atau mempertahankan dalam kepemilikan dan penggunaan Anda konten apa pun yang disediakan oleh Layanan dan Situs Web tanpa persetujuan tertulis sebelumnya dari Perusahaan.",
+  "section_5_company_rights": "Anda selanjutnya mengakui bahwa Perusahaan berhak, atas kebijakannya sendiri, untuk menyimpan, mengumpulkan, atau mempertahankan dalam kepemilikan dan penggunaan semua konten dan informasi publik, termasuk informasi yang dapat mengidentifikasi Anda atau Pengguna lain atau Pihak Ketiga secara pribadi atau menjelaskan minat pribadi Anda.",
+  "section_5_privacy_policy": "Perusahaan berhak untuk menggunakan semua penggunaan yang diizinkan berdasarkan hukum yang berlaku atas konten dan informasi publik tersebut sebagaimana diatur dalam Kebijakan Privasi Perusahaan.",
+  "section_5_no_verification": "Tanpa menyimpang dari ketentuan Bagian 1 di atas, Perusahaan tidak meninjau, menguji, mengonfirmasi, menyetujui, atau memverifikasi konten atau informasi publik tersebut.",
+  "section_5_user_responsibility": "Setiap Pengguna yang memposting, mengunggah, berbagi, atau menyediakan konten atau informasi publik tersebut akan menanggung tanggung jawab tunggal atas konten atau informasi publik tersebut, termasuk semua informasi pihak ketiga dan persetujuan yang diperlukan.",
+  "section_5_indemnification": "Perusahaan tidak akan bertanggung jawab atas kerugian atau kerusakan apa pun yang timbul dari ketidakpatuhan terhadap hal di atas, dan Anda setuju untuk mengganti kerugian dan membebaskan Perusahaan dari kerugian atau kerusakan apa pun yang timbul dari hal di atas.",
+  "section_5_not_storage": "MESKIPUN DEMIKIAN, ANDA MEMAHAMI DAN MENGAKUI BAHWA PERUSAHAAN BUKAN LAYANAN PENYIMPANAN KONTEN. PERUSAHAAN TIDAK AKAN MEMILIKI TANGGUNG JAWAB ATAS KONTEN ATAU INFORMASI PUBLIK YANG HILANG ATAU TERHAPUS.",
+  "section_5_public_warning": "ANDA HARUS MENYADARI BAHWA KONTEN APA PUN yang diposting, diunggah, dibagikan, atau disediakan DAPAT DIBACA, DIKUMPULKAN, DAN DIGUNAKAN OLEH PENGGUNA LAIN, DAN DAPAT DIGUNAKAN UNTUK MENGIRIM KONTEN YANG TIDAK DIMINTA.",
+  "section_6_title": "6. Tautan",
+  "section_6_description": "Situs Web atau Layanan dapat berisi tautan atau konten lain yang berkaitan dengan situs web, pengiklan, penerbit, atau Produk yang ditawarkan oleh pihak ketiga. Perusahaan tidak memiliki kendali dan tidak membuat pernyataan apa pun sehubungan dengan hal yang sama atau informasi apa pun yang disediakan atau ditransmisikan melalui atau sebaliknya disediakan oleh pihak ketiga tersebut.",
+  "section_6_risk": "ANDA MEMAHAMI DAN MENYETUJUI BAHWA PENGGUNAAN TAUTAN ATAU KONTEN LAINNYA TERSEBUT ADALAH RISIKO ANDA SENDIRI, BAHWA TAUTAN ATAU KONTEN LAINNYA TERSEBUT DIATUR OLEH KETENTUAN PENGGUNAAN DAN KEBIJAKAN PRIVASI PIHAK KETIGA TERSEBUT, DAN BAHWA PERUSAHAAN TIDAK BERTANGGUNG JAWAB ATAS PRAKTIK PRIVASI ATAU BISNIS ATAU KEBIJAKAN LAIN DARI PIHAK KETIGA TERSEBUT.",
+  "section_6_review_advice": "Anda harus meninjau dengan cermat syarat dan kebijakan yang berlaku yang berlaku untuk Pihak Ketiga tersebut.",
+  "section_6_full_disclaimer": "PERUSAHAAN SAMA SEKALI TIDAK BERTANGGUNG JAWAB ATAU BERKEWAJIBAN ATAS PIHAK KETIGA TERSEBUT, ATAU ATAS KERUGIAN ATAU KERUSAKAN DALAM BENTUK APA PUN YANG TIMBUL SEBAGAI AKIBATNYA, DAN PERUSAHAAN SECARA TEGAS MELEPASKAN, DAN ANDA SECARA TEGAS MEMBEBASKAN PERUSAHAAN DARI, SETIAP DAN SEMUA TANGGUNG JAWAB ATAS SETIAP PERSELISIHAN, KLAIM, TUNTUTAN HUKUM, CEDERA, KERUGIAN, KEHILANGAN, DAN/ATAU KERUSAKAN, YANG TIMBUL DARI DAN/ATAU DENGAN CARA APA PUN TERKAIT DENGAN PIHAK KETIGA TERSEBUT, TERMASUK TANPA BATASAN SEHUBUNGAN DENGAN KETERSEDIAAN, KETENTUAN PENGGUNAAN, PRIVASI, INFORMASI, MATERI, KONTEN, IKLAN, BIAYA, PRODUK, DAN/ATAU LAYANAN.",
+  "section_7_title": "7. Penggunaan yang Dilarang",
+  "section_7_commercial": "Situs Web dan Layanan tidak boleh digunakan sehubungan dengan upaya komersial apa pun (kecuali diizinkan oleh Perusahaan untuk menghubungkan Pengguna dengan Pihak Ketiga mana pun) tanpa persetujuan tertulis tegas dari Perusahaan.",
+  "section_7_recruitment": "Situs Web dan Layanan tidak boleh digunakan oleh orang atau organisasi mana pun untuk merekrut, meminta, mengiklankan, atau menghubungi Pengguna dalam bentuk apa pun untuk tujuan pekerjaan, kontrak, atau tujuan lain apa pun untuk bisnis yang tidak berafiliasi dengan Perusahaan tanpa izin tertulis tegas dari Perusahaan.",
+  "section_7_user_contact": "Anda setuju untuk tidak menggunakan Layanan dan Situs Web untuk menghubungi, mengiklankan, meminta, atau menjual kepada Pengguna lain tanpa persetujuan tegas mereka, kecuali jika diizinkan lain berdasarkan Ketentuan ini.",
+  "section_8_title": "8. Dukungan",
+  "section_8_text": "Pengguna dapat menghubungi Perusahaan mengenai dukungan untuk Situs Web dan Layanan dengan mengirim email",
+  "section_9_title": "9. Penafian",
+  "section_9_security": "Perusahaan melakukan upaya yang wajar untuk memastikan teknologinya menjaga Situs Web dan Layanan tetap aman dan terlindungi. Namun, tidak ada teknologi yang 100% aman. Oleh karena itu, sementara kami berusaha untuk menggunakan cara yang dapat diterima secara komersial untuk melindungi Informasi Pribadi Anda, kami tidak dapat menjamin keamanan mutlaknya.",
+  "section_9_as_is": "Kecuali sebagaimana ditentukan secara tegas di sini, penggunaan Situs Web dan Layanan oleh Anda adalah atas kebijakan dan risiko Anda sendiri. Situs Web dan Layanan disediakan atas dasar \"SEBAGAIMANA ADANYA\" dan \"SEBAGAIMANA TERSEDIA\" tanpa jaminan dalam bentuk apa pun.",
+  "section_9_no_warranties": "Perusahaan secara tegas menolak semua jaminan tersirat atau menurut undang-undang dalam bentuk apa pun sehubungan dengan Situs Web dan Layanan, termasuk tanpa batasan jaminan kepemilikan, kelayakan untuk diperdagangkan, kesesuaian untuk tujuan tertentu, non-pelanggaran hak kepemilikan, cara berurusan, atau cara kinerja.",
+  "section_9_no_advice": "Perusahaan tidak memberikan saran apa pun mengenai risiko atau kesesuaian perdagangan, transaksi, atau keterlibatan apa pun. Perusahaan tidak bertanggung jawab atas transaksi atau keterlibatan apa pun yang Anda lakukan dan Anda mengakui bahwa Anda sepenuhnya bertanggung jawab untuk mengevaluasi transaksi dan keterlibatan Anda.",
+  "section_9_no_liability_advice": "Anda tidak akan meminta pertanggungjawaban Perusahaan, pejabat, karyawan, atau afiliasinya atas pilihan transaksi atau keterlibatan apa pun yang Anda buat.",
+  "section_9_no_created_warranty": "Tidak ada saran atau informasi, baik lisan maupun tulisan, yang Anda peroleh dari Perusahaan atau pejabat, karyawan, atau afiliasinya yang akan menciptakan jaminan apa pun yang tidak secara tegas dinyatakan dalam Ketentuan ini. Jika Anda memilih untuk mengandalkan informasi tersebut, Anda melakukannya sepenuhnya atas risiko Anda sendiri.",
+  "section_9_jurisdiction_note": "Beberapa negara bagian atau yurisdiksi tidak mengizinkan pengecualian jaminan tertentu. Dengan demikian, beberapa pengecualian di atas mungkin tidak berlaku untuk Anda.",
+  "section_10_title": "10. Batasan Tanggung Jawab",
+  "section_10_no_guarantee": "Perusahaan tidak menjamin nilai, kualitas, kompatibilitas, atau fitur lain apa pun dari Pihak Ketiga, Produk, atau informasi lain apa pun yang disediakan, dikonsumsi, atau disediakan (selanjutnya dalam Bagian ini: \"Fitur\"). Fitur apa pun berada di bawah tanggung jawab tunggal Pihak Ketiga yang berlaku atau Pengguna yang menggunakannya, sebagaimana berlaku, atau menggunakan Layanan atau Situs Web.",
+  "section_10_monitoring": "Perusahaan tidak berkewajiban untuk memantau kepatuhan tersebut dan dapat bertindak jika ditemukan ketidakpatuhan, sebagaimana akan diputuskan atas kebijakannya sendiri sebagaimana ditetapkan dalam Ketentuan ini.",
+  "section_10_exposure": "Anda memahami dan menyetujui bahwa Anda mungkin terpapar pada konten atau informasi lain yang tidak akurat, tidak menyenangkan, tidak pantas untuk anak-anak, atau tidak pantas untuk Anda.",
+  "section_10_technical": "Perusahaan tidak bertanggung jawab atas masalah teknis atau kegagalan jaringan atau saluran telepon, sistem online komputer, server atau penyedia, peralatan komputer, perangkat lunak, kegagalan email apa pun karena masalah teknis atau kemacetan lalu lintas di internet atau di salah satu Situs Web atau Layanan atau kombinasi apa pun darinya, termasuk cedera atau kerusakan pada komputer, ponsel, atau perangkat lain Pengguna atau orang mana pun yang terkait dengan atau akibat dari partisipasi atau pengunduhan materi sehubungan dengan Situs Web atau Layanan.",
+  "section_10_conduct": "Dalam keadaan apa pun Perusahaan tidak akan bertanggung jawab atas perilaku pihak ketiga, termasuk Pengguna mana pun, baik online maupun offline, dan operator situs eksternal.",
+  "section_10_no_indirect": "Dalam keadaan apa pun Perusahaan atau pejabat, direktur, karyawan, atau agennya tidak akan bertanggung jawab kepada Anda atas kerusakan tidak langsung, insidental, khusus, hukuman, atau konsekuensial, yang timbul dari atau sehubungan dengan penggunaan Situs Web atau Layanan oleh Anda, terlepas dari apakah kerusakan tersebut dapat diperkirakan atau tidak dan apakah Perusahaan telah diberitahu tentang kemungkinan kerusakan tersebut atau tidak.",
+  "section_10_full_extent": "Batasan tanggung jawab di atas akan berlaku sejauh diizinkan oleh hukum dalam yurisdiksi yang berlaku.",
+  "section_11_title": "11. Ganti Rugi",
+  "section_11_text": "Anda akan membela, mengganti kerugian, dan membebaskan Perusahaan dari dan terhadap setiap dan semua tuntutan hukum, proses, klaim, kerusakan, biaya, kewajiban, atau pengeluaran (termasuk biaya pengadilan dan biaya hukum pengacara yang wajar) yang mungkin diderita atau ditanggung oleh Perusahaan sehubungan dengan setiap klaim, permintaan, tindakan, atau proses lain yang sebenarnya dari pihak ketiga mana pun yang timbul dari atau terkait dengan pelanggaran Ketentuan ini oleh Anda atau penggunaan Situs Web atau Layanan oleh Anda yang tidak sesuai dengan hukum yang berlaku.",
+  "section_12_title": "12. Lain-lain",
+  "section_12_governing_law": "Ketentuan ini akan diatur oleh hukum Inggris, tidak termasuk pilihan aturan hukumnya, dan terlepas dari Konvensi Perserikatan Bangsa-Bangsa tentang Kontrak untuk Penjualan Barang Internasional. Perilaku Anda juga dapat tunduk pada hukum lokal, negara bagian, dan nasional lainnya.",
+  "section_12_jurisdiction": "Setiap perselisihan yang timbul di bawah Ketentuan ini atau sehubungan dengan Situs Web atau Layanan pada akhirnya akan diselesaikan oleh pengadilan yang berwenang di Inggris.",
+  "section_12_no_class_action": "Anda tidak boleh mengajukan klaim gugatan kelompok terhadap Perusahaan, dan dengan menggunakan Situs Web atau Layanan, Anda setuju untuk melepaskan hak Anda untuk mengajukan klaim gugatan kelompok tersebut.",
+  "section_12_limitation_period": "Setiap penyebab tindakan terhadap Perusahaan harus diajukan dalam waktu satu (1) tahun sejak tanggal penyebab tindakan tersebut timbul.",
+  "section_12_severability": "Jika ada ketentuan dari Ketentuan ini yang dianggap tidak dapat dilaksanakan, ketentuan tersebut akan diganti dengan ketentuan yang dapat dilaksanakan yang paling mendekati pencapaian efek dari ketentuan asli, dan persyaratan lain dari Ketentuan ini akan tetap berlaku dan berkekuatan penuh.",
+  "section_12_no_agency": "Tidak ada dalam Ketentuan ini yang menciptakan hubungan agensi, pekerjaan, usaha patungan, atau kemitraan antara Anda dan Perusahaan atau memberi Anda wewenang untuk bertindak atas nama Perusahaan.",
+  "section_12_entire_agreement": "Kecuali jika secara tegas dinyatakan lain dalam Ketentuan ini, Ketentuan ini merupakan keseluruhan perjanjian antara Perusahaan dan Anda sehubungan dengan materi pokok di sini.",
+  "section_12_notices": "Setiap pemberitahuan yang mungkin wajib kami berikan kepada Anda, baik berdasarkan undang-undang atau sesuai dengan Ketentuan ini, dapat diberikan oleh Perusahaan ke informasi kontak apa pun yang diberikan dalam informasi Akun Anda atau sebaliknya, baik secara langsung maupun tidak langsung, termasuk melalui email. Anda secara tegas menyetujui untuk menerima komunikasi dan pemberitahuan tersebut dengan cara ini.",
+  "section_12_no_assignment": "Anda tidak boleh mengalihkan hak apa pun berdasarkan dokumen ini tanpa persetujuan tertulis sebelumnya dari kami.",
+  "section_12_no_limitation": "Tidak ada dalam Ketentuan ini yang akan dianggap membatasi tindakan atau pemulihan yang tersedia untuk Perusahaan sehubungan dengan aktivitas atau perilaku yang dilarang.",
+  "section_12_no_waiver": "Kegagalan untuk menegakkan ketentuan apa pun dari Ketentuan ini tidak merupakan persetujuan atau pelepasan, dan Perusahaan berhak untuk menegakkan ketentuan tersebut atas kebijakannya sendiri. Tidak ada pelepasan pelanggaran atau kelalaian di sini yang akan dianggap sebagai pelepasan dari pelanggaran atau kelalaian sebelumnya atau selanjutnya.",
+  "section_12_viewer_responsibility": "Ini adalah tanggung jawab tunggal penampil untuk menilai keakuratan, kelengkapan, atau kegunaan informasi, pendapat, saran, atau konten lain apa pun di Situs."
+
 }

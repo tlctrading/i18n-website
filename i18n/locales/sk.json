@@ -114,5 +114,390 @@
     "contact.input.email": "Váš email",
     "contact.input.message": "Vaša správa",
     "contact.button": "Odoslať správu",
-    "contact.success": "Vaša správa bola úspešne odoslaná!"
+    "contact.success": "Vaša správa bola úspešne odoslaná!",
+
+    "privacy.title": "Zásady ochrany osobných údajov", 
+
+  "privacy.intro.provider": "Poskytovateľ (\"my\", \"nás\" alebo \"náš\") spravuje platformu Aivontrixen (\"Službu\").", 
+
+  "privacy.intro.description": "Tento dokument popisuje naše postupy týkajúce sa zhromažďovania, využívania a zdieľania osobných informácií, keď používate našu Službu, a možnosti, ktoré máte k dispozícii ohľadom týchto informácií.", 
+
+  "privacy.intro.usage": "My, Aivontrixen, využívame vaše informácie na poskytovanie a zlepšovanie Služby. Používaním Služby súhlasíte so zhromažďovaním a využívaním údajov podľa tejto politiky. Pokiaľ nie je v tejto Zásade ochrany osobných údajov výslovne definované, má terminológia rovnaký význam ako v našich Podmienkach, ktoré sú k dispozícii na Aivontrixen.", 
+
+   
+
+  "privacy.toc.definitions": "Definície", 
+
+  "privacy.toc.definitions.service": "Služba", 
+
+  "privacy.toc.definitions.personal_data": "Osobné údaje", 
+
+  "privacy.toc.definitions.usage_data": "Údaje o používaní", 
+
+  "privacy.toc.definitions.cookies": "Cookies", 
+
+  "privacy.toc.definitions.data_controller": "Správca údajov", 
+
+  "privacy.toc.definitions.data_processors": "Spracovatelia údajov (alebo poskytovatelia služieb)", 
+
+  "privacy.toc.definitions.data_subject": "Subjekt údajov (alebo používateľ)", 
+
+   
+
+  "privacy.toc.info_collection": "Zber a použitie informácií", 
+
+  "privacy.toc.info_collection.types_of_data": "Typy zozbieraných údajov", 
+
+  "privacy.toc.info_collection.personal_data": "Osobné údaje", 
+
+  "privacy.toc.info_collection.usage_data": "Údaje o používaní", 
+
+  "privacy.toc.info_collection.tracking_cookies": "Údaje o sledovacích cookies", 
+
+  "privacy.toc.info_collection.use_of_data": "Použitie údajov", 
+
+  "privacy.toc.info_collection.legal_basis": "Právny základ pre spracovanie osobných údajov podľa Všeobecného nariadenia o ochrane údajov (GDPR)", 
+
+  "privacy.toc.info_collection.retention": "Uchovávanie údajov", 
+
+   
+
+  "privacy.toc.transfer": "Prenos údajov", 
+
+  "privacy.toc.transfer.disclosure": "Zverejnenie údajov", 
+
+  "privacy.toc.transfer.disclosure.business_transaction": "Obchodná transakcia", 
+
+  "privacy.toc.transfer.legal_requirements": "Právne požiadavky", 
+
+  "privacy.toc.transfer.security": "Bezpečnosť údajov", 
+
+  "privacy.toc.transfer.rights_gdpr": "Vaše práva na ochranu údajov podľa GDPR", 
+
+   
+
+  "privacy.toc.service_providers": "Poskytovatelia služieb", 
+
+  "privacy.toc.service_providers.analytics": "Analytika", 
+
+  "privacy.toc.service_providers.advertising": "Reklama", 
+
+  "privacy.toc.service_providers.behavioral_remarketing": "Behaviorálne remarketing", 
+
+  "privacy.toc.service_providers.links": "Odkazy na iné stránky", 
+
+  "privacy.toc.service_providers.changes": "Zmeny v tejto Zásade ochrany osobných údajov", 
+
+  "privacy.toc.service_providers.contact": "Kontaktujte nás", 
+
+"privacy.definitions.service": "Služba je webová stránka Aivontrixen prevádzkovaná Poskytovateľom", 
+
+  "privacy.definitions.personal_data": "Osobné údaje znamenajú údaje o živom jednotlivcovi, ktorý môže byť z týchto údajov (alebo z nich a ďalších informácií, ktoré máme alebo ktoré by mohli prísť do nášho vlastníctva) identifikovaný.", 
+
+  "privacy.definitions.usage_data": "Údaje o používaní sú údaje zhromaždené automaticky, buď generované používaním Služby, alebo samotnou infraštruktúrou Služby (napríklad dĺžka návštevy stránky).", 
+
+  "privacy.definitions.cookies": "Cookies sú malé kúsky údajov uložené na vašom zariadení (počítači alebo mobilnom zariadení).", 
+
+  "privacy.definitions.data_controller": "Správca údajov je fyzická alebo právnická osoba, ktorá (samostatne alebo spoločne s inými osobami) určuje účely a spôsob spracovania akýchkoľvek osobných informácií. Na účely tejto Zásady ochrany osobných údajov sme správcom vašich Osobných údajov.", 
+
+  "privacy.definitions.data_processors": "Spracovateľ údajov (alebo poskytovateľ služby) je akákoľvek fyzická alebo právnická osoba, ktorá spracúva údaje v mene Správcu údajov. Môžeme využívať služby rôznych poskytovateľov služieb, aby sme spracovávali vaše údaje efektívnejšie.", 
+
+  "privacy.definitions.data_subject": "Subjekt údajov je akýkoľvek živý jednotlivec, ktorý používa našu Službu a je predmetom Osobných údajov.", 
+
+ 
+
+  "privacy.provider.take": "Poskytovateľ podnikne všetky primerane potrebné kroky, aby zabezpečil, že vaše údaje budú spracúvané bezpečne a v súlade s touto Zásadou ochrany osobných údajov, a žiadny prenos vašich Osobných údajov sa neuskutoční do organizácie alebo krajiny, pokiaľ nie sú zavedené adekvátne opatrenia vrátane zabezpečenia vašich údajov a ďalších osobných informácií.", 
+
+ 
+
+  "privacy.info_collection.description": "Zbierame niekoľko rôznych typov informácií pre rôzne účely, aby sme vám mohli poskytovať a zlepšovať našu Službu.", 
+
+  "privacy.info_collection.personal_data.description": "Pri používaní našej Služby vás môžeme požiadať o poskytnutie určitých osobných identifikačných informácií, ktoré môžu byť použité na kontaktovanie alebo identifikáciu vás („Osobné údaje“). Osobné identifikačné informácie môžu zahŕňať, ale nie sú obmedzené na:", 
+
+  "privacy.info.user1": "E‑mailová adresa", 
+
+  "privacy.info.user2": "Meno a priezvisko", 
+
+  "privacy.info.user3": "Telefónne číslo", 
+
+  "privacy.info.user4": "Adresa, štát, provincia, PSČ, mesto", 
+
+  "privacy.info.user5": "Cookies a údaje o používaní", 
+
+"privacy.info_collection.personal_data.usage": "Môžeme použiť vaše Osobné údaje na kontaktovanie vás prostredníctvom newsletterov, marketingových alebo propagačných materiálov a ďalších informácií, ktoré by vás mohli zaujímať. Môžete sa odhlásiť od prijímania niektorých alebo všetkých týchto komunikácií od nás nasledovaním odkazu na odhlásenie alebo pokynov uvedených v akomkoľvek e‑maili, ktorý pošleme, alebo nás kontaktovaním.", 
+
+  "privacy.info_collection.usage_data.description": "Môžeme tiež zbierať informácie o tom, ako je Služba prístupná a používaná („Údaje o používaní“). Tieto údaje môžu zahŕňať informácie ako IP adresa vášho počítača, typ prehliadača, verzia prehliadača, stránky našej Služby, ktoré navštevujete, čas a dátum vašej návštevy, čas strávený na tých stránkach, jedinečné identifikátory zariadenia a ďalšie diagnostické údaje.", 
+
+  "privacy.info_collection.cookies.description": "Používame cookies a podobné sledovacie technológie na sledovanie aktivít na našej Službe a uchovávanie určitých informácií.", 
+
+  "privacy.info.collection.cookies.description1": "Cookies sú súbory s malým množstvom údajov, ktoré môžu obsahovať anonymný jedinečný identifikátor. Cookies sú odosielané do vášho prehliadača z webovej stránky a ukladané na vašom zariadení. Používané sledovacie technológie zahŕňajú tiež signály, značky a skripty na zber a sledovanie informácií a na zlepšenie a analýzu našej Služby.", 
+
+  "privacy.info.collection.cookies.instruct": "Môžete nastaviť svoj prehliadač tak, aby odmietal všetky cookies alebo aby informoval, keď je cookie odoslaný. Avšak, ak neakceptujete cookies, niektoré časti našej Služby nemusia byť použiteľné.", 
+
+  "privacy.info_collection.cookies.examples": "Príklady cookies, ktoré používame:", 
+
+  "privacy.example1": "Session Cookies.", 
+
+  "privacy.example1.description": "Používame Session Cookies na prevádzku našej Služby.", 
+
+  "privacy.example2": "Preference Cookies.", 
+
+  "privacy.example2.description": "Používame Preference Cookies na zapamätanie vašich preferencií a rôznych nastavení.", 
+
+  "privacy.example3": "Security Cookies.", 
+
+  "privacy.example3.description": "Používame Security Cookies na zabezpečenie.", 
+
+  "privacy.example4": "Advertising Cookies.", 
+
+  "privacy.example4.description": "Advertising Cookies sa používajú na zobrazovanie reklám, ktoré môžu byť pre vás relevantné a zodpovedať vašim záujmom.", 
+
+ 
+
+  "privacy.info_collection.use_of_data": "Poskytovateľ používa zozbierané údaje na rôzne účely, vrátane:", 
+
+  "provider1": "Poskytovať a udržiavať našu Službu", 
+
+  "provider2": "Upozorniť vás na zmeny v našej Službe", 
+
+  "provider3": "Umožniť vám zapojiť sa do interaktívnych funkcií našej Služby, keď si to želáte", 
+
+  "provider4": "Poskytovať zákaznícku podporu", 
+
+  "provider5": "Zhromaždiť analýzu alebo cenné informácie, aby sme mohli zlepšiť našu Službu", 
+
+  "provider6": "Monitorovať používanie našej Služby", 
+
+  "provider7": "Detekovať, predchádzať a riešiť technické problémy", 
+
+  "provider8": "Poskytnúť vám novinky, špeciálne ponuky a všeobecné informácie o iných produktoch, službách a podujatiach, ktoré ponúkame a ktoré sú podobné tým, ktoré ste už zakúpili alebo o ktoré ste sa zaujímali, pokiaľ ste sa nerozhodli tieto informácie nevyžadovať", 
+
+"providerText": "Poskytovateľ bude tiež uchovávať údaje o používaní pre interné analytické účely. Údaje o používaní sa zvyčajne uchovávajú kratší čas, okrem prípadov, keď sú tieto údaje použité na posilnenie bezpečnosti alebo zlepšenie funkčnosti našej Služby, alebo keď sme právne povinní uchovávať tieto údaje dlhšie.", 
+
+  "privacy.info_collection.legal_basis": "Ak ste z Európskeho hospodárskeho priestoru (EHP), právny základ Poskytovateľa pre zhromažďovanie a používanie osobných informácií opísaných v tejto Zásade ochrany osobných údajov závisí od osobných údajov, ktoré zhromažďujeme, a konkrétneho kontextu ich zhromažďovania.", 
+
+  "privacy.accept.info": "Poskytovateľ môže spracovať vaše osobné údaje pretože:", 
+
+  "privacy.accept.info.why1": "Musíme s vami uzavrieť zmluvu", 
+
+  "privacy.accept.info.why2": "Súhlasili ste s tým", 
+
+  "privacy.accept.info.why3": "Spracovanie je v našich oprávnených záujmoch a neprebije vaše práva", 
+
+  "privacy.accept.info.why4": " Na splnenie zákonných požiadaviek.", 
+
+ 
+
+  "privacy.consent": "Náš súhlas s touto Zásadou ochrany osobných údajov po vašom odoslaní takýchto informácií predstavuje váš súhlas s týmto prenosom.", 
+
+ 
+
+  "privacy.transfer.description": "Vaše informácie, vrátane osobných údajov, môžu byť prenesené na a uchovávané v počítačoch nachádzajúcich sa mimo vášho štátu, provincie, krajiny alebo inej vládnej jurisdikcie, kde sa zákony o ochrane údajov môžu líšiť od tých vo vašej jurisdikcii.", 
+
+ 
+
+  "privacy.transfer.disclosure.business_transaction": "Ak je Poskytovateľ zapojený do fúzie, akvizície alebo predaja majetku, vaše osobné údaje môžu byť prenesené. Poskytneme vám oznámenie pred tým, ako budú vaše osobné údaje prenesené a podliehajú inej Zásade ochrany osobných údajov.", 
+
+  "privacy.transfer.legal_requirements": "Poskytovateľ môže zverejniť vaše osobné údaje v dobrej viere, že takýto krok je nevyhnutný", 
+
+  "requirments1": "splniť zákonnú povinnosť", 
+
+  "requirments2": "chrániť práva alebo majetok poskytovateľa", 
+
+  "requirments3": "Zabrániť alebo vyšetrovať možné porušenie v súvislosti so Službou", 
+
+  "requirments4": "Chrániť osobnú bezpečnosť používateľov Služby alebo verejnosti", 
+
+  "requirments5": "Chrániť pred právnou zodpovednosťou", 
+
+ 
+
+  "right.complain": "Máte právo podať sťažnosť Úradu na ochranu údajov na naše zhromažďovanie a použitie vašich osobných údajov. Pre viac informácií kontaktujte svoj miestny úrad na ochranu údajov v Európskom hospodárskom priestore (EHP).", 
+
+  "privacy.transfer.security": "Bezpečnosť vašich údajov je pre nás dôležitá, avšak žiadna metóda prenosu alebo uloženia nie je 100 % bezpečná. Snažíme sa používať komerčne akceptovateľné prostriedky, ale nemôžeme zaručiť absolútnu bezpečnosť.", 
+
+  "privacy.transfer.rights_gdpr": "Ak ste obyvateľom Európskeho hospodárskeho priestoru (EHP), máte práva na ochranu údajov. Poskytovateľ sa snaží podniknúť primerané kroky, aby vám umožnil opraviť, upraviť, vymazať alebo obmedziť používanie vašich osobných údajov.", 
+
+  "privacy.certain.circums": "V niektorých prípadoch máte nasledujúce práva na ochranu údajov", 
+
+  "google.analytics": "Google Analytics", 
+
+  "google.analytics.desc": "Google Analytics je webová analytická služba ponúkaná spoločnosťou Google, ktorá sleduje a podáva správy o návštevnosti webových stránok. Google používa zozbierané údaje na sledovanie a monitorovanie používania našej Služby. Tieto údaje sú zdieľané s inými službami Google. Google môže použiť zozbierané údaje na kontextualizáciu a personalizáciu reklám svojej reklamnej siete. Môžete sa odhlásiť od poskytovania vašej aktivity v Službe Google Analytics inštaláciou doplnku pre prehliadač Google Analytics opt-out. Doplnok zabraňuje JavaScriptu Google Analytics (ga.js, analytics.js a dc.js) zdieľať informácie s Google Analytics o návštevách. Pre viac informácií o zásadách ochrany osobných údajov Google navštívte webovú stránku Google Privacy Terms.", 
+
+"privacy.your.access": "Právo na prístup, aktualizáciu alebo vymazanie informácií, ktoré o vás máme. Kedykoľvek je to možné, môžete priamo v sekcii nastavení účtu pristupovať k svojim osobným údajom, aktualizovať ich alebo požiadať o ich vymazanie. Ak tieto akcie nemôžete vykonať sami, kontaktujte nás, aby sme vám pomohli. Právo na opravu. Máte právo na opravu vašich informácií, ak sú nepresné alebo neúplné. Právo namietať. Máte právo namietať proti nášmu spracúvaniu vašich osobných údajov. Právo na obmedzenie. Máte právo požiadať o obmedzenie spracúvania vašich osobných informácií. Právo na prenosnosť údajov. Máte právo dostať kópiu informácií, ktoré o vás máme, v štruktúrovanej, strojovo čitateľnej a bežne používané forme. Právo odvolať súhlas. Máte tiež právo kedykoľvek odvolať svoj súhlas, ak sa Poskytovateľ spoliehal na váš súhlas pri spracúvaní vašich osobných údajov.", 
+
+ 
+
+  "google.adSense": "Google AdSense DoubleClick Cookie", 
+
+  "google.adSense.desc": "Google ako tretí poskytovateľ používa cookies na zobrazovanie reklám v našej Službe. Použitie DoubleClick cookie od Google umožňuje jemu a jeho partnerom zobrazovať reklamy našim používateľom na základe ich návštevy našej Služby alebo iných webových stránok na internete. Môžete sa odhlásiť od používania DoubleClick Cookie pre reklamu založenú na záujmoch návštevou stránky Google Ads Settings:", 
+
+  "google.adSense.provider": "Poskytovateľ používa remarketingové služby na zobrazovanie reklám na webových stránkach tretích strán po tom, ako ste navštívili našu Službu. My a naši poskytovatelia tretích strán používame cookies na informovanie, optimalizáciu a zobrazovanie reklám na základe vašich predchádzajúcich návštev našej Služby.", 
+
+  "google.adWords": "Google AdWords", 
+
+  "google.adWords.rec": "odporúča nainštalovať doplnok pre prehliadač Google Analytics Opt-out –", 
+
+  "google.also": "Google tiež", 
+
+  "google.analytics.your.browser": "– pre váš webový prehliadač. Doplnok Google Analytics Opt-out pre prehliadač poskytuje návštevníkom možnosť zabrániť zhromažďovaniu a používaniu ich údajov službou Google Analytics. Pre viac informácií o zásadách ochrany osobných údajov Google navštívte stránku Google Privacy Terms:", 
+
+  "facebook": "Facebook", 
+
+  "facebook.remarketing": "Facebook remarketingová služba je poskytovaná spoločnosťou Facebook Inc. Viac informácií o reklame založenej na záujmoch nájdete na tejto stránke:", 
+
+  "facebook.ad": "Ak sa chcete odhlásiť od reklám Facebooku založených na záujmoch, postupujte podľa týchto inštrukcií od Facebooku:", 
+
+  "facebook.adheres1": "Facebook sa riadi Samoreguláciou princípov online behaviorálnej reklamy vytvorenou Digital Advertising Alliance. Môžete sa taktiež odhlásiť od Facebooku a ďalších spoločností prostredníctvom Digital Advertising Alliance v USA ", 
+
+  "facebook.adheres2": "Digital Advertising Alliance of Canada v Kanade", 
+
+  "facebook.adheres3": "alebo European Interactive Digital Advertising Alliance v Európe", 
+
+  "facebook.adheres4": "alebo sa odhlásiť pomocou nastavení vášho mobilného zariadenia. Pre viac informácií o zásadách ochrany osobných údajov Facebooku navštívte Facebook Data Policy:", 
+
+"privacy.shouldNote": "Upozorňujeme, že vás môžeme požiadať o overenie identity pred vybavením takýchto požiadaviek.", 
+
+  "privacy.wishInformed": "Ak si želáte vedieť, aké osobné údaje o vás uchovávame a chcete ich odstrániť z našich systémov, kontaktujte nás.", 
+
+  "privacy.service_providers.description": "Môžeme zamestnať spoločnosti a jednotlivcov tretích strán, aby uľahčili našu Službu. Títo poskytovatelia majú prístup k vašim osobným údajom len na vykonanie úloh a sú povinní ich nezverejňovať ani nepoužívať na žiadny iný účel.", 
+
+  "privacy.bolgaria": "Ak sa nachádzate mimo Bulharska a rozhodnete sa nám poskytnúť informácie, upozorňujeme, že prenášame údaje, vrátane osobných údajov, do Bulharska a spracúvame ich tam.", 
+
+  "privacy.service_providers.analytics": "Môžeme použiť poskytovateľov služieb tretích strán, ako je Google Analytics, na monitorovanie a analýzu používania našej Služby.", 
+
+  "privacy.service_providers.advertising": "Môžeme používať poskytovateľov služieb tretích strán na zobrazovanie reklám, ktoré pomáhajú podporovať a udržiavať našu Službu", 
+
+  "privacy.service_providers.behavioral_remarketing": "Google AdWords remarketingová služba je poskytovaná spoločnosťou Google Inc. Môžete sa odhlásiť od Google Analytics pre zobrazovaciu reklamu a prispôsobiť reklamy v Google Display Network návštevou stránky Google Ads Settings:", 
+
+  "privacy.service_providers.links": "Naša Služba môže obsahovať odkazy na iné stránky, ktoré neprevádzkujeme. Prečítajte si Zásady ochrany osobných údajov týchto stránok.", 
+
+  "privacy.noControl": "Nemáme kontrolu a neprevzím zodpovednosť za obsah, zásady ochrany osobných údajov alebo postupy akýchkoľvek stránok alebo služieb tretích strán.", 
+
+  "privacy.child": "Ochrana osobných údajov detí", 
+
+  "privacy.service_providers.children": "Naša Služba nie je určená pre osoby mladšie ako 18 rokov („deti“). Úmyselne neshromažďujeme osobné identifikačné informácie od osôb mladších ako 18 rokov. Ak ste rodič alebo zákonný zástupca a viete, že vaše dieťa nám poskytlo osobné údaje, kontaktujte nás. Ak zistíme, že sme zhromaždili osobné údaje od detí bez overenia súhlasu rodičov, prijmeme opatrenia na odstránenie týchto informácií z našich serverov.", 
+
+  "privacy.changes": "Zmeny tejto Zásady ochrany osobných údajov", 
+
+  "privacy.service_providers.changes": "Môžeme čas od času aktualizovať našu Zásadu ochrany osobných údajov. Zmeny budú zverejnené na tejto stránke a/alebo oznámené e‑mailom.", 
+
+  "privacy.letKnow": "Oznámime vám to e‑mailom a/alebo výrazným oznámením v našej Službe pred tým, ako zmeny nadobudnú účinnosť, a aktualizujeme „dátum účinnosti“ v hornej časti tejto Zásady ochrany osobných údajov", 
+
+  "privacy.advises": "Odporúčame vám pravidelne kontrolovať túto Zásadu ochrany osobných údajov kvôli prípadným zmenám. Zmeny Zásady ochrany osobných údajov nadobúdajú účinnosť, keď sú zverejnené na tejto stránke.", 
+
+  "privacy.service_providers.contact": "Ak máte akékoľvek otázky k tejto Zásade ochrany osobných údajov, kontaktujte nás e‑mailom.",
+
+  "terms_title": "Podmienky používania",
+  "terms_intro_welcome": "Vitajte na Aivontrixen. Tieto Podmienky používania (\"Podmienky\") upravujú vaše zapojenie s našou platformou umiestnenou na Aivontrixen (\"Služba\") prevádzkovanou spoločnosťou Aivontrixen.",
+  "terms_intro_generator": "Naše Podmienky používania boli vyvinuté pomocou Generátora Podmienok používania.",
+  "terms_intro_acceptance_1": "Návštevou alebo používaním našej Služby súhlasíte s dodržiavaním týchto Podmienok. Ak máte akékoľvek námietky voči akejkoľvek časti týchto podmienok, nemôžete Službu používať.",
+  "terms_intro_changes": "Prosím, pochopte, že tieto Podmienky môžeme z času na čas upraviť a zmeny nadobudnú účinnosť okamžite po zverejnení. Vaše pokračujúce používanie platformy predstavuje súhlas s akýmikoľvek revidovanými alebo aktualizovanými podmienkami.",
+  "terms_intro_rejection": "Ak odmietnete niektorú z týchto Podmienok, prosím, neklikajte na tlačidlo \"SÚHLASÍM\" a prestaňte používať Webovú stránku.",
+  "terms_intro_website_def": "Webová stránka sa vzťahuje na Aivontrixen, dostupnú z Aivontrixen",
+  "section_1_title": "1. Používanie Webovej stránky a Služieb",
+  "section_1_access": "V súlade s tu stanovenými podmienkami môžete pristupovať a používať Webovú stránku za účelom využívania Služieb na neexkluzívnom základe.",
+  "section_1_modifications": "Beriete na vedomie, že Spoločnosť môže, podľa vlastného uváženia a kedykoľvek, upraviť, aktualizovať alebo inak zmeniť Webovú stránku alebo Služby, vrátane prerušenia poskytovania časti alebo všetkých Webových stránok a/alebo Služieb alebo úpravy alebo odstránenia akéhokoľvek obsahu dostupného prostredníctvom Webovej stránky alebo Služieb, bez predchádzajúceho upozornenia.",
+  "section_1_void": "Používanie Webovej stránky a Služieb je neplatné tam, kde je zakázané.",
+  "section_1_warranties_intro": "Používaním Webovej stránky a Služieb vyhlasujete a zaručujete, že:",
+  "section_1_warranties_a": "akékoľvek informácie, ktoré odošlete (ak sú relevantné), sú pravdivé a presné;",
+  "section_1_warranties_b": "budete udržiavať presnosť takýchto informácií; a",
+  "section_1_warranties_c": "máte aspoň vek plnoletosti vo vašej jurisdikcii; a",
+  "section_1_warranties_d": "vaše používanie Webovej stránky alebo Služieb neporušuje a nepodporuje porušenie akýchkoľvek platných zákonov alebo predpisov alebo akýchkoľvek právnych alebo zmluvných záväzkov, ktoré môžete mať voči tretej strane, a že ste neustále dodržiavali a budete dodržiavať všetky platné zákony, pravidlá a predpisy v súvislosti s vaším používaním Služieb a Webovej stránky, akýchkoľvek služieb dohodnutých prostredníctvom Služieb a Webovej stránky, vrátane, bez obmedzenia, takých služieb, ktoré sú akýmkoľvek spôsobom spojené s Produktmi alebo Tretími stranami, ako sú tieto pojmy definované tu.",
+  "section_1_undertakings_def": "Podsekcie (a)-(d) budú spoločne označované ako „Vyhlásenia a záruky užívateľa“.",
+  "section_1_verification": "Používaním Služieb alebo Webovej stránky chápete a súhlasíte s tým, že Spoločnosť môže, podľa vlastného uváženia, ale nie je povinná, overiť, či sú všetky alebo niektoré z Vyhlásení a záruk užívateľa dodržiavané akýmkoľvek Užívateľom, a ďalej súhlasíte s tým, že Spoločnosť nezodpovedá za zabezpečenie dodržiavania Vyhlásení a záruk užívateľa, ani za akékoľvek nepozastavenie, neukončenie alebo nezabránenie používaniu Služieb alebo Webovej stránky Užívateľmi, ktorí Vyhlásenia a záruky užívateľa nedodržiavajú.",
+  "section_1_responsibility": "Chápete, že ste **výhradne zodpovední** za vykonanie vlastných hodnotení, rozhodnutí a úsudkov o tom, či sa zapojiť do vzťahu s akoukoľvek Treťou stranou alebo inak interagovať s akoukoľvek Treťou stranou akýmkoľvek spôsobom.",
+  "section_1_reporting": "Ak sa dozviete o akomkoľvek porušení Vyhlásení a záruk užívateľa, odporúčame vám to **nahlásiť** Spoločnosti.",
+  "section_1_right_to_refuse": "Spoločnosť si vyhradzuje právo **neposkytnúť** vám žiadne Služby, s upozornením alebo bez neho, podľa vlastného uváženia, či už z dôvodu, že sa dozvie o akomkoľvek porušení Vyhlásení a záruk užívateľa (či už prostredníctvom správ poskytnutých inými Užívateľmi alebo inak) z vašej strany alebo zo strany akéhokoľvek iného Užívateľa, alebo z akéhokoľvek iného dôvodu.",
+  "section_1_disclaimer_main": "Bez ohľadu na vyššie uvedené, Spoločnosť **výslovne odmieta** akúkoľvek a všetku zodpovednosť, a vy **výslovne oslobodzujete** Spoločnosť od všetkých sporov, nárokov, súdnych konaní, zranení, strát, škôd a/alebo ujmy vyplývajúcich z a/alebo akýmkoľvek spôsobom súvisiacich s:",
+  "section_1_disclaimer_i": "akoukoľvek nepresnosťou, neaktuálnosťou alebo neúplnosťou vyhlásení Užívateľa alebo Tretej strany; a",
+  "section_1_disclaimer_ii": "nepravdivými vyhláseniami a/alebo skresleniami, urobenými buď vo vzťahu k, alebo akoukoľvek z Tretích strán alebo iných Užívateľov, Produktov alebo inak.",
+  "section_1_platform_only": "Používaním Webovej stránky a Služieb chápete a súhlasíte s tým, že Služby ponúkajú iba **platformu**, určenú na pomoc Užívateľom pri hľadaní, nákupe a/alebo používaní rôznych produktov a služieb poskytovaných dodávateľmi a/alebo poskytovateľmi služieb tretích strán, prostredníctvom reklám alebo propagačných akcií, ktoré prevádzkujeme (ďalej len „**Produkty**“ a „**Tretie strany**“).",
+  "section_1_company_a": "**nezamestnáva, neodporúča ani neschvaľuje** žiadne Tretie strany alebo Produkty, ak je to relevantné, ani žiadnu súvisiacu stranu, a **nemá kontrolu** nad činmi alebo opomenutiami akejkoľvek Tretej strany, ich podnikaním, ich produktmi alebo službami;",
+  "section_1_company_b": "**neposkytuje žiadne vyhlásenia ani záruky** týkajúce sa Tretích strán a Produktov, vrátane ich kvality, ceny, kompatibility, dostupnosti alebo akýchkoľvek iných vlastností, ani týkajúce sa vašich interakcií alebo obchodných vzťahov s akoukoľvek Treťou stranou;",
+  "section_1_company_c": "**neposkytuje žiadne vyhlásenia ani záruky** týkajúce sa vlastníckych alebo iných práv alebo regulačných charakteristík alebo aspektov súvisiacich s Produktmi, vrátane akéhokoľvek povolenia, licencie alebo oprávnenia vyžadovaného na nahrávanie, zdieľanie alebo iné sprístupnenie a na používanie, predaj a nákup takýchto Produktov; a",
+  "section_1_company_d": "**nezodpovedá** za výkon alebo správanie akéhokoľvek Užívateľa alebo iných tretích strán, ktoré používajú alebo používali Služby akýmkoľvek spôsobom, a/alebo na Webovej stránke alebo mimo nej.",
+  "section_1_no_screening": "Spoločnosť **nie je povinná preverovať** ani inak overovať akékoľvek informácie týkajúce sa Tretích strán a/alebo Užívateľov, Produktov alebo akejkoľvek inej funkcie súvisiacej s Webovou stránkou alebo Službami, a preto by ste mali **prijať opatrenia a vykonať vlastné prieskumy a overenia** predtým, ako sa zapojíte do vzťahu s kýmkoľvek prostredníctvom Služieb alebo Webovej stránky alebo inak s kýmkoľvek interagujete.",
+  "section_1_full_disclaimer": "Spoločnosť **výslovne odmieta** akúkoľvek a všetku zodpovednosť, a vy **výslovne oslobodzujete** Spoločnosť od všetkých sporov, nárokov, súdnych konaní, zranení, strát, škôd a/alebo ujmy vyplývajúcich z a/alebo akýmkoľvek spôsobom súvisiacich s Tretími stranami, Produktmi, Službami a Webovou stránkou alebo vašimi interakciami alebo obchodnými vzťahmi s akýmikoľvek Tretími stranami, vrátane, bez obmedzenia, akýchkoľvek činov a/alebo opomenutí Tretích strán, ktoré akýmkoľvek spôsobom používajú alebo sú spojené so Službami alebo Webovou stránkou.",
+  "section_1_risk": "Používaním Služieb alebo Webovej stránky beriete na vedomie, že ste **výhradne zodpovední** za takéto používanie a za pripojenia, interakcie, nákupy alebo akékoľvek iné kroky, ktoré podniknete, a že akékoľvek používanie Služieb alebo Webovej stránky je na vaše **výhradné riziko**.",
+  "section_1_no_sale": "Pre vylúčenie pochybností, Spoločnosť **nepredáva, nelicencuje ani inak nesprístupňuje** vám žiadne Produkty alebo služby (iné ako Služby) a **nebude niesť žiadnu zodpovednosť** za žiadne Produkty alebo služby, ktoré si zakúpite od akejkoľvek Tretej strany, vrátane, bez obmedzenia, pokiaľ ide o akúkoľvek podporu a údržbu, zlyhania, chyby, poruchy, škody alebo náklady akéhokoľvek druhu.",
+  "section_2_title": "2. Obmedzenia",
+  "section_2_intro": "Bez ohľadu na ustanovenia Sekcie 1 tohto dokumentu, **nesmiete** a nedovolíte tretej strane, aby:",
+  "section_2_a": "**reverzne analyzovala** alebo sa pokúsila zistiť zdrojový kód Webovej stránky alebo Služieb;",
+  "section_2_b": "**používala** Webovú stránku alebo Služby **v rozpore s akýmkoľvek platným zákonom alebo nariadením**, vrátane, ale nie výlučne, zverejňovania, publikovania, zdieľania alebo iného prenosu akéhokoľvek nezákonného alebo urážlivého materiálu;",
+  "section_2_c": "**kopírovala, menila alebo vytvárala odvodené diela** z Webovej stránky, Služieb alebo obsahu ktorejkoľvek z Webových stránok alebo Služieb;",
+  "section_2_d": "pokúšala sa **deaktivovať alebo obísť** akýkoľvek bezpečnostný mechanizmus alebo mechanizmus kontroly prístupu Webovej stránky alebo Služieb;",
+  "section_2_e": "**navrhovala alebo pomáhala pri navrhovaní** akýchkoľvek podvodov, exploitov, automatizačného softvéru, botov, hackov, modov alebo akéhokoľvek iného neautorizovaného softvéru tretej strany na úpravu alebo narušenie Webovej stránky alebo Služieb;",
+  "section_2_f": "používala Webovú stránku alebo Služby alebo interagovala s inými Užívateľmi na **akýkoľvek účel, ktorý porušuje akýkoľvek platný zákon alebo nariadenie**;",
+  "section_2_g": "pokúšala sa získať **neoprávnený prístup** k Webovej stránke alebo Službám, iným Užívateľským účtom, ako je definované nižšie, alebo iným zariadeniam, počítačovým systémom, telefónnym systémom alebo sieťam pripojeným k Webovej stránke alebo Službám; a",
+  "section_2_h": "**zbierať** alebo inak **zhromažďovať informácie** o Užívateľoch bez ich súhlasu.",
+  "section_2_content_warranties": "Ak zverejníte, nahráte, zdieľate alebo inak prenesiete akýkoľvek obsah prostredníctvom Webovej stránky a/alebo pomocou Služieb, vyhlasujete a zaručujete, že takýto obsah poskytuje **presný a úplný obraz** o akýchkoľvek produktoch alebo službách opísaných v ňom, **dodržiava tieto Podmienky** a **ne**:",
+  "section_2_content_a": "**porušuje** práva duševného vlastníctva, morálne alebo publikačné práva tretej strany;",
+  "section_2_content_b": "obsahuje akýkoľvek **hanlivý, urážlivý, obscénny, sexuálne sugestívny alebo inak neprípustný obsah** (vrátane materiálu, ktorý propaguje alebo oslavuje nenávisť, násilie alebo neznášanlivosť);",
+  "section_2_content_c": "obsahuje **akékoľvek červy, vírusy alebo inak škodlivý softvér**;",
+  "section_2_content_d": "**porušuje** akýkoľvek platný zákon alebo nariadenie, vrátane akéhokoľvek zákona alebo nariadenia o reklame alebo marketingu; a",
+  "section_2_content_e": "vykonáva akúkoľvek činnosť, ktorá ukladá **neopodstatnenú alebo neprimerane veľkú záťaž** na našu infraštruktúru.",
+  "section_2_license_grant": "Zverejnením, nahraním, publikovaním, zdieľaním alebo iným prenosom akéhokoľvek obsahu pomocou Webovej stránky alebo Služieb **neodvolateľne udeľujete** Spoločnosti a jej pridruženým spoločnostiam a/alebo sublicenciátom **celosvetovú, nevýhradnú, trvalú a bezplatnú licenciu** na publikovanie, zdieľanie, zobrazovanie a iný prenos takého obsahu v akejkoľvek rozumnej forme, ako bude **výhradne na uvážení Spoločnosti**.",
+  "section_2_removal_right": "Spoločnosť si vyhradzuje právo **odstrániť, pozastaviť prístup alebo natrvalo vymazať** akýkoľvek obsah podľa svojho **výhradného uváženia bez predchádzajúceho upozornenia**, vrátane, bez obmedzenia, akéhokoľvek obsahu, ktorý porušuje vyššie uvedené záruky alebo obchodné záujmy Spoločnosti, a **nebudete mať žiadne právo ani nárok** v súvislosti s akýmikoľvek takými rozhodnutiami a krokmi.",
+  "section_2_no_liability_content": "Spoločnosť **nie je** a nebude **zodpovedná** za akýkoľvek obsah poskytnutý, zverejnený, nahraný, zdieľaný alebo inak sprístupnený Užívateľmi, akékoľvek produkty alebo služby súvisiace s takýmto obsahom poskytnutým, zverejneným, nahraným, zdieľaným alebo inak sprístupneným Užívateľmi. Každý Užívateľ, ktorý používa Webovú stránku alebo Služby, týmto vyhlasuje, že preberá **úplnú zodpovednosť** v tomto ohľade, a Spoločnosť **nebude mať žiadnu zodpovednosť** v súvislosti s vyššie uvedeným.",
+  "section_3_title": "3. Propagačné materiály a bulletiny",
+  "section_3_consent": "Okrem ustanovení Sekcie 3 vyššie, Užívateľ dáva svoj **výslovný súhlas** Spoločnosti na poskytovanie propagačných materiálov a bulletinov („**Propagačné materiály a Bulletiny**“) Užívateľovi **akýmikoľvek dostupnými prostriedkami**, vrátane e-mailu, textových a SMS správ, faxu, pošty, automatizovaných služieb vytáčania alebo akýmkoľvek iným spôsobom, a to všetko podľa **výhradného uváženia Spoločnosti**, z času na čas, a na **prijímanie** takýchto Propagačných materiálov a Bulletinov.",
+  "section_3_third_party_ads": "Užívateľ ďalej berie na vedomie, že Propagačné materiály a Bulletiny môžu zahŕňať **reklamu tretích strán**, a **výslovne súhlasí** s prijímaním takýchto reklám ako súčasti Propagačných materiálov a Bulletinov.",
+  "section_3_unsubscribe": "Užívateľ môže **kontaktovať** Spoločnosť kedykoľvek odoslaním žiadosti e-mailom, v ktorej oznámi Spoločnosti svoje odmietnutie pokračovať v prijímaní Propagačných materiálov a Bulletinov.",
+  "section_4_title": "4. Duševné vlastníctvo",
+  "section_4_ownership": "Spoločnosť je vlastníkom všetkých celosvetových práv, titulov a záujmov v: (a) Webovej stránke a Službách, vylepšeniach, odvodených dielach, opravách chýb alebo zlepšeniach Webovej stránky a Služieb; a (b) obchodných názvoch, ochranných známkach a logách Spoločnosti a vždy zostanú **výhradne Spoločnosti**.",
+  "section_4_license_meaning": "Všetky odkazy v týchto Podmienkach alebo v akejkoľvek inej komunikácii na predaj, ďalší predaj alebo nákup vyššie uvedeného znamenajú iba **právo používať Webovú stránku a Služby** podľa týchto Podmienok.",
+  "section_4_user_liability": "Užívatelia nesú **výhradnú zodpovednosť** za akýkoľvek a všetok obsah, vrátane akýchkoľvek práv duševného vlastníctva naň, poskytnutý, zdieľaný alebo inak sprístupnený Užívateľmi pomocou Webovej stránky a/alebo Služieb, a Spoločnosť **neposkytuje žiadne vyhlásenia** s ohľadom na akýkoľvek takýto obsah. Spoločnosť **nebude zodpovedná** za akékoľvek straty alebo škody vzniknuté takýmto obsahom a Užívatelia súhlasia, že **odškodnia** a **oslobodia** Spoločnosť od akýchkoľvek škôd alebo strát vyplývajúcich z vyššie uvedeného.",
+  "section_5_title": "5. Ochrana osobných údajov",
+  "section_5_no_save": "Zaväzujete sa **neukladať, nezhromažďovať ani inak neuchovávať** vo svojom vlastníctve a nepoužívať **žiadny obsah** poskytovaný Službami a Webovou stránkou **bez predchádzajúceho písomného súhlasu** Spoločnosti.",
+  "section_5_company_rights": "Ďalej beriete na vedomie, že Spoločnosť si vyhradzuje právo, podľa vlastného uváženia, **ukladať, zhromažďovať alebo inak uchovávať** vo vlastníctve a používať **akýkoľvek obsah a verejné informácie**, vrátane informácií, ktoré môžu **osobne identifikovať vás** alebo akéhokoľvek iného Užívateľa alebo Tretiu stranu alebo opisovať vaše osobné záujmy.",
+  "section_5_privacy_policy": "Spoločnosť si vyhradzuje právo vykonávať **akékoľvek povolené použitie** v súlade s akýmkoľvek platným zákonom takýchto obsahov a verejných informácií, ako je uvedené v **Zásadách ochrany osobných údajov Spoločnosti**.",
+  "section_5_no_verification": "Bez ohľadu na ustanovenia Sekcie 1 vyššie, Spoločnosť **nepreveruje, netestuje, nepotvrdzuje, neschvaľuje ani inak neoveruje** žiadny takýto obsah alebo verejné informácie.",
+  "section_5_user_responsibility": "Každý Užívateľ, ktorý zverejní, nahrá, zdieľa alebo inak sprístupní takýto obsah alebo verejné informácie, bude niesť **výhradnú zodpovednosť** za obsah alebo verejné informácie, vrátane akýchkoľvek informácií tretích strán a **potrebných súhlasov**.",
+  "section_5_indemnification": "Spoločnosť **nebude zodpovedná** za akúkoľvek stratu alebo škodu vzniknutú nedodržaním vyššie uvedeného a súhlasíte, že **odškodníte** a **oslobodíte** Spoločnosť od akýchkoľvek škôd alebo strát vyplývajúcich z vyššie uvedeného.",
+  "section_5_not_storage": "BEZ OHĽADU NA VYŠŠIE UVEDENÉ, CHÁPETE A BERIETE NA VEDOMIE, ŽE SPOLOČNOSŤ **NIE JE SLUŽBA NA UKLADANIE OBSAHU**. SPOLOČNOSŤ **NEBUDE MAŤ ŽIADNU ZODPOVEDNOSŤ** ZA ŽIADNY **STRATENÝ ALEBO VYMAZANÝ OBSAH** ALEBO VEREJNÉ INFORMÁCIE.",
+  "section_5_public_warning": "MALI BY STE SI BYŤ VEDOMÍ, ŽE **AKÝKOĽVEK OBSAH** zverejnený, nahraný, zdieľaný alebo inak sprístupnený **MÔŽU ČÍTAŤ, ZBIERAŤ A POUŽÍVAŤ INÍ UŽÍVATELIA** A MÔŽE BYŤ POUŽITÝ NA ODOSIELANIE **NEVYŽIADANÉHO OBSAHU**.",
+  "section_6_title": "6. Odkazy",
+  "section_6_description": "Webová stránka alebo Služby môžu obsahovať odkazy alebo iný obsah súvisiaci s webovými stránkami, inzerentmi, vydavateľmi alebo Produktmi ponúkanými tretími stranami. Spoločnosť **nemá kontrolu** a **neposkytuje žiadne vyhlásenia** s ohľadom na ne alebo na akékoľvek informácie poskytnuté alebo prenesené prostredníctvom nich, alebo inak poskytnuté akoukoľvek takou treťou stranou.",
+  "section_6_risk": "CHÁPETE A SÚHLASÍTE S TÝM, ŽE POUŽÍVANIE TAKÝCHTO ODKAZOV ALEBO INÉHO OBSAHU JE NA VAŠE **VÝHRADNÉ RIZIKO**, ŽE TAKÉTO ODKAZY ALEBO INÝ OBSAH SA RIADIA **PODMIENKAMI POUŽÍVANIA A ZÁSADAMI OCHRANY OSOBNÝCH ÚDAJOV TÝCHTO TRETÍCH STRÁN** A ŽE SPOLOČNOSŤ **NEZODPOVEDÁ** ZA PRAVIDLÁ OCHRANY OSOBNÝCH ÚDAJOV ANI ZA OBCHODNÉ ALEBO INÉ PRAVIDLÁ TAKÝCHTO TRETÍCH STRÁN.",
+  "section_6_review_advice": "Mali by ste si **starostlivo preštudovať** príslušné podmienky a pravidlá, ktoré sa vzťahujú na akúkoľvek takúto Tretiu stranu.",
+  "section_6_full_disclaimer": "SPOLOČNOSŤ **NEZODPOVEDÁ** ŽIADNYM SPÔSOBOM ZA TAKÚTO **TRETIU STRANU** ANI ZA ŽIADNU **STRATU ALEBO ŠKODU** AKÉHOKOĽVEK DRUHU VZNIKNUTÚ V DÔSLEDKU TOHO, A SPOLOČNOSŤ **VÝSLOVNE ODMIETA** AKÚKOĽVEK A VŠETKU ZODPOVEDNOSŤ, A VY **VÝSLOVNE OSLOBODZUJETE** SPOLOČNOSŤ OD VŠETKÝCH SPOROV, NÁROKOV, SÚDNYCH KONANÍ, ZRANENÍ, STRÁT, ŠKÔD A/ALEBO UJMY, VZNIKAJÚCICH Z A/ALEBO AKÝMKOĽVEK SPÔSOBOM **SÚVISIACICH S TAKÝMITO TRETÍMI STRANAMI**, VRÁTANE, BEZ OBMEDZENIA, SÚVISIACICH S DOSTUPNOSŤOU, PODMIENKAMI POUŽÍVANIA, OCHRANOU OSOBNÝCH ÚDAJOV, INFORMÁCIAMI, OBSAHOM, MATERIÁLMI, REKLAMOU, POPLATKAMI, PRODUKTMI A/ALEBO SLUŽBAMI.",
+  "section_7_title": "7. Zakázané použitie",
+  "section_7_commercial": "Webová stránka a Služby **nesmú byť použité** v súvislosti s **žiadnymi komerčnými podnikmi** (pokiaľ to Spoločnosť výslovne nepovolí pri spájaní Užívateľov s akýmikoľvek Tretími stranami) **bez predchádzajúceho písomného súhlasu** Spoločnosti.",
+  "section_7_recruitment": "Webová stránka a Služby **nesmú byť použité** žiadnou osobou ani organizáciou na **nábor** pre inú webovú stránku, **vyžiadanie, inzerovanie alebo kontaktovanie** Užívateľov akýmkoľvek spôsobom pre **zamestnanie, uzatváranie zmlúv alebo akýkoľvek iný účel** pre firmu **nezdruženú** so Spoločnosťou **bez predchádzajúceho písomného súhlasu** Spoločnosti.",
+  "section_7_user_contact": "Súhlasíte s tým, že **nebudete používať** Služby a Webovú stránku na **kontaktovanie, inzerovanie, vyžiadanie alebo predaj** akémukoľvek inému Užívateľovi **bez jeho výslovného súhlasu**, pokiaľ to nie je povolené podľa týchto Podmienok.",
+  "section_8_title": "8. Podpora",
+  "section_8_text": "Užívatelia môžu **kontaktovať** Spoločnosť v súvislosti s podporou pre Webovú stránku a Služby, a to **odoslaním e-mailu**",
+  "section_9_title": "9. Zrieknutie sa zodpovednosti",
+  "section_9_security": "Spoločnosť vynakladá **primerané úsilie** na zabezpečenie toho, aby jej technológia udržiavala Webovú stránku a Služby bezpečné. Žiadna **technológia však nie je 100% bezpečná**. Preto, hoci sa snažíme používať komerčne prijateľné prostriedky na ochranu vašich osobných údajov, **nemôžeme zaručiť ich absolútnu bezpečnosť**.",
+  "section_9_as_is": "Okrem prípadov, keď je to tu výslovne uvedené, vaše používanie Webovej stránky a Služieb je na vaše **výhradné riziko a uváženie**. Webová stránka a Služby sú poskytované na základe „**TAK, AKO SÚ**“ a „**PODĽA DOSTUPNOSTI**“ **bez záruk** akéhokoľvek druhu.",
+  "section_9_no_warranties": "Spoločnosť **výslovne odmieta všetky implicitné alebo zákonné záruky** akéhokoľvek druhu v súvislosti s Webovou stránkou a Službami, vrátane, bez obmedzenia, záruk vlastníckeho práva, obchodovateľnosti, vhodnosti na konkrétny účel, neporušovania vlastníckych práv, priebehu obchodovania alebo priebehu výkonu.",
+  "section_9_no_advice": "Spoločnosť **neposkytuje žiadne rady** týkajúce sa rizika alebo vhodnosti akéhokoľvek obchodovania, transakcie alebo zapojenia. Spoločnosť **nepreberá žiadnu zodpovednosť** za akúkoľvek transakciu alebo zapojenie, ktoré vykonáte, a beriete na vedomie, že ste **výhradne zodpovední** za posúdenie svojich transakcií a zapojení.",
+  "section_9_no_liability_advice": "**Nebudete brať na zodpovednosť** Spoločnosť, jej úradníkov, zamestnancov alebo pridružené spoločnosti za akékoľvek voľby transakcií alebo zapojení, ktoré urobíte.",
+  "section_9_no_created_warranty": "Žiadne rady ani informácie, ústne alebo písomné, ktoré získate od Spoločnosti alebo jej úradníkov, zamestnancov alebo pridružených spoločností, **nevytvoria žiadnu záruku**, ktorá nie je výslovne uvedená v týchto Podmienkach. Ak sa rozhodnete spoliehať sa na takéto informácie, robíte tak **výhradne na vlastné riziko**.",
+  "section_9_jurisdiction_note": "Niektoré štáty alebo jurisdikcie **nepovoľujú** vylúčenie určitých záruk. V dôsledku toho sa na vás niektoré z vyššie uvedených vylúčení **nemusia vzťahovať**.",
+  "section_10_title": "10. Obmedzenie zodpovednosti",
+  "section_10_no_guarantee": "Spoločnosť **nezaručuje** hodnotu, kvalitu, kompatibilitu ani žiadnu inú charakteristiku Tretích strán, Produktov alebo akýchkoľvek iných informácií poskytnutých, spotrebovaných alebo inak sprístupnených (ďalej v tejto Sekcii: „**Charakteristiky**“). Každá Charakteristika je **výhradnou zodpovednosťou** príslušnej Tretej strany alebo Užívateľa, ktorý ju používa, ak je to relevantné, alebo používa Služby alebo Webovú stránku.",
+  "section_10_monitoring": "Spoločnosť **sa nezaväzuje** monitorovať takéto dodržiavanie a môže podniknúť kroky, ak sa zistí nedodržanie, ako bude rozhodnuté v súlade s jej **výhradným uvážením**, ako je opísané v týchto Podmienkach.",
+  "section_10_exposure": "Chápete a súhlasíte s tým, že môžete byť vystavení obsahu alebo iným informáciám, ktoré sú **nepresné, nežiaduce, nevhodné** pre deti alebo inak **nevhodné** pre vás.",
+  "section_10_technical": "Spoločnosť **nezodpovedá** za žiadne problémy alebo **technické poruchy** akejkoľvek telefónnej siete alebo liniek, online počítačových systémov, serverov alebo poskytovateľov, počítačového vybavenia, softvéru, zlyhania akéhokoľvek e-mailu z dôvodu technických problémov alebo preťaženia prevádzky na internete alebo na ktorejkoľvek z Webových stránok alebo Služieb alebo ich kombinácie, vrátane akéhokoľvek zranenia alebo **škody Užívateľom** alebo počítaču, mobilnému telefónu alebo akémukoľvek inému zariadeniu akejkoľvek osoby súvisiaceho s účasťou alebo sťahovaním materiálov v súvislosti s Webovou stránkou alebo Službami alebo vyplývajúcich z nich.",
+  "section_10_conduct": "Za **žiadnych okolností** nenesie Spoločnosť **zodpovednosť** za **správanie tretích strán**, vrátane akéhokoľvek Užívateľa, online alebo offline, a prevádzkovateľov externých stránok.",
+  "section_10_no_indirect": "V **žiadnom prípade** nenesie Spoločnosť ani žiadny z jej úradníkov, riaditeľov, zamestnancov alebo zástupcov **zodpovednosť voči vám** za akékoľvek **nepriame, náhodné, špeciálne, trestné alebo následné škody**, vyplývajúce z alebo súvisiace s vaším používaním Webovej stránky alebo Služieb, **bez ohľadu na to, či sú škody predvídateľné** a **bez ohľadu na to, či bola Spoločnosť upozornená** na možnosť takýchto škôd.",
+  "section_10_full_extent": "Vyššie uvedené obmedzenie zodpovednosti sa bude uplatňovať v **maximálnom rozsahu povolenom zákonom** v príslušnej jurisdikcii.",
+  "section_11_title": "11. Odškodnenie",
+  "section_11_text": "Budete **brániť, odškodňovať a oslobodzovať** Spoločnosť od a proti akýmkoľvek a všetkým **žalobám, konaniam, tvrdeniam, škodám, nákladom, záväzkom alebo výdavkom** (vrátane súdnych trov a primeraných poplatkov za právne zastúpenie), ktoré môže Spoločnosť **utrpieť alebo jej vzniknú** v súvislosti s akýmkoľkoľvek skutočným nárokom, požiadavkou, žalobou alebo iným konaním akejkoľvek tretej strany vyplývajúcim z alebo súvisiacim s **akýmkoľvek porušením týchto Podmienok** z vašej strany alebo **akýmkoľvek použitím** Webovej stránky alebo Služieb z vašej strany, **ktoré nie je v súlade s platnými zákonmi**.",
+  "section_12_title": "12. Rôzne ustanovenia",
+  "section_12_governing_law": "Tieto Podmienky sa riadia **zákonmi Anglicka**, s výnimkou jeho kolíznych noriem, a bez ohľadu na Dohovor Organizácie Spojených národov o zmluvách o medzinárodnej kúpe tovaru. Vaše správanie môže podliehať aj iným miestnym, štátnym a národným zákonom.",
+  "section_12_jurisdiction": "Akékoľvek **spory** vyplývajúce z týchto Podmienok alebo súvisiace s Webovou stránkou alebo Službou budú definitívne vyriešené **príslušnými súdmi v Anglicku**.",
+  "section_12_no_class_action": "**Nemôžete začať žiadne skupinové žaloby** proti Spoločnosti a používaním Webovej stránky alebo Služieb súhlasíte s **vzdáním sa svojich práv** na začatie akýchkoľvek takýchto skupinových žalôb.",
+  "section_12_limitation_period": "Akékoľvek **právo na podanie žaloby** proti Spoločnosti musí byť začaté **do jedného (1) roka** od dátumu, kedy takéto právo na podanie žaloby vzniklo.",
+  "section_12_severability": "V prípade, že sa zistí, že akékoľvek ustanovenie týchto Podmienok je **nevymáhateľné**, takéto ustanovenie bude **nahradené vymáhateľným ustanovením**, ktoré najlepšie dosahuje účinok pôvodného ustanovenia, a zvyšné podmienky týchto Podmienok zostanú v **plnej platnosti a účinnosti**.",
+  "section_12_no_agency": "Nič, čo je obsiahnuté v týchto Podmienkach, **nevytvára žiadny vzťah zastúpenia, zamestnania, spoločného podniku alebo partnerstva** medzi vami a Spoločnosťou ani vás neoprávňuje konať v mene Spoločnosti.",
+  "section_12_entire_agreement": "Okrem prípadov, keď je to výslovne uvedené v týchto Podmienkach, tieto Podmienky predstavujú **celú dohodu** medzi Spoločnosťou a vami, pokiaľ ide o jej predmet.",
+  "section_12_notices": "Akékoľvek **oznámenie**, ktoré vám môžeme byť povinní poskytnúť, či už zo zákona alebo podľa týchto Podmienok, môže byť poskytnuté Spoločnosťou na **akékoľvek kontaktné informácie**, ktoré ste uviedli v informáciách o vašom Účte alebo inak, priamo alebo nepriamo, vrátane **e-mailu**. Výslovne súhlasíte s prijímaním takýchto oznámení a upozornení takýmto spôsobom.",
+  "section_12_no_assignment": "**Nesmiete postúpiť** žiadne práva podľa tohto dokumentu **bez nášho predchádzajúceho písomného súhlasu**.",
+  "section_12_no_limitation": "Nič, čo je obsiahnuté v týchto Podmienkach, sa nebude vykladať tak, že **obmedzuje kroky alebo nápravné opatrenia**, ktoré má Spoločnosť k dispozícii v súvislosti s akoukoľvek zakázanou činnosťou alebo správaním.",
+  "section_12_no_waiver": "**Nevymáhanie** akéhokoľvek pojmu týchto Podmienok **nebude predstavovať súhlas alebo vzdanie sa práva**, a Spoločnosť si vyhradzuje právo vymáhať takýto pojem podľa svojho **výhradného uváženia**. Žiadne vzdanie sa práva na akékoľvek porušenie alebo zlyhanie tu nebude považované za vzdanie sa práva na akékoľvek predchádzajúce alebo následné porušenie alebo zlyhanie.",
+  "section_12_viewer_responsibility": "Je **výhradnou zodpovednosťou diváka** posúdiť presnosť, úplnosť alebo užitočnosť akýchkoľvek informácií, názorov, rád alebo iného obsahu na Stránke."
+
 }

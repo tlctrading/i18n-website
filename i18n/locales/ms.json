@@ -115,5 +115,359 @@
     "contact.input.email": "Emel Anda",
     "contact.input.message": "Mesej Anda",
     "contact.button": "Hantar Mesej",
-    "contact.success": "Mesej anda berjaya dihantar!"
+    "contact.success": "Mesej anda berjaya dihantar!",
+
+     "privacy.title": "Polisi Privasi", 
+
+  "privacy.intro.provider": "Penyedia (\"us\", \"we\", or \"our\") mengurus platform Aivontrixen (\"Service\").", 
+
+  "privacy.intro.description": "Dokumen ini menggariskan amalan kami mengenai pengumpulan, penggunaan, dan perkongsian maklumat peribadi apabila anda menggunakan Perkhidmatan kami serta pilihan yang tersedia kepada anda mengenai maklumat tersebut.", 
+
+  "privacy.intro.usage": "Kami, Aivontrixen, menggunakan maklumat anda untuk menyampaikan dan meningkatkan Perkhidmatan. Dengan menggunakan Perkhidmatan, anda bersetuju dengan pengumpulan dan penggunaan data seperti yang dinyatakan dalam dasar ini. Kecuali ditakrifkan secara khusus dalam Polisi Privasi ini, istilah yang digunakan di sini mempunyai makna yang sama seperti dalam Terma dan Syarat kami, yang tersedia dari Aivontrixen.", 
+
+   
+
+  "privacy.toc.definitions": "Definisi", 
+
+  "privacy.toc.definitions.service": "Perkhidmatan", 
+
+  "privacy.toc.definitions.personal_data": "Data Peribadi", 
+
+  "privacy.toc.definitions.usage_data": "Data Penggunaan", 
+
+  "privacy.toc.definitions.cookies": "Kuki", 
+
+  "privacy.toc.definitions.data_controller": "Pengawal Data", 
+
+  "privacy.toc.definitions.data_processors": "Pemproses Data (atau Penyedia Perkhidmatan)", 
+
+  "privacy.toc.definitions.data_subject": "Subjek Data (atau Pengguna)", 
+
+   
+
+  "privacy.toc.info_collection": "Pengumpulan dan Penggunaan Maklumat", 
+
+  "privacy.toc.info_collection.types_of_data": "Jenis Data yang Dikumpul", 
+
+  "privacy.toc.info_collection.personal_data": "Data Peribadi", 
+
+  "privacy.toc.info_collection.usage_data": "Data Penggunaan", 
+
+  "privacy.toc.info_collection.tracking_cookies": "Data Kuki Penjejakan", 
+
+  "privacy.toc.info_collection.use_of_data": "Penggunaan Data", 
+
+  "privacy.toc.info_collection.legal_basis": "Asas Undang-undang untuk Memproses Data Peribadi di bawah Peraturan Perlindungan Data Umum (GDPR)", 
+
+  "privacy.toc.info_collection.retention": "Penyimpanan Data", 
+
+   
+
+  "privacy.toc.transfer": "Pemindahan Data", 
+
+  "privacy.toc.transfer.disclosure": "Pendedahan Data", 
+
+  "privacy.toc.transfer.disclosure.business_transaction": "Transaksi Perniagaan", 
+
+  "privacy.toc.transfer.legal_requirements": "Keperluan Undang-undang", 
+
+  "privacy.toc.transfer.security": "Keselamatan Data", 
+
+  "privacy.toc.transfer.rights_gdpr": "Hak Perlindungan Data Anda di bawah Peraturan Perlindungan Data Umum (GDPR)", 
+
+   
+
+  "privacy.toc.service_providers": "Penyedia Perkhidmatan", 
+
+  "privacy.toc.service_providers.analytics": "Analitik", 
+
+  "privacy.toc.service_providers.advertising": "Pengiklanan", 
+
+  "privacy.toc.service_providers.behavioral_remarketing": "Pemasaran Semula Tingkah Laku", 
+
+  "privacy.toc.service_providers.links": "Pautan ke Laman Lain", 
+
+  "privacy.toc.service_providers.changes": "Perubahan kepada Polisi Privasi Ini", 
+
+  "privacy.toc.service_providers.contact": "Hubungi Kami", 
+
+"privacy.definitions.service": "Perkhidmatan adalah laman web Aivontrixen yang dioperasikan oleh Penyedia", 
+
+  "privacy.definitions.personal_data": "Data Peribadi bermaksud data mengenai individu yang hidup yang boleh dikenalpasti daripada data tersebut (atau daripada data tersebut dan maklumat lain yang berada dalam milik kami atau berkemungkinan akan menjadi milik kami).", 
+
+  "privacy.definitions.usage_data": "Data Penggunaan adalah data yang dikumpul secara automatik sama ada dijana oleh penggunaan Perkhidmatan atau daripada infrastruktur Perkhidmatan itu sendiri (contohnya, tempoh lawatan halaman).", 
+
+  "privacy.definitions.cookies": "Kuki ialah kepingan kecil data yang disimpan pada peranti anda (komputer atau peranti mudah alih).", 
+
+  "privacy.definitions.data_controller": "Pengawal Data bermaksud individu semula jadi atau undang-undang yang (sama ada bersendirian atau bersama-sama atau secara bersama dengan orang lain) menentukan tujuan dan cara mana-mana maklumat peribadi diproses, atau akan diproses. Untuk tujuan Polisi Privasi ini, kami adalah Pengawal Data bagi Data Peribadi anda.", 
+
+  "privacy.definitions.data_processors": "Pemproses Data (atau Penyedia Perkhidmatan) bermaksud mana-mana individu semula jadi atau undang-undang yang memproses data bagi pihak Pengawal Data. Kami mungkin menggunakan perkhidmatan pelbagai Penyedia Perkhidmatan untuk memproses data anda dengan lebih berkesan.", 
+
+  "privacy.definitions.data_subject": "Subjek Data ialah mana-mana individu yang hidup yang menggunakan Perkhidmatan kami dan merupakan subjek Data Peribadi.", 
+
+ 
+
+  "privacy.provider.take": "Penyedia akan mengambil semua langkah yang munasabah untuk memastikan data anda diperlakukan dengan selamat dan mengikut Polisi Privasi ini dan tiada pemindahan Data Peribadi anda akan berlaku kepada organisasi atau negara melainkan terdapat kawalan yang mencukupi termasuk keselamatan data anda dan maklumat peribadi lain.", 
+
+ 
+
+  "privacy.info_collection.description": "Kami mengumpul pelbagai jenis maklumat untuk pelbagai tujuan bagi menyediakan dan meningkatkan Perkhidmatan kami kepada anda.", 
+
+  "privacy.info_collection.personal_data.description": "Semasa menggunakan Perkhidmatan kami, kami mungkin meminta anda menyediakan maklumat peribadi yang dapat digunakan untuk menghubungi atau mengenal pasti anda (“Data Peribadi”). Maklumat peribadi boleh merangkumi, tetapi tidak terhad kepada:", 
+
+  "privacy.info.user1": "Alamat e-mel", 
+
+  "privacy.info.user2": "Nama pertama dan nama terakhir", 
+
+  "privacy.info.user3": "Nombor telefon", 
+
+  "privacy.info.user4": "Alamat, Negeri, Wilayah, Kod Pos, Bandar", 
+
+  "privacy.info.user5": "Kuki dan Data Penggunaan", 
+
+  "privacy.info_collection.personal_data.usage": "Kami mungkin menggunakan Data Peribadi anda untuk menghubungi anda dengan surat berita, bahan pemasaran atau promosi dan maklumat lain yang mungkin menarik bagi anda. Anda boleh memilih untuk tidak menerima apa-apa, atau semua, komunikasi ini daripada kami dengan mengikuti pautan berhenti melanggan atau arahan yang diberikan dalam sebarang e-mel yang kami hantar atau dengan menghubungi kami.", 
+
+  "privacy.info_collection.usage_data.description": "Kami juga boleh mengumpul maklumat mengenai cara Perkhidmatan diakses dan digunakan (“Data Penggunaan”). Data Penggunaan ini mungkin termasuk maklumat seperti alamat Protokol Internet komputer anda (contoh: alamat IP), jenis pelayar, versi pelayar, halaman Perkhidmatan kami yang anda lawati, masa dan tarikh lawatan anda, masa yang diluangkan pada halaman tersebut, pengecam peranti unik dan data diagnostik lain.", 
+
+  "privacy.info_collection.cookies.description": "Kami menggunakan kuki dan teknologi penjejakan serupa untuk menjejaki aktiviti pada Perkhidmatan kami dan menyimpan maklumat tertentu.", 
+
+  "privacy.info.collection.cookies.description1": "Kuki ialah fail dengan sedikit data yang mungkin termasuk pengecam unik tanpa nama. Kuki dihantar ke pelayar anda dari laman web dan disimpan pada peranti anda. Teknologi penjejakan yang juga digunakan ialah beacons, tag, dan skrip untuk mengumpul dan menjejaki maklumat serta untuk meningkatkan dan menganalisis Perkhidmatan kami.", 
+
+  "privacy.info.collection.cookies.instruct": "Anda boleh mengarahkan pelayar anda untuk menolak semua kuki atau menunjukkan bila kuki dihantar. Walau bagaimanapun, jika anda tidak menerima kuki, anda mungkin tidak dapat menggunakan beberapa bahagian Perkhidmatan kami.", 
+
+  "privacy.info_collection.cookies.examples": "Contoh Kuki yang kami gunakan:", 
+
+  "privacy.example1": "Kuki Sesi.", 
+
+  "privacy.example1.description": "Kami menggunakan Kuki Sesi untuk mengoperasikan Perkhidmatan kami.", 
+
+  "privacy.example2": "Kuki Keutamaan.", 
+
+  "privacy.example2.description": "Kami menggunakan Kuki Keutamaan untuk mengingati keutamaan dan pelbagai tetapan anda.", 
+
+  "privacy.example3": "Kuki Keselamatan.", 
+
+  "privacy.example3.description": "Kami menggunakan Kuki Keselamatan untuk tujuan keselamatan.", 
+
+  "privacy.example4": "Kuki Pengiklanan.", 
+
+  "privacy.example4.description": "Kuki Pengiklanan digunakan untuk menyajikan iklan yang mungkin relevan dengan anda dan minat anda.", 
+
+ 
+
+  "privacy.info_collection.use_of_data": "Penyedia menggunakan data yang dikumpul untuk pelbagai tujuan termasuk:", 
+
+  "provider1": "Untuk menyediakan dan menyelenggara Perkhidmatan kami", 
+
+  "provider2": "Untuk memberitahu anda tentang perubahan pada Perkhidmatan kami", 
+
+  "provider3": "Untuk membenarkan anda menyertai ciri interaktif Perkhidmatan kami apabila anda memilih untuk melakukannya", 
+
+  "provider4": "Untuk menyediakan sokongan pelanggan", 
+
+  "provider5": "Untuk mengumpul analisis atau maklumat berharga supaya kami dapat memperbaiki Perkhidmatan kami", 
+
+  "provider6": "Untuk memantau penggunaan Perkhidmatan kami", 
+
+  "provider7": "Untuk mengesan, mencegah dan menangani isu teknikal", 
+
+  "provider8": "Untuk menyediakan anda dengan berita, tawaran istimewa dan maklumat umum mengenai barangan, perkhidmatan dan acara lain yang kami tawarkan yang serupa dengan yang telah anda beli atau tanya melainkan anda telah memilih untuk tidak menerima maklumat tersebut", 
+
+  "providerText": "Penyedia juga akan menyimpan Data Penggunaan untuk tujuan analisis dalaman. Data Penggunaan biasanya disimpan untuk tempoh yang lebih singkat, kecuali apabila data ini digunakan untuk menguatkan keselamatan atau memperbaiki fungsi Perkhidmatan kami, atau kami diwajibkan secara undang-undang untuk menyimpan data ini untuk tempoh yang lebih lama", 
+
+  "privacy.info_collection.legal_basis": "Jika anda berada di Kawasan Ekonomi Eropah (EEA), asas undang-undang Penyedia untuk mengumpul dan menggunakan maklumat peribadi yang diterangkan dalam Polisi Privasi ini bergantung pada Data Peribadi yang kami kumpul dan konteks khusus di mana kami mengumpulnya.", 
+
+  "privacy.accept.info": "Penyedia boleh memproses Data Peribadi anda kerana:", 
+
+  "privacy.accept.info.why1": "Kami perlu melaksanakan kontrak dengan anda", 
+
+  "privacy.accept.info.why2": "Anda telah memberi kebenaran kepada kami", 
+
+  "privacy.accept.info.why3": "Pemprosesan berada dalam kepentingan sah kami dan tidak diatasi oleh hak anda", 
+
+  "privacy.accept.info.why4": " Untuk mematuhi undang-undang.", 
+
+ 
+
+  "privacy.consent": "persetujuan anda terhadap Polisi Privasi ini diikuti dengan penghantaran maklumat tersebut mewakili persetujuan anda terhadap pemindahan itu.", 
+
+ 
+
+  "privacy.transfer.description": "Maklumat anda, termasuk Data Peribadi, mungkin dipindahkan ke — dan disimpan pada — komputer yang terletak di luar negeri, wilayah, atau bidang kuasa kerajaan lain di mana undang-undang perlindungan data mungkin berbeza daripada bidang kuasa anda.", 
+
+ 
+
+  "privacy.transfer.disclosure.business_transaction": "Jika Penyedia terlibat dalam penggabungan, pemerolehan atau penjualan aset, Data Peribadi anda mungkin dipindahkan. Kami akan memberi notis sebelum Data Peribadi anda dipindahkan dan menjadi subjek Polisi Privasi yang berbeza.", 
+
+  "privacy.transfer.legal_requirements": "Penyedia boleh mendedahkan Data Peribadi anda dengan kepercayaan baik bahawa tindakan tersebut diperlukan", 
+
+  "requirments1": "untuk mematuhi kewajipan undang-undang", 
+
+  "requirments2": "untuk melindungi hak atau harta Penyedia", 
+
+  "requirments3": "Untuk mencegah atau menyiasat kemungkinan kesalahan yang berkaitan dengan Perkhidmatan", 
+
+  "requirments4": "Untuk melindungi keselamatan peribadi pengguna Perkhidmatan atau orang awam", 
+
+  "requirments5": "Untuk melindungi daripada liabiliti undang-undang", 
+
+ 
+
+  "right.complain": "Anda berhak mengadu kepada Pihak Berkuasa Perlindungan Data mengenai pengumpulan dan penggunaan Data Peribadi anda oleh kami. Untuk maklumat lanjut, sila hubungi pihak berkuasa perlindungan data tempatan anda di Kawasan Ekonomi Eropah (EEA).", 
+
+  "privacy.transfer.security": "Keselamatan data anda penting bagi kami, tetapi tiada kaedah penghantaran atau penyimpanan yang 100% selamat. Kami berusaha menggunakan cara yang boleh diterima secara komersial tetapi tidak dapat menjamin keselamatan mutlak.", 
+
+  "privacy.transfer.rights_gdpr": "Jika anda merupakan penduduk Kawasan Ekonomi Eropah (EEA), anda mempunyai hak perlindungan data. Penyedia berusaha mengambil langkah yang wajar untuk membolehkan anda membetulkan, mengubah, memadam, atau mengehadkan penggunaan Data Peribadi anda.", 
+
+  "privacy.certain.circums": "Dalam keadaan tertentu, anda mempunyai hak perlindungan data berikut", 
+
+  "google.analytics": "Google Analytics", 
+
+  "google.analytics.desc": "Google Analytics ialah perkhidmatan analitik web yang ditawarkan oleh Google yang menjejaki dan melaporkan trafik laman web. Google menggunakan data yang dikumpul untuk menjejaki dan memantau penggunaan Perkhidmatan kami. Data ini dikongsi dengan perkhidmatan Google yang lain. Google mungkin menggunakan data yang dikumpul untuk mengkontekstualkan dan memperibadikan iklan rangkaian iklan mereka sendiri. Anda boleh memilih untuk tidak membenarkan aktiviti anda pada Perkhidmatan tersedia kepada Google Analytics dengan memasang add-on penyemak imbas Google Analytics opt-out. Add-on ini menghalang JavaScript Google Analytics (ga.js, analytics.js, dan dc.js) daripada berkongsi maklumat dengan Google Analytics mengenai aktiviti lawatan. Untuk maklumat lanjut tentang amalan privasi Google, sila lawati halaman Terma Privasi Google", 
+
+  "privacy.your.access": "Hak untuk mengakses, mengemaskini atau memadam maklumat yang kami miliki tentang anda. Bila boleh, anda boleh mengakses, mengemaskini atau memohon pemadaman Data Peribadi anda secara langsung dalam bahagian tetapan akaun anda. Jika anda tidak dapat melakukan tindakan ini sendiri, sila hubungi kami untuk bantuan. Hak pembetulan. Anda berhak supaya maklumat anda dibetulkan jika maklumat tersebut tidak tepat atau tidak lengkap. Hak menolak. Anda berhak menolak pemprosesan Data Peribadi kami. Hak sekatan. Anda berhak meminta kami menyekat pemprosesan maklumat peribadi anda. Hak kebolehgunaan data. Anda berhak diberikan salinan maklumat yang kami miliki tentang anda dalam format berstruktur, boleh dibaca mesin dan format yang biasa digunakan. Hak menarik balik persetujuan. Anda juga berhak menarik balik persetujuan anda pada bila-bila masa di mana Penyedia bergantung pada persetujuan anda untuk memproses maklumat peribadi anda.", 
+
+ 
+
+  "google.adSense": "Google AdSense DoubleClick Cookie", 
+
+  "google.adSense.desc": "Google, sebagai vendor pihak ketiga, menggunakan kuki untuk menyajikan iklan pada Perkhidmatan kami. Penggunaan kuki DoubleClick oleh Google membolehkan ia dan rakan niaganya menyajikan iklan kepada pengguna kami berdasarkan lawatan mereka ke Perkhidmatan kami atau laman web lain di Internet. Anda boleh memilih untuk tidak menggunakan Kuki DoubleClick untuk pengiklanan berasaskan minat dengan melawat halaman Tetapan Iklan Google:", 
+
+  "google.adSense.provider": "Penyedia menggunakan perkhidmatan remarketing untuk mengiklankan anda di laman web pihak ketiga selepas anda melawat Perkhidmatan kami. Kami dan vendor pihak ketiga kami menggunakan kuki untuk memaklumkan, mengoptimumkan dan menyajikan iklan berdasarkan lawatan anda sebelum ini ke Perkhidmatan kami.", 
+
+  "google.adWords": "Google AdWords", 
+
+  "google.adWords.rec": "menyaran memasang Add-on Penyemak Imbas Google Analytics Opt-out –", 
+
+  "google.also": "Google juga", 
+
+  "google.analytics.your.browser": "– untuk penyemak imbas web anda. Add-on Penyemak Imbas Google Analytics Opt-out memberikan pelawat keupayaan untuk menghalang data mereka daripada dikumpul dan digunakan oleh Google Analytics. Untuk maklumat lanjut tentang amalan privasi Google, sila lawati halaman Terma Privasi Google:", 
+
+  "facebook": "Facebook", 
+
+  "facebook.remarketing": "Perkhidmatan remarketing Facebook disediakan oleh Facebook Inc. Anda boleh mempelajari lebih lanjut mengenai pengiklanan berasaskan minat dari Facebook dengan melawat halaman ini:", 
+
+  "facebook.ad": "Untuk menolak iklan berasaskan minat Facebook, ikuti arahan berikut dari Facebook:", 
+
+  "facebook.adheres1": "Facebook mematuhi Prinsip Pengawalseliaan Kendiri untuk Pengiklanan Tingkah Laku Dalam Talian yang ditetapkan oleh Pakatan Pengiklanan Digital. Anda juga boleh menolak Facebook dan syarikat lain yang menyertai melalui Pakatan Pengiklanan Digital di AS ", 
+
+  "facebook.adheres2": "Pakatan Pengiklanan Digital Kanada di Kanada", 
+
+  "facebook.adheres3": "atau Pakatan Pengiklanan Digital Interaktif Eropah di Eropah", 
+
+  "facebook.adheres4": "atau menolak menggunakan tetapan peranti mudah alih anda. Untuk maklumat lanjut mengenai amalan privasi Facebook, sila lawati Dasar Data Facebook:", 
+
+  "privacy.shouldNote": "Sila ambil perhatian bahawa kami mungkin meminta anda mengesahkan identiti anda sebelum menanggapi permintaan tersebut.", 
+
+  "privacy.wishInformed": "Jika anda ingin dimaklumkan tentang Data Peribadi apa yang kami pegang mengenai anda dan jika anda mahu ia dikeluarkan dari sistem kami, sila hubungi kami.", 
+
+  "privacy.service_providers.description": "Kami mungkin melibatkan syarikat dan individu pihak ketiga untuk memudahkan Perkhidmatan kami. Pihak ketiga ini hanya mempunyai akses kepada Data Peribadi anda untuk melaksanakan tugas dan diwajibkan untuk tidak mendedahkan atau menggunakannya untuk tujuan lain.", 
+
+  "privacy.bolgaria": "Jika anda berada di luar Bulgaria dan memilih untuk memberikan maklumat kepada kami, sila ambil perhatian bahawa kami memindahkan data, termasuk Data Peribadi, ke Bulgaria dan memprosesnya di sana.", 
+
+  "privacy.service_providers.analytics": "Kami mungkin menggunakan Penyedia Perkhidmatan pihak ketiga seperti Google Analytics untuk memantau dan menganalisis penggunaan Perkhidmatan kami.", 
+
+  "privacy.service_providers.advertising": "Kami mungkin menggunakan Penyedia Perkhidmatan pihak ketiga untuk memaparkan iklan kepada anda bagi membantu menyokong dan mengekalkan Perkhidmatan kami", 
+
+  "privacy.service_providers.behavioral_remarketing": "Perkhidmatan remarketing Google AdWords disediakan oleh Google Inc. Anda boleh menolak Google Analytics untuk Pengiklanan Paparan dan menyesuaikan iklan Rangkaian Paparan Google dengan melawat halaman Tetapan Iklan Google:", 
+
+  "privacy.service_providers.links": "Perkhidmatan kami mungkin mengandungi pautan ke laman lain yang tidak dioperasikan oleh kami. Sila semak Polisi Privasi laman-laman tersebut.", 
+
+  "privacy.noControl": "Kami tidak mempunyai kawalan ke atas dan tidak bertanggungjawab terhadap kandungan, polisi privasi atau amalan mana-mana laman atau perkhidmatan pihak ketiga.", 
+
+  "privacy.child": "Privasi Kanak-kanak", 
+
+  "privacy.service_providers.children": "Perkhidmatan kami tidak ditujukan kepada sesiapa di bawah umur 18 tahun (“Kanak-kanak”). Kami tidak dengan sengaja mengumpul maklumat peribadi daripada sesiapa di bawah umur 18 tahun. Jika anda adalah ibu bapa atau penjaga dan anda menyedari bahawa Kanak-kanak anda telah memberikan Data Peribadi kepada kami, sila hubungi kami. Jika kami menyedari bahawa kami telah mengumpul Data Peribadi daripada kanak-kanak tanpa pengesahan persetujuan ibu bapa, kami mengambil langkah untuk mengeluarkan maklumat tersebut dari pelayan kami.", 
+
+  "privacy.changes": "Perubahan kepada Polisi Privasi Ini", 
+
+  "privacy.service_providers.changes": "Kami mungkin mengemas kini Polisi Privasi kami dari semasa ke semasa. Perubahan akan dipaparkan pada halaman ini dan/atau diberitahu melalui e-mel.", 
+
+  "privacy.letKnow": "Kami akan memberitahu anda melalui e-mel dan/atau notis yang jelas pada Perkhidmatan kami, sebelum perubahan berkuatkuasa dan mengemas kini “tarikh berkuatkuasa” di bahagian atas Polisi Privasi ini", 
+
+  "privacy.advises": "Anda dinasihatkan untuk meninjau Polisi Privasi ini secara berkala untuk sebarang perubahan. Perubahan kepada Polisi Privasi ini berkuatkuasa apabila ia dipaparkan pada halaman ini.", 
+
+  "privacy.service_providers.contact": "Jika anda mempunyai sebarang pertanyaan mengenai Polisi Privasi ini, sila hubungi kami melalui e-mel.",
+
+  "terms_title": "Terma Penggunaan",
+  "terms_intro_welcome": "Selamat datang ke Aivontrixen. Terma Penggunaan ini (\"Terma\") mengawal selia penggunaan anda terhadap platform kami yang terletak di Aivontrixen (\"Perkhidmatan\"), yang dikendalikan oleh Aivontrixen.",
+  "terms_intro_generator": "Terma Penggunaan kami telah dijana menggunakan Terms of Use Generator.",
+  "terms_intro_acceptance_1": "Dengan melawat atau menggunakan Perkhidmatan, anda bersetuju untuk terikat dengan Terma ini. Jika anda tidak bersetuju dengan mana-mana bahagian Terma ini, anda tidak dibenarkan menggunakan Perkhidmatan.",
+  "terms_intro_changes": "Kami boleh mengubah Terma ini pada bila-bila masa dan perubahan akan berkuat kuasa serta-merta selepas diterbitkan. Penggunaan berterusan anda selepas perubahan bermakna anda menerima Terma yang telah dikemas kini.",
+  "terms_intro_rejection": "Jika anda tidak bersetuju dengan mana-mana Terma ini, sila jangan klik \"TERIMA\" dan segera hentikan penggunaan laman web.",
+  "terms_intro_website_def": "„Laman Web“ merujuk kepada Aivontrixen, yang boleh diakses dari Aivontrixen.",
+  "section_1_title": "1. Penggunaan Laman Web dan Perkhidmatan",
+  "section_1_access": "Tertakluk kepada terma dan syarat di sini, anda dibenarkan mengakses dan menggunakan Laman Web untuk tujuan menggunakan Perkhidmatan secara tidak eksklusif.",
+  "section_1_modifications": "Syarikat berhak, mengikut budi bicara sendiri dan pada bila-bila masa, mengubah suai, mengemas kini atau menghentikan Laman Web atau Perkhidmatan tanpa notis terlebih dahulu.",
+  "section_1_void": "Penggunaan Laman Web dan Perkhidmatan adalah tidak sah di mana ia dilarang.",
+  "section_1_warranties_intro": "Dengan menggunakan Laman Web dan Perkhidmatan, anda menyatakan dan menjamin bahawa:",
+  "section_1_warranties_a": "sebarang maklumat yang anda serahkan adalah benar dan tepat;",
+  "section_1_warranties_b": "anda akan mengekalkan ketepatan maklumat tersebut;",
+  "section_1_warranties_c": "anda sudah mencapai umur majoriti di wilayah hukum anda;",
+  "section_1_warranties_d": "penggunaan anda tidak melanggar mana-mana undang-undang, peraturan atau obligasi kontrak dengan pihak ketiga, dan anda akan sentiasa mematuhi semua undang-undang yang berkenaan.",
+  "section_1_undertakings_def": "Perkara (a)–(d) secara kolektif dipanggil \"Janji dan Jaminan Pengguna\".",
+  "section_1_verification": "Anda faham dan bersetuju bahawa Syarikat boleh (tetapi tidak wajib) mengesahkan Janji dan Jaminan Pengguna dan tidak bertanggungjawab sekiranya ia tidak dipatuhi.",
+  "section_1_responsibility": "Anda bertanggungjawab sepenuhnya untuk menilai sama ada mahu berurus niaga dengan mana-mana Pihak Ketiga.",
+  "section_1_reporting": "Jika anda mendapati pelanggaran Janji dan Jaminan Pengguna, anda digalakkan melaporkannya kepada Syarikat.",
+  "section_1_right_to_refuse": "Syarikat berhak pada bila-bila masa menolak menyediakan Perkhidmatan kepada anda dengan atau tanpa notis.",
+  "section_1_disclaimer_main": "Syarikat dengan tegas menafikan segala liabiliti bagi sebarang kontroversi, tuntutan, kecederaan, kerugian atau kerosakan yang timbul daripada:",
+  "section_1_disclaimer_i": "ketidaktepatan, kelewatan atau ketidaklengkapan representasi Pengguna atau Pihak Ketiga;",
+  "section_1_disclaimer_ii": "penyata salah atau salah nyata yang dibuat oleh Pihak Ketiga atau Pengguna.",
+  "section_1_platform_only": "Perkhidmatan hanyalah platform yang menghubungkan Pengguna dengan produk dan perkhidmatan pihak ketiga (\"Produk\" dan \"Pihak Ketiga\").",
+  "section_1_company_a": "tidak menggaji, mengesyorkan atau menyokong mana-mana Pihak Ketiga atau Produk serta tidak mengawal tindakan mereka;",
+  "section_1_company_b": "tidak memberi jaminan tentang kualiti, harga, keserasian atau ketersediaan Produk;",
+  "section_1_company_c": "tidak memberi jaminan tentang hak milik atau lesen yang diperlukan untuk Produk;",
+  "section_1_company_d": "tidak bertanggungjawab atas kelakuan mana-mana Pengguna atau pihak ketiga.",
+  "section_section_1_no_screening": "Syarikat tidak wajib memeriksa maklumat Pihak Ketiga atau Pengguna – anda digalakkan melakukan semakan sendiri.",
+  "section_1_full_disclaimer": "Syarikat dengan tegas menafikan segala liabiliti atas sebarang kerosakan yang berkaitan dengan Pihak Ketiga, Produk, Perkhidmatan atau interaksi anda dengan mereka.",
+  "section_1_risk": "Segala penggunaan Perkhidmatan dan Laman Web adalah atas risiko anda sendiri.",
+  "section_section_1_no_sale": "Syarikat tidak menjual, melesenkan atau menyediakan mana-mana Produk atau perkhidmatan pihak ketiga dan tidak bertanggungjawab ke atasnya.",
+  "section_2_title": "2. Sekatan",
+  "section_2_intro": "Anda dilarang dan tidak dibenarkan membenarkan pihak ketiga untuk:",
+  "section_2_a": "melakukan kejuruteraan terbalik terhadap kod Laman Web atau Perkhidmatan;",
+  "section_2_b": "menggunakan Perkhidmatan untuk memuat naik bahan haram atau menyinggung;",
+  "section_2_c": "menyalin, mengubah suai atau mencipta kerja terbitan daripada Laman Web/Perkhidmatan;",
+  "section_2_d": "mengatasi mekanisme keselamatan;",
+  "section_2_e": "mencipta atau menggunakan cheat, bot, hack atau perisian tidak sah;",
+  "section_2_f": "menggunakan Perkhidmatan untuk tujuan menyalahi undang-undang;",
+  "section_2_g": "mendapatkan akses tanpa kebenaran ke akaun lain;",
+  "section_2_h": "mengutip maklumat Pengguna tanpa kebenaran mereka.",
+  "section_2_content_warranties": "Jika anda memuat naik kandungan, anda menjamin kandungan itu tepat, tidak melanggar hak pihak ketiga dan tidak mengandungi bahan terlarang.",
+  "section_2_license_grant": "Dengan memuat naik kandungan, anda memberikan Syarikat lesen kekal, seluruh dunia, tanpa royalti untuk menggunakan, memaparkan dan mengedarkan kandungan tersebut.",
+  "section_2_removal_right": "Syarikat berhak mengalih keluar atau menyekat mana-mana kandungan pada bila-bila masa tanpa notis.",
+  "section_2_no_liability_content": "Syarikat tidak bertanggungjawab atas kandungan yang dimuat naik oleh Pengguna atau produk/perkhidmatan yang berkaitan dengannya.",
+  "section_3_title": "3. Bahan Promosi & Surat Berita",
+  "section_3_consent": "Anda dengan nyata bersetuju menerima bahan promosi dan surat berita daripada Syarikat melalui e-mel, SMS, panggilan automatik atau mana-mana cara lain.",
+  "section_3_third_party_ads": "Bahan tersebut boleh mengandungi iklan pihak ketiga.",
+  "section_3_unsubscribe": "Anda boleh berhenti berlangganan pada bila-bila masa dengan menghantar e-mel kepada Syarikat.",
+  "section_4_title": "4. Hak Harta Intelek",
+  "section_4_ownership": "Syarikat memiliki semua hak ke atas Laman Web, Perkhidmatan, nama dagang, tanda dagangan dan logo.",
+  "section_4_user_liability": "Pengguna bertanggungjawab sepenuhnya ke atas hak harta intelek kandungan yang dimuat naiknya.",
+  "section_5_title": "5. Privasi",
+  "section_5_no_save": "Anda dilarang menyimpan atau mengumpul kandungan Perkhidmatan tanpa kebenaran bertulis Syarikat.",
+  "section_5_company_rights": "Syarikat berhak mengumpul dan menggunakan maklumat peribadi serta awam mengikut Polisi Privasi.",
+  "section_5_not_storage": "SYARIKAT BUKAN PERKHIDMATAN PENYIMPANAN KANDUNGAN dan tidak bertanggungjawab atas kandungan yang hilang atau dipadam.",
+  "section_5_public_warning": "Kandungan yang anda muat naik boleh dibaca, dikumpul dan digunakan oleh pengguna lain serta boleh menyebabkan anda menerima mesej tidak diingini.",
+  "section_6_title": "6. Pautan",
+  "section_6_description": "Laman Web atau Perkhidmatan mungkin mengandungi pautan pihak ketiga; Syarikat tidak mengawal dan tidak bertanggungjawab ke atasnya.",
+  "section_6_full_disclaimer": "Syarikat tidak bertanggungjawab atas sebarang kerosakan akibat penggunaan laman atau perkhidmatan pihak ketiga.",
+  "section_7_title": "7. Penggunaan Terlarang",
+  "section_7_commercial": "Penggunaan komersial tanpa kebenaran bertulis Syarikat adalah dilarang.",
+  "section_7_recruitment": "Dilarang merekrut atau menghubungi Pengguna untuk perniagaan lain tanpa kebenaran bertulis Syarikat.",
+  "section_7_user_contact": "Dilarang menghubungi Pengguna lain untuk tujuan jualan atau iklan tanpa kebenaran mereka.",
+  "section_8_title": "8. Sokongan",
+  "section_8_text": "Untuk sokongan, sila hantar e-mel kepada Syarikat.",
+  "section_9_title": "9. Penafian",
+  "section_9_as_is": "Perkhidmatan disediakan \"SEBAGAIMANA ADANYA\" tanpa sebarang jaminan.",
+  "section_9_no_warranties": "Syarikat menafikan semua jaminan tersirat atau statutori.",
+  "section_10_title": "10. Had Liabiliti",
+  "section_10_no_indirect": "Syarikat tidak akan bertanggungjawab atas ganti rugi tidak langsung, sampingan, khas atau akibat.",
+  "section_11_title": "11. Ganti Rugi",
+  "section_11_text": "Anda bersetuju mempertahankan dan mengganti rugi Syarikat daripada sebarang tuntutan pihak ketiga akibat pelanggaran Terma oleh anda.",
+  "section_12_title": "12. Pelbagai",
+  "section_12_governing_law": "Terma ini ditadbir oleh undang-undang England.",
+  "section_12_jurisdiction": "Sebarang pertikaian akan diselesaikan di mahkamah England sahaja.",
+  "section_12_no_class_action": "Anda tidak dibenarkan memfailkan tindakan kelas terhadap Syarikat.",
+  "section_12_limitation_period": "Sebarang tuntutan terhadap Syarikat mesti dimulakan dalam masa 1 tahun dari tarikh kejadian."
+
 }

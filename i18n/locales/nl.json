@@ -115,5 +115,390 @@
     "contact.input.email": "Uw email",
     "contact.input.message": "Uw bericht",
     "contact.button": "Bericht verzenden",
-    "contact.success": "Uw bericht is succesvol verzonden!"
+    "contact.success": "Uw bericht is succesvol verzonden!",
+
+     "privacy.title": "Privacybeleid", 
+
+  "privacy.intro.provider": "Provider (\"us\", \"we\", of \"our\") beheert het Aivontrixen‑platform (de \"Service\").", 
+
+  "privacy.intro.description": "Dit document beschrijft onze praktijken met betrekking tot het verzamelen, gebruiken en delen van persoonlijke informatie wanneer u onze Service gebruikt en de opties die voor u beschikbaar zijn met betrekking tot die informatie.", 
+
+  "privacy.intro.usage": "Wij, Aivontrixen, gebruiken uw informatie om de Service te leveren en te verbeteren. Door gebruik te maken van de Service, stemt u in met het verzamelen en gebruiken van gegevens zoals beschreven in dit beleid. Tenzij specifiek gedefinieerd in dit Privacybeleid, heeft de hier gebruikte terminologie dezelfde betekenis als in onze Algemene Voorwaarden, beschikbaar bij Aivontrixen.", 
+
+   
+
+  "privacy.toc.definitions": "Definities", 
+
+  "privacy.toc.definitions.service": "Dienst", 
+
+  "privacy.toc.definitions.personal_data": "Persoonlijke gegevens", 
+
+  "privacy.toc.definitions.usage_data": "Gebruiksgegevens", 
+
+  "privacy.toc.definitions.cookies": "Cookies", 
+
+  "privacy.toc.definitions.data_controller": "Gegevensbeheerder", 
+
+  "privacy.toc.definitions.data_processors": "Gegevensverwerkers (of dienstverleners)", 
+
+  "privacy.toc.definitions.data_subject": "Betrokkene (of gebruiker)", 
+
+   
+
+  "privacy.toc.info_collection": "Informatie verzamelen en gebruiken", 
+
+  "privacy.toc.info_collection.types_of_data": "Soorten verzamelde gegevens", 
+
+  "privacy.toc.info_collection.personal_data": "Persoonlijke gegevens", 
+
+  "privacy.toc.info_collection.usage_data": "Gebruiksgegevens", 
+
+  "privacy.toc.info_collection.tracking_cookies": "Trackingcookiesgegevens", 
+
+  "privacy.toc.info_collection.use_of_data": "Gebruik van gegevens", 
+
+  "privacy.toc.info_collection.legal_basis": "Juridische basis voor de verwerking van persoonlijke gegevens onder de Algemene Verordening Gegevensbescherming (AVG)", 
+
+  "privacy.toc.info_collection.retention": "Bewaring van gegevens", 
+
+   
+
+  "privacy.toc.transfer": "Gegevensoverdracht", 
+
+  "privacy.toc.transfer.disclosure": "Openbaarmaking van gegevens", 
+
+  "privacy.toc.transfer.disclosure.business_transaction": "Zakelijke transactie", 
+
+  "privacy.toc.transfer.legal_requirements": "Wettelijke vereisten", 
+
+  "privacy.toc.transfer.security": "Beveiliging van gegevens", 
+
+  "privacy.toc.transfer.rights_gdpr": "Uw rechten op gegevensbescherming onder de Algemene Verordening Gegevensbescherming (AVG)", 
+
+   
+
+  "privacy.toc.service_providers": "Dienstverleners", 
+
+  "privacy.toc.service_providers.analytics": "Analytics", 
+
+  "privacy.toc.service_providers.advertising": "Adverteren", 
+
+  "privacy.toc.service_providers.behavioral_remarketing": "Gedragsgerichte remarketing", 
+
+  "privacy.toc.service_providers.links": "Links naar andere sites", 
+
+  "privacy.toc.service_providers.changes": "Wijzigingen in dit privacybeleid", 
+
+  "privacy.toc.service_providers.contact": "Contacteer ons", 
+
+"privacy.definitions.service": "Service is de Aivontrixen‑website die wordt beheerd door Provider", 
+
+  "privacy.definitions.personal_data": "Persoonlijke gegevens betekent gegevens over een levend individu dat kan worden geïdentificeerd aan de hand van die gegevens (of aan de hand van die gegevens en andere informatie die wij in ons bezit hebben of waarschijnlijk zullen verkrijgen).", 
+
+  "privacy.definitions.usage_data": "Gebruiksgegevens zijn gegevens die automatisch worden verzameld, gegenereerd door het gebruik van de Service of door de infrastructuur van de Service zelf (bijvoorbeeld de duur van een pagina‑bezoek).", 
+
+  "privacy.definitions.cookies": "Cookies zijn kleine stukjes gegevens die op uw apparaat (computer of mobiel apparaat) worden opgeslagen.", 
+
+  "privacy.definitions.data_controller": "Gegevensbeheerder betekent de natuurlijke of rechtspersoon die (alleen, gezamenlijk of in samenwerking met andere personen) de doeleinden en de wijze bepaalt waarop persoonlijke informatie wordt, of zal worden, verwerkt. Voor de doeleinden van dit privacybeleid zijn wij een gegevensbeheerder van uw persoonlijke gegevens.", 
+
+  "privacy.definitions.data_processors": "Gegevensverwerker (of dienstverlener) betekent elke natuurlijke of rechtspersoon die de gegevens verwerkt namens de gegevensbeheerder. Wij kunnen de diensten van verschillende dienstverleners gebruiken om uw gegevens effectiever te verwerken.", 
+
+  "privacy.definitions.data_subject": "Betrokkene is elke levende persoon die onze Service gebruikt en onderwerp is van persoonlijke gegevens.", 
+
+ 
+
+  "privacy.provider.take": "Provider zal alle redelijk noodzakelijke stappen ondernemen om te zorgen dat uw gegevens veilig worden behandeld en in overeenstemming met dit privacybeleid, en dat geen overdracht van uw persoonlijke gegevens plaatsvindt naar een organisatie of een land tenzij er adequate controles aanwezig zijn, inclusief de beveiliging van uw gegevens en andere persoonlijke informatie.", 
+
+ 
+
+  "privacy.info_collection.description": "We verzamelen verschillende soorten informatie voor diverse doeleinden om onze Service aan u te leveren en te verbeteren.", 
+
+  "privacy.info_collection.personal_data.description": "Tijdens het gebruik van onze Service kunnen we u vragen bepaalde persoonlijk identificeerbare informatie te verstrekken die kan worden gebruikt om contact met u op te nemen of u te identificeren (“Persoonlijke gegevens”). Persoonlijk identificeerbare informatie kan onder meer bestaan uit, maar is niet beperkt tot:", 
+
+  "privacy.info.user1": "E-mailadres", 
+
+  "privacy.info.user2": "Voornaam en achternaam", 
+
+  "privacy.info.user3": "Telefoonnummer", 
+
+  "privacy.info.user4": "Adres, staat, provincie, postcode, stad", 
+
+  "privacy.info.user5": "Cookies en gebruiksgegevens", 
+
+"privacy.info_collection.personal_data.usage": "We kunnen uw persoonlijke gegevens gebruiken om u te contacteren met nieuwsbrieven, marketing‑ of promotioneel materiaal en andere informatie die voor u van belang kan zijn. U kunt zich afmelden voor al deze communicatie door de afmeldlink of instructies te volgen in een e‑mail die wij sturen of door contact met ons op te nemen.", 
+
+  "privacy.info_collection.usage_data.description": "We kunnen ook informatie verzamelen over hoe de Service wordt benaderd en gebruikt (“Gebruiksgegevens”). Deze gebruiksgegevens kunnen onder meer informatie bevatten zoals het IP‑adres van uw computer, type browser, browserversie, de pagina's van onze Service die u bezoekt, de tijd en datum van uw bezoek, de tijd die u op die pagina's doorbrengt, unieke apparaat‑identifiers en andere diagnostische gegevens.", 
+
+  "privacy.info_collection.cookies.description": "We gebruiken cookies en soortgelijke trackingtechnologieën om de activiteit op onze Service te volgen en bepaalde informatie vast te leggen.", 
+
+  "privacy.info.collection.cookies.description1": "Cookies zijn bestanden met een kleine hoeveelheid gegevens die onder meer een anonieme unieke identifier kunnen bevatten. Cookies worden vanuit een website naar uw browser verzonden en op uw apparaat opgeslagen. Trackingtechnologieën die ook worden gebruikt, zijn onder meer beacons, tags en scripts om informatie te verzamelen en te volgen en om onze Service te verbeteren en analyseren.", 
+
+  "privacy.info.collection.cookies.instruct": "U kunt uw browser instrueren om alle cookies te weigeren of om aan te geven wanneer een cookie wordt verzonden. Als u echter geen cookies accepteert, kunt u mogelijk niet alle delen van onze Service gebruiken.", 
+
+  "privacy.info_collection.cookies.examples": "Voorbeelden van cookies die wij gebruiken:", 
+
+  "privacy.example1": "Sessiecookies.", 
+
+  "privacy.example1.description": "We gebruiken sessiecookies om onze Service te laten functioneren.", 
+
+  "privacy.example2": "Voorkeurscookies.", 
+
+  "privacy.example2.description": "We gebruiken voorkeurscookies om uw voorkeuren en verschillende instellingen te onthouden.", 
+
+  "privacy.example3": "Beveiligingscookies.", 
+
+  "privacy.example3.description": "We gebruiken beveiligingscookies voor beveiligingsdoeleinden.", 
+
+  "privacy.example4": "Advertentiecookies.", 
+
+  "privacy.example4.description": "Advertentiecookies worden gebruikt om u advertenties te tonen die relevant kunnen zijn voor u en uw interesses.", 
+
+ 
+
+  "privacy.info_collection.use_of_data": "Provider gebruikt de verzamelde gegevens voor verschillende doeleinden, waaronder:", 
+
+  "provider1": "Om onze Service te leveren en te onderhouden", 
+
+  "provider2": "Om u te informeren over wijzigingen in onze Service", 
+
+  "provider3": "Om u in staat te stellen deel te nemen aan interactieve functies van onze Service wanneer u ervoor kiest", 
+
+  "provider4": "Om klantenondersteuning te bieden", 
+
+  "provider5": "Om analyses of waardevolle informatie te verzamelen zodat we onze Service kunnen verbeteren", 
+
+  "provider6": "Om het gebruik van onze Service te monitoren", 
+
+  "provider7": "Om technische problemen te detecteren, voorkomen en oplossen", 
+
+  "provider8": "Om u nieuws, speciale aanbiedingen en algemene informatie te bieden over andere goederen, diensten en evenementen die wij aanbieden en die vergelijkbaar zijn met die u al heeft gekocht of naar heeft geïnformeerd, tenzij u ervoor heeft gekozen deze informatie niet te ontvangen", 
+
+"providerText": "Provider zal ook gebruiksgegevens bewaren voor interne analyse‑doeleinden. Gebruiksgegevens worden over het algemeen voor een kortere periode bewaard, behalve wanneer deze gegevens worden gebruikt om de beveiliging te versterken of de functionaliteit van onze Service te verbeteren, of wanneer wij wettelijk verplicht zijn deze gegevens voor langere tijd te bewaren", 
+
+  "privacy.info_collection.legal_basis": "Als u afkomstig bent uit de Europese Economische Ruimte (EER), hangt de juridische basis van Provider voor het verzamelen en gebruiken van de persoonlijke informatie die in dit privacybeleid wordt beschreven af van de persoonlijke gegevens die wij verzamelen en de specifieke context waarin wij deze verzamelen.", 
+
+  "privacy.accept.info": "Provider mag uw persoonlijke gegevens verwerken omdat:", 
+
+  "privacy.accept.info.why1": "We moeten een contract met u uitvoeren", 
+
+  "privacy.accept.info.why2": "U heeft ons toestemming gegeven", 
+
+  "privacy.accept.info.why3": "De verwerking is in ons legitieme belang en wordt niet overschreden door uw rechten", 
+
+  "privacy.accept.info.why4": " Om te voldoen aan de wet.", 
+
+ 
+
+  "privacy.consent": "uw toestemming voor dit privacybeleid, gevolgd door het indienen van dergelijke informatie, betekent dat u akkoord gaat met die overdracht.", 
+
+ 
+
+  "privacy.transfer.description": "Uw informatie, inclusief persoonlijke gegevens, kan worden overgedragen — en opgeslagen — op computers buiten uw staat, provincie, land of andere overheidsjurisdictie waar de gegevensbeschermingswetgeving kan afwijken van die van uw jurisdictie.", 
+
+ 
+
+  "privacy.transfer.disclosure.business_transaction": "Als Provider betrokken is bij een fusie, overname of verkoop van activa, kunnen uw persoonlijke gegevens worden overgedragen. We zullen u op de hoogte stellen voordat uw persoonlijke gegevens worden overgedragen en onder een ander privacybeleid vallen.", 
+
+  "privacy.transfer.legal_requirements": "Provider mag uw persoonlijke gegevens bekendmaken in de overtuiging te goeder trouw dat dergelijke actie noodzakelijk is", 
+
+  "requirments1": "om te voldoen aan een wettelijke verplichting", 
+
+  "requirments2": "om de rechten of eigendommen van de provider te beschermen", 
+
+  "requirments3": "Om mogelijk wangedrag in verband met de Service te voorkomen of te onderzoeken", 
+
+  "requirments4": "Om de persoonlijke veiligheid van gebruikers van de Service of het publiek te beschermen", 
+
+  "requirments5": "Om te beschermen tegen wettelijke aansprakelijkheid", 
+
+ 
+
+  "right.complain": "U heeft het recht om een klacht in te dienen bij een gegevensbeschermingsautoriteit over onze verzameling en gebruik van uw persoonlijke gegevens. Voor meer informatie kunt u contact opnemen met uw lokale gegevensbeschermingsautoriteit in de Europese Economische Ruimte (EER).", 
+
+  "privacy.transfer.security": "De beveiliging van uw gegevens is belangrijk voor ons, maar geen enkele transmissie‑ of opslagmethode is 100 % veilig. We streven ernaar om commercieel aanvaardbare middelen te gebruiken, maar kunnen geen absolute beveiliging garanderen.", 
+
+  "privacy.transfer.rights_gdpr": "Als u een inwoner bent van de Europese Economische Ruimte (EER), heeft u rechten op gegevensbescherming. Provider streeft ernaar redelijke stappen te ondernemen om u in staat te stellen uw persoonlijke gegevens te corrigeren, wijzigen, verwijderen of het gebruik ervan te beperken.", 
+
+  "privacy.certain.circums": "In bepaalde omstandigheden heeft u de volgende rechten op gegevensbescherming", 
+
+  "google.analytics": "Google Analytics", 
+
+  "google.analytics.desc": "Google Analytics is een webanalyse‑service aangeboden door Google die websiteverkeer bijhoudt en rapporteert. Google gebruikt de verzamelde gegevens om het gebruik van onze Service te volgen en te monitoren. Deze gegevens worden gedeeld met andere Google‑services. Google kan de verzamelde gegevens gebruiken om de advertenties van zijn eigen advertentienetwerk te contextualiseren en te personaliseren. U kunt zich afmelden voor het beschikbaar stellen van uw activiteit op de Service aan Google Analytics door de Google Analytics opt‑out browseradd‑on te installeren. De add‑on voorkomt dat de Google Analytics JavaScript (ga.js, analytics.js en dc.js) informatie over bezoekactiviteit deelt met Google Analytics. Voor meer informatie over de privacypraktijken van Google, bezoek de pagina Google Privacyvoorwaarden.", 
+
+"privacy.your.access": "Het recht om toegang te krijgen tot, bij te werken of te verwijderen van de informatie die wij over u hebben. Waar mogelijk kunt u toegang krijgen tot, bijwerken of verzoeken tot verwijdering van uw persoonlijke gegevens rechtstreeks via de instellingen van uw account. Als u deze handelingen niet zelf kunt uitvoeren, neem dan contact met ons op voor hulp. Het recht op rectificatie. U heeft het recht om uw informatie te laten rectificeren als die informatie onjuist of onvolledig is. Het recht van bezwaar. U heeft het recht bezwaar te maken tegen onze verwerking van uw persoonlijke gegevens. Het recht op beperking. U heeft het recht te verzoeken dat wij de verwerking van uw persoonlijke informatie beperken. Het recht op gegevensportabiliteit. U heeft het recht om een kopie van de informatie die wij over u hebben te ontvangen in een gestructureerd, machinaal leesbaar en algemeen gebruikt formaat. Het recht om toestemming in te trekken. U heeft tevens het recht uw toestemming op elk moment in te trekken wanneer Provider op uw toestemming heeft vertrouwd om uw persoonlijke informatie te verwerken.", 
+
+ 
+
+  "google.adSense": "Google AdSense DoubleClick Cookie", 
+
+  "google.adSense.desc": "Google, als derde‑partij leverancier, gebruikt cookies om advertenties op onze Service weer te geven. Het gebruik van de DoubleClick‑cookie door Google maakt het mogelijk voor Google en haar partners om advertenties te tonen aan onze gebruikers op basis van hun bezoek aan onze Service of andere websites op het internet. U kunt zich afmelden voor het gebruik van de DoubleClick‑cookie voor op interesses gebaseerde advertenties door de pagina Google‑advertentie‑instellingen te bezoeken:", 
+
+  "google.adSense.provider": "Provider gebruikt remarketing‑diensten om u advertenties te tonen op websites van derden nadat u onze Service heeft bezocht. Wij en onze derde‑partij leveranciers gebruiken cookies om te informeren, optimaliseren en advertenties te leveren op basis van uw eerdere bezoeken aan onze Service.", 
+
+  "google.adWords": "Google AdWords", 
+
+  "google.adWords.rec": "raadt aan om de Google Analytics Opt‑out Browser Add‑on te installeren –", 
+
+  "google.also": "Google ook", 
+
+  "google.analytics.your.browser": "– voor uw webbrowser. De Google Analytics Opt‑out Browser Add‑on biedt bezoekers de mogelijkheid om te voorkomen dat hun gegevens worden verzameld en gebruikt door Google Analytics. Voor meer informatie over de privacypraktijken van Google, bezoek de pagina Google Privacyvoorwaarden:", 
+
+  "facebook": "Facebook", 
+
+  "facebook.remarketing": "Facebook‑remarketingdienst wordt geleverd door Facebook Inc. U kunt meer te weten komen over op interesses gebaseerde reclame van Facebook door deze pagina te bezoeken:", 
+
+  "facebook.ad": "Om u af te melden voor op interesses gebaseerde advertenties van Facebook volgt u deze instructies van Facebook:", 
+
+  "facebook.adheres1": "Facebook houdt zich aan de Zelfregulerende Principes voor Online Gedragsreclame die zijn opgesteld door de Digital Advertising Alliance. U kunt zich ook afmelden bij Facebook en andere deelnemende bedrijven via de Digital Advertising Alliance in de VS ", 
+
+  "facebook.adheres2": "de Digital Advertising Alliance van Canada in Canada", 
+
+  "facebook.adheres3": "of de European Interactive Digital Advertising Alliance in Europa", 
+
+  "facebook.adheres4": "of afmelden via de instellingen van uw mobiele apparaat. Voor meer informatie over de privacypraktijken van Facebook, bezoek het Facebook‑databeleid:", 
+
+"privacy.shouldNote": "Houd er rekening mee dat wij u kunnen vragen uw identiteit te verifiëren voordat wij op dergelijke verzoeken reageren.", 
+
+  "privacy.wishInformed": "Als u wilt weten welke persoonlijke gegevens wij over u bewaren en als u wilt dat deze uit onze systemen worden verwijderd, neem dan contact met ons op.", 
+
+  "privacy.service_providers.description": "We kunnen derden en individuen inschakelen om onze Service te faciliteren. Deze derden hebben alleen toegang tot uw persoonlijke gegevens om taken uit te voeren en zijn verplicht deze niet bekend te maken of te gebruiken voor andere doeleinden.", 
+
+  "privacy.bolgaria": "Als u zich buiten Bulgarije bevindt en ervoor kiest ons informatie te verstrekken, houd er dan rekening mee dat wij de gegevens, inclusief persoonlijke gegevens, naar Bulgarije overdragen en daar verwerken.", 
+
+  "privacy.service_providers.analytics": "We kunnen derde‑partij dienstverleners zoals Google Analytics gebruiken om het gebruik van onze Service te monitoren en te analyseren.", 
+
+  "privacy.service_providers.advertising": "We kunnen derde‑partij dienstverleners gebruiken om advertenties aan u te tonen ter ondersteuning en onderhoud van onze Service", 
+
+  "privacy.service_providers.behavioral_remarketing": "Google AdWords remarketingdienst wordt geleverd door Google Inc. U kunt zich afmelden voor Google Analytics voor Display Advertising en de Google Display Network‑advertenties aanpassen door de pagina Google‑advertentie‑instellingen te bezoeken:", 
+
+  "privacy.service_providers.links": "Onze Service kan links bevatten naar andere sites die niet door ons worden beheerd. Bekijk de privacy‑beleid van die sites.", 
+
+  "privacy.noControl": "Wij hebben geen controle over en aanvaarden geen verantwoordelijkheid voor de inhoud, privacy‑beleid of praktijken van enige derde‑partij sites of diensten.", 
+
+  "privacy.child": "Privacy voor kinderen", 
+
+  "privacy.service_providers.children": "Onze Service is niet bedoeld voor personen onder de leeftijd van 18 jaar (“Kinderen”). Wij verzamelen niet bewust persoonlijk identificeerbare informatie van iemand onder de 18 jaar. Als u een ouder of voogd bent en u merkt dat uw Kinderen ons persoonlijke gegevens hebben verstrekt, neem dan contact met ons op. Als wij ontdekken dat we persoonlijke gegevens van kinderen hebben verzameld zonder verificatie van ouderlijke toestemming, nemen we stappen om die informatie van onze servers te verwijderen.", 
+
+  "privacy.changes": "Wijzigingen in dit privacybeleid", 
+
+  "privacy.service_providers.changes": "We kunnen ons privacybeleid van tijd tot tijd bijwerken. Wijzigingen worden op deze pagina geplaatst en/of per e‑mail meegedeeld.", 
+
+  "privacy.letKnow": "We zullen u per e‑mail en/of een opvallende melding op onze Service op de hoogte stellen, vóórdat de wijziging van kracht wordt, en de “effectieve datum” bovenaan dit privacybeleid bijwerken", 
+
+  "privacy.advises": "U wordt geadviseerd dit privacybeleid periodiek te herzien op eventuele wijzigingen. Wijzigingen in dit privacybeleid zijn van kracht wanneer ze op deze pagina worden geplaatst.", 
+
+  "privacy.service_providers.contact": "Als u vragen heeft over dit privacybeleid, neem dan contact met ons op via e‑mail.",
+
+  "terms_title": "Gebruiksvoorwaarden",
+  "terms_intro_welcome": "Welkom bij Aivontrixen. Deze Gebruiksvoorwaarden (\"Voorwaarden\") regelen uw betrokkenheid bij ons platform op Aivontrixen (de \"Dienst\") beheerd door Aivontrixen.",
+  "terms_intro_generator": "Onze Gebruiksvoorwaarden zijn ontwikkeld met behulp van de Gebruiksvoorwaarden Generator.",
+  "terms_intro_acceptance_1": "Door onze Dienst te bezoeken of te gebruiken, stemt u ermee in deze Voorwaarden na te leven. Als u bezwaar heeft tegen enig onderdeel van deze voorwaarden, mag u de Dienst niet gebruiken.",
+  "terms_intro_changes": "Begrijp alsjeblieft dat we deze Voorwaarden periodiek kunnen wijzigen, en wijzigingen worden onmiddellijk na publicatie van kracht. Uw voortgezette gebruik van het platform houdt de aanvaarding in van alle herziene of bijgewerkte voorwaarden.",
+  "terms_intro_rejection": "Als u deze Voorwaarden afwijst, klik dan niet op \"ACCEPTEREN\" en stop met het gebruik van de Website.",
+  "terms_intro_website_def": "Website verwijst naar Aivontrixen, beschikbaar via Aivontrixen",
+  "section_1_title": "1. Gebruik van Website en Diensten",
+  "section_1_access": "Onder voorbehoud van de hierin uiteengezette bepalingen en voorwaarden, mag u de Website bezoeken en gebruiken met als doel het gebruik van de Diensten op niet-exclusieve basis.",
+  "section_1_modifications": "U erkent dat de Onderneming, naar eigen goeddunken en op elk moment, de Website of Diensten kan wijzigen, bijwerken of anderszins kan veranderen, inclusief het stopzetten van het aanbieden van een deel of het geheel van de Website en/of Diensten of het wijzigen of verwijderen van enige inhoud die via de Website of Diensten beschikbaar is, zonder voorafgaande kennisgeving.",
+  "section_1_void": "Gebruik van de Website en Diensten is nietig waar verboden.",
+  "section_1_warranties_intro": "Door gebruik te maken van de Website en Diensten verklaart en garandeert u dat:",
+  "section_1_warranties_a": "alle informatie die u verstrekt (indien van toepassing) waarheidsgetrouw en nauwkeurig is;",
+  "section_1_warranties_b": "u de nauwkeurigheid van dergelijke informatie zult handhaven; en",
+  "section_1_warranties_c": "u ten minste de meerderjarige leeftijd in uw jurisdictie heeft bereikt; en",
+  "section_1_warranties_d": "uw gebruik van de Website of Diensten geen inbreuk maakt op of de schending bevordert van enige toepasselijke wet- of regelgeving of enige wettelijke of contractuele verplichting die u jegens een derde partij heeft en u te allen tijde zult voldoen aan alle toepasselijke wetten, regels en voorschriften in verband met uw gebruik van de Diensten en Website, alle diensten die via de Diensten en Website zijn geregeld, inclusief maar niet beperkt tot dergelijke diensten die op enigerlei wijze verband houden met de Producten of Derde Partijen, zoals deze termen hierin worden gedefinieerd.",
+  "section_1_undertakings_def": "Subsecties (a)-(d) worden gezamenlijk aangeduid als de “Gebruikersverklaringen en Garanties”.",
+  "section_1_verification": "Door gebruik te maken van de Diensten of Website begrijpt en aanvaardt u dat de Onderneming, naar eigen goeddunken, maar niet verplicht is, kan verifiëren of alle of een deel van de Gebruikersverklaringen en Garanties door een Gebruiker worden nageleefd en u aanvaardt verder dat de Onderneming niet verantwoordelijk is voor het verzekeren dat de Gebruikersverklaringen en Garanties worden nageleefd of voor enig nalaten om het gebruik van de Diensten of Website door Gebruikers die niet voldoen aan de Gebruikersverklaringen en Garanties op te schorten, te beëindigen of te voorkomen.",
+  "section_1_responsibility": "U begrijpt dat u **uitsluitend verantwoordelijk** bent voor het maken van uw eigen evaluaties, beslissingen en beoordelingen over het al dan niet aangaan van een relatie met Derde Partijen of anderszins interactie met Derde Partijen op enigerlei wijze.",
+  "section_1_reporting": "Als u zich bewust wordt van enige schending van de Gebruikersverklaringen en Garanties, wordt u aangemoedigd dit aan de Onderneming te **melden**.",
+  "section_1_right_to_refuse": "De Onderneming behoudt zich het recht voor om u geen Diensten te verlenen, met of zonder kennisgeving naar eigen goeddunken, of het nu op de hoogte wordt gebracht van enige schending van de Gebruikersverklaringen en Garanties (hetzij door meldingen van andere Gebruikers of op andere wijze) door u of een andere Gebruiker, of om enige andere reden.",
+  "section_1_disclaimer_main": "Zonder afbreuk te doen aan het bovenstaande, wijst de Onderneming **uitdrukkelijk elke aansprakelijkheid van welke aard dan ook af**, en ontslaat u de Onderneming **uitdrukkelijk** van, voor alle controverses, claims, rechtszaken, verwondingen, verlies, schade en/of nadelen die voortvloeien uit en/of op enigerlei wijze verband houden met:",
+  "section_1_disclaimer_i": "enige onnauwkeurigheid, onjuiste timing of onvolledigheid van de verklaringen van een Gebruiker of Derde Partij; en",
+  "section_1_disclaimer_ii": "onjuiste verklaringen en/of onjuiste voorstellingen, hetzij in verband met of door een van de Derde Partijen of andere Gebruikers, Producten of anderszins.",
+  "section_1_platform_only": "Door gebruik te maken van de Website en Diensten begrijpt en aanvaardt u dat de Diensten slechts een **platform** bieden dat bedoeld is om Gebruikers te helpen bij het bereiken, kopen en/of gebruiken van verschillende producten en diensten die worden aangeboden door externe verkopers en/of dienstverleners, via de advertenties of promoties die wij uitvoeren (respectievelijk de “**Producten**” en de “**Derde Partijen**”).",
+  "section_1_company_a": "**neemt geen Derde Partijen of Producten in dienst, beveelt ze niet aan of onderschrijft ze niet**, indien relevant, of enige gerelateerde partij daarvan, en **heeft geen controle** over de handelingen of nalatigheden van een Derde Partij, hun bedrijf, hun producten of diensten;",
+  "section_1_company_b": "**doet geen verklaringen of garanties** over de Derde Partijen en Producten, inclusief hun kwaliteit, prijsstelling, compatibiliteit, beschikbaarheid of andere kenmerken, of over uw interacties of omgang met Derde Partijen;",
+  "section_1_company_c": "**doet geen verklaringen of garanties** over de eigendomsrechten of andere rechten of kenmerken of regelgevende aspecten met betrekking tot de Producten, inclusief enige vereiste autorisatie, vergunningen of licenties voor het uploaden, delen of anderszins beschikbaar stellen, en voor het gebruik, de verkoop en de aankoop van dergelijke Producten; en",
+  "section_1_company_d": "**is niet verantwoordelijk** voor de prestaties of het gedrag van een Gebruiker of andere derde partijen die de Diensten op enigerlei wijze gebruiken of hebben gebruikt, en/of op of buiten de Website.",
+  "section_1_no_screening": "De Onderneming is **niet verplicht** om enige informatie met betrekking tot Derde Partijen en/of Gebruikers, de Producten of enig ander kenmerk met betrekking tot de Website of Diensten te **screenen of anderszins te verifiëren** en daarom dient u **voorzichtig te zijn en uw eigen onderzoek en controles uit te voeren** voordat u met iemand via de Diensten of Website in zee gaat of anderszins met iemand interactie heeft.",
+  "section_1_full_disclaimer": "De Onderneming **wijst uitdrukkelijk elke aansprakelijkheid van welke aard dan ook af**, en ontslaat u de Onderneming **uitdrukkelijk** van, voor alle controverses, claims, rechtszaken, verwondingen, verlies, schade en/of nadelen die voortvloeien uit en/of op enigerlei wijze verband houden met de Derde Partijen, Producten, Diensten en Website of uw interacties of omgang met Derde Partijen, inclusief maar niet beperkt tot enige handelingen en/of nalatigheden van Derde Partijen die de Diensten of Website op enigerlei wijze gebruiken of ermee verbonden zijn.",
+  "section_1_risk": "Door gebruik te maken van de Diensten of Website, erkent u dat u **uitsluitend verantwoordelijk** bent voor dergelijk gebruik en de verbindingen, interacties, aankopen of enige andere actie die u onderneemt en dat al het gebruik van de Diensten of Website op uw **enige risico** is.",
+  "section_1_no_sale": "Om elke twijfel te vermijden, de Onderneming **verkoopt, licentieert of stelt u op andere wijze geen Producten of diensten ter beschikking** (anders dan de Diensten) en **zal geen enkele aansprakelijkheid hebben** voor enige Producten of diensten die u van een Derde Partij koopt, inclusief maar niet beperkt tot, met betrekking tot enige ondersteuning en onderhoud, wanprestaties, fouten, storingen, schade of kosten van welke aard dan ook.",
+  "section_2_title": "2. Beperkingen",
+  "section_2_intro": "Zonder afbreuk te doen aan de bepalingen van Sectie 1 daarvan, zult u, en zult u geen derde partij toestaan, om:",
+  "section_2_a": "de onderliggende code van de Website of Diensten **reverse-engineeren** of proberen te vinden;",
+  "section_2_b": "de Website of Diensten **gebruiken in strijd met enige toepasselijke wet- of regelgeving**, inclusief maar niet beperkt tot, het plaatsen, publiceren, delen of anderszins overdragen van illegaal of aanstootgevend materiaal;",
+  "section_2_c": "de Website, Diensten of inhoud van een van de Website of Diensten **kopiëren, wijzigen of er afgeleide werken van maken**;",
+  "section_2_d": "proberen om enig beveiligings- of toegangscontrolemechanisme van de Website of Diensten **uit te schakelen of te omzeilen**;",
+  "section_2_e": "**cheats, exploits, automatiseringssoftware, bots, hacks, modi** of enige andere **ongeautoriseerde software van derden** te ontwerpen of te helpen bij het ontwerpen ervan om de Website of Diensten te wijzigen of te verstoren;",
+  "section_2_f": "de Website of Diensten te gebruiken of met andere Gebruikers in contact te komen voor **enig doel dat in strijd is met enige toepasselijke wet- of regelgeving**;",
+  "section_2_g": "proberen **ongeautoriseerde toegang** te verkrijgen tot de Website of Diensten, andere Gebruikersaccounts, zoals hieronder gedefinieerd, of andere apparaten, computersystemen, telefoonsystemen of netwerken die zijn verbonden met de Website of Diensten; en",
+  "section_2_h": "informatie over Gebruikers **verzamelen** of anderszins **opslaan zonder hun toestemming**.",
+  "section_2_content_warranties": "Als u enige inhoud plaatst, publiceert, deelt of anderszins overdraagt via de Website en/of met behulp van de Diensten, verklaart en garandeert u dat dergelijke inhoud een **nauwkeurig en volledig beeld** geeft van alle daarin beschreven producten of diensten, **voldoet aan deze Voorwaarden** hierin, en **niet**:",
+  "section_2_content_a": "**inbreuk maakt** op de intellectuele eigendoms-, morele of publiciteitsrechten van een derde partij;",
+  "section_2_content_b": "enige **lasterlijke, smadelijke, obscene, seksueel suggestieve of anderszins aanstootgevende inhoud** bevat (inclusief materiaal dat haat, geweld of onverdraagzaamheid bevordert of verheerlijkt);",
+  "section_2_content_c": "enige **wormen, virussen of anderszins kwaadaardige software** bevat;",
+  "section_2_content_d": "**in strijd is** met enige toepasselijke wet- of regelgeving, inclusief enige wet- of regelgeving betreffende reclame of marketing; en",
+  "section_2_content_e": "enige actie onderneemt die een **onredelijke of onevenredig grote belasting** oplegt aan onze infrastructuur.",
+  "section_2_license_grant": "Door enige inhoud te plaatsen, uploaden, publiceren, delen of anderszins over te dragen met behulp van de Website of Diensten, verleent u hierbij **onherroepelijk** aan de Onderneming en al haar gelieerde ondernemingen en/of sublicenties een **wereldwijde, niet-exclusieve, permanente, royaltyvrije licentie** om dergelijke inhoud te publiceren, delen, weergeven en anderszins overdragen in elke redelijke vorm zoals naar **het enige goeddunken van de Onderneming** zal zijn.",
+  "section_2_removal_right": "De Onderneming behoudt zich het recht voor om enige inhoud te **verwijderen, de toegang op te schorten of permanent te verwijderen** in overeenstemming met haar **enige goeddunken zonder voorafgaande kennisgeving**, inclusief maar niet beperkt tot enige inhoud die de hierboven uiteengezette garanties of de zakelijke belangen van de Onderneming schendt, en u zult **geen enkel recht of claim** hebben met betrekking tot dergelijke beslissingen en acties.",
+  "section_2_no_liability_content": "De Onderneming **is niet** en zal **niet aansprakelijk zijn** voor enige inhoud die door Gebruikers is verstrekt, geplaatst, geüpload, gedeeld of anderszins beschikbaar is gesteld, enige producten of diensten die verband houden met dergelijke inhoud die door Gebruikers is verstrekt, geplaatst, geüpload, gedeeld of anderszins beschikbaar is gesteld. Elke Gebruiker die de Website of Diensten gebruikt, verklaart hierbij de **volledige verantwoordelijkheid** ter zake te nemen, en de Onderneming zal **geen aansprakelijkheid** dragen met betrekking tot het voorgaande.",
+  "section_3_title": "3. Promotiemateriaal en Nieuwsbrieven",
+  "section_3_consent": "Naast de bepalingen van Sectie 3 hierboven, geeft de Gebruiker zijn **uitdrukkelijke toestemming** aan de Onderneming om de Gebruiker te voorzien van promotiemateriaal en nieuwsbrieven (de “**Promotiemateriaal en Nieuwsbrieven**”) op **elke beschikbare manier**, inclusief via e-mail, tekst- en sms-berichten, fax, post, geautomatiseerde kiesdiensten of op enige andere manier, alles in overeenstemming met het **enige goeddunken van de Onderneming** zoals van tijd tot tijd zal zijn, en om dergelijke Promotiemateriaal en Nieuwsbrieven te **ontvangen**.",
+  "section_3_third_party_ads": "De Gebruiker erkent verder dat de Promotiemateriaal en Nieuwsbrieven de **reclame van derde partijen** kunnen bevatten, en hij **stemt uitdrukkelijk in** met de ontvangst van dergelijke advertenties als onderdeel van de Promotiemateriaal en Nieuwsbrieven.",
+  "section_3_unsubscribe": "De Gebruiker kan **te allen tijde contact opnemen** met de Onderneming door een verzoek via e-mail te sturen waarin de Onderneming op de hoogte wordt gesteld van zijn weigering om verdere Promotiemateriaal en Nieuwsbrieven te ontvangen.",
+  "section_4_title": "4. Intellectueel Eigendom",
+  "section_4_ownership": "De Onderneming is de eigenaar van alle wereldwijde rechten, titels en belangen in: (a) de Website en Diensten, verbeteringen, afgeleiden, bugfixes of verbeteringen aan de Website en Diensten; en (b) handelsnamen, handelsmerken en logo's van de Onderneming, en zullen **te allen tijde uitsluitend bij de Onderneming berusten**.",
+  "section_4_license_meaning": "Alle verwijzingen in deze Voorwaarden of enige andere communicatie naar de verkoop, wederverkoop of aankoop van het voorgaande betekenen alleen het **recht om de Website en Diensten te gebruiken** krachtens deze Voorwaarden.",
+  "section_4_user_liability": "Gebruikers dragen de **enige aansprakelijkheid** voor alle inhoud, inclusief de intellectuele eigendomsrechten daarvan, die door de Gebruikers is verstrekt, gedeeld of anderszins beschikbaar is gesteld met behulp van de Website en/of de Diensten, en de Onderneming **doet geen verklaring** met betrekking tot dergelijke inhoud. De Onderneming **zal niet aansprakelijk zijn** voor enige verliezen of schade opgelopen door dergelijke inhoud, en Gebruikers stemmen ermee in de Onderneming te **vrijwaren** en **schadeloos te stellen** voor enige schade of verlies die voortvloeit uit het bovenstaande.",
+  "section_5_title": "5. Privacy",
+  "section_5_no_save": "U belooft om **geen inhoud** die door de Diensten en Website wordt verstrekt, op te slaan, te verzamelen of anderszins in uw bezit te houden en te gebruiken **zonder de voorafgaande schriftelijke toestemming** van de Onderneming.",
+  "section_5_company_rights": "U erkent verder dat de Onderneming zich het recht voorbehoudt, naar eigen goeddunken, om **alle inhoud en openbare informatie** op te slaan, te verzamelen of anderszins in haar bezit te houden en te gebruiken, inclusief informatie die **u of enige andere Gebruiker of Derde Partij persoonlijk kan identificeren** of uw persoonlijke interesses kan beschrijven.",
+  "section_5_privacy_policy": "De Onderneming behoudt zich het recht voor om **alle toegestane gebruik** onder enige toepasselijke wet te maken van dergelijke inhoud en openbare informatie zoals uiteengezet in het **Privacybeleid van de Onderneming**.",
+  "section_5_no_verification": "Zonder afbreuk te doen aan de bepalingen van Sectie 1 hierboven, **beoordeelt, test, bevestigt, keurt goed of verifieert de Onderneming op andere wijze dergelijke inhoud of openbare informatie niet**.",
+  "section_5_user_responsibility": "Elke Gebruiker die dergelijke inhoud of openbare informatie plaatst, uploadt, deelt of anderszins beschikbaar stelt, draagt de **enige verantwoordelijkheid** voor de inhoud of openbare informatie, inclusief alle informatie van derden en **vereiste toestemmingen**.",
+  "section_5_indemnification": "De Onderneming **zal niet aansprakelijk zijn** voor enig verlies of schade opgelopen door het niet naleven van het bovenstaande, en u stemt ermee in de Onderneming te **vrijwaren** en **schadeloos te stellen** voor enige schade of verlies die voortvloeit uit het bovenstaande.",
+  "section_5_not_storage": "ONVERMINDERD HET VOORGAANDE, BEGRIJPT EN ERKENT U DAT DE ONDERNEMING **GEEN OPSLAGDIENST VOOR INHOUD IS**. DE ONDERNEMING **ZAL GEEN ENKELE AANSPRAKELIJKHEID HEBBEN** VOOR ENIGE **VERLOREN OF GEWISTE INHOUD** OF OPENBARE INFORMATIE.",
+  "section_5_public_warning": "U DIENT ZICH ERVAN BEWUST TE ZIJN DAT **ENIGE INHOUD** die wordt geplaatst, geüpload, gedeeld of anderszins beschikbaar wordt gesteld, **KAN WORDEN GELEZEN, VERZAMELD EN GEBRUIKT DOOR ANDERE GEBRUIKERS**, EN KAN WORDEN GEBRUIKT OM **ONGEVRAAGDE INHOUD TE VERZENDEN**.",
+  "section_6_title": "6. Links",
+  "section_6_description": "De Website of Diensten kunnen links of andere inhoud bevatten die verband houden met websites, adverteerders, uitgevers of Producten die door derde partijen worden aangeboden. De Onderneming **heeft geen controle** en **doet geen verklaring** met betrekking tot hetzelfde of enige informatie die via hetzelfde wordt verstrekt of verzonden, of anderszins wordt verstrekt door een dergelijke derde partij.",
+  "section_6_risk": "U BEGRIJPT EN AANVAARDT DAT HET GEBRUIK VAN DERGELIJKE LINKS OF ANDERE INHOUD **OP UW EIGEN RISICO** IS, DAT DERGELIJKE LINKS OF ANDERE INHOUD WORDEN BEHEERST DOOR DE **GEBRUIKSVOORWAARDEN EN PRIVACYBELEID VAN DERGELIJKE DERDE PARTIJEN**, EN DAT DE ONDERNEMING **NIET VERANTWOORDELIJK** IS VOOR DE PRIVACY OF ZAKELIJKE PRAKTIJKEN OF ANDERE BELEIDEN VAN DERGELIJKE DERDE PARTIJEN.",
+  "section_6_review_advice": "U dient de **toepasselijke voorwaarden en beleidsregels** die van toepassing zijn op een dergelijke Derde Partij **zorgvuldig te herzien**.",
+  "section_6_full_disclaimer": "DE ONDERNEMING **IS NIET VERANTWOORDELIJK OF AANSPRAKELIJK** OP ENIGERLEI WIJZE VOOR EEN DERGELIJKE **DERDE PARTIJ**, OF VOOR ENIG **VERLIES OF SCHADE** VAN WELKE AARD DAN OOK DIE HET GEVOLG IS DAARVAN, EN DE ONDERNEMING **WIJST UITDRUKKELIJK ELKE AANSPRAKELIJKHEID VAN WELKE AARD DAN OOK AF**, EN ONTSLAAT U DE ONDERNEMING **UITDRUKKELIJK** VAN, VOOR ALLE CONTROVERSES, CLAIMS, RECHTSZAKEN, VERWONDINGEN, VERLIES, SCHADE EN/OF NADEEL, DIE VOORTVLOEIEN UIT EN/OF OP ENIGERLEI WIJZE **VERBAND HOUDEN MET DERGELIJKE DERDE PARTIJEN**, INCLUSIEF MAAR NIET BEPERKT TOT BETREKKING TOT BESCHIKBAARHEID, GEBRUIKSVOORWAARDEN, PRIVACY, INFORMATIE, INHOUD, MATERIALEN, ADVERTEREN, KOSTEN, PRODUCTEN EN/OF DIENSTEN.",
+  "section_7_title": "7. Verboden Gebruik",
+  "section_7_commercial": "De Website en Diensten **mogen niet worden gebruikt** in verband met **enige commerciële onderneming** (tenzij anders toegestaan door de Onderneming in het verbinden van Gebruikers met Derde Partijen) **zonder de uitdrukkelijke schriftelijke toestemming** van de Onderneming.",
+  "section_7_recruitment": "De Website en Diensten **mogen niet worden gebruikt** door een persoon of organisatie om te **werven** voor een andere website, **te werven, te adverteren of contact op te nemen** in welke vorm dan ook met Gebruikers voor **werk, contractering of enig ander doel** voor een bedrijf dat **niet gelieerd** is aan de Onderneming **zonder uitdrukkelijke schriftelijke toestemming** van de Onderneming.",
+  "section_7_user_contact": "U stemt ermee in de Diensten en Website **niet te gebruiken** om **contact op te nemen, te adverteren, te werven of te verkopen** aan een andere Gebruiker **zonder hun uitdrukkelijke toestemming**, tenzij anders toegestaan onder deze Voorwaarden.",
+  "section_8_title": "8. Ondersteuning",
+  "section_8_text": "Gebruikers kunnen **contact opnemen** met de Onderneming met betrekking tot ondersteuning voor de Website en Diensten door een **e-mail** te sturen",
+  "section_9_title": "9. Disclaimers",
+  "section_9_security": "De Onderneming levert **redelijke inspanningen** om ervoor te zorgen dat haar technologie de Website en Diensten veilig en beveiligd houdt. **Geen enkele technologie is echter 100% veilig**. Hoewel we ernaar streven om commercieel aanvaardbare middelen te gebruiken om uw persoonlijke informatie te beschermen, **kunnen we de absolute veiligheid ervan niet garanderen**.",
+  "section_9_as_is": "Behalve zoals hierin uitdrukkelijk uiteengezet, is uw gebruik van de Website en Diensten naar uw **enige goeddunken en risico**. De Website en Diensten worden aangeboden op basis van “**AS IS**” en “**AS AVAILABLE**” **zonder garanties** van welke aard dan ook.",
+  "section_9_no_warranties": "De Onderneming **wijst uitdrukkelijk alle impliciete of wettelijke garanties** van welke aard dan ook met betrekking tot de Website en Diensten af, inclusief maar niet beperkt tot de garanties van eigendom, verkoopbaarheid, geschiktheid voor een bepaald doel, niet-inbreuk op eigendomsrechten, handelswijze of prestatie.",
+  "section_9_no_advice": "De Onderneming **geeft geen advies** met betrekking tot het risico of de geschiktheid van enige handel, transactie of betrokkenheid. De Onderneming **aanvaardt geen verantwoordelijkheid** voor enige transactie of betrokkenheid die u aangaat en u erkent dat u **uitsluitend verantwoordelijk** bent voor de beoordeling van uw transacties en betrokkenheden.",
+  "section_9_no_liability_advice": "U **zult de Onderneming**, haar functionarissen, werknemers of gelieerde ondernemingen **niet aansprakelijk stellen** voor enige transactie- of betrokkenheidskeuzes die door u zijn gemaakt.",
+  "section_9_no_created_warranty": "Geen enkel advies of informatie, mondeling of schriftelijk, verkregen door u van de Onderneming of haar functionarissen, werknemers of gelieerde ondernemingen, **zal enige garantie creëren** die niet uitdrukkelijk in deze Voorwaarden is vermeld. Als u ervoor kiest om op dergelijke informatie te vertrouwen, doet u dit **uitsluitend op eigen risico**.",
+  "section_9_jurisdiction_note": "Sommige staten of jurisdicties staan de uitsluiting van bepaalde garanties **niet toe**. Dienovereenkomstig zijn sommige van de bovenstaande uitsluitingen mogelijk **niet op u van toepassing**.",
+  "section_10_title": "10. Beperking van Aansprakelijkheid",
+  "section_10_no_guarantee": "De Onderneming **garandeert niet** de waarde, kwaliteit, compatibiliteit of enig ander kenmerk van de Derde Partijen, Producten of enige andere informatie die wordt verstrekt, verbruikt of anderszins beschikbaar wordt gesteld (hierna in deze Sectie: de “**Kenmerken**”). Elk Kenmerk valt onder de **enige verantwoordelijkheid** van de toepasselijke Derde Partij of Gebruiker die het gebruikt, indien van toepassing, of de Diensten of Website gebruikt.",
+  "section_10_monitoring": "De Onderneming **verplicht zich niet** om een dergelijke naleving te controleren en kan actie ondernemen wanneer niet-naleving wordt gedetecteerd, zoals zal worden beslist in overeenstemming met haar **enige goeddunken**, zoals beschreven in deze Voorwaarden.",
+  "section_10_exposure": "U begrijpt en aanvaardt dat u kunt worden blootgesteld aan inhoud of andere informatie die **onnauwkeurig, aanstootgevend, ongeschikt** voor kinderen of anderszins **ongeschikt** voor u is.",
+  "section_10_technical": "De Onderneming **is niet verantwoordelijk** voor enige problemen of **technische storing** van enig telefoonnetwerk of lijnen, computer online systemen, servers of providers, computerapparatuur, software, het falen van enige e-mail als gevolg van technische problemen of verkeersopstoppingen op het internet of op een van de Website of Diensten of een combinatie daarvan, inclusief enige verwonding of **schade aan Gebruikers** of aan de computer, mobiele telefoon of enig ander apparaat van een persoon die verband houdt met of het gevolg is van deelname of het downloaden van materialen in verband met de Website of Diensten.",
+  "section_10_conduct": "Onder **geen enkele omstandigheid** zal de Onderneming verantwoordelijk zijn voor het **gedrag van derde partijen**, inclusief Gebruikers, online of offline, en exploitanten van externe sites.",
+  "section_10_no_indirect": "In **geen geval** zal de Onderneming of een van haar functionarissen, directeuren, werknemers of agenten jegens u aansprakelijk zijn voor enige **indirecte, incidentele, speciale, punitieve of gevolgschade**, die voortvloeit uit of verband houdt met uw gebruik van de Website of Diensten, **ongeacht of de schade voorzienbaar is** en **ongeacht of de Onderneming op de hoogte is gebracht** van de mogelijkheid van dergelijke schade.",
+  "section_10_full_extent": "De voorgaande beperking van aansprakelijkheid is van toepassing in de **volste mate toegestaan door de wet** in de toepasselijke jurisdictie.",
+  "section_11_title": "11. Vrijwaring",
+  "section_11_text": "U zult de Onderneming **verdedigen, vrijwaren en schadeloos stellen** tegen en voor alle **rechtszaken, procedures, beweringen, schade, kosten, aansprakelijkheden of uitgaven** (inclusief gerechtskosten en redelijke juridische kosten van advocaten) die de Onderneming kan lijden of oplopen in verband met enige feitelijke claim, eis, actie of andere procedure door een derde partij die voortvloeit uit of verband houdt met **enige schending van deze Voorwaarden** door u of **enig gebruik** door u van de Website of Diensten dat **niet in overeenstemming is met de toepasselijke wet**.",
+  "section_12_title": "12. Overige Bepalingen",
+  "section_12_governing_law": "Deze Voorwaarden worden beheerst door de **wetten van Engeland**, met uitsluiting van de regels voor wetskeuze, en zonder rekening te houden met het Verdrag van de Verenigde Naties inzake internationale koopovereenkomsten betreffende roerende zaken. Uw gedrag kan ook onderworpen zijn aan andere lokale, staats- en nationale wetten.",
+  "section_12_jurisdiction": "Elk **geschil** dat voortvloeit uit deze Voorwaarden of met betrekking tot de Website of Dienst zal uiteindelijk worden beslecht door de **bevoegde rechtbanken van Engeland**.",
+  "section_12_no_class_action": "U **mag geen collectieve vorderingen** tegen de Onderneming instellen, en door gebruik te maken van de Website of Diensten stemt u ermee in **afstand te doen van uw rechten** om dergelijke collectieve vorderingen in te stellen.",
+  "section_12_limitation_period": "Elke **rechtsvordering** tegen de Onderneming moet worden ingesteld **binnen één (1) jaar** na de datum waarop een dergelijke rechtsvordering is ontstaan.",
+  "section_12_severability": "In het geval dat een bepaling van deze Voorwaarden als **niet-afdwingbaar** wordt beschouwd, zal een dergelijke bepaling worden **vervangen door een afdwingbare bepaling** die het effect van de oorspronkelijke bepaling het dichtst benadert, en de overige bepalingen van deze Voorwaarden blijven **volledig van kracht**.",
+  "section_12_no_agency": "Niets in deze Voorwaarden creëert een **agentschap, dienstverband, joint venture of partnerschapsrelatie** tussen u en de Onderneming of stelt u in staat om namens de Onderneming op te treden.",
+  "section_12_entire_agreement": "Behalve zoals uitdrukkelijk in deze Voorwaarden is vermeld, vormen deze Voorwaarden de **volledige overeenkomst** tussen de Onderneming en u met betrekking tot het onderwerp hiervan.",
+  "section_12_notices": "Alle **kennisgevingen** die wij aan u moeten verstrekken, hetzij op grond van de wet of volgens deze Voorwaarden, kunnen door de Onderneming worden verstrekt aan **elke contactinformatie** die u in uw Accountinformatie of anderszins heeft verstrekt, hetzij direct of indirect, inclusief via **e-mail**. U stemt uitdrukkelijk in met de ontvangst van dergelijke communicaties en kennisgevingen op een dergelijke manier.",
+  "section_12_no_assignment": "U **mag geen rechten hieronder toewijzen** **zonder onze voorafgaande schriftelijke toestemming**.",
+  "section_12_no_limitation": "Niets in deze Voorwaarden zal worden geïnterpreteerd om de **acties of remedies te beperken** die beschikbaar zijn voor de Onderneming met betrekking tot enige verboden activiteit of gedrag.",
+  "section_12_no_waiver": "Niet-handhaving van enige termijn van deze Voorwaarden **vormt geen toestemming of afstand**, en de Onderneming behoudt zich het recht voor om een dergelijke termijn naar **eigen goeddunken af te dwingen**. Geen enkele afstand van enige schending of wanprestatie hieronder zal worden geacht een afstand te zijn van enige voorafgaande of daaropvolgende schending of wanprestatie.",
+  "section_12_viewer_responsibility": "Het is de **enige verantwoordelijkheid van de kijker** om de nauwkeurigheid, volledigheid of bruikbaarheid van enige informatie, mening, advies of andere inhoud op de Site te evalueren."
+
 }

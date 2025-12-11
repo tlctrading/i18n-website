@@ -115,5 +115,388 @@
     "contact.input.email": "Ваш имејл",
     "contact.input.message": "Ваша порука",
     "contact.button": "Пошаљи поруку",
-    "contact.success": "Ваша порука је успешно послата!"
+    "contact.success": "Ваша порука је успешно послата!",
+
+     "privacy.title": "Politika privatnosti", 
+
+  "privacy.intro.provider": "Provajder (\"nas\", \"mi\" ili \"naš\") upravlja platformom Aivontrixen (\"Usluga\").", 
+
+  "privacy.intro.description": "Ovaj dokument opisuje naše prakse u vezi sa prikupljanjem, korišćenjem i deljenjem ličnih podataka kada koristite našu Uslugu i opcije koje su vam na raspolaganju u vezi sa tim informacijama.", 
+
+  "privacy.intro.usage": "Mi, Aivontrixen, koristimo vaše informacije da pružimo i unapredimo Uslugu. Korišćenjem Usluge, dajete saglasnost za prikupljanje i korišćenje podataka kako je opisano u ovoj politici. Osim ako nije posebno definisano u ovoj Politici privatnosti, terminologija koja se ovde koristi ima isto značenje kao u našim Uslovima i uslovima, dostupnim od Aivontrixen.", 
+
+   
+
+  "privacy.toc.definitions": "Definicije", 
+
+  "privacy.toc.definitions.service": "Usluga", 
+
+  "privacy.toc.definitions.personal_data": "Lični podaci", 
+
+  "privacy.toc.definitions.usage_data": "Podaci o korišćenju", 
+
+  "privacy.toc.definitions.cookies": "Kolačići", 
+
+  "privacy.toc.definitions.data_controller": "Kontrolor podataka", 
+
+  "privacy.toc.definitions.data_processors": "Obrađivači podataka (ili provajderi usluga)", 
+
+  "privacy.toc.definitions.data_subject": "Subjekat podataka (ili korisnik)", 
+
+   
+
+  "privacy.toc.info_collection": "Prikupljanje i upotreba informacija", 
+
+  "privacy.toc.info_collection.types_of_data": "Vrste prikupljenih podataka", 
+
+  "privacy.toc.info_collection.personal_data": "Lični podaci", 
+
+  "privacy.toc.info_collection.usage_data": "Podaci o korišćenju", 
+
+  "privacy.toc.info_collection.tracking_cookies": "Podaci o kolačićima za praćenje", 
+
+  "privacy.toc.info_collection.use_of_data": "Upotreba podataka", 
+
+  "privacy.toc.info_collection.legal_basis": "Pravni osnov za obradu ličnih podataka prema Opštoj uredbi o zaštiti podataka (GDPR)", 
+
+  "privacy.toc.info_collection.retention": "Čuvanje podataka", 
+
+   
+
+  "privacy.toc.transfer": "Prenos podataka", 
+
+  "privacy.toc.transfer.disclosure": "Otkrivanje podataka", 
+
+  "privacy.toc.transfer.disclosure.business_transaction": "Poslovna transakcija", 
+
+  "privacy.toc.transfer.legal_requirements": "Zakonski zahtevi", 
+
+  "privacy.toc.transfer.security": "Bezbednost podataka", 
+
+  "privacy.toc.transfer.rights_gdpr": "Vaša prava zaštite podataka prema Opštoj uredbi o zaštiti podataka (GDPR)", 
+
+   
+
+  "privacy.toc.service_providers": "Provajderi usluga", 
+
+  "privacy.toc.service_providers.analytics": "Analitika", 
+
+  "privacy.toc.service_providers.advertising": "Oglašavanje", 
+
+  "privacy.toc.service_providers.behavioral_remarketing": "Bihevioralni remarketing", 
+
+  "privacy.toc.service_providers.links": "Linkovi do drugih sajtova", 
+
+  "privacy.toc.service_providers.changes": "Izmene ove Politike privatnosti", 
+
+  "privacy.toc.service_providers.contact": "Kontaktirajte nas", 
+
+"privacy.definitions.service": "Usluga je veb sajt Aivontrixen kojim upravlja Provajder", 
+
+  "privacy.definitions.personal_data": "Lični podaci podrazumevaju podatke o živoj osobi koja se može identifikovati na osnovu tih podataka (ili na osnovu tih podataka i drugih informacija koje su u našem posedu ili bi mogle da budu u našem posedu).", 
+
+  "privacy.definitions.usage_data": "Podaci o korišćenju su podaci prikupljeni automatski, generisani korišćenjem Usluge ili iz same infrastrukture Usluge (na primer, trajanje posete stranici).", 
+
+  "privacy.definitions.cookies": "Kolačići su mali komadi podataka koji se čuvaju na vašem uređaju (računar ili mobilni uređaj).", 
+
+  "privacy.definitions.data_controller": "Kontrolor podataka je fizičko ili pravno lice koje (samostalno ili zajednički sa drugim licima) određuje svrhe i način na koji se bilo koja lična informacija obrađuje ili će se obrađivati. U svrhu ove Politike privatnosti, mi smo Kontrolor vaših ličnih podataka.", 
+
+  "privacy.definitions.data_processors": "Obrađivač podataka (ili provajder usluge) podrazumeva bilo koje fizičko ili pravno lice koje obrađuje podatke u ime Kontrolora podataka. Možemo koristiti usluge raznih provajdera usluga kako bismo efikasnije obrađivali vaše podatke.", 
+
+  "privacy.definitions.data_subject": "Subjekat podataka je svaka živa osoba koja koristi našu Uslugu i čiji su podaci predmet ličnih podataka.", 
+
+ 
+
+  "privacy.provider.take": "Provajder će preduzeti sve razumno potrebne korake da osigura da se vaši podaci tretiraju bezbedno i u skladu sa ovom Politikom privatnosti i da se transfer vaših ličnih podataka ne obavlja organizaciji ili zemlji ukoliko ne postoje adekvatne kontrole, uključujući bezbednost vaših podataka i drugih ličnih informacija.", 
+
+ 
+
+  "privacy.info_collection.description": "Prikupljamo različite vrste informacija u razne svrhe kako bismo vam pružili i unapredili našu Uslugu.", 
+
+  "privacy.info_collection.personal_data.description": "Tokom korišćenja naše Usluge, možemo vas zamoliti da nam pružite određene lične informacije koje se mogu koristiti za kontakt ili identifikaciju (“Lični podaci”). Lične informacije mogu uključivati, ali nisu ograničene na:", 
+
+  "privacy.info.user1": "Email adresa", 
+
+  "privacy.info.user2": "Ime i prezime", 
+
+  "privacy.info.user3": "Broj telefona", 
+
+  "privacy.info.user4": "Adresa, država, pokrajina, poštanski broj, grad", 
+
+  "privacy.info.user5": "Kolačići i podaci o korišćenju", 
+
+"privacy.info_collection.personal_data.usage": "Možemo koristiti vaše lične podatke da vas kontaktiramo putem biltena, marketinških ili promotivnih materijala i drugih informacija koje bi vam mogle biti od interesa. Možete se odjaviti od primanja bilo kojih, ili svih, ovih komunikacija prateći link za odjavu ili uputstva navedena u bilo kojem emailu koji pošaljemo ili kontaktirajući nas.", 
+
+  "privacy.info_collection.usage_data.description": "Takođe možemo prikupljati informacije o tome kako se Usluga pristupa i koristi (“Podaci o korišćenju”). Ovi podaci mogu uključivati informacije kao što su IP adresa vašeg računara, tip pretraživača, verzija pretraživača, stranice naše Usluge koje posećujete, datum i vreme posete, vreme provedeno na tim stranicama, jedinstveni identifikatori uređaja i druge dijagnostičke podatke.", 
+
+  "privacy.info_collection.cookies.description": "Koristimo kolačiće i slične tehnologije za praćenje aktivnosti na našoj Usluzi i čuvamo određene informacije.", 
+
+  "privacy.info.collection.cookies.description1": "Kolačići su fajlovi sa malom količinom podataka koji mogu da sadrže anonimni jedinstveni identifikator. Kolačići se šalju vašem pretraživaču od veb sajta i čuvaju se na vašem uređaju. Tehnologije za praćenje koje se takođe koriste su beacon‑i, tag‑ovi i skripte za prikupljanje i praćenje informacija i za poboljšanje i analizu naše Usluge.", 
+
+  "privacy.info.collection.cookies.instruct": "Možete podesiti vaš pretraživač da odbija sve kolačiće ili da obaveštava kada se kolačić šalje. Međutim, ako ne prihvatite kolačiće, možda nećete moći da koristite određene delove naše Usluge.", 
+
+  "privacy.info_collection.cookies.examples": "Primeri kolačića koje koristimo:", 
+
+  "privacy.example1": "Sesijski kolačići.", 
+
+  "privacy.example1.description": "Koristimo sesijske kolačiće za rad naše Usluge.", 
+
+  "privacy.example2": "Kolačići preferacija.", 
+
+  "privacy.example2.description": "Koristimo kolačiće preferacija da zapamtimo vaše postavke i različita podešavanja.", 
+
+  "privacy.example3": "Bezbednosni kolačići.", 
+
+  "privacy.example3.description": "Koristimo bezbednosne kolačiće u bezbednosne svrhe.", 
+
+  "privacy.example4": "Kolačići za oglašavanje.", 
+
+  "privacy.example4.description": "Kolačići za oglašavanje se koriste da vam prikazuju oglase koji mogu biti relevantni za vas i vaše interese.", 
+
+ 
+
+  "privacy.info_collection.use_of_data": "Provajder koristi prikupljene podatke u razne svrhe, uključujući:", 
+
+  "provider1": "Da pružimo i održavamo našu Uslugu", 
+
+  "provider2": "Da vas obavestimo o izmenama naše Usluge", 
+
+  "provider3": "Da vam omogućimo učestvovanje u interaktivnim funkcijama naše Usluge kada se tako odlučite", 
+
+  "provider4": "Da obezbedimo korisničku podršku", 
+
+  "provider5": "Da prikupimo analize ili dragocene informacije kako bismo unapredili našu Uslugu", 
+
+  "provider6": "Da pratimo korišćenje naše Usluge", 
+
+  "provider7": "Da otkrivamo, sprečavamo i rešavamo tehničke probleme", 
+
+  "provider8": "Da vam pružimo vesti, posebne ponude i opšte informacije o drugim proizvodima, uslugama i događajima koje nudimo, a koji su slični onima koje ste već kupili ili o kojima ste se informisali, osim ako niste izabrali da ne primate takve informacije", 
+
+"providerText": "Provajder će takođe čuvati podatke o korišćenju u svrhe interne analize. Podaci o korišćenju se obično čuvaju kraći period, osim kada se ti podaci koriste za jačanje bezbednosti ili poboljšanje funkcionalnosti naše Usluge, ili kada smo zakonski obavezani da čuvamo te podatke duže vremenske periode.", 
+
+  "privacy.info_collection.legal_basis": "Ako ste iz Evropskog ekonomskog prostora (EEA), pravni osnov Provajdera za prikupljanje i korišćenje ličnih informacija opisanih u ovoj Politici privatnosti zavisi od ličnih podataka koje prikupljamo i specifičnog konteksta u kome ih prikupljamo.", 
+
+  "privacy.accept.info": "Provajder može obraditi vaše lične podatke jer:", 
+
+  "privacy.accept.info.why1": "Moramo da izvršimo ugovor sa vama", 
+
+  "privacy.accept.info.why2": "Dali ste nam dozvolu", 
+
+  "privacy.accept.info.why3": "Obrada je u našem legitimnom interesu i ne prevazilazi vaša prava", 
+
+  "privacy.accept.info.why4": " Da se pridržavamo zakona.", 
+
+ 
+
+  "privacy.consent": "naš pristanak na ovu Politiku privatnosti, praćen vašim podnošenjem takvih informacija, predstavlja vaš pristanak na taj prenos.", 
+
+ 
+
+  "privacy.transfer.description": "Vaše informacije, uključujući lične podatke, mogu biti prebačene i čuvane na računarima koji se nalaze izvan vaše države, pokrajine, zemlje ili druge vladine jurisdikcije gde zakoni o zaštiti podataka mogu biti drugačiji od onih u vašoj jurisdikciji.", 
+
+ 
+
+  "privacy.transfer.disclosure.business_transaction": "Ako je Provajder uključen u spajanje, akviziciju ili prodaju imovine, vaši lični podaci mogu biti prebačeni. Obavestićemo vas pre nego što se vaši lični podaci prebače i podvrgnu drugačijoj Politici privatnosti.", 
+
+  "privacy.transfer.legal_requirements": "Provajder može otkriti vaše lične podatke u dobroj veri da je takva radnja neophodna", 
+
+  "requirments1": "da se ispuni zakonska obaveza", 
+
+  "requirments2": "da se zaštite prava ili imovina provajdera", 
+
+  "requirments3": "Da se spreči ili istraži moguće kršenje u vezi sa Uslugom", 
+
+  "requirments4": "Da se zaštiti lična bezbednost korisnika Usluge ili javnosti", 
+
+  "requirments5": "Da se zaštiti od pravne odgovornosti", 
+
+ 
+
+  "right.complain": "Imate pravo da se žalite nadležnom organu za zaštitu podataka u vezi sa našim prikupljanjem i upotrebom vaših ličnih podataka. Za više informacija, kontaktirajte lokalni organ za zaštitu podataka u Evropskom ekonomskom prostoru (EEA).", 
+
+  "privacy.transfer.security": "Bezbednost vaših podataka nam je važna, ali nijedan metod prenosa ili skladištenja nije 100 % siguran. Trudimo se da koristimo komercijalno prihvatljive načine, ali ne možemo garantovati potpunu sigurnost.", 
+
+  "privacy.transfer.rights_gdpr": "Ako ste stanovnik Evropskog ekonomskog prostora (EEA), imate prava na zaštitu podataka. Provajder nastoji da preduzme razumne korake kako bi vam omogućio ispravku, izmenu, brisanje ili ograničavanje upotrebe vaših ličnih podataka.", 
+
+  "privacy.certain.circums": "U određenim okolnostima, imate sledeća prava zaštite podataka", 
+
+  "google.analytics": "Google Analytics", 
+
+  "google.analytics.desc": "Google Analytics je usluga veb analitike koju nudi Google i koja prati i izveštava o posetama veb sajtu. Google koristi prikupljene podatke za praćenje i nadzor upotrebe naše Usluge. Ovi podaci se dele sa drugim Google uslugama. Google može koristiti prikupljene podatke za kontekstualizaciju i personalizaciju oglasa svoje oglašivačke mreže. Možete se odjaviti od deljenja vaše aktivnosti na Usluzi sa Google Analytics instaliranjem dodatka za odjavu iz Google Analytics pretraživača. Dodatak sprečava da JavaScript Google Analytics (ga.js, analytics.js i dc.js) deli informacije o posetama sa Google Analytics. Za više informacija o praksi privatnosti Google-a, posetite stranicu Google Privacy Terms.", 
+
+"privacy.your.access": "Pravo na pristup, ažuriranje ili brisanje informacija koje imamo o vama. Kada je moguće, možete pristupiti, ažurirati ili zatražiti brisanje vaših ličnih podataka direktno u odeljku podešavanja vašeg naloga. Ako ne možete sami da izvršite ove radnje, kontaktirajte nas za pomoć. Pravo na ispravku. Imate pravo da vaši podaci budu ispravljeni ako su netačni ili nepotpuni. Pravo na prigovor. Imate pravo da se protivuete našoj obradi vaših ličnih podataka. Pravo na ograničenje. Imate pravo da zatražite da ograničimo obradu vaših ličnih podataka. Pravo na prenos podataka. Imate pravo da dobijete kopiju informacija koje imamo o vama u strukturiranom, mašinski čitljivom i uobičajeno korišćenom formatu. Pravo na povlačenje saglasnosti. Takođe imate pravo da povučete svoju saglasnost u bilo kom trenutku kada je Provajder koristio vašu saglasnost za obradu vaših ličnih podataka.", 
+
+  "google.adSense": "Google AdSense DoubleClick Cookie", 
+
+  "google.adSense.desc": "Google, kao treći dobavljač, koristi kolačiće za prikazivanje oglasa na našoj Usluzi. Upotreba Google DoubleClick kolačića omogućava njemu i njegovim partnerima da prikazuju oglase našim korisnicima na osnovu njihovih poseta našoj Usluzi ili drugim veb sajtovima na Internetu. Možete se odjaviti od korišćenja DoubleClick kolačića za interesno oglašavanje posetom stranici Google Ads Settings:", 
+
+  "google.adSense.provider": "Provajder koristi usluge remarketinga da vam prikazuje oglase na veb sajtovima trećih strana nakon što ste posetili našu Uslugu. Mi i naši treći dobavljači koristimo kolačiće da informišemo, optimizujemo i prikazujemo oglase na osnovu vaših prethodnih poseta našoj Usluzi.", 
+
+  "google.adWords": "Google AdWords", 
+
+  "google.adWords.rec": "preporučuje instaliranje dodatka za odjavu iz Google Analytics –", 
+
+  "google.also": "Google takođe", 
+
+  "google.analytics.your.browser": "– za vaš veb pretraživač. Dodatak za odjavu iz Google Analytics omogućava posetiocima da spreče prikupljanje i korišćenje njihovih podataka od strane Google Analytics. Za više informacija o praksi privatnosti Google-a, posetite stranicu Google Privacy Terms:", 
+
+  "facebook": "Facebook", 
+
+  "facebook.remarketing": "Usluga Facebook remarketinga pruža Facebook Inc. Više o interesnom oglašavanju od Facebook-a možete saznati posetom ove stranice:", 
+
+  "facebook.ad": "Da se odjavite od interesnog oglašavanja na Facebook-u, pratite ova uputstva od Facebook-a:", 
+
+  "facebook.adheres1": "Facebook se pridržava principa samoregulacije za onlajn bihevioralno oglašavanje koje je uspostavio Digital Advertising Alliance. Takođe se možete odjaviti od Facebook-a i drugih učesničkih kompanija putem Digital Advertising Alliance u SAD-u ", 
+
+  "facebook.adheres2": "Digital Advertising Alliance of Canada u Kanadi", 
+
+  "facebook.adheres3": "ili European Interactive Digital Advertising Alliance u Evropi", 
+
+  "facebook.adheres4": "ili se odjavite koristeći podešavanja vašeg mobilnog uređaja. Za više informacija o praksi privatnosti Facebook-a, posetite Facebook-ovu Politiku podataka:", 
+
+"privacy.shouldNote": "Imajte na umu da možemo zatražiti verifikaciju vašeg identiteta pre nego što odgovorimo na takve zahteve.", 
+
+  "privacy.wishInformed": "Ako želite da budete informisani o ličnim podacima koje imamo o vama i želite da ih uklonimo iz naših sistema, kontaktirajte nas.", 
+
+  "privacy.service_providers.description": "Možemo angažovati kompanije i pojedince trećih strana kako bismo olakšali našu Uslugu. Ove treće strane imaju pristup vašim ličnim podacima samo za izvršenje zadataka i obavezane su da ih ne otkrivaju niti koriste u druge svrhe.", 
+
+  "privacy.bolgaria": "Ako se nalazite izvan Bugarske i odlučite da nam pružite informacije, imajte na umu da transferišemo podatke, uključujući lične podatke, u Bugarsku i obrađujemo ih tamo.", 
+
+  "privacy.service_providers.analytics": "Možemo koristiti provajdere usluga trećih strana kao što je Google Analytics za praćenje i analizu upotrebe naše Usluge.", 
+
+  "privacy.service_providers.advertising": "Možemo koristiti provajdere usluga trećih strana da vam prikazujemo oglase kako bismo podržali i održavali našu Uslugu", 
+
+  "privacy.service_providers.behavioral_remarketing": "Usluga remarketinga Google AdWords pruža Google Inc. Možete se odjaviti od Google Analytics za prikazno oglašavanje i prilagoditi oglase Google Display Network posetom stranici Google Ads Settings:", 
+
+  "privacy.service_providers.links": "Naša Usluga može sadržati linkove do drugih sajtova koje ne upravljamo. Pregledajte Politike privatnosti tih sajtova.", 
+
+  "privacy.noControl": "Nemamo kontrolu niti preuzimamo odgovornost za sadržaj, politike privatnosti ili prakse bilo kojih veb sajtova ili usluga trećih strana.", 
+
+  "privacy.child": "Privatnost dece", 
+
+  "privacy.service_providers.children": "Naša Usluga se ne obraća nikome mlađem od 18 godina (“Deca”). Namerno ne prikupljamo lične podatke od osoba mlađih od 18 godina. Ako ste roditelj ili staratelj i znate da je vaše dete pružilo lične podatke, kontaktirajte nas. Ako saznamo da smo prikupili lične podatke od dece bez verifikacije roditeljske saglasnosti, preduzećemo korake da uklonimo te informacije sa naših servera.", 
+
+  "privacy.changes": "Izmene ove Politike privatnosti", 
+
+  "privacy.service_providers.changes": "Možemo povremeno ažurirati našu Politiku privatnosti. Izmene će biti objavljene na ovoj stranici i/ili obaveštene putem email-a.", 
+
+  "privacy.letKnow": "Obavestićemo vas putem email-a i/ili istaknutog obaveštenja na našoj Usluzi, pre nego što promena stupi na snagu i ažurira „datum efektivnosti“ na vrhu ove Politike privatnosti.", 
+
+  "privacy.advises": "Preporučujemo da povremeno pregledate ovu Politiku privatnosti zbog eventualnih izmena. Izmene ove Politike privatnosti stupaju na snagu kada se objave na ovoj stranici.", 
+
+  "privacy.service_providers.contact": "Ako imate pitanja u vezi sa ovom Politikom privatnosti, kontaktirajte nas putem email-a.",
+
+  "terms_title": "Услови Коришћења",
+  "terms_intro_welcome": "Добродошли на Аivontrixen. Ови Услови Коришћења (\"Услови\") регулишу ваше ангажовање са нашом платформом која се налази на Аivontrixen (\"Услуга\") којом управља Аivontrixen.",
+  "terms_intro_generator": "Наши Услови Коришћења су развијени коришћењем Генератора Услова Коришћења.",
+  "terms_intro_acceptance_1": "Посетом или коришћењем наше Услуге, сагласни сте да будете обавезани овим Условима. Ако имате било каквих приговора на било који део ових услова, не можете користити Услугу.",
+  "terms_intro_changes": "Молимо вас да разумете да можемо изменити ове Услове с времена на време, и измене ће ступити на снагу одмах након објављивања. Ваша даља употреба платформе представља вашу сагласност са свим ревидираним или ажурираним условима.",
+  "terms_intro_rejection": "Ако одбијате било који од ових Услова, молимо вас да се суздржите од клика на \"ПРИХВАТАМ\" и престаните да користите Веб локацију.",
+  "terms_intro_website_def": "Веб локација се односи на Аivontrixen, доступна са Аivontrixen",
+  "section_1_title": "1. Коришћење Веб локације и Услуга",
+  "section_1_access": "У складу са овде утврђеним одредбама и условима, можете приступити и користити Веб локацију у сврху коришћења Услуга на неексклузивној основи.",
+  "section_1_modifications": "Потврђујете да Компанија може, према сопственом нахођењу и у било које време, модификовати, ажурирати или на други начин изменити Веб локацију или Услуге, укључујући прекид пружања дела или свих Веб локација и/или Услуга или модификацију или уклањање било ког садржаја доступног преко Веб локације или Услуга, без претходног обавештења.",
+  "section_1_void": "Коришћење Веб локације и Услуга је ништавно тамо где је забрањено.",
+  "section_1_warranties_intro": "Коришћењем Веб локације и Услуга, изјављујете и гарантујете да:",
+  "section_1_warranties_a": "су све информације које поднесете (ако је применљиво) истините и тачне;",
+  "section_1_warranties_b": "ћете одржавати тачност таквих информација; и",
+  "section_1_warranties_c": "имате најмање законску старост пунолетства у вашој јурисдикцији; и",
+  "section_1_warranties_d": "ваше коришћење Веб локације или Услуга не крши и не промовише кршење било ког применљивог закона или прописа или било које правне или уговорне обавезе коју можда имате према трећој страни, и да сте се у сваком тренутку придржавали и да ћете се придржавати свих применљивих закона, правила и прописа у вези са вашим коришћењем Услуга и Веб локације, било којих услуга уговорених преко Услуга и Веб локације, укључујући, без ограничења, оне услуге које су на било који начин повезане са Производима или Трећим странама, како су ти појмови овде дефинисани.",
+  "section_1_undertakings_def": "Пододељци (а)-(д) ће се заједно називати \"Изјаве и Гаранције Корисника\".",
+  "section_1_verification": "Коришћењем Услуга или Веб локације, разумете и слажете се да Компанија може, по сопственом нахођењу, али није обавезна, да верификује да ли се било који или сви Изјаве и Гаранције Корисника поштују од стране било ког Корисника, и даље се слажете да Компанија није одговорна за обезбеђивање поштовања Изјава и Гаранција Корисника, нити за било какво неспровођење, прекид или спречавање коришћења Услуга или Веб локације од стране Корисника који не поштују Изјаве и Гаранције Корисника.",
+  "section_1_responsibility": "Разумете да сте **искључиво одговорни** за спровођење сопствених процена, одлука и процена о томе да ли ћете се ангажовати у односима са било којом Трећом страном или на други начин интеракцији са било којом Трећом страном на било који начин.",
+  "section_1_reporting": "Ако постанете свесни било каквог кршења Изјава и Гаранција Корисника, подстичемо вас да то **пријавите** Компанији.",
+  "section_1_right_to_refuse": "Компанија задржава право да вам **не пружи** било какве Услуге, са или без обавештења, по сопственом нахођењу, било зато што постаје свесна било каквог кршења Изјава и Гаранција Корисника (било путем извештаја које пружају други Корисници или на други начин) од стране вас или било ког другог Корисника, или из било ког другог разлога.",
+  "section_1_disclaimer_main": "Без обзира на горе наведено, Компанија **изричито одбацује** сву и било коју одговорност, а ви **изричито ослобађате** Компанију свих спорова, потраживања, тужби, повреда, губитака, штета и/или недаћа које произилазе из и/или су на било који начин повезане са:",
+  "section_1_disclaimer_i": "било којом нетачношћу, неажурношћу или непотпуношћу Изјава Корисника или Треће стране; и",
+  "section_1_disclaimer_ii": "лажним изјавама и/или погрешним представљањима, датим било у односу на, или од стране било које од Трећих страна или других Корисника, Производа или на други начин.",
+  "section_1_platform_only": "Коришћењем Веб локације и Услуга разумете и слажете се да Услуге нуде само **платформу**, намењену да помогне Корисницима у досезању, куповини и/или коришћењу различитих производа и услуга које нуде независни продавци и/или пружаоци услуга, путем огласа или промоција које водимо (респективно, \"**Производи**\" и \"**Треће стране**\").",
+  "section_1_company_a": "**не запошљава, не препоручује нити одобрава** било коју Трећу страну или Производе, ако је применљиво, нити било коју повезану страну, и **нема контролу** над радњама или пропустима било које Треће стране, њиховим пословањем, њиховим производима или услугама;",
+  "section_1_company_b": "**не даје никакве изјаве или гаранције** у вези са Трећим странама и Производима, укључујући њихов квалитет, цену, компатибилност, доступност или било које друге карактеристике, или у вези са вашим интеракцијама или пословним односима са било којом Трећом страном;",
+  "section_1_company_c": "**не даје никакве изјаве или гаранције** у вези са власништвом или другим правима или регулаторним карактеристикама или аспектима повезаним са Производима, укључујући било коју дозволу, лиценцу или овлашћење потребно за постављање, дељење или на други начин стављање на располагање и за коришћење, продају и куповину таквих Производа; и",
+  "section_1_company_d": "**није одговорна** за перформансе или понашање било ког Корисника или других трећих страна који на било који начин користе или су користили Услуге, и/или на Веб локацији или ван ње.",
+  "section_1_no_screening": "Компанија **није обавезна да проверава** или на други начин верификује било коју информацију у вези са Трећим странама и/или Корисницима, Производима или било којом другом функцијом повезаном са Веб локацијом или Услугама, и стога бисте требали **предузети мере предострожности и спровести сопствена истраживања и верификације** пре него што се ангажујете у односима са било ким путем Услуга или Веб локације или на други начин ступите у интеракцију са било ким.",
+  "section_1_full_disclaimer": "Компанија **изричито одбацује** сву и било коју одговорност, а ви **изричито ослобађате** Компанију свих спорова, потраживања, тужби, повреда, губитака, штета и/или недаћа које произилазе из и/или су на било који начин повезане са Трећим странама, Производима, Услугама и Веб локацијом или вашим интеракцијама или пословним односима са било којом Трећом страном, укључујући, без ограничења, било које радње и/или пропусте Трећих страна које на било који начин користе или су повезане са Услугама или Веб локацијом.",
+  "section_1_risk": "Коришћењем Услуга или Веб локације, потврђујете да сте **искључиво одговорни** за такво коришћење и за везе, интеракције, куповине или било које друге радње које предузмете, и да се свако коришћење Услуга или Веб локације врши на ваш **искључиви ризик**.",
+  "section_1_no_sale": "Да би се избегла сумња, Компанија вам **не продаје, не лиценцира или на други начин не ставља на располагање** било који Производ или услуге (осим Услуга) и **неће имати никакву одговорност** за било који Производ или услуге које купите од било које Треће стране, укључујући, без ограничења, у погледу било које подршке и одржавања, кварова, грешака, неисправности, штете или трошкова било које врсте.",
+  "section_2_title": "2. Ограничења",
+  "section_2_intro": "Без обзира на одредбе Одељка 1 овог документа, **не смете** и нећете дозволити трећој страни да:",
+  "section_2_a": "**врши обрнути инжењеринг** или покуша да открије изворни код Веб локације или Услуга;",
+  "section_2_b": "**користи** Веб локацију или Услуге **у супротности са било којим применљивим законом или прописом**, укључујући, али не ограничавајући се на, објављивање, публиковање, дељење или на други начин преношење било ког незаконитог или увредљивог материјала;",
+  "section_2_c": "**копира, модификује или ствара изведена дела** Веб локације, Услуга или садржаја било које од Веб локација или Услуга;",
+  "section_2_d": "покуша да **деактивира или заобиђе** било који сигурносни механизам или механизам контроле приступа Веб локације или Услуга;",
+  "section_2_e": "**дизајнира или помаже у дизајнирању** било које преваре, експлоатације, софтвера за аутоматизацију, ботова, хакова, модова или било ког другог неовлашћеног софтвера треће стране за модификовање или ометање Веб локације или Услуга;",
+  "section_2_f": "користи Веб локацију или Услуге или ступа у интеракцију са другим Корисницима у **било коју сврху која крши било који применљиви закон или пропис**;",
+  "section_2_g": "покуша да добије **неовлашћени приступ** Веб локацији или Услугама, другим Корисничким налозима како је дефинисано у наставку, или другим уређајима, рачунарским системима, телефонским системима или мрежама повезаним са Веб локацијом или Услугама; и",
+  "section_2_h": "**прикупља** или на други начин **гомила информације** о Корисницима без њихове сагласности.",
+  "section_2_content_warranties": "Ако објавите, отпремите, делите или на други начин пренесете било који садржај путем Веб локације и/или коришћењем Услуга, изјављујете и гарантујете да такав садржај пружа **тачан и потпун приказ** свих производа или услуга описаних у њему, **придржава се ових Услова** и **не**:",
+  "section_2_content_a": "**крши** права интелектуалне својине, морална права или права на публицитет треће стране;",
+  "section_2_content_b": "садржи било какав **клеветнички, увредљив, опсцен, сексуално сугестиван или на други начин неприкладан садржај** (укључујући материјал који промовише или велича мржњу, насиље или нетолеранцију);",
+  "section_2_content_c": "садржи **било какве црве, вирусе или други злонамерни софтвер**;",
+  "section_2_content_d": "**крши** било који применљиви закон или пропис, укључујући било који закон или пропис о оглашавању или маркетингу; и",
+  "section_2_content_e": "предузима било какву активност која намеће **неоправдано или несразмерно велико оптерећење** наше инфраструктуре.",
+  "section_2_license_grant": "Објављивањем, отпремањем, публиковањем, дељењем или на други начин преношењем било ког садржаја коришћењем Веб локације или Услуга, ви **неопозиво дајете** Компанији и било којој од њених придружених компанија и/или подизвођача **светску, неексклузивну, трајну, без накнаде лиценцу** за објављивање, дељење, приказивање и на други начин преношење таквог садржаја у било ком разумном облику, како ће бити одлучено према **искључивом нахођењу Компаније**.",
+  "section_2_removal_right": "Компанија задржава право да **уклони, суспендује приступ или трајно избрише** било који садржај по свом **искључивом нахођењу без претходног обавештења**, укључујући, без ограничења, било који садржај који крши горе наведене гаранције или пословне интересе Компаније, и **нећете имати никакво право или потраживање** у вези са било којом таквом одлуком и радњом.",
+  "section_2_no_liability_content": "Компанија **није** и неће бити **одговорна** за било који садржај који пружају, објављују, отпремају, деле или на други начин стављају на располагање Корисници, било које производе или услуге повезане са таквим садржајем који пружају, објављују, отпремају, деле или на други начин стављају на располагање Корисници. Сваки Корисник који користи Веб локацију или Услуге овим изјављује да преузима **пуну одговорност** у том погледу, и Компанија **неће имати никакву одговорност** у вези са горе наведеним.",
+  "section_3_title": "3. Промотивни Материјали и Билтени",
+  "section_3_consent": "Поред одредаба Одељка 3 изнад, Корисник даје своју **изричиту сагласност** Компанији да Кориснику пружи промотивне материјале и билтене (\"**Промотивни Материјали и Билтени**\") **било којим доступним средствима**, укључујући е-пошту, текстуалне и СМС поруке, факс, пошту, аутоматизоване услуге позивања или на други начин, све према **искључивом нахођењу Компаније**, с времена на време, и да **прима** такве Промотивне Материјале и Билтене.",
+  "section_3_third_party_ads": "Корисник даље потврђује да Промотивни Материјали и Билтени могу укључивати **оглашавање трећих страна**, и **изричито се слаже** са примањем таквих огласа као дела Промотивних Материјала и Билтена.",
+  "section_3_unsubscribe": "Корисник може **контактирати** Компанију у било које време слањем захтева путем е-поште, обавештавајући Компанију о свом одбијању да настави са примањем Промотивних Материјала и Билтена.",
+  "section_4_title": "4. Интелектуална Својина",
+  "section_4_ownership": "Компанија поседује сва светска права, наслове и интересе у: (а) Веб локацији и Услугама, побољшањима, изведеним делима, поправкама грешака или побољшањима Веб локације и Услуга; и (б) трговачким именима, заштитним знаковима и логотипима Компаније и увек ће остати **искључиво власништво Компаније**.",
+  "section_4_license_meaning": "Сва позивања у овим Условима или било којој другој комуникацији на продају, препродају или куповину горе наведеног значе само **право коришћења Веб локације и Услуга** у складу са овим Условима.",
+  "section_4_user_liability": "Корисници су **искључиво одговорни** за сав и било који садржај, укључујући било која права интелектуалне својине на њему, који Корисници пружају, деле или на други начин стављају на располагање коришћењем Веб локације и/или Услуга, и Компанија **не даје никакве изјаве** у погледу било каквог таквог садржаја. Компанија **неће бити одговорна** за било који губитак или штету насталу због таквог садржаја, а Корисници се слажу да **обештете** и **ослободе од одговорности** Компанију од било какве штете или губитка који произилазе из горе наведеног.",
+  "section_5_title": "5. Приватност",
+  "section_5_no_save": "Обавезујете се да **нећете складиштити, прикупљати или на други начин чувати** у свом поседу и нећете користити **никакав садржај** који пружају Услуге и Веб локација **без претходне писане сагласности** Компаније.",
+  "section_5_company_rights": "Даље потврђујете да Компанија задржава право, по сопственом нахођењу, да **складишти, прикупља или на други начин чува** у свом поседу и користи **било који садржај и јавне информације**, укључујући информације које могу **вас лично идентификовати** или било ког другог Корисника или Трећу страну или описати ваше личне интересе.",
+  "section_5_privacy_policy": "Компанија задржава право да изврши **било коју дозвољену употребу** у складу са било којим применљивим законом таквих садржаја и јавних информација, како је наведено у **Политици приватности Компаније**.",
+  "section_5_no_verification": "Без обзира на одредбе Одељка 1 изнад, Компанија **не проверава, не тестира, не потврђује, не одобрава или на други начин не верификује** било који такав садржај или јавне информације.",
+  "section_5_user_responsibility": "Сваки Корисник који објављује, отпрема, дели или на други начин ставља на располагање такав садржај или јавне информације биће **искључиво одговоран** за садржај или јавне информације, укључујући све информације трећих страна и **потребне сагласности**.",
+  "section_5_indemnification": "Компанија **неће бити одговорна** за било који губитак или штету насталу због непоштовања горе наведеног, а ви се слажете да **обештетите** и **ослободите од одговорности** Компанију од било какве штете или губитка који произилазе из горе наведеног.",
+  "section_5_not_storage": "БЕЗ ОБЗИРА НА ГОРЕ НАВЕДЕНО, РАЗУМЕТЕ И ПОТВРЂУЈЕТЕ ДА КОМПАНИЈА **НИЈЕ УСЛУГА ЗА СКЛАДИШТЕЊЕ САДРЖАЈА**. КОМПАНИЈА **НЕЋЕ ИМАТИ НИКАКВУ ОДГОВОРНОСТ** ЗА БИЛО КОЈИ **ИЗГУБЉЕНИ ИЛИ ИЗБРИСАН САДРЖАЈ** ИЛИ ЈАВНЕ ИНФОРМАЦИЈЕ.",
+  "section_5_public_warning": "ТРЕБА ДА БУДЕТЕ СВЕСНИ ДА **БИЛО КОЈИ САДРЖАЈ** објављен, отпремљен, дељен или на други начин стављен на располагање **МОГУ ДА ЧИТАЈУ, ПРИКУПЉАЈУ И КОРИСТЕ ДРУГИ КОРИСНИЦИ** И МОЖЕ СЕ КОРИСТИТИ ЗА СЛАЊЕ **НЕЖЕЉЕНОГ САДРЖАЈА**.",
+  "section_6_title": "6. Линкови",
+  "section_6_description": "Веб локација или Услуге могу садржати линкове или други садржај који се односи на веб локације, оглашаваче, издаваче или Производе које нуде треће стране. Компанија **нема контролу** и **не даје никакве изјаве** у погледу њих или било којих информација које су пружене или пренете путем њих, или на други начин пружене од стране било које такве треће стране.",
+  "section_6_risk": "РАЗУМЕТЕ И СЛАЖЕТЕ СЕ ДА ЈЕ КОРИШЋЕЊЕ ТАКВИХ ЛИНКОВА ИЛИ ДРУГОГ САДРЖАЈА НА ВАШ **ИСКЉУЧИВИ РИЗИК**, ДА СЕ ТАКВИ ЛИНКОВИ ИЛИ ДРУГИ САДРЖАЈ РЕГУЛИШУ **УСЛОВИМА КОРИШЋЕЊА И ПОЛИТИКАМА ПРИВАТНОСТИ ТИХ ТРЕЋИХ СТРАНА** И ДА КОМПАНИЈА **НИЈЕ ОДГОВОРНА** ЗА ПРИВАТНОСТ, ПОСЛОВНЕ ПРАКСЕ ИЛИ ДРУГЕ ПОЛИТИКЕ ТИХ ТРЕЋИХ СТРАНА.",
+  "section_6_review_advice": "Требало би да **пажљиво прегледате** применљиве услове и политике које се односе на било коју такву Трећу страну.",
+  "section_6_full_disclaimer": "КОМПАНИЈА **НИЈЕ ОДГОВОРНА** НИ НА КОЈИ НАЧИН ЗА БИЛО КОЈУ ТАКВУ **ТРЕЋУ СТРАНУ** НИ ЗА БИЛО КОЈИ **ГУБИТАК ИЛИ ШТЕТУ** БИЛО КОЈЕ ВРСТЕ КОЈА НАСТАЈЕ КАО РЕЗУЛТАТ, И КОМПАНИЈА **ИЗРИЧИТО ОДБАЦУЈЕ** СВУ И БИЛО КОЈУ ОДГОВОРНОСТ, А ВИ **ИЗРИЧИТО ОСЛОБАЂАТЕ** КОМПАНИЈУ СВИХ СПОРОВА, ПОТРАЖИВАЊА, ТУЖБИ, ПОВРЕДА, ГУБИТАКА, ШТЕТА И/ИЛИ НЕДАЋА КОЈЕ ПРОИЗИЛАЗЕ ИЗ И/ИЛИ СУ НА БИЛО КОЈИ НАЧИН **ПОВЕЗАНЕ СА ТАКВИМ ТРЕЋИМ СТРАНАМА**, УКЉУЧУЈУЋИ, БЕЗ ОГРАНИЧЕЊА, У ВЕЗИ СА ДОСТУПНОШЋУ, УСЛОВИМА КОРИШЋЕЊА, ПРИВАТНОСТИ, ИНФОРМАЦИЈАМА, САДРЖАЈЕМ, МАТЕРИЈАЛИМА, ОГЛАШАВАЊЕМ, НАКНАДАМА, ПРОИЗВОДИМА И/ИЛИ УСЛУГАМА.",
+  "section_7_title": "7. Забрањене Употребе",
+  "section_7_commercial": "Веб локација и Услуге **не смеју се користити** у вези са **било каквим комерцијалним подухватима** (осим ако Компанија изричито не одобри у вези са повезивањем Корисника са било којом Трећом страном) **без претходне писане сагласности** Компаније.",
+  "section_7_recruitment": "Веб локација и Услуге **не смеју се користити** од стране било које особе или ентитета за **регрутовање** за другу веб локацију, **тражење, оглашавање или контактирање** Корисника у било ком облику за **запошљавање, уговарање или било коју другу сврху** за посао **неповезан** са Компанијом **без претходне писане сагласности** Компаније.",
+  "section_7_user_contact": "Слажете се да **нећете користити** Услуге и Веб локацију за **контактирање, оглашавање, тражење или продају** било ком другом Кориснику **без његове изричите сагласности**, осим ако је другачије дозвољено овим Условима.",
+  "section_8_title": "8. Подршка",
+  "section_8_text": "Корисници могу **контактирати** Компанију за подршку у вези са Веб локацијом и Услугама, тако што ће **послати е-пошту**",
+  "section_9_title": "9. Одрицање од Гаранција",
+  "section_9_security": "Компанија улаже **разумне напоре** да обезбеди да њена технологија одржава Веб локацију и Услуге сигурним. Међутим, **ниједна технологија није 100% сигурна**. Због тога, иако настојимо да користимо комерцијално прихватљива средства за заштиту ваших личних података, **не можемо гарантовати њихову апсолутну сигурност**.",
+  "section_9_as_is": "Осим ако је овде изричито наведено, ваше коришћење Веб локације и Услуга је на ваш **искључиви ризик и дискрецију**. Веб локација и Услуге су пружене на основу \"**КАКВЕ ЈЕСУ**\" и \"**КАКО СУ ДОСТУПНЕ**\" **без гаранција** било које врсте.",
+  "section_9_no_warranties": "Компанија **изричито одбацује све подразумеване или законске гаранције** било које врсте у односу на Веб локацију и Услуге, укључујући, без ограничења, гаранције наслова, могућности продаје, погодности за одређену сврху, некршења, тока трговања или тока перформанси.",
+  "section_9_no_advice": "Компанија **не даје никакве савете** у вези са ризиком или прикладношћу било које трансакције, операције или ангажовања. Компанија **не преузима никакву одговорност** за било коју трансакцију или ангажовање које предузмете, а ви потврђујете да сте **искључиво одговорни** за процену ваших трансакција и ангажовања.",
+  "section_9_no_liability_advice": "Нећете **сматрати одговорном** Компанију, њене службенике, запослене или придружене компаније за било који избор трансакција или ангажовања које направите.",
+  "section_9_no_created_warranty": "Никакав савет или информација, усмена или писана, коју добијете од Компаније или њених службеника, запослених или придружених компанија **неће створити никакву гаранцију** која није изричито наведена у овим Условима. Ако одлучите да се ослоните на такве информације, то чините **искључиво на сопствени ризик**.",
+  "section_9_jurisdiction_note": "Неке државе или јурисдикције **не дозвољавају** искључење одређених гаранција. Сходно томе, нека од горе наведених искључења **можда се не односе** на вас.",
+  "section_10_title": "10. Ограничење Одговорности",
+  "section_10_no_guarantee": "Компанија **не гарантује** вредност, квалитет, компатибилност или било коју другу карактеристику Трећих страна, Производа или било које друге пружене, конзумиране или на други начин стављене на располагање информације (у овом Одељку у наставку: \"**Карактеристике**\"). Свака Карактеристика је **искључива одговорност** релевантне Треће стране или Корисника који је користи, ако је применљиво, или користи Услуге или Веб локацију.",
+  "section_10_monitoring": "Компанија **не преузима обавезу** да прати такво поштовање и може предузети мере када се открије непоштовање, како ће бити одлучено у складу са њеним **искључивим нахођењем**, како је описано у овим Условима.",
+  "section_10_exposure": "Разумете и слажете се да можете бити изложени садржају или другим информацијама које су **нетачне, непријатне, неприкладне** за децу или на други начин **неприкладне** за вас.",
+  "section_10_technical": "Компанија **није одговорна** за било који проблем или **технички квар** било које телефонске мреже или линија, онлајн рачунарских система, сервера или провајдера, рачунарске опреме, софтвера, неуспех било које е-поште због техничких проблема или загушења саобраћаја на интернету или на било којој од Веб локација или Услуга или било којој њиховој комбинацији, укључујући било какву повреду или **штету Корисницима** или рачунару, мобилном телефону или било ком другом уређају било које особе, повезану са учешћем или преузимањем материјала у вези са Веб локацијом или Услугама или која произилази из тога.",
+  "section_10_conduct": "Компанија **ни у ком случају** **неће бити одговорна** за **понашање трећих страна**, укључујући било ког Корисника, на мрежи или ван мреже, и оператере спољних веб локација.",
+  "section_10_no_indirect": "Компанија или било који од њених службеника, директора, запослених или агената **ни у ком случају неће бити одговорни вама** за било какву **индиректну, случајну, специјалну, казнену или последичну штету**, која произилази из или је повезана са вашим коришћењем Веб локације или Услуга, **без обзира на то да ли је штета предвидљива** и **без обзира на то да ли је Компанија обавештена** о могућности таквих штета.",
+  "section_10_full_extent": "Горе наведено ограничење одговорности примењиваће се у **највећој мери дозвољеној законом** у применљивој јурисдикцији.",
+  "section_11_title": "11. Обештећење",
+  "section_11_text": "Ви ћете **бранити, обештетити и ослободити од одговорности** Компанију од и против свих **радњи, поступака, тврдњи, штета, трошкова, обавеза или издатака** (укључујући судске трошкове и разумне адвокатске хонораре) које Компанија може **претрпети или у које се упушта** у вези са било којом стварном или наводном тужбом, захтевом, акцијом или другим поступком треће стране који произилази из или се односи на **било које кршење ових Услова** од стране вас или **било које коришћење** Веб локације или Услуга од стране вас **које није у складу са применљивим законом**.",
+  "section_12_title": "12. Разно",
+  "section_12_governing_law": "Ови Услови се регулишу **законима Енглеске**, искључујући њена правила о сукобу закона и без обзира на Конвенцију Уједињених нација о уговорима о међународној продаји робе. Ваше понашање такође може бити подложно другим локалним, државним и националним законима.",
+  "section_12_jurisdiction": "Сви **спорови** који произилазе из ових Услова или се односе на Веб локацију или Услугу биће коначно решени од стране **надлежних судова у Енглеској**.",
+  "section_12_no_class_action": "**Не можете покренути никакве групне тужбе** против Компаније, а коришћењем Веб локације или Услуга, слажете се да се **одричете својих права** да покренете било какве такве групне тужбе.",
+  "section_12_limitation_period": "Било који **разлог за тужбу** против Компаније мора бити покренут **у року од једне (1) године** од датума када је такав разлог за тужбу настао.",
+  "section_12_severability": "У случају да се утврди да је било која одредба ових Услова **неприменљива**, таква одредба ће бити **замењена применљивом одредбом** која најбоље постиже ефекат оригиналне одредбе, а преостали услови ових Услова остају на **пуној снази и дејству**.",
+  "section_12_no_agency": "Ништа што је садржано у овим Условима **не ствара никакав однос агенције, запослења, заједничког улагања или партнерства** између вас и Компаније, нити вас овлашћује да делујете у име Компаније.",
+  "section_12_entire_agreement": "Осим ако није изричито наведено у овим Условима, ови Услови представљају **цео уговор** између Компаније и вас у погледу његове предмета.",
+  "section_12_notices": "Свако **обавештење** које смо обавезни да вам пружимо, било по закону или према овим Условима, може да пружи Компанија на **било коју контакт информацију** коју сте навели у информацијама о вашем Налогу или на други начин, директно или индиректно, укључујући **е-пошту**. Изричито се слажете са примањем таквих комуникација и обавештења на тај начин.",
+  "section_12_no_assignment": "**Не смете пренети** никаква права по овом документу **без нашег претходног писаног пристанка**.",
+  "section_12_no_limitation": "Ништа што је садржано у овим Условима **неће се тумачити као ограничавање радњи или правних лекова** доступних Компанији у вези са било којом забрањеном активношћу или понашањем.",
+  "section_12_no_waiver": "**Неспровођење** било ког услова ових Услова **неће представљати сагласност или одрицање**, а Компанија задржава право да спроведе тај услов по свом **искључивом нахођењу**. Одрицање од било каквог кршења или неуспеха овде неће се сматрати одрицањем од било каквог претходног или накнадног кршења или неуспеха.",
+  "section_12_viewer_responsibility": "Искључива је **одговорност гледаоца** да процени тачност, потпуност или корисност било које информације, мишљења, савета или другог садржаја на Сајту."
+
 }

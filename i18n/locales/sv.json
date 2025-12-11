@@ -115,5 +115,390 @@
     "contact.input.email": "Din e-post",
     "contact.input.message": "Ditt meddelande",
     "contact.button": "Skicka meddelande",
-    "contact.success": "Ditt meddelande har skickats!"
+    "contact.success": "Ditt meddelande har skickats!",
+
+    "privacy.title": "Integritetspolicy", 
+
+  "privacy.intro.provider": "Provider (\"us\", \"we\", or \"our\") hanterar Aivontrixen-plattformen (\"Tjänsten\").", 
+
+  "privacy.intro.description": "Detta dokument beskriver våra rutiner för insamling, användning och delning av personlig information när du använder vår Tjänst samt de alternativ som finns tillgängliga för dig beträffande den informationen.", 
+
+  "privacy.intro.usage": "Vi, Aivontrixen, använder din information för att leverera och förbättra Tjänsten. Genom att använda Tjänsten samtycker du till insamling och användning av data enligt denna policy. Såvida inte uttryckligen definierat i denna integritetspolicy har terminologin här samma betydelse som i våra villkor, tillgängliga från Aivontrixen.", 
+
+   
+
+  "privacy.toc.definitions": "Definitioner", 
+
+  "privacy.toc.definitions.service": "Tjänst", 
+
+  "privacy.toc.definitions.personal_data": "Personuppgifter", 
+
+  "privacy.toc.definitions.usage_data": "Användningsdata", 
+
+  "privacy.toc.definitions.cookies": "Cookies", 
+
+  "privacy.toc.definitions.data_controller": "Personuppgiftsansvarig", 
+
+  "privacy.toc.definitions.data_processors": "Personuppgiftsbiträdes (eller Tjänsteleverantörer)", 
+
+  "privacy.toc.definitions.data_subject": "Registrerad (eller Användare)", 
+
+   
+
+  "privacy.toc.info_collection": "Insamling och användning av information", 
+
+  "privacy.toc.info_collection.types_of_data": "Typer av insamlad data", 
+
+  "privacy.toc.info_collection.personal_data": "Personuppgifter", 
+
+  "privacy.toc.info_collection.usage_data": "Användningsdata", 
+
+  "privacy.toc.info_collection.tracking_cookies": "Spårnings‑cookies‑data", 
+
+  "privacy.toc.info_collection.use_of_data": "Användning av data", 
+
+  "privacy.toc.info_collection.legal_basis": "Rättslig grund för behandling av personuppgifter enligt GDPR", 
+
+  "privacy.toc.info_collection.retention": "Lagringstid för data", 
+
+   
+
+  "privacy.toc.transfer": "Överföring av data", 
+
+  "privacy.toc.transfer.disclosure": "Utlämnande av data", 
+
+  "privacy.toc.transfer.disclosure.business_transaction": "Företagstransaktion", 
+
+  "privacy.toc.transfer.legal_requirements": "Rättsliga krav", 
+
+  "privacy.toc.transfer.security": "Datasäkerhet", 
+
+  "privacy.toc.transfer.rights_gdpr": "Dina dataskyddsrättigheter enligt GDPR", 
+
+   
+
+  "privacy.toc.service_providers": "Tjänsteleverantörer", 
+
+  "privacy.toc.service_providers.analytics": "Analytics", 
+
+  "privacy.toc.service_providers.advertising": "Reklam", 
+
+  "privacy.toc.service_providers.behavioral_remarketing": "Beteendebaserad remarketing", 
+
+  "privacy.toc.service_providers.links": "Länkar till andra webbplatser", 
+
+  "privacy.toc.service_providers.changes": "Ändringar i denna integritetspolicy", 
+
+  "privacy.toc.service_providers.contact": "Kontakta oss", 
+
+"privacy.definitions.service": "Tjänsten är Aivontrixen-webbplatsen som drivs av Provider", 
+
+  "privacy.definitions.personal_data": "Personuppgifter betyder data om en levande individ som kan identifieras från dessa data (eller från dessa och annan information som vi har eller sannolikt kommer att få).", 
+
+  "privacy.definitions.usage_data": "Användningsdata är data som automatiskt samlas in antingen genererade av användningen av Tjänsten eller från Tjänstens infrastruktur (t.ex. varaktigheten av ett sidbesök).", 
+
+  "privacy.definitions.cookies": "Cookies är små mängder data som lagras på din enhet (dator eller mobil enhet).", 
+
+  "privacy.definitions.data_controller": "Personuppgiftsansvarig avser den fysiska eller juridiska person som (ensam eller gemensamt med andra) bestämmer ändamålen för och sättet på vilket personuppgifter behandlas. För syftet med denna integritetspolicy är vi Personuppgiftsansvariga för dina personuppgifter.", 
+
+  "privacy.definitions.data_processors": "Personuppgiftsbiträde (eller Tjänsteleverantör) avser varje fysisk eller juridisk person som behandlar data på uppdrag av Personuppgiftsansvarig. Vi kan använda tjänster från olika Tjänsteleverantörer för att behandla dina data mer effektivt.", 
+
+  "privacy.definitions.data_subject": "Den registrerade är varje levande individ som använder vår Tjänst och är föremål för personuppgifter.", 
+
+ 
+
+  "privacy.provider.take": "Provider kommer att vidta alla rimligt nödvändiga steg för att säkerställa att dina data behandlas säkert och i enlighet med denna integritetspolicy och ingen överföring av dina personuppgifter kommer att ske till en organisation eller ett land om inte tillräckliga kontroller, inklusive datasäkerhet, finns på plats.", 
+
+ 
+
+  "privacy.info_collection.description": "Vi samlar in flera olika typer av information för olika ändamål för att kunna tillhandahålla och förbättra vår Tjänst för dig.", 
+
+  "privacy.info_collection.personal_data.description": "När du använder vår Tjänst kan vi be dig att tillhandahålla viss personligt identifierbar information som kan användas för att kontakta eller identifiera dig (\"Personuppgifter\"). Personligt identifierbar information kan inkludera, men är inte begränsad till:", 
+
+  "privacy.info.user1": "E‑postadress", 
+
+  "privacy.info.user2": "För- och efternamn", 
+
+  "privacy.info.user3": "Telefonnummer", 
+
+  "privacy.info.user4": "Adress, stat, provins, postnummer, stad", 
+
+  "privacy.info.user5": "Cookies och Användningsdata", 
+
+"privacy.info_collection.personal_data.usage": "Vi kan använda dina personuppgifter för att kontakta dig med nyhetsbrev, marknadsförings- eller reklamaterial och annan information som kan vara av intresse för dig. Du kan välja att avregistrera dig från alla eller vissa av dessa kommunikationer genom att följa avregistreringslänken eller instruktionerna i något e‑postmeddelande vi skickar, eller genom att kontakta oss.", 
+
+  "privacy.info_collection.usage_data.description": "Vi kan även samla in information om hur Tjänsten nås och används (\"Användningsdata\"). Dessa Användningsdata kan inkludera information såsom din dators IP‑adress, webbläsartyp, webbläsarversion, vilka sidor du besöker, datum och tid för ditt besök, tid spenderad på sidorna, unika enhetsidentifierare och annan diagnostisk data.", 
+
+  "privacy.info_collection.cookies.description": "Vi använder cookies och liknande spårningstekniker för att följa aktiviteten på vår Tjänst och lagra viss information.", 
+
+  "privacy.info.collection.cookies.description1": "Cookies är filer med en liten mängd data som kan innehålla en anonym unik identifierare. Cookies skickas till din webbläsare från en webbplats och lagras på din enhet. Andra spårningstekniker som används är beacons, taggar och skript för att samla in och spåra information samt förbättra och analysera vår Tjänst.", 
+
+  "privacy.info.collection.cookies.instruct": "Du kan instruera din webbläsare att vägra alla cookies eller att indikera när en cookie skickas. Om du inte accepterar cookies kan du dock bli hindrad från att använda vissa delar av vår Tjänst.", 
+
+  "privacy.info_collection.cookies.examples": "Exempel på cookies vi använder:", 
+
+  "privacy.example1": "Sessions‑cookies.", 
+
+  "privacy.example1.description": "Vi använder sessions‑cookies för att driva vår Tjänst.", 
+
+  "privacy.example2": "Preferens‑cookies.", 
+
+  "privacy.example2.description": "Vi använder preferens‑cookies för att komma ihåg dina preferenser och olika inställningar.", 
+
+  "privacy.example3": "Säkerhets‑cookies.", 
+
+  "privacy.example3.description": "Vi använder säkerhets‑cookies för säkerhetsändamål.", 
+
+  "privacy.example4": "Reklam‑cookies.", 
+
+  "privacy.example4.description": "Reklam‑cookies används för att visa dig annonser som kan vara relevanta för dig och dina intressen.", 
+
+ 
+
+  "privacy.info_collection.use_of_data": "Provider använder den insamlade datan för olika ändamål inklusive:", 
+
+  "provider1": "Att tillhandahålla och underhålla vår Tjänst", 
+
+  "provider2": "Att meddela dig om förändringar i vår Tjänst", 
+
+  "provider3": "Att låta dig delta i interaktiva funktioner i vår Tjänst när du så önskar", 
+
+  "provider4": "Att erbjuda kundsupport", 
+
+  "provider5": "Att samla in analyser eller värdefull information så att vi kan förbättra vår Tjänst", 
+
+  "provider6": "Att övervaka användningen av vår Tjänst", 
+
+  "provider7": "Att upptäcka, förebygga och åtgärda tekniska problem", 
+
+  "provider8": "Att förse dig med nyheter, specialerbjudanden och generell information om andra varor, tjänster och evenemang som vi erbjuder och som liknar dem du redan har köpt eller frågat om, såvida du inte har valt att inte ta emot sådan information", 
+
+"providerText": "Provider kommer också att behålla Användningsdata för interna analysändamål. Användningsdata behålls normalt under en kortare period, förutom när dessa data används för att stärka säkerheten eller förbättra funktionaliteten i vår Tjänst, eller när vi är juridiskt förpliktade att lagra dem under längre tidsperioder", 
+
+  "privacy.info_collection.legal_basis": "Om du befinner dig i Europeiska ekonomiska samarbetsområdet (EEA) beror Provider juridiska grund för att samla in och använda den personliga information som beskrivs i denna integritetspolicy på de personuppgifter vi samlar in och den specifika kontexten för insamlingen.", 
+
+  "privacy.accept.info": "Provider kan behandla dina personuppgifter eftersom:", 
+
+  "privacy.accept.info.why1": "Vi behöver fullfölja ett avtal med dig", 
+
+  "privacy.accept.info.why2": "Du har gett oss ditt tillstånd", 
+
+  "privacy.accept.info.why3": "Behandlingen är i våra legitima intressen och åsidosätts inte av dina rättigheter", 
+
+  "privacy.accept.info.why4": "För att följa lagen.", 
+
+ 
+
+  "privacy.consent": "vårt samtycke till denna integritetspolicy följt av att du skickar sådan information utgör ditt godkännande av den överföringen.", 
+
+ 
+
+  "privacy.transfer.description": "Din information, inklusive personuppgifter, kan överföras till – och lagras på – datorer utanför din stat, provins, land eller annan regeringsjurisdiktion där dataskyddslagarna kan skilja sig från de i din jurisdiktion.", 
+
+ 
+
+  "privacy.transfer.disclosure.business_transaction": "Om Provider är inblandad i en fusion, förvärv eller försäljning av tillgångar kan dina personuppgifter överföras. Vi kommer att meddela dig innan dina personuppgifter överförs och blir föremål för en annan integritetspolicy.", 
+
+  "privacy.transfer.legal_requirements": "Provider kan avslöja dina personuppgifter i god tro att en sådan handling är nödvändig", 
+
+  "requirments1": "för att uppfylla en laglig förpliktelse", 
+
+  "requirments2": "för att skydda rättigheter eller egendom för Provider", 
+
+  "requirments3": "För att förhindra eller undersöka möjliga felaktigheter i samband med Tjänsten", 
+
+  "requirments4": "För att skydda personlig säkerhet för Tjänstens användare eller allmänheten", 
+
+  "requirments5": "För att skydda mot juridiskt ansvar", 
+
+ 
+
+  "right.complain": "Du har rätt att anmäla till en dataskyddsmyndighet om vår insamling och användning av dina personuppgifter. För mer information, kontakta din lokala dataskyddsmyndighet i Europeiska ekonomiska samarbetsområdet (EEA).", 
+
+  "privacy.transfer.security": "Säkerheten för dina data är viktig för oss, men ingen överförings‑ eller lagringsmetod är 100 % säker. Vi strävar efter att använda kommersiellt acceptabla metoder men kan inte garantera absolut säkerhet.", 
+
+  "privacy.transfer.rights_gdpr": "Om du är bosatt i Europeiska ekonomiska samarbetsområdet (EEA) har du dataskyddsrättigheter. Provider strävar efter att vidta rimliga steg för att låta dig korrigera, ändra, radera eller begränsa användningen av dina personuppgifter.", 
+
+  "privacy.certain.circums": "I vissa situationer har du följande dataskyddsrättigheter", 
+
+  "google.analytics": "Google Analytics", 
+
+  "google.analytics.desc": "Google Analytics är en webbanalystjänst som erbjuds av Google och som spårar och rapporterar webbplatstrafik. Google använder den insamlade datan för att övervaka användningen av vår Tjänst. Denna data delas med andra Google‑tjänster. Google kan använda den insamlade datan för att kontextualisera och anpassa annonser i sitt eget annonsnätverk. Du kan välja att inte låta Google Analytics samla in din aktivitet på Tjänsten genom att installera Google Analytics opt‑out‑tillägget för webbläsaren. Tillägget förhindrar att Google Analytics‑skript (ga.js, analytics.js och dc.js) delar information med Google Analytics om besöksaktivitet. För mer information om Googles integritetspraxis, besök Googles integritetsvillkor.", 
+
+"privacy.your.access": "Rätten att få åtkomst till, uppdatera eller radera den information vi har om dig. När det är möjligt kan du komma åt, uppdatera eller begära radering av dina personuppgifter direkt i dina kontoinställningar. Om du inte kan utföra dessa åtgärder själv, kontakta oss för hjälp. Rätten till rättelse. Du har rätt att få din information rättad om den är felaktig eller ofullständig. Rätten att göra invändning. Du har rätt att invända mot vår behandling av dina personuppgifter. Rätten till begränsning. Du har rätt att begära att vi begränsar behandlingen av din personliga information. Rätten till dataportabilitet. Du har rätt att få en kopia av den information vi har om dig i ett strukturerat, maskinläsbart och allmänt använt format. Rätten att återkalla samtycke. Du har också rätt att när som helst återkalla ditt samtycke om Provider förlitat sig på ditt samtycke för att behandla din personliga information.", 
+
+ 
+
+  "google.adSense": "Google AdSense DoubleClick‑cookie", 
+
+  "google.adSense.desc": "Google, som tredje part‑leverantör, använder cookies för att visa annonser på vår Tjänst. Googles användning av DoubleClick‑cookien gör det möjligt för dem och deras partners att visa annonser till våra användare baserat på deras besök på vår Tjänst eller andra webbplatser på internet. Du kan välja att inte använda DoubleClick‑cookien för intressebaserad reklam genom att besöka Googles annonssättningssida.", 
+
+  "google.adSense.provider": "Provider använder remarketingtjänster för att visa annonser på tredjepartswebbplatser för dig efter att du besökt vår Tjänst. Vi och våra tredjepartsleverantörer använder cookies för att informera, optimera och visa annonser baserat på dina tidigare besök på vår Tjänst.", 
+
+  "google.adWords": "Google AdWords", 
+
+  "google.adWords.rec": "rekommenderar att installera Google Analytics opt‑out‑tillägget för webbläsaren –", 
+
+  "google.also": "Google också", 
+
+  "google.analytics.your.browser": "– för din webbläsare. Google Analytics opt‑out‑tillägget ger besökare möjlighet att hindra att deras data samlas in och används av Google Analytics. För mer information om Googles integritetspraxis, besök Googles integritetsvillkor:", 
+
+  "facebook": "Facebook", 
+
+  "facebook.remarketing": "Facebooks remarketingtjänst tillhandahålls av Facebook Inc. Du kan läsa mer om intressebaserad reklam från Facebook genom att besöka denna sida:", 
+
+  "facebook.ad": "För att välja bort Facebooks intressebaserade annonser, följ dessa instruktioner från Facebook:", 
+
+  "facebook.adheres1": "Facebook följer de självreglerande principerna för onlinebeteendebaserad reklam som fastställts av Digital Advertising Alliance. Du kan också välja bort Facebook och andra deltagande företag via Digital Advertising Alliance i USA ", 
+
+  "facebook.adheres2": "Digital Advertising Alliance of Canada i Kanada", 
+
+  "facebook.adheres3": "eller European Interactive Digital Advertising Alliance i Europa", 
+
+  "facebook.adheres4": "eller välja bort via dina mobila enhetsinställningar. För mer information om Facebooks integritetspraxis, besök Facebooks datapolicy:", 
+
+"privacy.shouldNote": "Observera att vi kan be dig verifiera din identitet innan vi svarar på sådana förfrågningar.", 
+
+  "privacy.wishInformed": "Om du vill bli informerad om vilka personuppgifter vi har om dig och om du vill att de tas bort från våra system, kontakta oss.", 
+
+  "privacy.service_providers.description": "Vi kan anlita tredjepartsföretag och individer för att underlätta vår Tjänst. Dessa tredje parter har endast tillgång till dina personuppgifter för att utföra uppgifter och är förpliktade att inte avslöja eller använda dem för andra ändamål.", 
+
+  "privacy.bolgaria": "Om du befinner dig utanför Bulgarien och väljer att lämna information till oss, observera att vi överför data, inklusive personuppgifter, till Bulgarien och behandlar dem där.", 
+
+  "privacy.service_providers.analytics": "Vi kan använda tredjeparts‑tjänsteleverantörer som Google Analytics för att övervaka och analysera användningen av vår Tjänst.", 
+
+  "privacy.service_providers.advertising": "Vi kan använda tredjeparts‑tjänsteleverantörer för att visa annonser för dig för att hjälpa till att stödja och underhålla vår Tjänst", 
+
+  "privacy.service_providers.behavioral_remarketing": "Google AdWords remarketingtjänst tillhandahålls av Google Inc. Du kan välja att inte använda Google Analytics för displayannonsering och anpassa Google Display Network‑annonser genom att besöka Google Ads‑inställningssidan:", 
+
+  "privacy.service_providers.links": "Vår Tjänst kan innehålla länkar till andra webbplatser som vi inte driver. Granska deras integritetspolicyer.", 
+
+  "privacy.noControl": "Vi har ingen kontroll över och tar inget ansvar för innehållet, integritetspolicyn eller praxis på någon tredje parts webbplatser eller tjänster.", 
+
+  "privacy.child": "Barns integritet", 
+
+  "privacy.service_providers.children": "Vår Tjänst riktar sig inte till någon under 18 år (“Barn”). Vi samlar inte medvetet in personligt identifierbar information från någon under 18 år. Om du är förälder eller vårdnadshavare och är medveten om att ditt barn har lämnat personuppgifter till oss, kontakta oss. Om vi blir medvetna om att vi har samlat in personuppgifter från barn utan verifierat föräldersamtycke, vidtar vi åtgärder för att ta bort den informationen från våra servrar.", 
+
+  "privacy.changes": "Ändringar i denna integritetspolicy", 
+
+  "privacy.service_providers.changes": "Vi kan uppdatera vår integritetspolicy från tid till annan. Ändringar kommer att publiceras på denna sida och/eller meddelas via e‑post.", 
+
+  "privacy.letKnow": "Vi kommer att informera dig via e‑post och/eller ett framträdande meddelande på vår Tjänst, innan ändringen blir verkställande, och uppdatera \"giltighetsdatumet\" högst upp i denna integritetspolicy", 
+
+  "privacy.advises": "Du rekommenderas att regelbundet granska denna integritetspolicy för eventuella förändringar. Ändringar i denna integritetspolicy träder i kraft när de publiceras på denna sida.", 
+
+  "privacy.service_providers.contact": "Om du har några frågor om denna integritetspolicy, kontakta oss via e‑post.",
+
+  "terms_title": "Användarvillkor",
+  "terms_intro_welcome": "Välkommen till Aivontrixen. Dessa Användarvillkor (\"Villkor\") reglerar ditt engagemang med vår plattform belägen på Aivontrixen (\"Tjänsten\") som drivs av Aivontrixen.",
+  "terms_intro_generator": "Våra Användarvillkor har utvecklats med hjälp av Användarvillkorsgeneratorn.",
+  "terms_intro_acceptance_1": "Genom att besöka eller använda vår Tjänst godkänner du att vara bunden av dessa Villkor. Om du har några invändningar mot någon del av dessa villkor får du inte använda Tjänsten.",
+  "terms_intro_changes": "Vänligen förstå att vi kan komma att ändra dessa Villkor då och då, och ändringarna kommer att träda i kraft omedelbart vid publicering. Din fortsatta användning av plattformen utgör ditt godkännande av alla reviderade eller uppdaterade villkor.",
+  "terms_intro_rejection": "Om du avvisar något av dessa Villkor, vänligen avstå från att klicka på \"JAG ACCEPTERAR\" och upphör att använda Webbplatsen.",
+  "terms_intro_website_def": "Webbplatsen avser Aivontrixen, tillgänglig från Aivontrixen",
+  "section_1_title": "1. Användning av Webbplatsen och Tjänsterna",
+  "section_1_access": "Med förbehåll för de villkor som anges häri får du komma åt och använda Webbplatsen i syfte att använda Tjänsterna på en icke-exklusiv basis.",
+  "section_1_modifications": "Du erkänner att Företaget får, efter eget gottfinnande och när som helst, modifiera, uppdatera eller på annat sätt ändra Webbplatsen eller Tjänsterna, inklusive upphörande av tillhandahållande av en del av eller hela Webbplatsen och/eller Tjänsterna eller modifiering eller borttagning av allt innehåll som görs tillgängligt via Webbplatsen eller Tjänsterna, utan föregående meddelande.",
+  "section_1_void": "Användningen av Webbplatsen och Tjänsterna är ogiltig där det är förbjudet.",
+  "section_1_warranties_intro": "Genom att använda Webbplatsen och Tjänsterna intygar och garanterar du att:",
+  "section_1_warranties_a": "all information du lämnar (om tillämpligt) är sann och korrekt;",
+  "section_1_warranties_b": "du kommer att upprätthålla noggrannheten i sådan information; och",
+  "section_1_warranties_c": "du är åtminstone myndig i din jurisdiktion; och",
+  "section_1_warranties_d": "din användning av Webbplatsen eller Tjänsterna inte bryter mot, och inte främjar brott mot, någon tillämplig lag eller förordning eller någon juridisk eller avtalsenlig skyldighet du kan ha gentemot en tredje part, och att du hela tiden har följt och kommer att följa alla tillämpliga lagar, regler och förordningar gällande din användning av Tjänsterna och Webbplatsen, alla tjänster som avtalats via Tjänsterna och Webbplatsen, inklusive, utan begränsning, de tjänster som på något sätt är relaterade till Produkterna eller Tredje parter, såsom dessa termer definieras häri.",
+  "section_1_undertakings_def": "Underavsnitten (a)-(d) ska kollektivt kallas \"Användarens Intyganden och Garantier\".",
+  "section_1_verification": "Genom att använda Tjänsterna eller Webbplatsen förstår och godkänner du att Företaget får, efter eget gottfinnande, men inte är skyldigt att, verifiera huruvida någon eller alla av Användarens Intyganden och Garantier efterlevs av någon Användare, och du godkänner vidare att Företaget inte är ansvarigt för att säkerställa efterlevnad av Användarens Intyganden och Garantier eller för något underlåtenhet att avbryta, avbryta eller förhindra användning av Tjänsterna eller Webbplatsen av Användare som inte följer Användarens Intyganden och Garantier.",
+  "section_1_responsibility": "Du förstår att du är **ensam ansvarig** för att göra dina egna bedömningar, beslut och omdömen angående huruvida du ska ingå relationer med någon Tredje part eller på annat sätt interagera med någon Tredje part på något sätt.",
+  "section_1_reporting": "Om du blir medveten om något brott mot Användarens Intyganden och Garantier, uppmuntras du att **rapportera** detta till Företaget.",
+  "section_1_right_to_refuse": "Företaget förbehåller sig rätten att **inte tillhandahålla** dig några Tjänster, med eller utan förvarning, efter eget gottfinnande, vare sig på grund av att det blir medvetet om något brott mot Användarens Intyganden och Garantier (antingen genom rapporter som lämnats av andra Användare eller på annat sätt) av dig eller någon annan Användare, eller av någon annan anledning.",
+  "section_1_disclaimer_main": "Utan att det påverkar ovanstående, **frånsäger sig Företaget uttryckligen** allt och allt ansvar, och du **befriar uttryckligen** Företaget från alla tvister, anspråk, stämningar, skador, förluster, skador och/eller olyckor som härrör från och/eller på något sätt är relaterade till:",
+  "section_1_disclaimer_i": "någon felaktighet, felaktig tidsangivelse eller ofullständighet i Användarens eller Tredje parts Intyganden; och",
+  "section_1_disclaimer_ii": "falska uttalanden och/eller felaktiga framställningar, gjorda antingen i förhållande till, eller av någon av Tredje parterna eller andra Användare, Produkterna eller på annat sätt.",
+  "section_1_platform_only": "Genom att använda Webbplatsen och Tjänsterna förstår och godkänner du att Tjänsterna endast erbjuder en **plattform**, avsedd att hjälpa Användare att nå, köpa och/eller använda olika produkter och tjänster som erbjuds av tredjepartssäljare och/eller tjänsteleverantörer, genom annonser eller kampanjer som vi kör (respektive, \"**Produkter**\" och \"**Tredje parter**\").",
+  "section_1_company_a": "**anställer, rekommenderar eller godkänner inte** några Tredje parter eller Produkter, om tillämpligt, eller någon ansluten part till dem, och **har ingen kontroll** över handlingar eller underlåtenheter från någon Tredje part, deras verksamhet, deras produkter eller tjänster;",
+  "section_1_company_b": "**lämnar inga utfästelser eller garantier** angående Tredje parter och Produkterna, inklusive deras kvalitet, pris, kompatibilitet, tillgänglighet eller andra egenskaper, eller angående dina interaktioner eller affärsrelationer med någon Tredje part;",
+  "section_1_company_c": "**lämnar inga utfästelser eller garantier** angående äganderätt eller andra rättigheter eller reglerande egenskaper eller aspekter relaterade till Produkterna, inklusive alla nödvändiga tillstånd, licenser eller godkännanden för att ladda upp, dela eller på annat sätt tillgängliggöra, och att använda, sälja och köpa sådana Produkter; och",
+  "section_1_company_d": "**är inte ansvarigt** för prestanda eller beteende hos någon Användare eller andra tredje parter som använder eller har använt Tjänsterna på något sätt, och/eller på Webbplatsen eller utanför den.",
+  "section_1_no_screening": "Företaget **är inte skyldigt att granska** eller på annat sätt verifiera någon information relaterad till Tredje parter och/eller Användare, Produkter eller någon annan funktion relaterad till Webbplatsen eller Tjänsterna, och du bör därför **vidta försiktighetsåtgärder och genomföra dina egna undersökningar och verifieringar** innan du ingår relationer med någon via Tjänsterna eller Webbplatsen eller på annat sätt interagerar med någon.",
+  "section_1_full_disclaimer": "Företaget **frånsäger sig uttryckligen** allt och allt ansvar, och du **befriar uttryckligen** Företaget från alla tvister, anspråk, stämningar, skador, förluster, skador och/eller olyckor som härrör från och/eller på något sätt är relaterade till Tredje parter, Produkterna, Tjänsterna och Webbplatsen eller dina interaktioner eller affärsrelationer med någon Tredje part, inklusive, utan begränsning, alla handlingar och/eller underlåtenheter från Tredje parter som använder eller är anslutna till Tjänsterna eller Webbplatsen på något sätt.",
+  "section_1_risk": "Genom att använda Tjänsterna eller Webbplatsen bekräftar du att du är **ensam ansvarig** för sådan användning, och för de anslutningar, interaktioner, köp eller andra handlingar du gör, och att all användning av Tjänsterna eller Webbplatsen sker på din **ensamma risk**.",
+  "section_1_no_sale": "För att undvika tvivel, **säljer, licensierar eller tillhandahåller Företaget inte** några Produkter eller tjänster (andra än Tjänsterna) till dig och **ska inte ha något ansvar** för någon Produkt eller tjänst som du köper från någon Tredje part, inklusive, utan begränsning, avseende support och underhåll, misslyckande, fel, funktionsfel, skador eller kostnader av något slag.",
+  "section_2_title": "2. Begränsningar",
+  "section_2_intro": "Utan att det påverkar bestämmelserna i Avsnitt 1 häri, får du **inte** och får inte tillåta någon tredje part att:",
+  "section_2_a": "**bakåtkompilera** eller försöka upptäcka källkoden för Webbplatsen eller Tjänsterna;",
+  "section_2_b": "**använda** Webbplatsen eller Tjänsterna **i strid med någon tillämplig lag eller förordning**, inklusive, men inte begränsat till, att publicera, publicera, dela eller på annat sätt överföra olagligt eller stötande material;",
+  "section_2_c": "**kopiera, modifiera eller skapa härledda verk** av Webbplatsen, Tjänsterna eller innehållet på någon av Webbplatserna eller Tjänsterna;",
+  "section_2_d": "försöka **inaktivera eller kringgå** någon säkerhets- eller åtkomstkontrollmekanism på Webbplatsen eller Tjänsterna;",
+  "section_2_e": "**utforma eller hjälpa till att utforma** bedrägerier, exploateringar, automatiseringsprogram, botar, hackar, mods eller annan obehörig tredjepartsprogramvara för att modifiera eller störa Webbplatsen eller Tjänsterna;",
+  "section_2_f": "använda Webbplatsen eller Tjänsterna eller interagera med andra Användare för **något syfte som bryter mot någon tillämplig lag eller förordning**;",
+  "section_2_g": "försöka få **obehörig åtkomst** till Webbplatsen eller Tjänsterna, andra Användarkonton som definieras nedan, eller andra enheter, datorsystem, telefonsystem eller nätverk anslutna till Webbplatsen eller Tjänsterna; och",
+  "section_2_h": "**samla in** eller på annat sätt **ackumulera information** om Användare utan deras samtycke.",
+  "section_2_content_warranties": "Om du publicerar, laddar upp, delar eller på annat sätt överför något innehåll via Webbplatsen och/eller använder Tjänsterna, intygar och garanterar du att sådant innehåll ger en **korrekt och fullständig representation** av alla produkter eller tjänster som beskrivs däri, **följer dessa Villkor** och **inte**:",
+  "section_2_content_a": "**kränker** en tredje parts immateriella rättigheter, moraliska rättigheter eller publiceringsrättigheter;",
+  "section_2_content_b": "innehåller **något ärekränkande, nedsättande, obscent, sexuellt suggestivt eller på annat sätt stötande innehåll** (inklusive material som främjar eller glorifierar hat, våld eller intolerans);",
+  "section_2_content_c": "innehåller **några maskar, virus eller annan skadlig programvara**;",
+  "section_2_content_d": "**bryter mot** någon tillämplig lag eller förordning, inklusive någon lag eller förordning om reklam eller marknadsföring; och",
+  "section_2_content_e": "utför någon aktivitet som ålägger en **oskälig eller oproportionerligt stor belastning** på vår infrastruktur.",
+  "section_2_license_grant": "Genom att publicera, ladda upp, publicera, dela eller på annat sätt överföra något innehåll med hjälp av Webbplatsen eller Tjänsterna, **beviljar du oåterkalleligen** Företaget och alla dess dotterbolag och/eller underlicenstagare en **världsomspännande, icke-exklusiv, ständig, royaltyfri licens** att publicera, dela, visa och på annat sätt överföra sådant innehåll i vilken rimlig form som helst, enligt **Företagets eget gottfinnande**.",
+  "section_2_removal_right": "Företaget förbehåller sig rätten att **ta bort, tillfälligt avbryta åtkomsten till eller permanent radera** allt innehåll enligt dess **eget gottfinnande, utan föregående meddelande**, inklusive, utan begränsning, allt innehåll som bryter mot ovanstående garantier eller Företagets affärsintressen, och du **ska inte ha någon rätt eller anspråk** i samband med något sådant beslut och åtgärd.",
+  "section_2_no_liability_content": "Företaget **är inte** och kommer inte att vara **ansvarigt** för något innehåll som tillhandahålls, publiceras, laddas upp, delas eller på annat sätt görs tillgängligt av Användare, några produkter eller tjänster relaterade till sådant innehåll som tillhandahålls, publiceras, laddas upp, delas eller på annat sätt görs tillgängligt av Användare. Varje Användare som använder Webbplatsen eller Tjänsterna intygar härmed att han/hon tar **fullt ansvar** i detta avseende, och Företaget **ska inte ha något ansvar** i samband med ovanstående.",
+  "section_3_title": "3. Kampanjmaterial och Nyhetsbrev",
+  "section_3_consent": "Utöver bestämmelserna i Avsnitt 3 ovan, ger Användaren sitt **uttryckliga samtycke** till Företaget att tillhandahålla Användaren kampanjmaterial och nyhetsbrev (\"**Kampanjmaterial och Nyhetsbrev**\") **med alla tillgängliga medel**, inklusive e-post, text- och SMS-meddelanden, fax, post, automatiserade ringtjänster eller på annat sätt, allt enligt **Företagets eget gottfinnande**, från tid till annan, och att **ta emot** sådana Kampanjmaterial och Nyhetsbrev.",
+  "section_3_third_party_ads": "Användaren erkänner vidare att Kampanjmaterial och Nyhetsbrev kan inkludera **tredjepartsreklam**, och han **samtycker uttryckligen** till att ta emot sådan reklam som en del av Kampanjmaterial och Nyhetsbrev.",
+  "section_3_unsubscribe": "Användaren kan **kontakta** Företaget när som helst genom att skicka en begäran via e-post, där Företaget informeras om hans/hennes vägran att fortsätta ta emot Kampanjmaterial och Nyhetsbrev.",
+  "section_4_title": "4. Immateriella Rättigheter",
+  "section_4_ownership": "Företaget äger alla världsomspännande rättigheter, titlar och intressen i: (a) Webbplatsen och Tjänsterna, förbättringar, härledda verk, felkorrigeringar eller förbättringar av Webbplatsen och Tjänsterna; och (b) Företagets handelsnamn, varumärken och logotyper och ska alltid förbli **Företagets exklusiva egendom**.",
+  "section_4_license_meaning": "Alla hänvisningar i dessa Villkor eller någon annan kommunikation till försäljning, återförsäljning eller köp av ovanstående betyder endast **rätten att använda Webbplatsen och Tjänsterna** i enlighet med dessa Villkor.",
+  "section_4_user_liability": "Användare är **ensamt ansvariga** för allt och allt innehåll, inklusive alla immateriella rättigheter däri, som tillhandahålls, delas eller på annat sätt görs tillgängligt av Användare med hjälp av Webbplatsen och/eller Tjänsterna, och Företaget **lämnar inga utfästelser** angående något sådant innehåll. Företaget **ska inte vara ansvarigt** för någon förlust eller skada som uppstår på grund av sådant innehåll, och Användare samtycker till att **hålla skadeslöst** och **befria** Företaget från all skada eller förlust som härrör från ovanstående.",
+  "section_5_title": "5. Integritet",
+  "section_5_no_save": "Du förbinder dig att **inte lagra, samla in eller på annat sätt behålla** i din besittning och inte använda **något innehåll** som tillhandahålls av Tjänsterna och Webbplatsen **utan föregående skriftligt medgivande** från Företaget.",
+  "section_5_company_rights": "Du erkänner vidare att Företaget förbehåller sig rätten att, efter eget gottfinnande, **lagra, samla in eller på annat sätt behålla** i sin besittning och använda **allt innehåll och offentlig information**, inklusive information som kan **personligen identifiera dig** eller någon annan Användare eller Tredje part eller beskriva dina personliga intressen.",
+  "section_5_privacy_policy": "Företaget förbehåller sig rätten att utföra **alla tillåtna användningar** enligt tillämplig lag av sådant innehåll och offentlig information, såsom specificeras i **Företagets Integritetspolicy**.",
+  "section_5_no_verification": "Utan att det påverkar bestämmelserna i Avsnitt 1 ovan, **granskar, testar, validerar, godkänner eller verifierar Företaget inte** något sådant innehåll eller offentlig information.",
+  "section_5_user_responsibility": "Varje Användare som publicerar, laddar upp, delar eller på annat sätt tillgängliggör sådant innehåll eller offentlig information ska vara **ensam ansvarig** för innehållet eller den offentliga informationen, inklusive all tredje parts information och de **nödvändiga samtyckena**.",
+  "section_5_indemnification": "Företaget **ska inte vara ansvarigt** för någon förlust eller skada som uppstår på grund av underlåtenhet att följa ovanstående, och du samtycker till att **hålla skadeslöst** och **befria** Företaget från all skada eller förlust som härrör från ovanstående.",
+  "section_5_not_storage": "UTAN HÄNSYN TILL OVANSTÅENDE FÖRSTÅR OCH ERKÄNNER DU ATT FÖRETAGET **INTE ÄR EN LAGRINGSTJÄNST FÖR INNEHÅLL**. FÖRETAGET **SKA INTE HA NÅGOT ANSVAR** FÖR NÅGOT **FÖRLORAT ELLER RADERAT INNEHÅLL** ELLER OFFENTLIG INFORMATION.",
+  "section_5_public_warning": "DU MÅSTE VARA MEDVETEN OM ATT **ALLT INNEHÅLL** som publiceras, laddas upp, delas eller på annat sätt görs tillgängligt **KAN LÄSAS, SAMLAS IN OCH ANVÄNDAS AV ANDRA ANVÄNDARE** OCH KAN ANVÄNDAS FÖR ATT SKICKA **OÖNSKAT INNEHÅLL**.",
+  "section_6_title": "6. Länkar",
+  "section_6_description": "Webbplatsen eller Tjänsterna kan innehålla länkar eller annat innehåll relaterat till webbplatser, annonsörer, utgivare eller Produkter som erbjuds av tredje parter. Företaget **har ingen kontroll** och **lämnar inga utfästelser** angående dem eller någon information som lämnats eller överförts via dem, eller på annat sätt tillhandahållits av någon sådan tredje part.",
+  "section_6_risk": "DU FÖRSTÅR OCH GODKÄNNER ATT ANVÄNDNINGEN AV SÅDANA LÄNKAR ELLER ANNAT INNEHÅLL ÄR PÅ DIN **EGEN RISK**, ATT SÅDANA LÄNKAR ELLER ANNAT INNEHÅLL STYRS AV **ANVÄNDARVILLKOREN OCH INTEGRITETSPOLICYERNA FÖR DESSA TREDJE PARTER**, OCH ATT FÖRETAGET **INTE ÄR ANSVARIGT** FÖR INTEGRITETEN, AFFÄRSPRAXIS ELLER ANDRA POLICYER HOS DESSA TREDJE PARTER.",
+  "section_6_review_advice": "Du bör **noggrant granska** de tillämpliga villkoren och policyerna som gäller för någon sådan Tredje part.",
+  "section_6_full_disclaimer": "FÖRETAGET **ÄR INTE ANSVARIGT** PÅ NÅGOT SÄTT FÖR NÅGON SÅDAN **TREDJE PART** ELLER FÖR NÅGON **FÖRLUST ELLER SKADA** AV NÅGOT SLAG SOM UPPSTÅR SOM ETT RESULTAT, OCH FÖRETAGET **FRÅNSÄGER SIG UTTRYCKLIGEN** ALLT OCH ALLT ANSVAR, OCH DU **BEFRIAR UTTRYCKLIGEN** FÖRETAGET FRÅN ALLA TVISTER, ANSそれでÄK, STÄMNINGAR, SKADOR, FÖRLUSTER, SKADOR OCH/ELLER OLYCKOR SOM HÄRRÖR FRÅN OCH/ELLER PÅ NÅGOT SÄTT ÄR **RELATERADE TILL SÅDANA TREDJE PARTER**, INKLUSIVE, UTAN BEGRÄNSNING, ANGÅENDE TILLGÄNGLIGHET, ANVÄNDARVILLKOR, INTEGRITET, INFORMATION, INNEHÅLL, MATERIAL, ANNONSERING, AVGIFTER, PRODUKTER OCH/ELLER TJÄNSTER.",
+  "section_7_title": "7. Förbjudna Användningar",
+  "section_7_commercial": "Webbplatsen och Tjänsterna **får inte användas** i samband med **några kommersiella företag** (förutom om det uttryckligen godkänts av Företaget i samband med att Användare kopplas till någon Tredje part) **utan Företagets föregående skriftliga medgivande**.",
+  "section_7_recruitment": "Webbplatsen och Tjänsterna **får inte användas** av någon person eller enhet för **rekrytering** till en annan webbplats, **värvning, annonsering eller kontakt** med Användare i någon form för **anställning, kontraktering eller något annat syfte** för en verksamhet som **inte är relaterad** till Företaget **utan Företagets föregående skriftliga medgivande**.",
+  "section_7_user_contact": "Du samtycker till att **inte använda** Tjänsterna och Webbplatsen för att **kontakta, annonsera för, värva eller sälja** till någon annan Användare **utan dennes uttryckliga samtycke**, förutom om det tillåts på annat sätt i dessa Villkor.",
+  "section_8_title": "8. Support",
+  "section_8_text": "Användare kan **kontakta** Företaget angående support för Webbplatsen och Tjänsterna, genom att **skicka ett e-postmeddelande** till",
+  "section_9_title": "9. Garantifriskrivning",
+  "section_9_security": "Företaget gör **rimliga ansträngningar** för att dess teknik ska hålla Webbplatsen och Tjänsterna säkra. **Ingen teknik är dock 100% säker**. Därför, även om vi strävar efter att använda kommersiellt acceptabla medel för att skydda din personliga information, **kan vi inte garantera dess absoluta säkerhet**.",
+  "section_9_as_is": "Förutom vad som uttryckligen anges häri, sker din användning av Webbplatsen och Tjänsterna på din **ensamma risk och diskretion**. Webbplatsen och Tjänsterna tillhandahålls på en \"**I BEFINTLIGT SKICK**\" och \"**I MÅN AV TILLGÅNG**\" **utan garantier** av något slag.",
+  "section_9_no_warranties": "Företaget **frånsäger sig uttryckligen alla underförstådda eller lagstadgade garantier** av något slag med avseende på Webbplatsen och Tjänsterna, inklusive, utan begränsning, garantier för äganderätt, säljbarhet, lämplighet för ett visst ändamål, icke-intrång, handelskurs eller prestandakurs.",
+  "section_9_no_advice": "Företaget **ger ingen rådgivning** om risken eller lämpligheten av någon transaktion, operation eller engagemang. Företaget **tar inget ansvar** för någon transaktion eller engagemang som du gör, och du erkänner att du är **ensam ansvarig** för att bedöma dina transaktioner och engagemang.",
+  "section_9_no_liability_advice": "Du **ska inte hålla Företaget**, dess tjänstemän, anställda eller dotterbolag **ansvarigt** för något val av transaktioner eller engagemang du gör.",
+  "section_9_no_created_warranty": "Inga råd eller information, vare sig muntlig eller skriftlig, som du får från Företaget eller dess tjänstemän, anställda eller dotterbolag **ska skapa någon garanti** som inte uttryckligen anges i dessa Villkor. Om du väljer att förlita dig på sådan information, gör du det **uteslutande på egen risk**.",
+  "section_9_jurisdiction_note": "Vissa stater eller jurisdiktioner **tillåter inte** uteslutning av vissa garantier. Följaktligen **kan vissa av ovanstående uteslutningar inte gälla** dig.",
+  "section_10_title": "10. Ansvarsbegränsning",
+  "section_10_no_guarantee": "Företaget **garanterar inte** värdet, kvaliteten, kompatibiliteten eller någon annan egenskap hos Tredje parter, Produkterna eller någon annan tillhandahållen, konsumerad eller på annat sätt tillgänglig information (i detta avsnitt nedan: \"**Egenskaper**\"). Varje Egenskap är under **ensamt ansvar** för respektive Tredje part eller Användaren som använder den, om tillämpligt, eller använder Tjänsterna eller Webbplatsen.",
+  "section_10_monitoring": "Företaget **åtar sig inte** att övervaka sådan efterlevnad och kan vidta åtgärder när bristande efterlevnad upptäcks, enligt vad som beslutas i enlighet med dess **eget gottfinnande**, som beskrivs i dessa Villkor.",
+  "section_10_exposure": "Du förstår och godkänner att du kan utsättas för innehåll eller annan information som är **felaktig, stötande, olämplig** för barn eller på annat sätt **olämplig** för dig.",
+  "section_10_technical": "Företaget **är inte ansvarigt** för något problem eller **tekniskt fel** i något telefonnät eller linjer, online datorsystem, servrar eller leverantörer, datorutrustning, programvara, misslyckande med någon e-post på grund av tekniska problem eller trafikstockning på internet eller på någon av Webbplatserna eller Tjänsterna eller någon kombination därav, inklusive någon skada eller **skada på Användare** eller på någon persons dator, mobiltelefon eller annan enhet, relaterad till eller som härrör från deltagande eller nedladdning av material i samband med Webbplatsen eller Tjänsterna.",
+  "section_10_conduct": "I **inget fall** **ska Företaget vara ansvarigt** för **tredje parters beteende**, inklusive någon Användare, online eller offline, och operatörer av externa webbplatser.",
+  "section_10_no_indirect": "I **inget fall** ska Företaget eller någon av dess tjänstemän, direktörer, anställda eller agenter **vara ansvariga gentemot dig** för **indirekta, tillfälliga, speciella, straffande eller följdskador**, som härrör från eller i samband med din användning av Webbplatsen eller Tjänsterna, **oavsett om skadan är förutsebar** och **oavsett om Företaget har informerats** om möjligheten till sådana skador.",
+  "section_10_full_extent": "Ovanstående ansvarsbegränsning ska tillämpas i **största utsträckning som lagen tillåter** i den tillämpliga jurisdiktionen.",
+  "section_11_title": "11. Skadeslöshet",
+  "section_11_text": "Du ska **försvara, hålla skadeslöst och befria** Företaget från och mot alla **åtgärder, förfaranden, påståenden, skador, kostnader, skulder eller utgifter** (inklusive rättegångskostnader och rimliga advokatarvoden) som Företaget kan **ådra sig eller vara inblandat** i i samband med någon faktisk eller påstådd tredje parts anspråk, krav, stämning eller annat förfarande som härrör från eller relaterar till **något brott mot dessa Villkor** av dig eller **någon användning** av Webbplatsen eller Tjänsterna av dig **som inte är i enlighet med tillämplig lag**.",
+  "section_12_title": "12. Övrigt",
+  "section_12_governing_law": "Dessa Villkor ska regleras i enlighet med **lagarna i England**, med undantag för dess lagvalsregler och utan hänsyn till FN:s konvention om avtal om internationell köplag. Ditt uppförande kan också vara föremål för andra lokala, statliga och nationella lagar.",
+  "section_12_jurisdiction": "Alla **tvister** som uppstår ur dessa Villkor eller relaterade till Webbplatsen eller Tjänsten ska slutgiltigt avgöras av de **kompetenta domstolarna i England**.",
+  "section_12_no_class_action": "Du **får inte väcka några grupptalan** mot Företaget, och genom att använda Webbplatsen eller Tjänsterna samtycker du till att **avsäga dig dina rättigheter** att väcka någon sådan grupptalan.",
+  "section_12_limitation_period": "Alla **orsaker till talan** mot Företaget måste väckas **inom ett (1) år** från det datum då en sådan orsak till talan uppstod.",
+  "section_12_severability": "I händelse av att någon bestämmelse i dessa Villkor anses vara **ogenomförbar**, ska en sådan bestämmelse **ersättas med en verkställbar bestämmelse** som bäst uppnår effekten av den ursprungliga bestämmelsen, och de återstående villkoren i dessa Villkor ska förbli i **full kraft och verkan**.",
+  "section_12_no_agency": "Ingenting som finns i dessa Villkor **ska skapa något agentförhållande, anställning, samriskföretag eller partnerskap** mellan dig och Företaget eller ge dig befogenhet att agera på uppdrag av Företaget.",
+  "section_12_entire_agreement": "Förutom vad som uttryckligen anges i dessa Villkor, utgör dessa Villkor **hela avtalet** mellan Företaget och dig angående ämnet däri.",
+  "section_12_notices": "Alla **meddelanden** som vi kan vara skyldiga att ge dig, antingen enligt lag eller enligt dessa Villkor, kan ges av Företaget till **någon kontaktinformation** som du har angett i din kontoinformation eller på annat sätt, direkt eller indirekt, inklusive **e-post**. Du samtycker uttryckligen till att ta emot sådana meddelanden och aviseringar på det sättet.",
+  "section_12_no_assignment": "Du **får inte överlåta** några rättigheter enligt detta dokument **utan vårt föregående skriftliga medgivande**.",
+  "section_12_no_limitation": "Ingenting som finns i dessa Villkor **ska tolkas som begränsande av de åtgärder eller rättsmedel** som är tillgängliga för Företaget i samband med någon förbjuden aktivitet eller beteende.",
+  "section_12_no_waiver": "**Underlåtenhet att verkställa** något villkor i dessa Villkor **ska inte utgöra ett samtycke eller avstående**, och Företaget förbehåller sig rätten att verkställa ett sådant villkor efter **eget gottfinnande**. Ett avstående från något brott eller misslyckande häri ska inte betraktas som ett avstående från något föregående eller efterföljande brott eller misslyckande.",
+  "section_12_viewer_responsibility": "Det är **tittarens ensamma ansvar** att utvärdera noggrannheten, fullständigheten eller användbarheten av all information, åsikter, råd eller annat innehåll på Webbplatsen."
+
 }
