@@ -7,6 +7,8 @@ const router = useRouter()
 const { locale, setLocale, t } = useI18n({ useScope: 'global' })
 const localePath = useLocalePath()
 
+const currentLang = ref(locale.value);
+
 const languages = [
   { code: 'ar', label: '🇸🇦 عربي' },
   { code: 'bg', label: '🇧🇬 Български' },
@@ -77,7 +79,7 @@ const changeLang = async (code) => {
         </ul>
 
         <div class="lang-switcher lang-switcher--desktop">
-          <select class="lang-select" :value="locale" @change="changeLang($event.target.value)">
+          <select class="lang-select" v-model="currentLang" @change="changeLang(currentLang)">
             <option v-for="lang in languages" :key="lang.code" :value="lang.code">{{ lang.label }}</option>
           </select>
         </div>
@@ -97,7 +99,7 @@ const changeLang = async (code) => {
             </ul>
 
             <div class="lang-switcher lang-switcher--mobile">
-              <select class="lang-select" :value="locale" @change="changeLang($event.target.value)">
+              <select class="lang-select" v-model="currentLang" @change="changeLang(currentLang)">
                 <option v-for="lang in languages" :key="lang.code" :value="lang.code">{{ lang.label }}</option>
               </select>
             </div>
